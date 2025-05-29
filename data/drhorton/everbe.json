@@ -1,0 +1,1910 @@
+{
+  "timestamp": "2025-04-10T12:36:22.994195",
+  "name": "EverBe",
+  "status": null,
+  "price_from": "$489,502",
+  "address": "6571 Eastwood Cross Drive, Orlando, FL 32829",
+  "phone": "1-888-216-1988",
+  "description": "EverBe is a master-planned community of new single-family homes and townhomes with excellent onsite amenities now selling in sunny Orlando, FL.",
+  "images": [
+    "https://cdn-stg.lennar.net/api/images/contentassets/31215ed4c0564059be58aa7af3a51f98/olh_everbe_pic_streetscape_1_17_25.jpg?d=20250220T064301"
+  ],
+  "location": {
+    "latitude": 28.477104,
+    "longitude": -81.247223,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$422,990 - $536,482",
+    "sqft_range": "1,611 - 2,071 sq. ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2.5 - 3",
+    "stories_range": "2",
+    "community_count": 2
+  },
+  "amenities": [
+    {
+      "name": "Swimming Pool",
+      "description": "Start off the day with a morning lap or splash around with friends on hot days ",
+      "icon_url": "https://cdn-stg.lennar.net/api/images/contentassets/996781ded9db4852812b706ec6ff36ad/pool.svg?d=20250219T221555"
+    },
+    {
+      "name": "Community Center",
+      "description": "Gather and socialize with neighbors at the future community center ",
+      "icon_url": "https://cdn-stg.lennar.net/api/images/contentassets/14507b1ab6d145f8bb4d0bd7d47b1025/community-center.svg?d=20250219T221558"
+    },
+    {
+      "name": "Fitness Center",
+      "description": "The upcoming fitness center is equipped with high-end equipment and overlooks the swimming pool  ",
+      "icon_url": "https://cdn-stg.lennar.net/api/images/contentassets/e5b8d85cdef6414ba4a890335901cb7e/fitness-center.svg?d=20250219T221558"
+    },
+    {
+      "name": "Park",
+      "description": "EverBe’s onsite parks are equipped with shaded picnic tables, playgrounds and other family-friendly features ",
+      "icon_url": "https://cdn-stg.lennar.net/api/images/contentassets/21739c27ab0847c28b675f2df27c47d9/park.svg?d=20250219T221601"
+    },
+    {
+      "name": "Playground",
+      "description": "Situated along a scenic pond, this colorful playground features swings, slides and climbing courses to offer tons of outdoor fun",
+      "icon_url": "https://cdn-stg.lennar.net/api/images/contentassets/d857faab6e444d59af1560091455c081/playground.svg?d=20250219T221610"
+    },
+    {
+      "name": "Trail",
+      "description": "Winding trails in the community provide the perfect afternoon walk, jog or bike ride",
+      "icon_url": "https://cdn-stg.lennar.net/api/images/contentassets/9aa7158fd0c24c799406e61ab67ca81e/trails.svg?d=20250219T221619"
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Westwood",
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/westwood",
+      "details": {
+        "price": "From $487,002",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": "1 half ba",
+        "sqft": "1,647 ft²",
+        "status": "Actively selling",
+        "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/46039600535a4d1c9d49f8741de211e1/copy-of-olh_1647_cottagecollection_wellnessridge_rend_westwood_a_11_15_23.jpg"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "2",
+          "description": "Taexx® built-in pest control system"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Programmable thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/46039600535a4d1c9d49f8741de211e1/olh_1647_fp_westwood_firstfloor_ow_11_15_23.svg?d=20250220T173013"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/46039600535a4d1c9d49f8741de211e1/olh_1647_fp_westwood_secondfloor_ow_11_15_23.svg?d=20250220T173007"
+        }
+      ]
+    },
+    {
+      "name": "Autumn",
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/autumn",
+      "details": {
+        "price": "From $499,122",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": "1 half ba",
+        "sqft": "1,795 ft²",
+        "status": "Actively selling",
+        "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/7dbd4fe150d54344a8df3013971f1f9e/olh_6301_cottagecollection_wellnessridge_rend_autumn_b3m_05_14_24.jpg"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "2",
+          "description": "Taexx® built-in pest control system"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Programmable thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/7dbd4fe150d54344a8df3013971f1f9e/olh_6301_fp_autumn_firstfloor_ow_v02_04_10_24.svg?d=20250220T172955"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/7dbd4fe150d54344a8df3013971f1f9e/olh_6301_fp_autumn_secondfloor_ow_v02_04_10_24.svg?d=20250220T172944"
+        },
+        {
+          "name": "Detached Garage Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/7dbd4fe150d54344a8df3013971f1f9e/olh_6301_fp_autumn_garage_ow_04_10_24.svg?d=20250220T172954"
+        }
+      ]
+    },
+    {
+      "name": "Sonora",
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/sonora",
+      "details": {
+        "price": "From $487,759",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": "1 half ba",
+        "sqft": "1,821 ft²",
+        "status": "Actively selling",
+        "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/2b2659463db347e39a18e8ad7cf8fd79/olh_1821_cottagealley_everbe_rend_sonora_a_05_15_24.jpg"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "2",
+          "description": "Taexx® built-in pest control system"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Programmable thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/765df3c5628b45378aa7417cd65a203b/olh_1821_fp_sonora_firstfloor_ow_v02_01_31_25.svg?d=20250220T025336"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/765df3c5628b45378aa7417cd65a203b/olh_1821_fp_sonora_secondfloor_ow_v02_01_31_25.svg?d=20250220T025338"
+        }
+      ]
+    },
+    {
+      "name": "Palisade",
+      "url": "/new-homes/florida/orlando/orlando/everbe/venture-townhomes/palisade",
+      "details": {
+        "price": "From $422,990",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": "1 half ba",
+        "sqft": "1,611 ft²",
+        "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/686da1e1fc934a3ba42184b91aa255db/copy-of-olh_ventureth_everbe_rend_20ftalleyloadedcraftsman_6unit_a_11_01_24.jpg"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Wi-Fi thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/5029644e59cd47e596f8e4e808e9a49c/olh_1611_fp_palisade_firstfloor_ow_11_01_24.svg?d=20250220T025222"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/5029644e59cd47e596f8e4e808e9a49c/olh_1611_fp_palisade_secondfloor_ow_11_01_24.svg?d=20250220T025223"
+        }
+      ]
+    },
+    {
+      "name": "Brookside",
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/brookside",
+      "details": {
+        "price": "From $483,972",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": "1 half ba",
+        "sqft": "1,782 ft²",
+        "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/6c1d39fe41df4c3994adf1edb72db0a2/copy-of-olh_1782_cottagecollection_wellnessridge_rend_brookside_a_11_15_23.jpg"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "2",
+          "description": "Taexx® built-in pest control system"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Programmable thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/6c1d39fe41df4c3994adf1edb72db0a2/olh_1782_fp_brookside_firstfloor_ow_11_15_23.svg?d=20250220T172959"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/6c1d39fe41df4c3994adf1edb72db0a2/olh_1782_fp_brookside_secondfloor_ow_11_15_23.svg?d=20250220T172956"
+        }
+      ]
+    },
+    {
+      "name": "Telluride",
+      "url": "/new-homes/florida/orlando/orlando/everbe/venture-townhomes/telluride",
+      "details": {
+        "price": "From $452,990",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "sqft": "1,807 ft²",
+        "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Wi-Fi thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/7b80f7afa80f4f299a600cbcf49c82b0/olh_1807_fp_telluride_firstfloor_ow_11_01_24.svg?d=20250220T025356"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/7b80f7afa80f4f299a600cbcf49c82b0/olh_1807_fp_telluride_secondfloor_ow_11_01_24.svg?d=20250220T025359"
+        }
+      ]
+    },
+    {
+      "name": "Tahoe",
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/tahoe",
+      "details": {
+        "price": "From $536,482",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": "1 half ba",
+        "sqft": "2,071 ft²",
+        "image_url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      },
+      "includedFeatures": [
+        {
+          "section_index": "0",
+          "description": "Stainless steel free-standing electric range"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel over-the-range microwave oven"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel multicycle dishwasher"
+        },
+        {
+          "section_index": "0",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "0",
+          "description": "Stainless steel undermount sink"
+        },
+        {
+          "section_index": "0",
+          "description": "Designer-selected shaker style cabinetry"
+        },
+        {
+          "section_index": "0",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "1",
+          "description": "Quartz countertops"
+        },
+        {
+          "section_index": "1",
+          "description": "Designer-selected cabinetry"
+        },
+        {
+          "section_index": "1",
+          "description": "Ceramic tile flooring in bathroom"
+        },
+        {
+          "section_index": "1",
+          "description": "Elongated toilets"
+        },
+        {
+          "section_index": "2",
+          "description": "Sherwin-Williams® low-VOC paint"
+        },
+        {
+          "section_index": "2",
+          "description": "2\" faux window blinds"
+        },
+        {
+          "section_index": "2",
+          "description": "Rectangular two-panel interior doors"
+        },
+        {
+          "section_index": "2",
+          "description": "Plush wall-to-wall carpeting in all bedrooms"
+        },
+        {
+          "section_index": "2",
+          "description": "Ceramic tile flooring at entry and wet areas"
+        },
+        {
+          "section_index": "2",
+          "description": "Taexx® built-in pest control system"
+        },
+        {
+          "section_index": "3",
+          "description": "Sod and irrigation"
+        },
+        {
+          "section_index": "3",
+          "description": "Automatic garage door opener"
+        },
+        {
+          "section_index": "3",
+          "description": "Designer-coordinated exterior color and roof combinations"
+        },
+        {
+          "section_index": "4",
+          "description": "Efficient electric heat pump"
+        },
+        {
+          "section_index": "4",
+          "description": "Programmable thermostats"
+        },
+        {
+          "section_index": "4",
+          "description": "LED lighting"
+        },
+        {
+          "section_index": "4",
+          "description": "Low-E windows"
+        },
+        {
+          "section_index": "5",
+          "description": "myLennar (online assistant to help through the homebuying process)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Mortgage (financial services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Title (title services)"
+        },
+        {
+          "section_index": "5",
+          "description": "Lennar Insurance Agency (home insurance)"
+        },
+        {
+          "section_index": "5",
+          "description": "Limited one-year warranty on workmanship"
+        }
+      ],
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/1ae74db5170e40d7bb43b90e30d2e0fa/olh_2071_fp_tahoe_firstfloor_ow_05_14_24.svg?d=20250220T173006"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://cdn-stg.lennar.net/api/images/contentassets/1ae74db5170e40d7bb43b90e30d2e0fa/olh_2071_fp_tahoe_secondfloor_ow_05_14_24.svg?d=20250220T173002"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "name": null,
+      "plan": "Westwood",
+      "id": "11146720777",
+      "address": "7139 SIENNA OAK ALLEY",
+      "price": "$489,502",
+      "beds": "3",
+      "baths": 2.5,
+      "sqft": "1,647",
+      "status": null,
+      "image_url": null,
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/westwood/11146720777",
+      "latitude": 28.477104,
+      "longitude": -81.247223,
+      "overview": "The Great Room and kitchen share a convenient open floorplan on the first floor of this two-story home, with sliding glass doors that lead to the lanai. All three bedrooms occupy the second level, including the  owner’s suite which is comprised of a restful bedroom, en-suite bathroom and walk-in closet. ",
+      "images": [
+        "https://cdn-stg.lennar.net/api/images/contentassets/46039600535a4d1c9d49f8741de211e1/copy-of-olh_1647_cottagecollection_wellnessridge_rend_westwood_a_11_15_23.jpg?d=20250220T173009",
+        "https://cdn-stg.lennar.net/api/images/contentassets/2855498053094fe6a36cfed33c27be60/olh_1647_rend_westwood_greatroom_1of2_f1.jpg?d=20250223T072211&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/2855498053094fe6a36cfed33c27be60/olh_1647_rend_westwood_greatroom_2of2_f1.jpg?d=20250223T072210&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/f855596256e34e1e82f341bb4c5f768b/olh_1647_rend_westwood_bedroom2_1of2_f2.jpg?d=20250223T072223&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/f855596256e34e1e82f341bb4c5f768b/olh_1647_rend_westwood_bedroom2_2of2_f2.jpg?d=20250223T072222&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/a8710ef2b23644c6a05f011a862da31c/olh_1647_rend_westwood_bedroom3_1of2_f2.jpg?d=20250223T072225&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/a8710ef2b23644c6a05f011a862da31c/olh_1647_rend_westwood_bedroom3_2of2_f2.jpg?d=20250223T072224&w=2100"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Sonora",
+      "id": "11146720779",
+      "address": "7157 SIENNA OAK ALLEY",
+      "price": "$497,329",
+      "beds": "3",
+      "baths": 2.5,
+      "sqft": "1,821",
+      "status": null,
+      "image_url": null,
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/sonora/11146720779",
+      "latitude": 28.477104,
+      "longitude": -81.247223,
+      "overview": "This comfortable two-story home features an open-concept design combining the Great Room, kitchen and dining room, with an attached lanai for seamless everyday living. Upstairs, a cozy loft area is surrounded by two secondary bedrooms and an expansive owner’s suite, complete with an en-suite bathroom and oversized closet. ",
+      "images": [
+        "https://cdn-stg.lennar.net/api/images/contentassets/2b2659463db347e39a18e8ad7cf8fd79/olh_1821_cottagealley_everbe_rend_sonora_b_05_15_24.jpg?d=20250220T173000"
+      ]
+    },
+    {
+      "name": null,
+      "plan": "Autumn",
+      "id": "11146720778",
+      "address": "7151 SIENNA OAK ALLEY",
+      "price": "$505,914",
+      "beds": "3",
+      "baths": 2.5,
+      "sqft": "1,795",
+      "status": null,
+      "image_url": null,
+      "url": "/new-homes/florida/orlando/orlando/everbe/cottage-alley-collection/autumn/11146720778",
+      "latitude": 28.477104,
+      "longitude": -81.247223,
+      "overview": "This new two-story home showcases a pleasing, contemporary design. The first floor features a large entry and an open floorplan among the modern kitchen, tranquil dining room and inviting family room. The laundry room is located by the kitchen, and a lanai is tucked beside the family room. Upstairs, three bedrooms including a lavish owner’s suite provide restful retreats for family members and guests.",
+      "images": [
+        "https://cdn-stg.lennar.net/api/images/contentassets/7dbd4fe150d54344a8df3013971f1f9e/olh_6301_cottagecollection_wellnessridge_rend_autumn_h3m_05_14_24.jpg?d=20250220T172953",
+        "https://cdn-stg.lennar.net/api/images/contentassets/87eef40cc6b54f489130217a92347317/olh_bridgewalk_manors_autumn_livingroom_fl1_hero.png?d=20250223T071636&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/662f106b26e94e18b0cb86126b23773e/olh_bridgewalk_manors_autumn_bedroom2_fl2.png?d=20250223T071707&w=2100",
+        "https://cdn-stg.lennar.net/api/images/contentassets/eb020bd09c2a4899b45a45bb64878f64/olh_bridgewalk_manors_autumn_bathroom2_fl2.png?d=20250223T071721&w=2100"
+      ]
+    }
+  ],
+  "nearbyplaces": [
+    {
+      "name": "Publix Super Market at Vista Lakes Center",
+      "category": "Food & Dining",
+      "distance": "1.2 mi",
+      "rating": 4.6,
+      "reviews": null
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "category": "Food & Dining",
+      "distance": "1.3 mi",
+      "rating": 4.4,
+      "reviews": 362
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 430
+    },
+    {
+      "name": "Wawa",
+      "category": "Food & Dining",
+      "distance": "0.1 mi",
+      "rating": 4.4,
+      "reviews": 289
+    },
+    {
+      "name": "Starbucks",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.9,
+      "reviews": 39
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 430
+    },
+    {
+      "name": "Zaxbys Chicken Fingers & Buffalo Wings",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.0,
+      "reviews": null
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "category": "Food & Dining",
+      "distance": "1.1 mi",
+      "rating": 3.7,
+      "reviews": 587
+    },
+    {
+      "name": "Pizza Hut",
+      "category": "Food & Dining",
+      "distance": "1.8 mi",
+      "rating": 3.7,
+      "reviews": 482
+    },
+    {
+      "name": "Zaxbys Chicken Fingers & Buffalo Wings",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.0,
+      "reviews": null
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 430
+    },
+    {
+      "name": "Pollo Campero",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 167
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "category": "Food & Dining",
+      "distance": "1.1 mi",
+      "rating": 3.7,
+      "reviews": 587
+    },
+    {
+      "name": "Arby's",
+      "category": "Food & Dining",
+      "distance": "1.8 mi",
+      "rating": 4.0,
+      "reviews": 741
+    },
+    {
+      "name": "Pizza Hut",
+      "category": "Food & Dining",
+      "distance": "1.8 mi",
+      "rating": 3.7,
+      "reviews": 482
+    },
+    {
+      "name": "El Perrero Narcoosee. || Hot dogs. || Perros calientes.",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.9,
+      "reviews": 82
+    },
+    {
+      "name": "Subway",
+      "category": "Food & Dining",
+      "distance": "1.3 mi",
+      "rating": 3.7,
+      "reviews": 117
+    },
+    {
+      "name": "Wawa",
+      "category": "Food & Dining",
+      "distance": "0.1 mi",
+      "rating": 4.4,
+      "reviews": 289
+    },
+    {
+      "name": "McDonald's",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.9,
+      "reviews": null
+    },
+    {
+      "name": "Zaxbys Chicken Fingers & Buffalo Wings",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.0,
+      "reviews": null
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "category": "Food & Dining",
+      "distance": "1.3 mi",
+      "rating": 4.4,
+      "reviews": 362
+    },
+    {
+      "name": "El Molcajete Mexican Restaurant - Vista Lakes",
+      "category": "Food & Dining",
+      "distance": "1.3 mi",
+      "rating": 4.6,
+      "reviews": 465
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 2.8,
+      "reviews": 174
+    },
+    {
+      "name": "Tokyo Steak House & Sushi Bar",
+      "category": "Food & Dining",
+      "distance": "1.3 mi",
+      "rating": 4.6,
+      "reviews": 853
+    },
+    {
+      "name": "Starbucks",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.9,
+      "reviews": 39
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 430
+    },
+    {
+      "name": "Junior Colombian Burger - Lee Vista Boulevard",
+      "category": "Food & Dining",
+      "distance": "1.7 mi",
+      "rating": 4.4,
+      "reviews": 796
+    },
+    {
+      "name": "Pollo Campero",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 167
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "category": "Food & Dining",
+      "distance": "1.1 mi",
+      "rating": 3.7,
+      "reviews": 587
+    },
+    {
+      "name": "Arby's",
+      "category": "Food & Dining",
+      "distance": "1.8 mi",
+      "rating": 4.0,
+      "reviews": 741
+    },
+    {
+      "name": "Pizza Hut",
+      "category": "Food & Dining",
+      "distance": "1.8 mi",
+      "rating": 3.7,
+      "reviews": 482
+    },
+    {
+      "name": "787 Mofongo",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.6,
+      "reviews": 635
+    },
+    {
+      "name": "LaChina",
+      "category": "Food & Dining",
+      "distance": "1.3 mi",
+      "rating": 4.2,
+      "reviews": 234
+    },
+    {
+      "name": "McDonald’s",
+      "category": "Food & Dining",
+      "distance": "0.1 mi",
+      "rating": 2.8,
+      "reviews": 29
+    },
+    {
+      "name": "AUTANA AREPAS GRILL",
+      "category": "Food & Dining",
+      "distance": "0.1 mi",
+      "rating": 4.8,
+      "reviews": 468
+    },
+    {
+      "name": "Tacos My Guey - Food Truck",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.8,
+      "reviews": 138
+    },
+    {
+      "name": "El Perrero Narcoosee. || Hot dogs. || Perros calientes.",
+      "category": "Food & Dining",
+      "distance": "1.9 mi",
+      "rating": 4.9,
+      "reviews": 82
+    },
+    {
+      "name": "Young Pine Community Park",
+      "category": "Recreation",
+      "distance": "1.4 mi",
+      "rating": 4.7,
+      "reviews": 532
+    },
+    {
+      "name": "South Econ Community Park",
+      "category": "Recreation",
+      "distance": "1.5 mi",
+      "rating": 4.6,
+      "reviews": 887
+    },
+    {
+      "name": "Burlington",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.3,
+      "reviews": 299
+    },
+    {
+      "name": "CVS",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 2.7,
+      "reviews": 109
+    },
+    {
+      "name": "Walgreens",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 3.0,
+      "reviews": 63
+    },
+    {
+      "name": "SEPHORA at Kohl's",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.1,
+      "reviews": 20
+    },
+    {
+      "name": "Grafiformas Print Shop Llc.",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.8,
+      "reviews": 99
+    },
+    {
+      "name": "Stroller To Go",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 5.0,
+      "reviews": 157
+    },
+    {
+      "name": "G Fam Customz",
+      "category": "Shopping",
+      "distance": "1.3 mi",
+      "rating": 5.0,
+      "reviews": 4
+    },
+    {
+      "name": "Kohl's",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.4,
+      "reviews": null
+    },
+    {
+      "name": "Burlington",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.3,
+      "reviews": 299
+    },
+    {
+      "name": "Staples",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.0,
+      "reviews": 230
+    },
+    {
+      "name": "Verizon",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.6,
+      "reviews": 561
+    },
+    {
+      "name": "MARS AUDIO",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.7,
+      "reviews": 106
+    },
+    {
+      "name": "Revolution Audio Video",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.7,
+      "reviews": 50
+    },
+    {
+      "name": "CVS Photo",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.5,
+      "reviews": 2
+    },
+    {
+      "name": "Electronic Pros",
+      "category": "Shopping",
+      "distance": "1.6 mi",
+      "rating": 5.0,
+      "reviews": 162
+    },
+    {
+      "name": "Walgreens Photo",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.5,
+      "reviews": 8
+    },
+    {
+      "name": "Satellite City Inc",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.7,
+      "reviews": 12
+    },
+    {
+      "name": "The Home Depot",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.3,
+      "reviews": null
+    },
+    {
+      "name": "Staples",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.0,
+      "reviews": 230
+    },
+    {
+      "name": "Garden Center at The Home Depot",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.1,
+      "reviews": 16
+    },
+    {
+      "name": "MARANATHA FURNITURE",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.0,
+      "reviews": 124
+    },
+    {
+      "name": "All Floors of Orlando",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.6,
+      "reviews": 47
+    },
+    {
+      "name": "Mattress Kingdom",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.9,
+      "reviews": 78
+    },
+    {
+      "name": "The Home Depot",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.3,
+      "reviews": null
+    },
+    {
+      "name": "The Home Depot",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.3,
+      "reviews": null
+    },
+    {
+      "name": "Burlington",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.3,
+      "reviews": 299
+    },
+    {
+      "name": "Staples",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.0,
+      "reviews": 230
+    },
+    {
+      "name": "Garden Center at The Home Depot",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.1,
+      "reviews": 16
+    },
+    {
+      "name": "CDS Contractors Inc.",
+      "category": "Shopping",
+      "distance": "2.0 mi",
+      "rating": 4.6,
+      "reviews": 38
+    },
+    {
+      "name": "MARANATHA FURNITURE",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.0,
+      "reviews": 124
+    },
+    {
+      "name": "Interior Logic Group",
+      "category": "Shopping",
+      "distance": "1.0 mi",
+      "rating": 2.4,
+      "reviews": 10
+    },
+    {
+      "name": "All Floors of Orlando",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.6,
+      "reviews": 47
+    },
+    {
+      "name": "Orlando Candle & Lipstick & lip Gloss Experience/Lip gloss experience /Homemade Candles /Orlando FLORIDA , Mobile",
+      "category": "Shopping",
+      "distance": "1.3 mi",
+      "rating": 4.8,
+      "reviews": 21
+    },
+    {
+      "name": "Mattress Kingdom",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.9,
+      "reviews": 78
+    },
+    {
+      "name": "CVS Photo",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.5,
+      "reviews": 2
+    },
+    {
+      "name": "Sol Latino Market",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 5.0,
+      "reviews": 1
+    },
+    {
+      "name": "Electronic Pros",
+      "category": "Shopping",
+      "distance": "1.6 mi",
+      "rating": 5.0,
+      "reviews": 162
+    },
+    {
+      "name": "florida granite and marble design,llc",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 5.0,
+      "reviews": 29
+    },
+    {
+      "name": "Walgreens Photo",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.5,
+      "reviews": 8
+    },
+    {
+      "name": "Satellite City Inc",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.7,
+      "reviews": 12
+    },
+    {
+      "name": "Palm Cove Cabinetry & Renovations",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 5.0,
+      "reviews": 27
+    },
+    {
+      "name": "Pulcini Construction",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 5.0,
+      "reviews": 2
+    },
+    {
+      "name": "Pixel Paint Renovations",
+      "category": "Shopping",
+      "distance": "2.0 mi",
+      "rating": 4.9,
+      "reviews": 69
+    },
+    {
+      "name": "Burlington",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.3,
+      "reviews": 299
+    },
+    {
+      "name": "Vista Lakes Center",
+      "category": "Shopping",
+      "distance": "1.3 mi",
+      "rating": 4.7,
+      "reviews": 76
+    },
+    {
+      "name": "Vista Promenade Two Shopping Center",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.7,
+      "reviews": 3
+    },
+    {
+      "name": "The Home Depot",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.3,
+      "reviews": null
+    },
+    {
+      "name": "Kohl's",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.4,
+      "reviews": null
+    },
+    {
+      "name": "Publix Super Market at Vista Lakes Center",
+      "category": "Shopping",
+      "distance": "1.2 mi",
+      "rating": 4.6,
+      "reviews": null
+    },
+    {
+      "name": "Burlington",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.3,
+      "reviews": 299
+    },
+    {
+      "name": "Staples",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.0,
+      "reviews": 230
+    },
+    {
+      "name": "ALDI",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.5,
+      "reviews": null
+    },
+    {
+      "name": "Dollar Tree",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.3,
+      "reviews": 379
+    },
+    {
+      "name": "Wawa",
+      "category": "Shopping",
+      "distance": "0.1 mi",
+      "rating": 4.4,
+      "reviews": 289
+    },
+    {
+      "name": "CE (Carrier Enterprise)",
+      "category": "Shopping",
+      "distance": "0.6 mi",
+      "rating": 3.6,
+      "reviews": 124
+    },
+    {
+      "name": "Dairy Queen Grill & Chill",
+      "category": "Shopping",
+      "distance": "1.3 mi",
+      "rating": 4.4,
+      "reviews": 362
+    },
+    {
+      "name": "CVS",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 2.7,
+      "reviews": 109
+    },
+    {
+      "name": "The UPS Store",
+      "category": "Shopping",
+      "distance": "1.3 mi",
+      "rating": 3.5,
+      "reviews": 140
+    },
+    {
+      "name": "AutoZone Auto Parts",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.6,
+      "reviews": 305
+    },
+    {
+      "name": "Starbucks",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 3.9,
+      "reviews": 39
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 3.5,
+      "reviews": 430
+    },
+    {
+      "name": "Visionworks Vista Palms",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 4.8,
+      "reviews": 85
+    },
+    {
+      "name": "Walgreens",
+      "category": "Shopping",
+      "distance": "1.9 mi",
+      "rating": 3.0,
+      "reviews": 63
+    },
+    {
+      "name": "Sanctuary Cannabis Orlando Lee Vista Dispensary",
+      "category": "Shopping",
+      "distance": "1.8 mi",
+      "rating": 4.2,
+      "reviews": 58
+    },
+    {
+      "name": "Bacio Ice Cream Shop",
+      "category": "Shopping",
+      "distance": "1.1 mi",
+      "rating": 4.8,
+      "reviews": 338
+    },
+    {
+      "name": "SEPHORA at Kohl's",
+      "category": "Shopping",
+      "distance": "1.7 mi",
+      "rating": 4.1,
+      "reviews": 20
+    }
+  ],
+  "collections": [
+    {
+      "name": "Venture Townhomes",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Vista Lakes Elementary School",
+          "type_and_grades": "Public PK, K-5",
+          "district": "Orange County Public Schools",
+          "grade": "B+",
+          "ranking": "View on Niche.com",
+          "niche_link": "https://www.niche.com/k12/vista-lakes-elementary-school-orlando-fl/"
+        },
+        {
+          "name": "Odyssey Middle School",
+          "type_and_grades": "Public 6-8",
+          "district": "Orange County Public Schools",
+          "grade": "B",
+          "ranking": "View on Niche.com",
+          "niche_link": "https://www.niche.com/k12/odyssey-middle-school-orlando-fl/"
+        },
+        {
+          "name": "Colonial High School",
+          "type_and_grades": "Public 8-12",
+          "district": "Orange County Public Schools",
+          "grade": "B-",
+          "ranking": "View on Niche.com",
+          "niche_link": "https://www.niche.com/k12/colonial-high-school-orlando-fl/"
+        }
+      ]
+    },
+    {
+      "name": "Cottage Alley Collection",
+      "id": "1",
+      "isActive": false,
+      "nearbySchools": [
+        {
+          "name": "Vista Lakes Elementary School",
+          "type_and_grades": "Public PK, K-5",
+          "district": "Orange County Public Schools",
+          "grade": "B+",
+          "ranking": "View on Niche.com",
+          "niche_link": "https://www.niche.com/k12/vista-lakes-elementary-school-orlando-fl/"
+        },
+        {
+          "name": "Odyssey Middle School",
+          "type_and_grades": "Public 6-8",
+          "district": "Orange County Public Schools",
+          "grade": "B",
+          "ranking": "View on Niche.com",
+          "niche_link": "https://www.niche.com/k12/odyssey-middle-school-orlando-fl/"
+        },
+        {
+          "name": "Colonial High School",
+          "type_and_grades": "Public 8-12",
+          "district": "Orange County Public Schools",
+          "grade": "B-",
+          "ranking": "View on Niche.com",
+          "niche_link": "https://www.niche.com/k12/colonial-high-school-orlando-fl/"
+        }
+      ]
+    }
+  ]
+}
