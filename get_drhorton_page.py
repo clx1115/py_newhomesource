@@ -873,6 +873,15 @@ def extract_max_stories(soup):
 
 def fetch_page(url, output_dir):
     """获取页面内容并生成JSON"""
+    # 生成输出文件名
+    community_name = url.split('/')[-1].replace('.', '_')
+    output_file = os.path.join(output_dir, f'drhorton_{community_name}.json')
+    
+    # 检查文件是否已存在
+    if os.path.exists(output_file):
+        logger.info(f"JSON file already exists for {community_name}, skipping...")
+        return
+
     chrome_options = Options()
     chrome_options.add_argument('--headless')
     chrome_options.add_argument('--disable-gpu')
@@ -905,10 +914,6 @@ def fetch_page(url, output_dir):
         
         # 获取页面内容
         page_content = driver.page_source
-        
-        # 生成输出文件名
-        community_name = url.split('/')[-1].replace('.', '_')
-        output_file = os.path.join(output_dir, f'drhorton_{community_name}.json')
             
         # 提取社区信息
         soup = BeautifulSoup(page_content, 'html.parser')
