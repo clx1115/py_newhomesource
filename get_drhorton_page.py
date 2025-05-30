@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 import re
 import argparse
 import random
-
+global_url=""
 # 配置日志
 logging.basicConfig(
     level=logging.INFO,
@@ -759,6 +759,7 @@ def extract_community_info(soup):
     community_info = {
         "timestamp": datetime.now().isoformat(),
         "name": extract_community_name(soup),
+        "url": global_url,
         "status": None,
         "price_from": f"{price_from}",
         "address": extract_address(soup),
@@ -881,7 +882,8 @@ def fetch_page(url, output_dir):
 
     driver = webdriver.Chrome(options=chrome_options)
     driver.implicitly_wait(10)
-
+    global global_url
+    global_url=url
     try:
         logger.info(f"Processing URL: {url}")
         driver.get(url)
@@ -1133,10 +1135,8 @@ def extract_homesite_details(soup):
             'sqft': None,
             'status': None,
             'image_url': None,
-            'location': {
-                'latitude': latitude,
-                'longitude': longitude
-            },
+            'latitude': latitude,
+            'longitude': longitude,
             'overview': "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
         }
         
