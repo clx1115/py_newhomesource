@@ -1,0 +1,275 @@
+{
+  "timestamp": "2025-06-03T14:47:41.978275",
+  "name": "Hernando County Spot Lots",
+  "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots",
+  "status": null,
+  "price_from": "$308,990",
+  "address": "11448 Spring Hill Drive,Spring Hill, FL 34609",
+  "phone": "(352) 660-1142",
+  "description": "Find a new home in Spring Hill, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/cali_c_-_ocs_4679_sw_85th_place.png"
+  ],
+  "location": {
+    "latitude": 28.46065,
+    "longitude": -82.52977,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$308,990 - $363,990",
+    "sqft_range": "From 1,408 Sq. Ft.",
+    "bed_range": "4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Concrete block construction",
+      "description": "Concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "No HOA or CDD",
+      "description": "No HOA or CDD fees",
+      "icon_url": null
+    },
+    {
+      "name": "Individual homes spread throughout",
+      "description": "Individual homes spread throughout Spring Hill, Florida",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "45",
+      "description": "45-minute drive to Tampa",
+      "icon_url": null
+    },
+    {
+      "name": "Near West Coast Florida",
+      "description": "Near the West Coast of Florida",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Dakota",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/floor-plans/4evb",
+      "details": {
+        "price": "From $309s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,408 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4evb/dakota_hsl_no_address.png?as=1&w=425&rev=e299b05217a7449fb9eba812be29b8e5&hash=E2BEB60036E1B042BE21F6516BDE6F5A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4evb/dakota_ab_block_patio_blacklines.png?rev=4d4c1f4f5a064a7c976a2d1a1ae113f2&hash=211DA6E94A03CD8B9C9F63D341C2FAC0"
+        }
+      ]
+    },
+    {
+      "name": "Freeport",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/floor-plans/4ewb",
+      "details": {
+        "price": "From $324s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,498 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ewb/fl_west-florida_dr-horton_freeport-b.jpg?as=1&w=425&rev=ef79571d22214384a3a6ad92b23d0d01&hash=36A03618CF3A433EE5274DD537C13BAD"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ewb/fl_west-florida_drh_express-series_freeport_ab_patio_new.jpg?rev=5ea758b26d59498d829cf258aea2ceb6&hash=9073AF3B67362BA2776E995C64449965"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/floor-plans/4ebb",
+      "details": {
+        "price": "From $340s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/cali_d.png?as=1&w=425&rev=c3b87d4f517a402b84856c4f93d81bac&hash=6A4E4EA0596F208F27E1029EA43C45C7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=e726597f87b741599ab0e00d0c651553&hash=9315807505602EF28CB6834141305D01"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/cali-d-gen3-elev_ind.jpg?as=1&w=494&rev=fc1e1f7f66d441eaa017cba77cf32edb&hash=0E6FDF3274F9113F66186C13B3187460",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/3_cali_tos_kitchen_3.png?as=1&w=494&rev=16b3ce7f2e7b401991fbf677b814b51c&hash=993D4D052D63914AF2A8B63151F1F579",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/1_cali_tos_kitchen.png?as=1&w=494&rev=ecbd5d1b024d49a490a07ed40c16c830&hash=8C1B6FBE593CAA4A8A9D1ADCCF8DD825",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/2_cali_tos_kitchen_4.png?as=1&w=494&rev=cd216a19a05747b4bb6449d7c27dda3e&hash=347ACEE16615EB86B74A84ABCFF36243",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/4_cali_tos_kitchen_2.png?as=1&w=494&rev=ebd0538d8f3a474d9addc8c347973434&hash=BC2F60D53359969165F1EBF54E11983F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/9_cali_tos_dining_room_3.png?as=1&w=494&rev=3c7ca3f2e0004937aae3bc6f4644b85f&hash=C26CE2C807B5366CB77505D2E476E9EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/11_cali_tos_great_room.png?as=1&w=494&rev=2395fd051c4f45be90fe3c7545e11895&hash=A596AA8DB808EE9C5CCCB57D51A0594A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/12_cali_tos_great_room_2.png?as=1&w=494&rev=c7aec03a78fa4f178dc97b552f81e4d5&hash=463421FB7948FEEF4AB64D9E8939DF45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/13_cali_tos_great_room_3.png?as=1&w=494&rev=3adb13ef8b8c41089b9ba98fece0725b&hash=50520670D8843690015D3C460D418CCD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/15_cali_tos_owners_suite.png?as=1&w=494&rev=7654ab504c214b8a8cd939595d7c87d6&hash=0653EE0346B8AA66F935E24582505386",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=a03f1ce00f024a48a2c3733c0a3aec2e&hash=9DA21E74D336E90D1C421949174E1FEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=8362d334dccd43749b02b9b1be19c1dd&hash=26C0DF4B4E4C97ECFD6A37F1BC467A2E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=d9b021ab8a234520990bbf31fd1f35ce&hash=731D78AFC7F33A7DE8E236A1D5FBCD8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/21_cali_tos_owners_closet.png?as=1&w=494&rev=7ddaf0472dff4426a42fc359e7eb384d&hash=F020EEC3760C7FC6B7E246024C43EE47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/23_cali_tos_bedroom_03.png?as=1&w=494&rev=7692f7980ed54ca1902165db5e18855c&hash=9202EF719DB6CD2E3A04F05E61685C55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/26_cali_tos_bathroom_2.png?as=1&w=494&rev=d479dec40cd643f8b2ceaa4ba2c87667&hash=DACD4922176A4C46495D519798DC26D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/27_cali_tos_bedroom_2.png?as=1&w=494&rev=ccf8a6928e9b452a9160e2e2be8beba0&hash=73FA028A4B0B7ADF7633F9F2AB682A37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/30_cali_tos_bedroom_4.png?as=1&w=494&rev=215cad23815641f3aa86cd4d3900f88c&hash=27C8D505C9384C1557B1E8E4FFE1009C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/22_cali_tos_laundry_room.png?as=1&w=494&rev=18c6459593c847889a824da1ba829961&hash=2FFC48C79A7C90EFB9399ED83AEA9E82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/17_cali_tos_lanai_web.png?as=1&w=494&rev=72877b772f1d40f788f0ecc782da83e6&hash=6D4AB469D47F4A91460230C0D0B40816"
+      ],
+      "name": "4358 Deltona Blvd",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/qmis/4358-deltona-blvd",
+      "id": "4358",
+      "address": "4358 Deltona Blvd",
+      "price": "$363,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0329-4358-deltona-blvd/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=fc1e1f7f66d441eaa017cba77cf32edb&hash=62ACACE39CC037FA41D0A6D3340EE742",
+      "latitude": 28.46065,
+      "longitude": -82.52977,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/cali-d-gen3-elev_ind.jpg?as=1&w=494&rev=d8c29cb1005747e589125c07240b27cb&hash=9CA2CB3E269E6D1ADC9449C6BE4DC1A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/3_cali_tos_kitchen_3.png?as=1&w=494&rev=8fdb51c28b834c8885037a1a6fce73f3&hash=94CAC734C39EEAEAD6A59F297F8A8E82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/1_cali_tos_kitchen.png?as=1&w=494&rev=9df6ae858763471cb60a1e32b80c0419&hash=E3171ECB8380F3E1D9006F78F4CCB8C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/2_cali_tos_kitchen_4.png?as=1&w=494&rev=57d67657a2ab4fd2ab96ee6a8b47fe40&hash=8F5F06ACA81107E85D42689EAA9E0FC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/4_cali_tos_kitchen_2.png?as=1&w=494&rev=e1537b58d4744233b5ee331b48bfe20d&hash=640B6A655542EAB6A7C05E84BC175BC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/9_cali_tos_dining_room_3.png?as=1&w=494&rev=262f71982df745db98ea1f1ac472f56c&hash=DB542392E4003775FF30B8B3B6BBABBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/11_cali_tos_great_room.png?as=1&w=494&rev=491f1720d8f34fd3806bef0afcb9def6&hash=112CE7B920BA8AE7C258FDCAA142DBAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/12_cali_tos_great_room_2.png?as=1&w=494&rev=678ac4d3d5c242f0ad9c72a6d1ac67ac&hash=A9CAB4AC7177E0D012E8DAE8452A8F80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/13_cali_tos_great_room_3.png?as=1&w=494&rev=6cdfbc5d7d824a5cb51013577d048310&hash=A1AE979FA91B5AB5B06978D2F0BF5F5A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/15_cali_tos_owners_suite.png?as=1&w=494&rev=a5892452c2b44468b39fe1f7c544d960&hash=E19DA1E1F48AEE775FC8B1211E488B06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=6bf59a2827c8462cb51c37dbbf226046&hash=8C00EA33C16633CF69F10BCE90299691",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=8a9a2991a44541a7ad4d0571fd98c18f&hash=8CC60B24F5E581278F2518B7576EFF6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=5444f6a371974d6c99430a3fc9cbe9f3&hash=7C1699CF51510C4886DE90588669E403",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/21_cali_tos_owners_closet.png?as=1&w=494&rev=b777a409354d4132813c575b80408db5&hash=F2C3235C1007F3711EEB5D54456A25FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/23_cali_tos_bedroom_03.png?as=1&w=494&rev=3090a28103db411996ce18913edbaa99&hash=A28421D544462639646534144E5CC686",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/26_cali_tos_bathroom_2.png?as=1&w=494&rev=e9c9a4f9de414315b3f2967a7f3c9833&hash=9231AA217F573C9AD303DD4C26E43353",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/27_cali_tos_bedroom_2.png?as=1&w=494&rev=614b03a15fbd4227820bace5139fd745&hash=1B9ACEC654277770ACA0292B80A9A9BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/30_cali_tos_bedroom_4.png?as=1&w=494&rev=61bd8ab0433a476eb5f1816ae630a897&hash=3BB0201F0A57B4FE26CE624EC1B298AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/22_cali_tos_laundry_room.png?as=1&w=494&rev=d0c272c05872409fb754ef128b2a4804&hash=5C8E8BE7A7FC9254D7D701F1F3D692AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/17_cali_tos_lanai_web.png?as=1&w=494&rev=ef047a2d444f4b84bb13c4756f1e06d8&hash=818C84D6C4C0188A6954B23DCC48DADD"
+      ],
+      "name": "6052 Shiprock Ave",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/qmis/6052-shiprock-ave",
+      "id": "6052",
+      "address": "6052 Shiprock Ave",
+      "price": "$353,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0335-6052-shiprock-ave/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d8c29cb1005747e589125c07240b27cb&hash=D8E2D96F0F03BE77C014C6A889D515F0",
+      "latitude": 28.46065,
+      "longitude": -82.52977,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/cali-d-gen3-elev_ind.jpg?as=1&w=494&rev=ce44eb3f9bf34d7582b87000d2e0b3ac&hash=EC380DB17F323D8A2BAD13B2D1B3388F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/3_cali_tos_kitchen_3.png?as=1&w=494&rev=43208dce9f8e4108b929d6fc3802a33c&hash=7818CF0BB2678F01914B61DF653B1878",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/1_cali_tos_kitchen.png?as=1&w=494&rev=c8aeed104cc64ab7802f7503d9138fab&hash=DC50A4496B5E51A4ACF31D5E0F74D736",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/2_cali_tos_kitchen_4.png?as=1&w=494&rev=6359dcb8e426454d9bd63801d69c5d38&hash=933585C5D5742C2615DC2BD5B1C5EABD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/4_cali_tos_kitchen_2.png?as=1&w=494&rev=7e9607434187443cb92dc49aa2dc377c&hash=D10BFD7774B7A3D58D3A3095FB834E75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/9_cali_tos_dining_room_3.png?as=1&w=494&rev=336cc8c77665494980359b64fcd04cfd&hash=E4895EC74EF9BE616D0E6ED0FCF29061",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/11_cali_tos_great_room.png?as=1&w=494&rev=4fbfd112151c4666876c0f388ad6a1d1&hash=C1EB4B0854247DB29F04999A3F3E010E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/12_cali_tos_great_room_2.png?as=1&w=494&rev=8b9377c25bf541788335f6df74c2265a&hash=D1B20C73BFF39CFB0829E0914781B716",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/13_cali_tos_great_room_3.png?as=1&w=494&rev=88860921134e4287bc6ff72a611a50e7&hash=E47BC487297DD1628B8949CE0B845F6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/15_cali_tos_owners_suite.png?as=1&w=494&rev=75b39758703945878e693edd516dae7a&hash=2E82E00831666B9757D479CC3DF729BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=dde3463239ed4803b0553fbe8823bd7e&hash=439E2196A298BDECD9ED5A8DA27CF653",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=40b2a572198f4a60bc33d344621382b6&hash=EF42FA875AF0B7E8F9F63540FC7A0C35",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=88b179861cbe45b89480af86ccfcf962&hash=DCD7B8A5FF335E184A4F644E3434434F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/21_cali_tos_owners_closet.png?as=1&w=494&rev=9048d40d78004c51bcb9d2cc98eecc07&hash=5D1BB069CCB4D51B62CEB1D1207FDF22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/23_cali_tos_bedroom_03.png?as=1&w=494&rev=e8fe315503b14926b1b761269269f34f&hash=E72CBEDB83DE1C6DA12F26B03390B358",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/26_cali_tos_bathroom_2.png?as=1&w=494&rev=e7473b4fa2124029985589073daec9e9&hash=415D0D15F85CDE9A2F209A2BDA560B3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/27_cali_tos_bedroom_2.png?as=1&w=494&rev=d24e19a854854df59c6e8b73db79f4e7&hash=DF720F07148B649832F472CE47557776",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/30_cali_tos_bedroom_4.png?as=1&w=494&rev=16e8e32bfa6c4b63b15bdde7a6087216&hash=0C770A49C6DEF427A89D88F1E1AFE2FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/22_cali_tos_laundry_room.png?as=1&w=494&rev=fb3d3cdcf4744c21a8f11f5309bcd5ae&hash=EBB7F18253D69E7E5E4BE5B539F11952",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/17_cali_tos_lanai_web.png?as=1&w=494&rev=38a3d2dfdc244e95832d16c0fa47bed5&hash=88106F950F3A83341C38063DDFABF3B8"
+      ],
+      "name": "6260 Sardinia Ave",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/qmis/6260-sardinia-ave",
+      "id": "6260",
+      "address": "6260 Sardinia Ave",
+      "price": "$358,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0324-6260-sardinia-ave/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ce44eb3f9bf34d7582b87000d2e0b3ac&hash=EFCCB66FE6AA3B6B224C7AC4468CD2A2",
+      "latitude": 28.46065,
+      "longitude": -82.52977,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0284-8213-county-line-rd/cali_elevation_d__ph_cs1_altwocl.png?iar=1&sc=1&thn=1&w=425&rev=18e8783315634345bd67fd6853f83d90&hash=B10DE22EF6827B6FE50BE2653B0A43E4"
+      ],
+      "name": "8213 County Line Rd",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/spring-hill/hernando-spot-lots/qmis/8213-county-line-rd",
+      "id": "8213",
+      "address": "8213 County Line Rd",
+      "price": "$339,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34773-hernando-spot-lots/347730000-hernando-spot-lots/4ebb/0284-8213-county-line-rd/cali_elevation_d__ph_cs1_altwocl.png?iar=1&sc=1&thn=1&w=425&rev=18e8783315634345bd67fd6853f83d90&hash=B10DE22EF6827B6FE50BE2653B0A43E4",
+      "latitude": 28.46065,
+      "longitude": -82.52977,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

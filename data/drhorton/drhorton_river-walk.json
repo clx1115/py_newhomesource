@@ -1,0 +1,209 @@
+{
+  "timestamp": "2025-06-03T14:59:29.094925",
+  "name": "Riverwalk",
+  "url": "https://www.drhorton.com/florida/panama-city/freeport/river-walk",
+  "status": null,
+  "price_from": "$309,900",
+  "address": "31 Riverwalk Circle,Freeport, FL 32439",
+  "phone": "(850) 820-7119",
+  "description": "Find a new home in Freeport, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [],
+  "location": {
+    "latitude": 30.4823,
+    "longitude": -86.1305,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$309,900 - $309,900",
+    "sqft_range": "From 1,637 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Pool House",
+      "description": "Pool House",
+      "icon_url": null
+    },
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Water Front or Access",
+      "description": "Water Front or Access",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness Room",
+      "description": "Fitness Room",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/panama-city/freeport/river-walk/floor-plans/4ebf",
+      "details": {
+        "price": "From $376s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/4ebf/31_riverwalk.jpg?as=1&w=425&rev=326a270b374241a1bdaa1d389b1a61c2&hash=A621C530428E6CBAF65DF9BDE381176B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/4ebf/cali_d.jpg?rev=96eb7c2a5ae74df0b5df2356ae29faaf&hash=D57DAE8A964242A321A363558A29322B"
+        }
+      ]
+    },
+    {
+      "name": "Jemison",
+      "url": "https://www.drhorton.com/florida/panama-city/freeport/river-walk/floor-plans/jemi",
+      "details": {
+        "price": "From $330s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,637 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/jemison_a_2.jpg?as=1&w=425&rev=0b0b37bf2e6a4c2cb76c8cf041b2ef6a&hash=053E97A01892BC59368CD3E255A96801"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/floor_plan.jpg?rev=66bf57acbb644ca4bba79d976199c2a6&hash=9D2A7EBE4D168382E0E64AFD4E32E684"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/panama-city/freeport/river-walk/floor-plans/3eff",
+      "details": {
+        "price": "From $374s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,403 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/3eff/riverwalk_robie_a_rendering.jpg?as=1&w=425&rev=efe5e96131444c1c9e163efa9c7f2678&hash=0640510ED599D1C50ABC8F15EB5A37A1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/3eff/riverwalk_robie_a_rendering.jpg?rev=efe5e96131444c1c9e163efa9c7f2678&hash=D85CA7151AA028ABA3F58948B9EB5E8F"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/3eff/robie_marketing_fp_web_version.jpg?rev=612fb9b09c0f48b0a89d4bcec37133ba&hash=C39CD949596236364A3F46AF23113092"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/23_riverwalk_circle.jpg?as=1&w=494&rev=dca086e110064811896611e46fb7b818&hash=18946E6B5A39B847ED411176F62C9DB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_01_entry_hall_to_bedroom_and_kitchen.jpg?as=1&w=494&rev=634841f6024e46d9a61055466562ac1c&hash=89BFC49BA3CF822594F6FFE1419F72B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_02_entry_to_living_area.jpg?as=1&w=494&rev=94adf977d12d430e8d70edf72822d901&hash=1D8B2D72036000473B3A661FB69080DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_03_spacious_kitchen.jpg?as=1&w=494&rev=e5eb48d66a474f6ba75da29c53baa7f1&hash=E2249433DE5B89AF6D1B4DE9EB98D186",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_04_kitchen_with_island.jpg?as=1&w=494&rev=79e6771a608b412bb268f6b896f05fab&hash=F9F7F767F7E683608CFAF06E87BE1582",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_05.jpg?as=1&w=494&rev=c72b2119a3ed48aba79cb0e3be2a7a0d&hash=49D2384F38D37515CE615F0D3EA86F86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_06.jpg?as=1&w=494&rev=dd7f8b17c49c49dcb8ddc721e5afe1b8&hash=3E3BC2FBF5402E07F3DB5C26ABC5922B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_07.jpg?as=1&w=494&rev=9116971ca53e4abe9195b57517ac7daa&hash=DE5C40B42BE74DC9AB21DE6BE08410C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_08.jpg?as=1&w=494&rev=e8493c1c47864969b1eb2b9c3f16bf72&hash=5A5DE92C55CD984A5477690BFC200521",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_09.jpg?as=1&w=494&rev=896690d1ff9740d495b960b314f8ee71&hash=51A4BAF157ED23A5E90FF8094CE54B0F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_10.jpg?as=1&w=494&rev=6cad31a54fa64410bcfe74ab71bff3a5&hash=7CA6F88870930CBE61F820DE7B3D1042",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_11.jpg?as=1&w=494&rev=5e164f19144144ffa6fdaba7b1ae9a02&hash=E7A8B0F667C547BC55827E3918AFE58D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_12_primary_bedroom.jpg?as=1&w=494&rev=b2ba9373af774c6487ef1d5c389d0782&hash=5BF192DC7D32B932A9C057939B84CEE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_13_primary.jpg?as=1&w=494&rev=391d7f52267a452b98fba2251c87f870&hash=FC9513B1C538C8070544B2178B9D9605",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_014_primary.jpg?as=1&w=494&rev=16fafebb889e4ae09354a0a5aa7d3dee&hash=D7E7EF00EEC529D53401A02A9B474BFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_15_primary_bathroom.jpg?as=1&w=494&rev=e860eb949a644bd1b312c62978d6a45e&hash=76714F332B1CA2A7CD24076CB75A5FAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_16_primary_bath_vanity.jpg?as=1&w=494&rev=02b95241b7d4473cbd93b2cb108b0bda&hash=5411D852FAD9C449C1D812844535C7E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_17_primary_shower.jpg?as=1&w=494&rev=e79d304b9275412394615bcb65b2281c&hash=D830047CD1A1B579B2951675AEEC51D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_18_primary_closet.jpg?as=1&w=494&rev=5cf7f398de0e4385b98171fc8f2161ab&hash=7AD7E41C515F2BFCF2310BE8333842F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_19_pantry.jpg?as=1&w=494&rev=b3a5b72b7fca4a1b863fb0a0d364dc50&hash=68C16442C4097D860A43D838512DA2B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_20_entry_to_laundry.jpg?as=1&w=494&rev=c6193cb39ddf4713b4bfc6b09a302801&hash=5D7221A930A9A286FBD0CEA6C59D6410",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_21_laundry.jpg?as=1&w=494&rev=8ac7e9a51dc049ce8f8e189fdb5f40d2&hash=8AD279A41FA417BBC9D69F26706C10EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_22_additional_bedroom.jpg?as=1&w=494&rev=ec79637c2ee64f819240b5989a05bc4a&hash=03D74179688F76DCB6DCB2E8AA10E7C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_23.jpg?as=1&w=494&rev=b044a717df154138a32abc679ad1b849&hash=2C8DB755C354D7237D46030A3354BBAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_24.jpg?as=1&w=494&rev=d6e735b24b5e4c9a8ff6b1fe6815b4f5&hash=6C885F22BF0DA0A5D828C1274347BCEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_25_additonal_bedroom.jpg?as=1&w=494&rev=7512340fe1dc49eca432f439a944676b&hash=640F4C5BDC1E511EAF191F307A509E63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_26_additional_bedroom.jpg?as=1&w=494&rev=286436494f2d45c4b70381cc8e480b7d&hash=838EFA8D9EE29C67457FC33186E3D059",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_27_bedroom.jpg?as=1&w=494&rev=dcd9ad3eff2e4917a1eb4dc2ebfbb4bf&hash=52346BC5B633BE5D15D450BF9F58344C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_28_shared_bath.jpg?as=1&w=494&rev=dea7df201281443f94159dedfab9b459&hash=E0C264769E83FE03E3BCB67B0FA60C76",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_29_shared_bath.jpg?as=1&w=494&rev=941da480fc824b26bcb7963fe5466d70&hash=F14B3332DDD9CAE45D32C98E50F0690F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/jemison_model_030.jpg?as=1&w=494&rev=730cef8c9a7d434cb698304d1cae8092&hash=B490BCD4CE9FA853C1C671B360CB7A0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/floor_plan.jpg?rev=66bf57acbb644ca4bba79d976199c2a6&hash=9D2A7EBE4D168382E0E64AFD4E32E684"
+      ],
+      "name": "23 Riverwalk Circle",
+      "plan": "Jemison",
+      "url": "https://www.drhorton.com/florida/panama-city/freeport/river-walk/qmis/23-riverwalk-cir",
+      "id": "23",
+      "address": "23 Riverwalk Circle",
+      "price": "$309,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1637",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29774-river-walk-phase-1/297740000-river-walk-phase-1/jemi/0024-23-riverwalk-cir/23_riverwalk_circle.jpg?iar=1&sc=1&thn=1&w=425&rev=dca086e110064811896611e46fb7b818&hash=D830C2292124F72522BE20F8C31B336C",
+      "latitude": 30.4823,
+      "longitude": -86.1305,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Freeport Elementary School",
+          "type_and_grades": "PK-4",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Freeport Middle School",
+          "type_and_grades": "5-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Freeport High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

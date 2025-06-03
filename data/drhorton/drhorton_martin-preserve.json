@@ -1,0 +1,293 @@
+{
+  "timestamp": "2025-06-03T13:34:43.372232",
+  "name": "Martin Preserve",
+  "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve",
+  "status": null,
+  "price_from": "$301,900",
+  "address": "9900 Starling Drive,Pensacola, FL 32506",
+  "phone": "(850) 601-8774",
+  "description": "Find a new home in Pensacola, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/fl_pensacolawest_pensacola_martin-preserve_camilla_b4_web_6527.jpg"
+  ],
+  "location": {
+    "latitude": 30.3756,
+    "longitude": -87.34827,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$301,900 - $394,900",
+    "sqft_range": "From 1,354 Sq. Ft.",
+    "bed_range": "4",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Alabaster",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/floor-plans/alab",
+      "details": {
+        "price": "From $386s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,219 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/alabaster-b.jpg?as=1&w=425&rev=fa0535e56223414091da28281f42ef0b&hash=0ECA5B743E8D3DE43B21503245EACEDF"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/alabaster-floorplan.jpg?rev=477e512dbe5d42bf8d2fcc2c3020edc5&hash=B04C9B9C308516B48684A983F1FA33D9"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/alabaster-floorplan.jpg?rev=477e512dbe5d42bf8d2fcc2c3020edc5&hash=B04C9B9C308516B48684A983F1FA33D9"
+        }
+      ]
+    },
+    {
+      "name": "The Camilla",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/floor-plans/cami",
+      "details": {
+        "price": "From $326s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,583 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/cami/camilla_a4.png?as=1&w=425&rev=e305e751af404e169dafe911655bde8c&hash=B413E0E6757800BA4E5BBCDA84482E4D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/cami/camilla_a_b_floorplan.jpg?rev=4b92d47b7acb4dd59ac26926c4093fba&hash=B271488D5430A25955D13906E3E83B84"
+        }
+      ]
+    },
+    {
+      "name": "The Delilah",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/floor-plans/deli",
+      "details": {
+        "price": "From $302s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,354 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/deli/delilah_a4bc.png?as=1&w=425&rev=1609b0600e504efe8df392f4f0aa67f3&hash=5F56F047B381E79990B56A54CCB2BD6F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/deli/delilah_a_b_c_d_floor_plan.jpg?rev=0f52134052234b8286c7c265249fdf1a&hash=3D6BC5439A93274510B5D4632E294D09"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster-b.jpg?as=1&w=494&rev=9af0d709ff374a1ca4409b49da773a7e&hash=A3AB9551339AB02614526E1D3A20094D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_3_entryway.jpg?as=1&w=494&rev=308d3354bd3047c3bb8bd2ca84c8d31f&hash=BACABCC805100CDEEA86E0838208DB6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_4_entryway.jpg?as=1&w=494&rev=696014b594d14266a60bfd9f2764caf2&hash=A955D395C8459C2D7171A012B722AF91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_5_kitchen.jpg?as=1&w=494&rev=21aacd199c3d4cc9acda6ab9160f76aa&hash=6637815347354E4B80544DE7CE57824F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_6_kitchen.jpg?as=1&w=494&rev=6c8b2d0b8e8449059c6bc32de616b30a&hash=666DA191D583378D5CF7E094026E6D03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_7_kitchen.jpg?as=1&w=494&rev=c617c12ed03c499a84778cb8acda13ce&hash=95B10972F6E95F8943E6857ACC718446",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_8_kitchen.jpg?as=1&w=494&rev=3732a615cc0a4607be213c832266666f&hash=8D085038022070C328096D4CE4EF649F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_9_living_room.jpg?as=1&w=494&rev=7f111faaec63415c85446a42068b8e31&hash=A689E42F8CA233649EEFCD73B4C8D962",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_10_living_room.jpg?as=1&w=494&rev=cd53f4e8947148afaac236df6d61ed46&hash=5FF3B0AF1C4FF538A609E56DB9F59B0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_11_living_room.jpg?as=1&w=494&rev=534ae6c43caa452da23b8dd7f457e95c&hash=C3597F43DAC09397BB3F7BDE44DC49E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_12_master_bed.jpg?as=1&w=494&rev=1515a9e1d785494ba602b6595d4647bf&hash=E07F609D057A2895DA6C890ECA3A407B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_13_master_bed.jpg?as=1&w=494&rev=3f8ec2b3418543828a911f8b6ac5c360&hash=1B4F9B917F6C6E08B53CD51BD76DBD73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_14_master_bath.jpg?as=1&w=494&rev=c4d91d4c144547e18d083a875af9535d&hash=982469A7AD120EC20305B7924E0E5312",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_16_master_closet.jpg?as=1&w=494&rev=99e176e8d0774f068a2d7a7d7bead11b&hash=0A07661FD3825752F02D5C9C0D5839DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_17_common.jpg?as=1&w=494&rev=6d7003ffffb84e628489c559eb72b804&hash=DDF5D2E9097B120646CD37AE9179989C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_18_common.jpg?as=1&w=494&rev=442ff5d5a52446f1afb6ff9a8568c950&hash=D0CF0B84DA79D6AEF373B30FD6111A04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_19_common.jpg?as=1&w=494&rev=5afe531b7e6a42c4ac1ac92bc2f14d09&hash=2760BBA8DD232076736C2B956CBD8E4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_20_garage.jpg?as=1&w=494&rev=01181c559ea34a9e9158548f875ef190&hash=277B7AADAD46CEE137C172BCE5C33304",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_21_bedroom.jpg?as=1&w=494&rev=84ab7bf946334f3fb017bb0f863ad7f3&hash=EFC1557CDFFBFF11FE617D8756FB577F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_22_bath.jpg?as=1&w=494&rev=0899c04be996407791d9bd3c3520526b&hash=4B27AC26F60F3DFF15AA69073A1435E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_23_closet.jpg?as=1&w=494&rev=69f6ed9706ac499c9b47dbd11a190d94&hash=1C76FE99FE9CBD4B272F32B4F809E599",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_24_bedroom.jpg?as=1&w=494&rev=3720107273e2498392e2207c423e2ada&hash=6C0537E64604E3B4731D01BAE11DCECA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_25_closet.jpg?as=1&w=494&rev=916d753572ab48999baa5bccd14ef871&hash=B3EBCFB6753744E6B0D51C9866188D22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_26_bedroom.jpg?as=1&w=494&rev=ffb4db6f3860481ca82f9296e3c08c77&hash=6BA888EBADDF8C05895120B0D4579AF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_27_bedroom.jpg?as=1&w=494&rev=db7f39ffc047464cb3dd396985b4f1a2&hash=6B1C76F6CB684B19DBEA94F4A1DB9BE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_28_bedroom.jpg?as=1&w=494&rev=c50c1366727742609b655c152f5509c1&hash=E68403CB7FC4CE641535D0B6921181C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_29_bathroom.jpg?as=1&w=494&rev=2c1598194f4b48a78b253f80cbcbcb04&hash=0002EA655042F1509B35FF0F91B06D4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_30_bathroom.jpg?as=1&w=494&rev=b3801a23ba7046c5a2239cca94020ac3&hash=1488C2D29A18EDAE4202DB2C0D248120",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_31_washroom.jpg?as=1&w=494&rev=a61d714726d2471da0e7a8bb78225e58&hash=74805177F7FBFCC2CA9398884A78D885",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_32_half_bath.jpg?as=1&w=494&rev=e92fb577a8764b39ae409857938c2643&hash=C366521F914E166FAFCB2DE783796369",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster_34_back.jpg?as=1&w=494&rev=6b67f3a65f1b4a3ab087574d3c32923e&hash=F16B5C399D783A7069C79EBC78768827",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/alabaster-floorplan.jpg?rev=477e512dbe5d42bf8d2fcc2c3020edc5&hash=B04C9B9C308516B48684A983F1FA33D9"
+      ],
+      "name": "9827 STARLING DR",
+      "plan": "The Alabaster",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/qmis/9827-starling-dr",
+      "id": "9827",
+      "address": "9827 STARLING DR",
+      "price": "$394,900",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2219",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0220-9827-starling-dr/alabaster-b.jpg?iar=1&sc=1&thn=1&w=425&rev=9af0d709ff374a1ca4409b49da773a7e&hash=F5B52A12848853539742580784D4584B",
+      "latitude": 30.3756,
+      "longitude": -87.34827,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/cami/0218-9835-starling-dr/camilla_b4.png?as=1&w=1280&rev=5f071edd191d4b4ea8e2e6ef5ea15a91&hash=E16486C9C52E5F5A4F34974820A3ACE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/cami/camilla_a_b_floorplan.jpg?as=1&w=1280&rev=4b92d47b7acb4dd59ac26926c4093fba&hash=357B1FAD2DCB1D89ADAE2A4338F42F8B"
+      ],
+      "name": "9835 STARLING DR",
+      "plan": "The Camilla",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/qmis/9835-starling-dr",
+      "id": "9835",
+      "address": "9835 STARLING DR",
+      "price": "$325,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1583",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/cami/0218-9835-starling-dr/camilla_b4.png?iar=1&sc=1&thn=1&w=425&rev=5f071edd191d4b4ea8e2e6ef5ea15a91&hash=754D8A80B1E5258AB1D88379761EA8CD",
+      "latitude": 30.3756,
+      "longitude": -87.34827,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster-b.jpg?as=1&w=494&rev=9a083da192e1460595413305ef72bab4&hash=EB402969D31BF4F0EEF19A8AC35BF4F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_3_entryway.jpg?as=1&w=494&rev=4646c25b4ebb47a59ea6cbf5840b244d&hash=A39A21ED5436D02E88D661233A139CF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_4_entryway.jpg?as=1&w=494&rev=4d64f3c047a14053bcf090574a1b2be9&hash=F4F334BC220C2EF0F3F44B1617614712",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_5_kitchen.jpg?as=1&w=494&rev=5f9ab5d72a264c1cb99197acc4c04973&hash=495BE5E178811CE73DE5B8025C918CA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_6_kitchen.jpg?as=1&w=494&rev=bf517573106246a28d68745b2d2016e4&hash=C1B1846E069AA9B322A6B079278109F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_7_kitchen.jpg?as=1&w=494&rev=c51f73e637254cf291a88c480d5f2063&hash=075B47B79C85D02362315D9ED6FAFB58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_8_kitchen.jpg?as=1&w=494&rev=75d10161eb1c4dd492ebef87e3b54b91&hash=FD27C89551B412C79DF98C91A2C9EE8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_9_living_room.jpg?as=1&w=494&rev=0f155002ede94beca2b25725af4bd3f4&hash=EEC56641F40129BB99B9CF7DC610430F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_10_living_room.jpg?as=1&w=494&rev=d7d1fa426c144e68b43e607cbdfdd90c&hash=A4E4F44D5CBF835BF4712A75BF5D6A26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_11_living_room.jpg?as=1&w=494&rev=847bf547aa294d56a48daf41aeb1aed7&hash=B59682A3024496213B8F443492DDA71D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_12_master_bed.jpg?as=1&w=494&rev=679f6354b4c9473b81e5317d22878ef7&hash=37B05AE385C9E5303C71C8A2B43BA600",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_13_master_bed.jpg?as=1&w=494&rev=a51928f12e5144ad979eebee2af414ba&hash=4C72E0949463AA776EF0A35690C6DA2E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_14_master_bath.jpg?as=1&w=494&rev=1245316cd6634723ad7fd852e343a097&hash=3894B11CF33F9C5EFB11730B31970A47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_16_master_closet.jpg?as=1&w=494&rev=4dc853cbdbdd4a06b28bfd7554f0777f&hash=E861401A232C1CFF35748013E54376A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_17_common.jpg?as=1&w=494&rev=2d2bd4bd217a4b04b8da0977fb6d7b1e&hash=F4F3E0244A7AD4A6E0E9FD655B3E7CB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_18_common.jpg?as=1&w=494&rev=f1d858b753b343e9942c403dd68afc53&hash=ED1AE0171D6DF62EEAABBD284E799F03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_19_common.jpg?as=1&w=494&rev=2e4d3a8ae262461cbf510c2301e050c8&hash=B79CA8DE72A40C40E3D3F1AE43B99FF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_20_garage.jpg?as=1&w=494&rev=118e39d96d634259a223a6c7580e3202&hash=B399E6BE5A34A5E0761C926D1AC4AECB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_21_bedroom.jpg?as=1&w=494&rev=6b095ae6bbe948bfaf5b38b561ae524e&hash=672DB17C1030115BF68C52B467D46C8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_22_bath.jpg?as=1&w=494&rev=b920d4f6990644aea5992eb3b7d4aad1&hash=7E91EEACB474C8539FFB0E4327E0CED7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_23_closet.jpg?as=1&w=494&rev=022f656ddb004a1a8b746f3dd8c5c078&hash=D4369B0826B4040571E3548B1C80FBF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_24_bedroom.jpg?as=1&w=494&rev=e05968b856a14e79968f0fdf497e652c&hash=42354C815AA488B3F4F751410D65700F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_25_closet.jpg?as=1&w=494&rev=a0362959f38e4a8fbc17d49782ef7ddf&hash=D470C3D54B30A9989D03275F0D5F2434",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_26_bedroom.jpg?as=1&w=494&rev=be6f38bf47b84f68a69b5006202336e1&hash=2EE49B7BAC3B3909E9888021CBE4EA97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_27_bedroom.jpg?as=1&w=494&rev=c75ae3575377472bb11581dcb6745eaa&hash=E98866B57301D7C425EEC25D30A960C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_28_bedroom.jpg?as=1&w=494&rev=4bd01ee40578409d89f33615297d4571&hash=F20628A52D0D6771A129670BF6546109",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_29_bathroom.jpg?as=1&w=494&rev=e6dfc766f86740dbbfc3670a7cfe0611&hash=280E2F00798B54236EA2264063523A62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_30_bathroom.jpg?as=1&w=494&rev=dafbcb884e16492d91bf7a2d82dcff8d&hash=C65724BE2B46BC0350D555C67FF34288",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_31_washroom.jpg?as=1&w=494&rev=bf6ed8b572ff4bcb9acb3ee5212a8aa3&hash=D6A3C963380FA3E9036AE6DB39C6422F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_32_half_bath.jpg?as=1&w=494&rev=ef9be0abb83248fdb8c8b087e197ea68&hash=20F778A5C44D0FE4D9EEB2F03946EFA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster_34_back.jpg?as=1&w=494&rev=f44783e92d0c4082ac29d080b5d9d681&hash=447340504121C08F1618F0E211E7514F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/alabaster-floorplan.jpg?rev=477e512dbe5d42bf8d2fcc2c3020edc5&hash=B04C9B9C308516B48684A983F1FA33D9"
+      ],
+      "name": "9839 STARLING DR",
+      "plan": "The Alabaster",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/qmis/9839-starling-dr",
+      "id": "9839",
+      "address": "9839 STARLING DR",
+      "price": "$394,900",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2219",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0217-9839-starling-dr/alabaster-b.jpg?iar=1&sc=1&thn=1&w=425&rev=9a083da192e1460595413305ef72bab4&hash=34D5A7A7D8825B19F368573FC60EB9CA",
+      "latitude": 30.3756,
+      "longitude": -87.34827,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster-b.jpg?as=1&w=494&rev=0111098b907041beab7c839dddef500e&hash=278183F4B6E64786BCCFD161E2066BEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_10_living_room.jpg?as=1&w=494&rev=d770ffe31bc24e1092ec3487e63789b9&hash=A2BC4DF76ED4C27A106BE1FE63D2CC6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_12_master_bed.jpg?as=1&w=494&rev=4870770630e8410f919c6dd66e53046e&hash=27B06B0E2E7FE3AB89C29927D8B3BF21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_13_master_bed.jpg?as=1&w=494&rev=4b6d94c0019f4085806e788b19113373&hash=97DDAA3A35BA5EB83D2F9E91C22B96CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_17_common.jpg?as=1&w=494&rev=80514be6fd814ce4a14524a53e83651b&hash=EE1AA1ADDC22DFD7421FF21309922800",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_21_bedroom.jpg?as=1&w=494&rev=31ddefcd81a24aff928033940971a795&hash=9D4D7E11100B2D6D4B6D934C67C07409",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_24_bedroom.jpg?as=1&w=494&rev=acd2e0b7d3f44b12a8b7d09759eb6224&hash=6A669FAF71DC08440EE2896DE725DB3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster_27_bedroom.jpg?as=1&w=494&rev=b19aa2a9fc9b4e33af9dfa46be8f5fac&hash=DC008A37AB02897C0FF20FF46BE326A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/alabaster-floorplan.jpg?rev=477e512dbe5d42bf8d2fcc2c3020edc5&hash=B04C9B9C308516B48684A983F1FA33D9"
+      ],
+      "name": "9858 STARLING DR",
+      "plan": "The Alabaster",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/martin-preserve/qmis/9858-starling-dr",
+      "id": "9858",
+      "address": "9858 STARLING DR",
+      "price": "$372,900",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2219",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22696-martin-preserve/226960000-martin-preserve/alab/0113-9858-starling-dr/alabaster-b.jpg?iar=1&sc=1&thn=1&w=425&rev=0111098b907041beab7c839dddef500e&hash=16EAF019CBCD0D27DE0059544FA37C99",
+      "latitude": 30.3756,
+      "longitude": -87.34827,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Pleasant Grove Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Jim C. Bailey Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Escambia High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

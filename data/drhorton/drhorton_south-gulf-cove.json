@@ -1,0 +1,106 @@
+{
+  "timestamp": "2025-06-03T11:26:49.498732",
+  "name": "South Gulf Cove",
+  "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/south-gulf-cove",
+  "status": null,
+  "price_from": "$299,990",
+  "address": "14386 San Domingo Boulevard,Port Charlotte, FL 33981",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Port-Charlotte, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/579660000-south-gulf-cove/1_southgulfcove_elevation.jpg"
+  ],
+  "location": {
+    "latitude": 26.9125,
+    "longitude": -82.21112,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$299,990",
+    "sqft_range": "From 1,985 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Jaden",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/south-gulf-cove/floor-plans/1989",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,985 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57966-gulf-cove-spot-lots/579660000-gulf-cove-south/1989/1989_jaden_a_shingle_2-car.jpg?as=1&w=425&rev=3bb24de0fbea49a19798c44037c14fa6&hash=ED3737BDE60253013DABF54A15B4477E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57966-gulf-cove-spot-lots/579660000-gulf-cove-south/1989/jaden_2-car_noopt_floorplan.jpg?rev=b36beea6053f4aaba3906678289291d1&hash=998C4916ED08DABE42169FE436E9C432"
+        }
+      ]
+    },
+    {
+      "name": "Kellen",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/south-gulf-cove/floor-plans/2197",
+      "details": {
+        "price": "From $350s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,196 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57966-gulf-cove-spot-lots/579660000-gulf-cove-south/2197/2197_kellena_2-car_shingle.jpg?as=1&w=425&rev=b0054b60e2b946728be6d66dddec3017&hash=BEF57E2ADA3DB964795BA9E5F2AED516"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57966-south-gulf-cove/2197/2197_-_kellen_2_car.png?rev=f9451202b2124049b400be061d1e3e54&hash=07978B0937DBA726952DA353E5C44852"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Charlotte County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Charlotte County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Charlotte County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

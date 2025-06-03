@@ -1,0 +1,681 @@
+{
+  "timestamp": "2025-06-03T13:23:26.763031",
+  "name": "Crystal Bay Estates",
+  "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates",
+  "status": null,
+  "price_from": "$384,990",
+  "address": "5082 Alabaster Drive,Grant-Valkaria, FL 32949",
+  "phone": "(321) 321-2755",
+  "description": "Find a new home in Grant-Valkaria, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the East Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/6630_cameo_web.jpg"
+  ],
+  "location": {
+    "latitude": 27.89544,
+    "longitude": -80.5124,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$384,990 - $595,935",
+    "sqft_range": "From 2,020 Sq. Ft.",
+    "bed_range": "4",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Denton",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/floor-plans/5edb",
+      "details": {
+        "price": "From $395s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,319 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5edb/denton_c_rev-2.jpg?as=1&w=425&rev=d2cad5167e4c4b7baecfdf63b2fff706&hash=7D727BB4E3284AE7EC20F05BBCE7AD1F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5edb/denton__fp_web.jpg?rev=50352a7f3bb14a5482d370fc6585cb8c&hash=470F84E63C42AE0281D19CB61903196C"
+        }
+      ]
+    },
+    {
+      "name": "Elm II",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/floor-plans/2548",
+      "details": {
+        "price": "From $435s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,546 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/elm_2_a_crystalbayest2.jpg?as=1&w=425&rev=f3f576107e3d48ff95141dacf2283f1c&hash=C54D5D3762D303BBED151A079D250027"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/elm-ii__fp_web.jpg?rev=b2f409d5f90c43ae8659146fff9a7ab4&hash=DCA8EEE48A6F71291DD2349FD855EE93"
+        }
+      ]
+    },
+    {
+      "name": "Elm Royale",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/floor-plans/3357",
+      "details": {
+        "price": "From $500s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,357 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/elm_royale_a_crystalbayest2.jpg?as=1&w=425&rev=5266553f792046d98e27b66bc5cbfc8a&hash=83485F0086FE92FD65AA50A41B7CCE29"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/elm-royale_fp_web.jpg?rev=6bcc695b836442fab603f4b0114cd10d&hash=97DB2ED396D72557A06743DE501A76EC"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/elm-royale_fp_web.jpg?rev=6bcc695b836442fab603f4b0114cd10d&hash=97DB2ED396D72557A06743DE501A76EC"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/floor-plans/5emb",
+      "details": {
+        "price": "From $385s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/madison_h_crystalbayest.jpg?as=1&w=425&rev=77f084aaa4e3416da944aa7726443f39&hash=D760DE1D849FBC61078EFA3DD466A443"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/madison_fp_web.jpg?rev=e5d59777ac7f41c4af19b5929d6f51b0&hash=AD9E82FAE26520BE84DA86A77FF4B50C"
+        }
+      ]
+    },
+    {
+      "name": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/floor-plans/2312",
+      "details": {
+        "price": "From $410s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,312 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/redbud_a_crystalbayest.jpg?as=1&w=425&rev=fdf25f5114e7496bb71af0e2988390b5&hash=C3146727895383C05436961776656621"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/redbud__fp_web.jpg?rev=82d6d37f9943488fa6ea0f02cdab6eef&hash=CE2E189DBABE9DB9579A5E6B07BF3266"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/4812_alabaster-_cbe.jpg?as=1&w=494&rev=a5fe6e34d0914db586e8c834b0fbf83b&hash=271B7A9386371E32DED89BA8B424EC8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv4.jpg?as=1&w=494&rev=e18bf12674b5432195f8fd8900b25e2a&hash=D6CBC5684EF1B6AA98DFA729FB83DED8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv5.jpg?as=1&w=494&rev=bd73762437dc4b9db3f2d7eed21140b9&hash=3AA98517CDD45DE80F899C89D1FB50A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv6.jpg?as=1&w=494&rev=271ff3ab12184fc99c03e0e7039ac9d3&hash=DDF4A79AA05A6627978D99766C08E68E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv7.jpg?as=1&w=494&rev=3b32323a3787454d9997e74c7e64dd96&hash=F1384A38D32C9DB8185279BC3AA1FCAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv8.jpg?as=1&w=494&rev=9494603d421f4b07921ee8f50b377ef3&hash=C46999ADFAF9BF98282339F1B98A66F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv9.jpg?as=1&w=494&rev=dfbc85991bef477fa6e22fa7ced1d21a&hash=74C9C51D3B5EFF418C48B3AB0121A531",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/antilles_2870_elmiv10.jpg?as=1&w=494&rev=442e131095484b8abb57122941aa621b&hash=CCBA83A67DC415425BF54BCFD7B7AD17"
+      ],
+      "name": "4812 ALABASTER DRIVE",
+      "plan": "Elm Royale",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/4812-alabaster-drive",
+      "id": "4812",
+      "address": "4812 ALABASTER DRIVE",
+      "price": "$578,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3357",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0530-4812-alabaster-drive/4812_alabaster-_cbe.jpg?iar=1&sc=1&thn=1&w=425&rev=a5fe6e34d0914db586e8c834b0fbf83b&hash=6B70E219FED7592DA2BC283D9A29D3A6",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0428-4813-alabaster-drive/elm_royale_b_crystalbayest2.jpg?iar=1&sc=1&thn=1&w=425&rev=9e57fab42a1d4de29036baa05ef3767c&hash=98D0FCDF0D99C6D81E7880885F6E81D3"
+      ],
+      "name": "4813 Alabaster Drive",
+      "plan": "Elm Royale",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/4813-alabaster-drive",
+      "id": "4813",
+      "address": "4813 Alabaster Drive",
+      "price": "$595,935",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3357",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0428-4813-alabaster-drive/elm_royale_b_crystalbayest2.jpg?iar=1&sc=1&thn=1&w=425&rev=9e57fab42a1d4de29036baa05ef3767c&hash=98D0FCDF0D99C6D81E7880885F6E81D3",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_g.jpg?as=1&w=494&rev=dcd4d7e67fe648d8a7eef33cae85d65c&hash=3B1EC8F5115279CBFB3288045B970C7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl2.jpg?as=1&w=494&rev=77cf650603a347dd8e8d07398b1eea41&hash=F4247B7D91A688AE8AFDCFBC0F3C114D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl4.jpg?as=1&w=494&rev=b67483aa7ad543819912c511a7f5504e&hash=CF1EAFA783783FBB2D041F96CB8AE288",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl5.jpg?as=1&w=494&rev=8bdf390647804a34bdf5df8b1447003d&hash=0471A1A12976D5E4733980C779FC24E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl6.jpg?as=1&w=494&rev=4ab41148792d44d48a47ee58a453743f&hash=EE1F1DF82A3AED65E9F3A11A3268ADAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl7.jpg?as=1&w=494&rev=edd1cdba01894bf2936ef8cf4b0d3790&hash=2586B61D6CC4ACB00F557DA67FCA3821",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl10.jpg?as=1&w=494&rev=91f9b21172574098a05a8f4a4285751f&hash=8BCC248204A868AFBE3AD3A831369E63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl12.jpg?as=1&w=494&rev=b7b1b4bbd5354bd09bfc7fb2ca2e0f68&hash=B0E827F8D22062B52929742DFF467AAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_psl17.jpg?as=1&w=494&rev=d3f148fafbe247aea6e41f2c80a3d696&hash=99611E61B90F01BC07C7847D1598787B"
+      ],
+      "name": "4823 Alabaster Drive",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/4823-alabaster-drive",
+      "id": "4823",
+      "address": "4823 Alabaster Drive",
+      "price": "$444,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0427-4823-alabaster-drive/madison_g.jpg?iar=1&sc=1&thn=1&w=425&rev=dcd4d7e67fe648d8a7eef33cae85d65c&hash=D36A1B7B9D8A9198BB2FDCAEC4D8CBF3",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0460-6800-cameo-drive/redbud_a.jpg?iar=1&sc=1&thn=1&w=425&rev=1b60ae45610c4087b56b7428664726d7&hash=2B95FF5A297ED40556668DFAE1036EA3"
+      ],
+      "name": "6800 Cameo Drive",
+      "plan": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6800-cameo-drive",
+      "id": "6800",
+      "address": "6800 Cameo Drive",
+      "price": "$449,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2312",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0460-6800-cameo-drive/redbud_a.jpg?iar=1&sc=1&thn=1&w=425&rev=1b60ae45610c4087b56b7428664726d7&hash=2B95FF5A297ED40556668DFAE1036EA3",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/6870_cameo-_cbe.jpg?as=1&w=494&rev=eb0d2b8068f143498a08bba4d4815c10&hash=75E036116B95BAB4E1D378E750811406",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe2.jpg?as=1&w=494&rev=7153a9ee7daf4b82814c5be1e8f6f2fd&hash=D0E5224125385B2B98993687413F509D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe3.jpg?as=1&w=494&rev=a5f92a55e5e44593ad5ee40c91d86956&hash=2871E805D3B02CDC532259D5C00452B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe4.jpg?as=1&w=494&rev=c705dc54fe2b466b946a5cc0022d9dcd&hash=17FD0A19ED2968E5EDB940EE531EB92A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe5.jpg?as=1&w=494&rev=2f0ca889fd7a4af48aca8ec348266495&hash=05A5606E2BAC158324AD24206CD26029",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe6.jpg?as=1&w=494&rev=4035e4630907460b869fd1e2d44d90c9&hash=9F646185147EAC923FED21006AFE355E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe7.jpg?as=1&w=494&rev=9f21c9f29fc4413d96ddd60ae3b9df04&hash=AAE294927544B0C1618AC1CC31455BEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe8.jpg?as=1&w=494&rev=1ec2abea02d04b94a8569ae27bdde97a&hash=539C9D97B7F55CE8D41C85F09E04BAA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe9.jpg?as=1&w=494&rev=1b468e62ebcd44a2a09a22d23221cbdf&hash=8D07C7C25E6399890DA449B8FD5B31D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe10.jpg?as=1&w=494&rev=a72ba0ff0db84828853514a25320b50a&hash=BE66FF0B115217E630E8C81497597507",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe11.jpg?as=1&w=494&rev=3b3de7e9863e400ebf778b870ae4d598&hash=81A6E9D7BB6FD18A55AE6C2541BD3AFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe12.jpg?as=1&w=494&rev=5d8551bcd3074283964a85e760965604&hash=30B02D38D9B2C0F26B33D5684300FB3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe13.jpg?as=1&w=494&rev=23ddd002296f43078ff6a06e00e9bf4d&hash=82F4CF25ACE153166C497A30DE470B43",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe14.jpg?as=1&w=494&rev=f64209b289ea43ada6c0fa593e0f89c9&hash=91B858A2826B35C3901D2FEA6E5F8868",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe15.jpg?as=1&w=494&rev=ff33b71e7d3a4562bcd388c2a570c7de&hash=F3CDB862B7DCDCCA76213C6F45A446F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe16.jpg?as=1&w=494&rev=2dce2cb883b24bec910d900c0a1ec214&hash=9E365B8AF168AEF9D01DD3F297E5C012",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe17.jpg?as=1&w=494&rev=51bab03e8da24ad8b4ab18e2cf347d89&hash=822C9FF1D3415461A929C57663DCBB66",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe18.jpg?as=1&w=494&rev=84090f9bbd8b4ab08d65f3ad01ea6977&hash=DF0B89EC6F7DA75810E675E7769CAA66",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe19.jpg?as=1&w=494&rev=89b6c6b8ae8843d6ae930a8b916041b7&hash=6A8B10B47C1C9084169626FB115F03E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/elm_a_7045serpentine_cbe20.jpg?as=1&w=494&rev=2a61f7335e5d490a99697aa21fe4d994&hash=D79627CD5DC3E63390D25AF32F4C21EC"
+      ],
+      "name": "6870 Cameo Drive",
+      "plan": "Elm",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6870-cameo-drive",
+      "id": "6870",
+      "address": "6870 Cameo Drive",
+      "price": "$479,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2546",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0453-6870-cameo-drive/6870_cameo-_cbe.jpg?iar=1&sc=1&thn=1&w=425&rev=eb0d2b8068f143498a08bba4d4815c10&hash=49AF984ADECE7C7AA4DE54F10EEDF93B",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/6891_cameo_drive.jpg?as=1&w=494&rev=67b21cabea82474d8477799e398a913f&hash=4E7E99D48CF1AFFB98740EEA0F0F1033",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv5.jpg?as=1&w=494&rev=f4323b5aae5a47ea9325d0964cf719c7&hash=862E592272732DF5E0EA9236612AFF84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv6.jpg?as=1&w=494&rev=164e33788eef470fb86fdf819c96e018&hash=C02A2683AC39E3448CFEDFF2D21B78F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv7.jpg?as=1&w=494&rev=e061088cd80b40008482c72e1f156d06&hash=014C25EAF922907490FEC177F6E1CE1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv8.jpg?as=1&w=494&rev=59aa313c14874f3ea8e6bd19ca0dd33b&hash=CEBB5D59C5C9B046BD612C38DE92E7F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv9.jpg?as=1&w=494&rev=59d01f783d21447f992c54d4b711f6a9&hash=F66E1BADCEE2D5E3C0C3F1B0A2A38A3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv10.jpg?as=1&w=494&rev=8e8ea14f29b84f549e4928513471519d&hash=22818B4E0735B0AFDD515C3223F40DB8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv11.jpg?as=1&w=494&rev=5e6ffec47d2245dc95b2495a7e004893&hash=AA6102812103C3BFCAC694E48B8F3206",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv12.jpg?as=1&w=494&rev=b2e44968b07a4d7e80056b864d891358&hash=96C3D56E8EC1C0125FB3DA5CE85BAB94",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv13.jpg?as=1&w=494&rev=e67aee4f861a4326aefa7966e7964f70&hash=717F3687E3F01E99B440C351129B1903",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv14.jpg?as=1&w=494&rev=c14320cb303744d5a05b24d6e01aa30a&hash=50F6C5404150516B8A6CA9588F082DE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv15.jpg?as=1&w=494&rev=e61a7153caeb4f11909292591dc7656f&hash=73CB522C1632ACBB80F7B9C4625AD370",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv16.jpg?as=1&w=494&rev=63fa209419cc43f4b969cdbfdea8346a&hash=82DA814365901A9EF73694E3226707E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv17.jpg?as=1&w=494&rev=a885935402594db6ab1211410de7edb9&hash=F36EC988255579620F25E4BB7AE49C55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv18.jpg?as=1&w=494&rev=8042194fa1a548a988443758a3990e39&hash=EFC7B687A57E3626A74A120ED670C1C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv19.jpg?as=1&w=494&rev=7b9c337ac6f1481aa7626fb4797b08bb&hash=0BB2562F420E0FD961ECB61D8C1F67AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv24.jpg?as=1&w=494&rev=480341d5755d441ab0e6d5ed23608b57&hash=1EB6785D055002710C9D87594EA0EBBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/antilles_2870_elmiv25.jpg?as=1&w=494&rev=78f896158fe34a31a4ae7fd111ec7728&hash=3E10E80B159FF0D62449D69EEEDBB2BA"
+      ],
+      "name": "6891 Cameo Drive",
+      "plan": "Elm Royale",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6891-cameo-drive",
+      "id": "6891",
+      "address": "6891 Cameo Drive",
+      "price": "$565,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3357",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0430-6891-cameo-drive/6891_cameo_drive.jpg?iar=1&sc=1&thn=1&w=425&rev=67b21cabea82474d8477799e398a913f&hash=8C654F45F0C0E56633F85CC3CA1F8952",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0450-6900-cameo-drive/redbud_b_crystalbayest.jpg?iar=1&sc=1&thn=1&w=425&rev=420bdcd3a1fc474083ae1ec5ef1fa1bc&hash=ADB3F7E347153C619DE1F88D9CCA473E"
+      ],
+      "name": "6900 Cameo Drive",
+      "plan": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6900-cameo-drive",
+      "id": "6900",
+      "address": "6900 Cameo Drive",
+      "price": "$479,095",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2312",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0450-6900-cameo-drive/redbud_b_crystalbayest.jpg?iar=1&sc=1&thn=1&w=425&rev=420bdcd3a1fc474083ae1ec5ef1fa1bc&hash=ADB3F7E347153C619DE1F88D9CCA473E",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_g_rev-2.jpg?as=1&w=494&rev=31230f90b2194838922e34184dc1dbf4&hash=FDE8DE1A041FC9C6C64417E7EACB7599",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web2.jpg?as=1&w=494&rev=210e57f67dc24b0ab4c607e40794cc2d&hash=7932DE978930BA88D73A69EA47145266",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web3.jpg?as=1&w=494&rev=8bb7bff7fa3547099c36d31ff1d0eba8&hash=FCF064B082B9161B1E0B8E83FA0745DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web4.jpg?as=1&w=494&rev=af0d91c39ccf48909db299544122aa3f&hash=6FDC43CA8BFB4B3F518EF77649B5A5B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web5.jpg?as=1&w=494&rev=604c6568457c4f359c5bdca264894539&hash=FF02209E4AF3E82CB2FC2ED301F04508",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web6.jpg?as=1&w=494&rev=14373b6faf084df99c01cbe8af6e3582&hash=0E5449C07BE6EDA9D99347FD5F99167A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web7.jpg?as=1&w=494&rev=4083d35c283344619c2d9bcc929705ae&hash=BC0C005E1A7B57CBAEE7862BB9A55927",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web8.jpg?as=1&w=494&rev=0f655ea97f5741cbbc874d832470258b&hash=FC4D04DCE702A4C61EB02C6A367FD6FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web9.jpg?as=1&w=494&rev=d9fc62e72b4642fa94c14b5cbd8bd2c0&hash=E895E442A4B652CFE6A33987EE99C7C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web10.jpg?as=1&w=494&rev=a0257cf48ede40b3b9457d4265bd3ba2&hash=ED7247493478BE19119F2C199CB2CFEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web11.jpg?as=1&w=494&rev=582f8b500cac483eb1243924f0f790f2&hash=F003ADAC12A07D0E91E9687DEC9D39B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web12.jpg?as=1&w=494&rev=1e7dfefcb04142d29a3e1a4d30537bdf&hash=6B0BB5AEF4E92C5A58B9B267C63D43AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web13.jpg?as=1&w=494&rev=cf59a11cb09047478bab222bf8c404d9&hash=856756250D134BCDF980EA5261594A38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web14.jpg?as=1&w=494&rev=a32175bb71804b8ba19b5aade235b464&hash=DA78C87CAF4995FD64CA01ED9282E7CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web15.jpg?as=1&w=494&rev=30549ec6392045be84c85a44d687e674&hash=4FDCAABFE52685E13902A98A814A012D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web16.jpg?as=1&w=494&rev=1b1cef243ec04c7286247feca0922f09&hash=8ED497DB9F1C7F27EE9DB5EF6D9468BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web17.jpg?as=1&w=494&rev=d9f7e9439cbf4ea68f1493872231bf84&hash=E09E24FC73A33A38D051964209BD2367",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web18.jpg?as=1&w=494&rev=e07dd7b4ffed4876bd034319cba24605&hash=AF3FFAC5D081632EA43196DE62BA4A21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web19.jpg?as=1&w=494&rev=a25480ceb9ec403e88060f7723438ad2&hash=1C806CA551E21820CD11AE6A5C6F92C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web20.jpg?as=1&w=494&rev=9631c64c6642495cb92400509c3b65e7&hash=2FE042013BB1843BF4A6B6E497AAB2C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web21.jpg?as=1&w=494&rev=6b4b2df79cc749dc847e951bfa49767e&hash=C5726C2526C6F39DF36B6256C1ADACD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web22.jpg?as=1&w=494&rev=4ae89189774d49f3b41995587eca4d76&hash=FE9BF7E93BF726D4478669E4C1AF6828",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web23.jpg?as=1&w=494&rev=06f993059146447f88e2c6b3ba45b4a7&hash=F635152CC03115C05CA0286E323AAAC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web24.jpg?as=1&w=494&rev=0e3449f4cb884d70bb618987521f3103&hash=211887E11D9E4CBDFA12F429AEBC19EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web25.jpg?as=1&w=494&rev=f556dea6b2fa4f3583c6a6c769486165&hash=14D87B9CF1E89489AA734258A0C46ED3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web26.jpg?as=1&w=494&rev=a48f3b113fe5489ebcb7999be625444c&hash=36E55E04E04BE785CB9D67F4A40F1C66",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web27.jpg?as=1&w=494&rev=f26ab6dbabbc403eb8dae1e91144d688&hash=2B85EF2827D8E3BA63FF65F158BCB6BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web28.jpg?as=1&w=494&rev=1f2f77b593ce44439e6ccf3647b5a7a2&hash=4483FE571DC3F00079D4D9726E45B8F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_orl_web29.jpg?as=1&w=494&rev=6537d73ca65e4c1babf8cbd3990767c6&hash=84B3E417F2B9246EDAAB9CCAF42A2241"
+      ],
+      "name": "6910 Cameo Drive",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6910-cameo-drive",
+      "id": "6910",
+      "address": "6910 Cameo Drive",
+      "price": "$437,110",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0449-6910-cameo-drive/madison_g_rev-2.jpg?iar=1&sc=1&thn=1&w=425&rev=31230f90b2194838922e34184dc1dbf4&hash=409C20EC4C10996C743654158A467ADA",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/elmroyale_a.jpg?as=1&w=494&rev=6c8e07f3070e4c9fa2a8367db4b7f2f0&hash=82251EDFE74A6C00B9DF79E80084DDD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv5.jpg?as=1&w=494&rev=832ace1e5bb343a4ac02363e050a8c9c&hash=0E5423856F17457FFAC04607516A80BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv6.jpg?as=1&w=494&rev=500b01ff753144c2a5b852526cf7fd6a&hash=DEE9EDF05CA3E681D44CF7D629B23869",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv8.jpg?as=1&w=494&rev=4fedda168c1b4638a9e0b701619111e1&hash=01684D834040984439F9557BA9B48A91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv7.jpg?as=1&w=494&rev=f9797688d355469b96b4ba4bd861f09e&hash=9150C062A8E25E1B5A69953615207447",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv9.jpg?as=1&w=494&rev=336c1fb170ba425b8f15979c039ac480&hash=43CEC73984BD33D0BBD3BF3194ED1074",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv4.jpg?as=1&w=494&rev=ea40cce3955442498819d9d56a4afc93&hash=2F0BE3F441D2C69427852B99DA7792BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv10.jpg?as=1&w=494&rev=99d24f1adb7e4bd1958f2efa6381cb7c&hash=5D97B35CB43BB39425571D67C78BC4C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv11.jpg?as=1&w=494&rev=95ced939b5934977a81c7b77383938ef&hash=E84D8057B3AA0321A990B5245AB6038A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv12.jpg?as=1&w=494&rev=a925f413d1604d189c37202aa54b3666&hash=6580C9B087C3C83F8A651ED25D6367A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv13.jpg?as=1&w=494&rev=208887b245d64ec8aa0abc8640984951&hash=62C823DF3EEEB3A261FFD56DDE18FE15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv14.jpg?as=1&w=494&rev=efb9b28fe200472ebb806d24058f9b56&hash=976F8E605019DB8017ED937EDC85F317",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv15.jpg?as=1&w=494&rev=b50ad3ecfe3b4375818c9b062f1a675e&hash=A5C96684949DBF4A089484EAC393E705",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv16.jpg?as=1&w=494&rev=10ab099ca84c4846a910bd7ff1e31a36&hash=EAFECF840A0860554C5596CBE20AA0D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv17.jpg?as=1&w=494&rev=c53fa6870a9143eabd4d2db08deebdd8&hash=F6C23437436C64EAB0E9CA50705F41BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv18.jpg?as=1&w=494&rev=c8c4c02ac6f7466c8e6691532ba317c3&hash=715B2F5D0A23DA27969EA08913C4940A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv19.jpg?as=1&w=494&rev=5cc72f0ee2994081974b7bb1d351553f&hash=91E8A703C90A9917D0071456ED962CBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv24.jpg?as=1&w=494&rev=3a851bdd0674457a89dfdd1af385b863&hash=3C499C26B362AD16F94526AD501BA643",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv25.jpg?as=1&w=494&rev=6f1dea45909c43abb56719a1319df449&hash=B2B89A80129D222E2B9EA5C8E0E9E6E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/antilles_2870_elmiv26.jpg?as=1&w=494&rev=2fb7aa6dcd43490ebd96ee0ecbf1557b&hash=0A34B265ED5FE400A5F021B51A9471FE"
+      ],
+      "name": "6921 Cameo Drive",
+      "plan": "Elm Royale",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6921-cameo-drive",
+      "id": "6921",
+      "address": "6921 Cameo Drive",
+      "price": "$564,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3357",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/3357/0433-6921-cameo-drive/elmroyale_a.jpg?iar=1&sc=1&thn=1&w=425&rev=6c8e07f3070e4c9fa2a8367db4b7f2f0&hash=983ED7C04947F42A6C2F010326C82CB9",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm-a.jpg?as=1&w=494&rev=c542f783cc5e4fbebc6a2cfd049372e6&hash=2B7D6F2096FBD9A135875C35325D665D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe.jpg?as=1&w=494&rev=e0bdcce6fbe5465190aec4b4c6805a93&hash=7FE0B1CC9BDB8860DE1DAADC90B67151",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe2.jpg?as=1&w=494&rev=70b289b5b2094dd79813605392166585&hash=6FC21DF1E3AC6C6F82DAD042B108D9BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe3.jpg?as=1&w=494&rev=33c61617e17d49728f7acf7bd5c9c848&hash=2D03BCCF145DFBC13512D56F57E3A857",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe4.jpg?as=1&w=494&rev=7346da55d79b44e885a44c4a6555338c&hash=B3D6815009ED3642987BCC22EAC0D53A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe5.jpg?as=1&w=494&rev=4ddf595b4dee44ccaf9e938718310204&hash=E17D866BDC24A706F9B63E2ED24BC01A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe6.jpg?as=1&w=494&rev=97ca3bbd41f049278131492f4fea64ce&hash=0510242A27F8D4180868A861B384DD0E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe7.jpg?as=1&w=494&rev=1c481ac9ff48436fafab675377e49778&hash=1E9FA377C25E3D453C65444923E95256",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe8.jpg?as=1&w=494&rev=35f8e54f95144e04a8bdde6098d9835c&hash=0DC53B2999B9F1FA547863A2D7C31A61",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe9.jpg?as=1&w=494&rev=3031528dce47416889fef408f166fb50&hash=936075E603D04CE498FA06D4B5DCF1AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe10.jpg?as=1&w=494&rev=34f21ddbd86844db82f67d64fb647cdd&hash=54C075D973CD5B0A501DAF103AFD1E8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe11.jpg?as=1&w=494&rev=b2ad9dda367145f4a5a88987986211a7&hash=9AB669FF29ECB19FF95CA5E77717C5B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe12.jpg?as=1&w=494&rev=389bca8a8f384cc5a2ae4ce3912dedc8&hash=3C1BDF55026E7EB16F3AB46599B25DE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe13.jpg?as=1&w=494&rev=e63aecd1954648b3acc5612aa1e9f976&hash=2C94F5EAA6DD0FC4085B26EFB75FABF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe14.jpg?as=1&w=494&rev=34b5033cc2cf49328fd30f1b549c18d7&hash=441F22A395C72ABC2047BAD077FA5E26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe15.jpg?as=1&w=494&rev=d61accabca3343f795c7c660ae3dec7c&hash=5C9E321AEFFEC5C5DA61567D40415B6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe16.jpg?as=1&w=494&rev=30b9b4f390454fa4aa8ce3a3c7b8fe99&hash=948BA6CAFF18CF2B2928981520823EAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe17.jpg?as=1&w=494&rev=c30b4927aeec4522b1868af86927a535&hash=86E7CA1F950DA749A0C3E5A4E96373DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe18.jpg?as=1&w=494&rev=0782f7aadc734415a94850dcb86dff49&hash=B3F162F2005E60D6E4D743221E0AE8D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm_a_7045serpentine_cbe20.jpg?as=1&w=494&rev=fc17309782694f2f9f0d525a43c14ed8&hash=6D155E1CE513D1773F3579341264BA29"
+      ],
+      "name": "6930 Cameo Drive",
+      "plan": "Elm",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6930-cameo-drive",
+      "id": "6930",
+      "address": "6930 Cameo Drive",
+      "price": "$484,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2546",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0447-6930-cameo-drive/elm-a.jpg?iar=1&sc=1&thn=1&w=425&rev=c542f783cc5e4fbebc6a2cfd049372e6&hash=ABC86C960D4266F82D7DB80050D262A0",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0434-6931-cameo-drive/6931_cameo-_cbe.jpg?iar=1&sc=1&thn=1&w=425&rev=847df9dd10264901812c35de9ec66a2a&hash=FF9816DCBEC46DE922961FAA081F94D8"
+      ],
+      "name": "6931 Cameo Drive",
+      "plan": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6931-cameo-drive",
+      "id": "6931",
+      "address": "6931 Cameo Drive",
+      "price": "$474,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2312",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0434-6931-cameo-drive/6931_cameo-_cbe.jpg?iar=1&sc=1&thn=1&w=425&rev=847df9dd10264901812c35de9ec66a2a&hash=FF9816DCBEC46DE922961FAA081F94D8",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0446-6940-cameo-drive/redbud_a_crystalbayest.jpg?iar=1&sc=1&thn=1&w=425&rev=927dec1fa8a64478bb3c86b3124e7a76&hash=CEA3863F66E27B6C9A07CA0AAB7F79D1"
+      ],
+      "name": "6940 Cameo Drive",
+      "plan": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6940-cameo-drive",
+      "id": "6940",
+      "address": "6940 Cameo Drive",
+      "price": "$477,190",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2312",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0446-6940-cameo-drive/redbud_a_crystalbayest.jpg?iar=1&sc=1&thn=1&w=425&rev=927dec1fa8a64478bb3c86b3124e7a76&hash=CEA3863F66E27B6C9A07CA0AAB7F79D1",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_g_rev-2.jpg?as=1&w=494&rev=8002fa00fa3a4468bf42018242e59ef6&hash=F4DC8E0B881A1C9632062A0FE949D609",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web2.jpg?as=1&w=494&rev=cdc47bb172b64849b5c0f0e71a7a5675&hash=44C9CAA69C78709B515E3AC165EC5A9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web3.jpg?as=1&w=494&rev=86d0bfdddc724fdcbc7c0f2e6964670b&hash=5364E7510A2818CE3E8CEA5C6A9E9C66",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web4.jpg?as=1&w=494&rev=907a40641a314628a14aed793c1635b7&hash=5C9ED4442831A197866641BCC79DB499",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web5.jpg?as=1&w=494&rev=f37b4b347eb843e3a29145f548126b0b&hash=2A8D293ED63A396CA6FF0C43B34586B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web6.jpg?as=1&w=494&rev=cd04efff52574c1dbe4fdb9bf77be384&hash=E27860799017175D6CFA9973EA55ED85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web7.jpg?as=1&w=494&rev=41f0a60507fb463a8acf14ac0ac6a637&hash=220402B46C7FFA77A01FC5796142F0B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web8.jpg?as=1&w=494&rev=39408d1eaefe48899628deae1613c39e&hash=35608E294175D4D6DF5BBD1729195F93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web9.jpg?as=1&w=494&rev=2e11b84cdaed4ca5b7b50bed5b76c45f&hash=514D4701D11B19A5A86D11D1FD79984D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web10.jpg?as=1&w=494&rev=4b36a7a7986b4e869e6cbef6083465d4&hash=244866667466544EE2AA280CC8FB9FA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web11.jpg?as=1&w=494&rev=3bf1e5ff73f44fd9aab69ecfb53df3fc&hash=F1727A73C19D77FB00973BA76708E67E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web12.jpg?as=1&w=494&rev=211cea0e212f4e9aa1ebb7a384a85cfd&hash=5F1D84917DA9EDDE0A711AAA56621180",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web13.jpg?as=1&w=494&rev=2d3166e6b9ea4a6783242686506d5071&hash=1F289AF260DC472B6D7AC86367E4E6B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web14.jpg?as=1&w=494&rev=e7e24cb8eddd452d8d823c17948030a9&hash=8C153797C4F3BB715716EA08D29273F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web15.jpg?as=1&w=494&rev=dd0df59aa0824d0197402e9376e9a049&hash=435AB9A569D5163187F60639F095D0B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web16.jpg?as=1&w=494&rev=a1ab8b3407f44cbc9ff8d7931075c8a9&hash=EAC7428AE9581801FD923580E293C908",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web17.jpg?as=1&w=494&rev=f095f8679ca644b88dc432f2a26dc28a&hash=96663AF378E303C2297889913AFDF8BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web18.jpg?as=1&w=494&rev=965f9b8b55cf41dbb17b1c6de49a3059&hash=3EC432B133E19F2243AFF51E3A0C50D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web19.jpg?as=1&w=494&rev=b6a1c188f1784b77adf6e512555088d7&hash=633A83187000196ED2CE8BA138C6523C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web20.jpg?as=1&w=494&rev=bf60ae2fc5034d7a811c350be2f7c5ec&hash=68B772849247782637601FBF2C6FD656",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web21.jpg?as=1&w=494&rev=066f640b5283475291deca824158f4ed&hash=C6D96BF46955669F583EF5F1F404432B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web22.jpg?as=1&w=494&rev=ede43149e47e4220930231b4685edd45&hash=E5EA7D78F36F634FB64997C3DFF8D302",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web23.jpg?as=1&w=494&rev=46f9bec4ff8e4e13a2d098ad69de6b74&hash=2C991A64AB73C9502F6DB180D7844B65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web24.jpg?as=1&w=494&rev=0873835e39384ab3a03d7ae1e448122f&hash=74B5E38343CCE2C2990366F575127A54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web25.jpg?as=1&w=494&rev=f63505c67f2c4cd68ba6240b3526c734&hash=F32C9E6A712D111E1E5C35CED07BD508",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web26.jpg?as=1&w=494&rev=42209679056a48bdbb2e0b023cbaf274&hash=CA04652222995B18991B840E5F80D89D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web27.jpg?as=1&w=494&rev=f000506095a140999ec40ed30e69a9df&hash=1EA82BDB0BDFA235C3528D28592B7CC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web28.jpg?as=1&w=494&rev=fded46a5aafd43ebb86a6244641fb19c&hash=535F5611E05D6A17EBDA1F24CB994D03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_orl_web29.jpg?as=1&w=494&rev=01a6bd0f521b44e48ccb6e82b5254cb4&hash=4B2C13D340171AF4F893011F4F1C90FA"
+      ],
+      "name": "6950 Cameo Drive",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6950-cameo-drive",
+      "id": "6950",
+      "address": "6950 Cameo Drive",
+      "price": "$436,640",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/5emb/0445-6950-cameo-drive/madison_g_rev-2.jpg?iar=1&sc=1&thn=1&w=425&rev=8002fa00fa3a4468bf42018242e59ef6&hash=BB43C610A8A43228347DFE00027A628C",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0437-6961-cameo-drive/redbud_a_crystalbayest.jpg?iar=1&sc=1&thn=1&w=425&rev=59fc35b8339545a78b7d773cefd8e01b&hash=D4B205C83415B92397BB87E8D5E60F37"
+      ],
+      "name": "6961 Cameo Drive",
+      "plan": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6961-cameo-drive",
+      "id": "6961",
+      "address": "6961 Cameo Drive",
+      "price": "$495,270",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2312",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2312/0437-6961-cameo-drive/redbud_a_crystalbayest.jpg?iar=1&sc=1&thn=1&w=425&rev=59fc35b8339545a78b7d773cefd8e01b&hash=D4B205C83415B92397BB87E8D5E60F37",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_2_b_crystalbayest2.jpg?as=1&w=494&rev=e100757ab84b4896a8ffc74b6981eb4a&hash=1DA8292E818EDCA50E27ADD7A471D1F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe2.jpg?as=1&w=494&rev=14d8a8442d2f457b80fa3c2fef898d9f&hash=C698E99C57D4C1A6DB403C1AF8AF0729",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe3.jpg?as=1&w=494&rev=a53336d834ab4c14afad82830310742e&hash=BD1F5A3892746B4D2A9FC1F1A89CDD26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe4.jpg?as=1&w=494&rev=4b6dbb77c7d7420fb9aef869d8592a89&hash=8661FEA7D20FDB7A3FC6E84D72051A2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe5.jpg?as=1&w=494&rev=2f41587161e545feb65ac3a6adcb5714&hash=C6CE4BF33C19A37982A78E0F41681E51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe6.jpg?as=1&w=494&rev=88af3b8033614acfb69ff7e2db04678b&hash=AA9B2C3ACD0FB63763F6FC5020F40874",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe7.jpg?as=1&w=494&rev=aa6f56e4cee54eb5a7d6760986b8123c&hash=DA2A6367B114C4C2745E268442A94922",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe8.jpg?as=1&w=494&rev=fec5336fbd554e9aab9e52e53c79bfb3&hash=7ADEB5ACA49DEF325A9F6B698AA328EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe9.jpg?as=1&w=494&rev=85f3866d15584c1ab914db7089025945&hash=96CB7760989DB3386FC47FC2300242B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe10.jpg?as=1&w=494&rev=395d952605044471b6114fd003768193&hash=3AA197734A1F97BAB96D32CEF01081F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe11.jpg?as=1&w=494&rev=aa12474dd3d840e7bbe1daef0629f992&hash=5C8B1A62FCA15AE28DBE23FB6CFA0611",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe12.jpg?as=1&w=494&rev=e9ef80f3330540daaf48b67a0e4d81c9&hash=38867676ED4F008C04E8AAF2C529D91A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe13.jpg?as=1&w=494&rev=aaa8d981b1164fe98fc307278d882a77&hash=A7FF1B453F447BBB13C0A40BAE9469EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe14.jpg?as=1&w=494&rev=1a4fe74828c84c9ab2ee5d17eb6ae66f&hash=7CDE0FEA8683AE93518ABC9F233EAEE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe15.jpg?as=1&w=494&rev=5823d2f2bf9040c7a82e42cf17ba90d5&hash=C01DDE5EC47B1C36FDABCD56FD0F6375",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe16.jpg?as=1&w=494&rev=0c87bb7100774c93b0c0ba0445069323&hash=5B266353154A4AD3B522D43CCD01F104",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe17.jpg?as=1&w=494&rev=b9de0c5cc02548e5807118fce96531cb&hash=9F1E094E5CBE1C1555ABA1847F37364B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe18.jpg?as=1&w=494&rev=2b09a54a8193496b8ac03c7b78e3dc35&hash=187E53CEEE182AFF86DCCA8204F637A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe19.jpg?as=1&w=494&rev=3617b8358bcd4845b82febdc302403ee&hash=247BB33131D63B28A23761AC5711FC67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_a_7045serpentine_cbe20.jpg?as=1&w=494&rev=2179fd352e864a09b32bc361f2bc6f5c&hash=15697D0EF23DFFE49BC8283F690357B3"
+      ],
+      "name": "6970 Cameo Drive",
+      "plan": "Elm II",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6970-cameo-drive",
+      "id": "6970",
+      "address": "6970 Cameo Drive",
+      "price": "$496,080",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2546",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0443-6970-cameo-drive/elm_2_b_crystalbayest2.jpg?iar=1&sc=1&thn=1&w=425&rev=e100757ab84b4896a8ffc74b6981eb4a&hash=5B80147FFAB52FABD01AC330FBC11D30",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm-a.jpg?as=1&w=494&rev=633dbacd63334972b2c4283aebf815d3&hash=BEF3D84E0672E264EE84318E529ED7C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe.jpg?as=1&w=494&rev=679d09cf323240e7b65bca37d4bcd3db&hash=FCF58FA28FB59F61E7838E47D58B24E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe3.jpg?as=1&w=494&rev=120073ed49724de790efb6c93de8823a&hash=7A6B7CC205D3DF419B5EEFC83E07A4D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe4.jpg?as=1&w=494&rev=e794422f1d084f64a905b8b42e9b8f76&hash=6549842A587CF17B07065A6AEED7C6DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe5.jpg?as=1&w=494&rev=50cbd97988b2434c93e1145d73f66b28&hash=4C5CB9C872DC33AEE325AA558A708ED1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe6.jpg?as=1&w=494&rev=97c48b9b3821472088ca81a021576fdf&hash=CC02898A84201850F20C6CD96D6A86D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe7.jpg?as=1&w=494&rev=1dcfbcbe47394208a9e188a04252d203&hash=ACEB4047EC5BEF44258426E01C52FE25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe8.jpg?as=1&w=494&rev=d67a4359155243e7943c14f61ea6478d&hash=656E58BC7E77ED5367852F06A75BD517",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe9.jpg?as=1&w=494&rev=74b999a6078d42bb9c8e64b6b078bd0f&hash=1D612C03DCC8C29331A7E61E45CC6E8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe10.jpg?as=1&w=494&rev=10dfa352fcc341498e7aa30ab2db3aa3&hash=979BECD5F88D987EE58CE3F00512BBCC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe11.jpg?as=1&w=494&rev=ca1fdd2f34ce454a8aa3b1f431bff5ec&hash=44A27721673E9DFDC9269DEF216AFF7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe12.jpg?as=1&w=494&rev=097f957fc0db49f283f430b492e3b0f2&hash=0D84EA56B2B57D6487485B73E099D020",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe13.jpg?as=1&w=494&rev=59a09e5a3f094e869823d38aa47b055f&hash=4FADA025E5DAE499DB23D2B8DF899508",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe17.jpg?as=1&w=494&rev=f8e59a16cc88400d90554a1e6f568afb&hash=FF1FA9B3591AD5DFEF52E4634DB54109",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm_a_7045serpentine_cbe20.jpg?as=1&w=494&rev=76e31a713b1841f2ac97bee4610e3140&hash=C3B6EDA19ADACBFDAB8D46F09DB6EC32"
+      ],
+      "name": "6971 Cameo Drive",
+      "plan": "Elm II",
+      "url": "https://www.drhorton.com/florida/east-florida/grant-valkaria/crystal-bay-estates/qmis/6971-cameo-drive",
+      "id": "6971",
+      "address": "6971 Cameo Drive",
+      "price": "$521,465",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2546",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34973-crystal-bay/349730000-crystal-bay-estates/2548/0438-6971-cameo-drive/elm-a.jpg?iar=1&sc=1&thn=1&w=425&rev=633dbacd63334972b2c4283aebf815d3&hash=8857BFED8EE191FB691688F174A77C71",
+      "latitude": 27.89544,
+      "longitude": -80.5124,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sunrise Elementary",
+          "type_and_grades": "K-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Southwest Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Bayside High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

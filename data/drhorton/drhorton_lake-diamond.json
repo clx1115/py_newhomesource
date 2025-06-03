@@ -1,0 +1,262 @@
+{
+  "timestamp": "2025-06-03T12:30:57.678686",
+  "name": "Lake Diamond",
+  "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond",
+  "status": null,
+  "price_from": "$295,990",
+  "address": "24 Hickory Course,Ocala, FL 34472",
+  "phone": "(352) 660-1142",
+  "description": "Find a new home in Ocala, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/fl_west_florida_dr_horton_express_cali_c_with_siding_cropped.png"
+  ],
+  "location": {
+    "latitude": 29.12876,
+    "longitude": -82.01724,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$295,990 - $311,489",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Golf course community",
+      "description": "Golf course community",
+      "icon_url": null
+    },
+    {
+      "name": "Large homesites",
+      "description": "Large homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Lofty 9ft ceilings",
+      "description": "Lofty 9ft ceilings",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete block construction",
+      "description": "Concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Washer & dryer",
+      "description": "Washer & dryer",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby historic Silver Springs",
+      "description": "Nearby historic Silver Springs State Park",
+      "icon_url": null
+    },
+    {
+      "name": "Surrounded by nature trails",
+      "description": "Surrounded by nature trails",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond/floor-plans/aria",
+      "details": {
+        "price": "From $296s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/aria_d_siding_8_8__lake_diamond_cropped_web.png?as=1&w=425&rev=48c44b1062af44f4a5db7e7a1a90db7d&hash=931D21D69ADC78F73DE5C009139D33D2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34745-lake-diamond/347450000-lake-diamond/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=d7b74a0c4de84a1fb0835ab44723bc1f&hash=AAF2EA8CF1CA219072A8C7B02A5AA4C0"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond/floor-plans/cali",
+      "details": {
+        "price": "From $311s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/fl_west_florida_dr_horton_express_cali_c_with_siding_cropped.png?as=1&w=425&rev=03d0f69c384b4853b7bfdd381d0b6b2b&hash=10927504E9DB91E468D28E17263A717D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34745-lake-diamond/347450000-lake-diamond/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=e023f6b3807940649c23670debdd4c00&hash=3089C9C6F15DF32B05DFBF9313F8D2FD"
+        }
+      ]
+    },
+    {
+      "name": "Denton",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond/floor-plans/denton",
+      "details": {
+        "price": "From $330s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,319 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/5edb/denton_d_at_lake_diamond_cropped.png?as=1&w=425&rev=2175ac273e54404fb38614d236c8af63&hash=A0714F3DA1511E6C1159EE6130DC619F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34745-lake-diamond/347450000-lake-diamond/5edb/fl_west_florida_dr_horton_express_denton_block_new.jpg?rev=0a95493e115441caa66e32c3fbf4dad3&hash=0265C047644F02EE2D77C497E2988BB0"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond/floor-plans/hayden",
+      "details": {
+        "price": "From $347s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ehb/fl_west_florida_dr_horton_express_hayden_h_3.jpg?as=1&w=425&rev=7c4bc63191784412851dc3c00dfbb575&hash=998B42415F5FE73D5E44D2DC38CF6B2A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34745-lake-diamond/347450000-lake-diamond/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=b57bf2677ad64f61ae5e24e31d6d1c31&hash=7E71B51934D65F28A846807B6B53A66E"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34745-lake-diamond/347450000-lake-diamond/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=b57bf2677ad64f61ae5e24e31d6d1c31&hash=7E71B51934D65F28A846807B6B53A66E"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/aria-d-8ft-8inch-gen3-elev_ind.jpg?as=1&w=494&rev=e02eb90b476847bbb06373b8d870bb84&hash=45AB1629AB1E11266C65BA6851FD18AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/01-fl_westflorida-dr-horton_express-series_aria_kitchen-entry.jpg?as=1&w=494&rev=f01e19210cf047b6a7e2bc455fee8f58&hash=71473EDA0791F8639745A1566DC4EB46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/02-fl_westflorida-dr-horton_express-series_aria_kitchen-dining.jpg?as=1&w=494&rev=b6a7f5b9afd644c29ac2ddaaae0b4cb9&hash=450C819521582338D741F5A51A2B0623",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/03-fl_westflorida-dr-horton_express-series_aria_dining.jpg?as=1&w=494&rev=c77170b65f7049469e84b80259466fe7&hash=5FF3E8C8ADC04D8A89F3A7B6C08837A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/04-fl_westflorida-dr-horton_express-series_aria_great-room.jpg?as=1&w=494&rev=2fda7e01b6da445088109b2a93c2f903&hash=0A52F1D061DEADEAC3E00C8ECF429F3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/05-fl_westflorida-dr-horton_express-series_aria_great-room-entry.jpg?as=1&w=494&rev=85468c0f5e1b4054b4bed6b5b18076a3&hash=1B91598A55F05B4928C2F01DD3538BE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/06-fl_westflorida-dr-horton_express-series_aria_bedroom-1.jpg?as=1&w=494&rev=a80b898d270f474ea9f0be39bbc09642&hash=932ADC47485DB382FAB23A7253F8F4BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/07-fl_westflorida-dr-horton_express-series_aria_bath-1.jpg?as=1&w=494&rev=2864f3fa424c45889e2f73f3504a2c6e&hash=E527770DD97CCC8D853491A828A25C91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/08-fl_westflorida-dr-horton_express-series_aria_bedroom-2.jpg?as=1&w=494&rev=adbf9f4e27e44080961eb001a70749ef&hash=4E8DECA1A63D4686135083F7836565A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/09-fl_westflorida-dr-horton_express-series_aria_bedroom-3.jpg?as=1&w=494&rev=1331701152e9433494be26345616664d&hash=0FD41777CAAD68865145AF0E62AC2591",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/10-fl_westflorida-dr-horton_express-series_aria_bath-2.jpg?as=1&w=494&rev=0c50e048c26e4ebd83044bcbeb592400&hash=16E2A64B669D19F8F346A4C08885D742"
+      ],
+      "name": "16 Hickory Course",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond/qmis/16-hickory-course",
+      "id": "16",
+      "address": "16 Hickory Course",
+      "price": "$311,489",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4eab/0376-16-hickory-course/aria-d-8ft-8inch-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e02eb90b476847bbb06373b8d870bb84&hash=F4677FC81FA71FFF591B23D4ABB69B22",
+      "latitude": 29.12876,
+      "longitude": -82.01724,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/cali-d-8ft-8inch-gen3-elev_ind.jpg?as=1&w=494&rev=cb881b290be64c148d9da218ca243dc3&hash=C65E9DD074EFD3171EB11AAD3ECD9EC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/1_cali_tos_kitchen.png?as=1&w=494&rev=3a0aa34534bf4112865cea4c0a211ba6&hash=D92EBC898DC6C7387A99BA8A77E006DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/3_cali_tos_kitchen_3.png?as=1&w=494&rev=737b5588013b4c69945018fdc7c16e6f&hash=8DB564398DEB69826182F91D4668D2E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/4_cali_tos_kitchen_2.png?as=1&w=494&rev=17d55219a71c46a588af32a93ab42a80&hash=016D5BC5CBED5162BE5294297E14E486",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/6_cali_tos_dining_room_4.png?as=1&w=494&rev=4294ced7c26e48d984aac2dae2d8ba39&hash=8E157A7B35864B53E72C392C6C3F23CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/11_cali_tos_great_room.png?as=1&w=494&rev=db8281a0305541e48a1e16fac10df101&hash=2C3201514F70D326507DB210D7C66D81",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/12_cali_tos_great_room_2.png?as=1&w=494&rev=a644921a16a340f08275a34366f3f86c&hash=2DFC9E5E3AF3D2B742600198D4C7514C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/13_cali_tos_great_room_3.png?as=1&w=494&rev=52e02d7d78e74e2d96f29b5abfb4a834&hash=1144DBF3F38C703CF944675524B46DFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/15_cali_tos_owners_suite.png?as=1&w=494&rev=817f5aa2fbad4ecfa4a8efcc252d12b9&hash=F061794AC1120A86F7A0091E15D6451F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=adc2d9a7ed8348808b744e048c3ae079&hash=1CE174F6505FDC8BA99A11608981DDF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=f04e71b375ad4028b0414b32a2c97329&hash=2D37FD23B08EA76E596DC5D374D7DCA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/23_cali_tos_bedroom_03.png?as=1&w=494&rev=b15aef7c63e54daeb984cb0daa9b6206&hash=C2A58F64D8FE586323CAB79E475D2EA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/26_cali_tos_bathroom_2.png?as=1&w=494&rev=ea49aea007f440869b134086b4398fce&hash=27787B34B0C53D3E0AD35E3F62C5BBDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/27_cali_tos_bedroom_2.png?as=1&w=494&rev=6aea469a055641cead521f876de893bf&hash=BA3B197C148C96AB159A997C865AEA6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/30_cali_tos_bedroom_4.png?as=1&w=494&rev=406d21a0e1594e8e9e451642e1ea9c67&hash=20BE318FD456F523841B259E4FFEB702"
+      ],
+      "name": "8 Hickory Course",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/lake-diamond/qmis/8-hickory-course",
+      "id": "8",
+      "address": "8 Hickory Course",
+      "price": "$295,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34745-lake-diamond/347450000-lake-diamond/4ebb/0375-8-hickory-course/cali-d-8ft-8inch-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=cb881b290be64c148d9da218ca243dc3&hash=52B8C3B5A15195752634AE90C6C4DF36",
+      "latitude": 29.12876,
+      "longitude": -82.01724,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Greenway Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Weir Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Weir High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "timestamp": "2025-06-03T13:05:42.159579",
+  "name": "Fallschase at Pathstone",
+  "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/fallchase-at-pathstone",
+  "status": null,
+  "price_from": "$345,900",
+  "address": "8394 Burch Ct,Pensacola, FL 32526",
+  "phone": "(850) 790-4436",
+  "description": "Find a new home in Pensacola, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/8387_burch_ct.jpg"
+  ],
+  "location": {
+    "latitude": 30.53313,
+    "longitude": -87.34082,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$345,900",
+    "sqft_range": "From 1,568 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Arden",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/fallchase-at-pathstone/floor-plans/4edf",
+      "details": {
+        "price": "From $370s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,957 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4edf/arden_a47.jpg?as=1&w=425&rev=e454982eb9a146169eedc12ec7d84ee0&hash=4418709D25C5FAEAC75BD96A73165197"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4edf/arden_floorplan.jpg?rev=ce23291178e74d52a29db1906522f92b&hash=F5D96823717B1E19A407F89CE58C7341"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4edf/arden_floorplan.jpg?rev=ce23291178e74d52a29db1906522f92b&hash=F5D96823717B1E19A407F89CE58C7341"
+        }
+      ]
+    },
+    {
+      "name": "The Cali",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/fallchase-at-pathstone/floor-plans/4ebf",
+      "details": {
+        "price": "From $357s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4ebf/cali__c8_hardi.jpg?as=1&w=425&rev=3f8884d9a43f47d7ab46503663d690b3&hash=576A18185F3E6A15479097A500E61E69"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4ebf/cali_floorplan.jpg?rev=3fcf47b969b045088309896ef8e0d814&hash=D949CDAAE705C525A7CFD50719C6DB04"
+        }
+      ]
+    },
+    {
+      "name": "The Lakeside",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/fallchase-at-pathstone/floor-plans/lake",
+      "details": {
+        "price": "From $385s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,012 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/lake/lakeside_a8-15.jpg?as=1&w=425&rev=e1cb03f04d19407e8708b511ba4a5b41&hash=2B58294FE8B764B3B32E4F57EBD20183"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/lake/lakeside_a_floor.jpg?rev=7ac715cb05844aa38580ffb7c79742a2&hash=F27E37196B3DA25A035780A371B9EA42"
+        }
+      ]
+    },
+    {
+      "name": "The Lismore",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/fallchase-at-pathstone/floor-plans/4elf",
+      "details": {
+        "price": "From $346s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,568 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4elf/lismore_a.jpg?as=1&w=425&rev=6f702ff0a2d14cab96c6e08c3351f01a&hash=A992D982D6142EC97342F4D8006BAA96"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22697-fallchase-at-pathstone/226970000-fallschase-at-pathstone/4elf/lismore_a_fe_floor_plan.jpg?rev=42ec1e6f8cf14fbc9ae0aee03891f272&hash=BAD940E6C1D9C090C585DA58641127DF"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Beulah Elementary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Beulah Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pine Forest High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

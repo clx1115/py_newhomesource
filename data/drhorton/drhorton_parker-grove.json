@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-06-03T11:24:20.379660",
+  "name": "Parker Grove",
+  "url": "https://www.drhorton.com/florida/northwest-florida/pace/parker-grove",
+  "status": null,
+  "price_from": "$262,900",
+  "address": "4826 Tenpence Circle,Pace, FL 32571",
+  "phone": "(850) 750-8697",
+  "description": "Find a new home in Pace, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/l1_parker-grove_elevation_palm-exterior_web.jpg"
+  ],
+  "location": {
+    "latitude": 30.60049,
+    "longitude": -87.11488,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$262,900",
+    "sqft_range": "From 1,537 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Palm Exterior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pace/parker-grove/floor-plans/rpex",
+      "details": {
+        "price": "From $278s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,553 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/rpex/palm_exterior_-_website.jpg?as=1&w=425&rev=f28df29185bd41ae93b347ab442d99e0&hash=98F085E6D49FA6E89F105A55E7E25E66"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=c6a9623eae794d2680416c351042db39&hash=13A086F191E4A697E0F79D79C3F37AFE"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=c6a9623eae794d2680416c351042db39&hash=13A086F191E4A697E0F79D79C3F37AFE"
+        }
+      ]
+    },
+    {
+      "name": "The Palm Interior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pace/parker-grove/floor-plans/rpin",
+      "details": {
+        "price": "From $263s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/rpin/palm_interior_website.jpg?as=1&w=425&rev=0840e553c2834152a52d4f5ea11825ee&hash=297FD407EBC85B7AC7447F7188ADCC1A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=332d696c27194a1f89ce4c5ac45fecab&hash=979FC98B87D0E4793F1432B0780D11E9"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22753-parker-grove/227530000-parker-grove/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=332d696c27194a1f89ce4c5ac45fecab&hash=979FC98B87D0E4793F1432B0780D11E9"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Pea Ridge Elementary School",
+          "type_and_grades": "Pre-K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Avalon Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pace High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

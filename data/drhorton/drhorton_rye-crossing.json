@@ -1,0 +1,595 @@
+{
+  "timestamp": "2025-06-03T15:37:00.529290",
+  "name": "Rye Crossing",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing",
+  "status": null,
+  "price_from": "$319,990",
+  "address": "17213 Wheatberry Boulevard,Parrish, FL 34219",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Parrish, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39292-rye-crossing/392920000-rye-crossing/rye-crossing-calimodel.jpg"
+  ],
+  "location": {
+    "latitude": 27.51855,
+    "longitude": -82.36544,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$319,990 - $493,000",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Basketball Court",
+      "description": "Basketball Court",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Pavillions",
+      "description": "Pavillions",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Tennis",
+      "description": "Tennis",
+      "icon_url": null
+    },
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete Block Construction",
+      "description": "Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/3eab",
+      "details": {
+        "price": "From $320s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/front.jpg?as=1&w=425&rev=e9a917feeff74d0490443f647a30e387&hash=A128D15EFB85EA184ED4D48491EB5071"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/allex_-_floor_plan_blacklines.jpg?rev=3bcb746a5252424d9c36bf5457a082ef&hash=651DD2B12F6948945045A243547E87AF"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/3emb",
+      "details": {
+        "price": "From $333s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3emb/harper_elevationc_stone_88.jpg?as=1&w=425&rev=539a4ab8b3d84aac89444ed6141023ea&hash=CD5389CC7EB22AEC8BBCAA63DF303CAA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3emb/harper_-_floor_plan_blacklines.png?rev=6c90da7f771f4678bca0121757cf4ba5&hash=C79A031358A19B44C0ECCA6F90F5BFD7"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/4eab",
+      "details": {
+        "price": "From $357s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/392920000-rye-crossing-50-exp/4eab/front.jpg?as=1&w=425&rev=84e84b39a54749a5af79ced45fc25604&hash=D99E8DBF8A42349FA36C69DA1F030766"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39292-rye-crossing/392920000-rye-crossing/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=93b650c385604aa0a327d39654e2a52c&hash=BDFA85207D79A08FFD2AC2EDEFA3B528"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/4ebb",
+      "details": {
+        "price": "From $376s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/392920000-rye-crossing-50-exp/4ebb/front.jpg?as=1&w=425&rev=bea28d3d45fe43b98fa073ad6a291809&hash=8753082013DB957F1EDDCF2CD5DA830D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing-50-exp/392920000-rye-crossing-50-exp/4ebb/cali_-_floor_plan_blacklines.jpg?rev=d7fba2743991405a9551dfe6e08b3f5d&hash=C4396E70E13219C984D59B286F93C2F8"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/5emb",
+      "details": {
+        "price": "From $411s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/madison-g-gen3-elev_ind.jpg?as=1&w=425&rev=0493006c31c043c794d247a48820dd00&hash=F645E9615D096E6102FC597A286D7BE3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/resized_for_community_builder.jpg?rev=18d32c8e26704e2d99f3089dcb628872&hash=9DEF0E7668C968BE50DCD67F536F57C0"
+        }
+      ]
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/3eeb",
+      "details": {
+        "price": "From $373s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/front.jpg?as=1&w=425&rev=729ae463de874fdeb388ed61f36d8fea&hash=75FFE266A369A65709985E6540635C57"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/elston_-_floor_plan_blacklines_lanai.jpg?rev=65096bb01f0d42c8ab5c024564305391&hash=CE77AA561A20EC97CB5A7C0299F5FE43"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/elston_-_floor_plan_blacklines_lanai.jpg?rev=65096bb01f0d42c8ab5c024564305391&hash=CE77AA561A20EC97CB5A7C0299F5FE43"
+        }
+      ]
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/e501",
+      "details": {
+        "price": "From $451s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,336 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e501/denham-g-gen3-elev_ind.jpg?as=1&w=425&rev=d67293ab98784a72a9066002f61c6d95&hash=79AF7C210361D8CC03C58016CA95595B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e501/covington_floor_plan_resized.jpg?rev=3406e2ebf59e41ae82ffa00d8c399469&hash=A7277902762614B4BAB2C988B84853EA"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/3efb",
+      "details": {
+        "price": "From $383s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/robie_front_ext.jpg?as=1&w=425&rev=7f1cf77cddc648c2bf6ce5f90443ad2f&hash=3B3A354C35D253A99FB99A9018FD5DEA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/robie_-_floor_plan_blacklines_lanai.jpg?rev=3fd67067a14043ff80bba39d01389b5b&hash=72FBDAC54D54D7649F4EA17A077EE3D5"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/robie_-_floor_plan_blacklines_lanai.jpg?rev=3fd67067a14043ff80bba39d01389b5b&hash=72FBDAC54D54D7649F4EA17A077EE3D5"
+        }
+      ]
+    },
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/e502",
+      "details": {
+        "price": "From $471s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,490 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/covington-g-gen3-elev_ind.jpg?as=1&w=425&rev=eae69120b74c4bbe8cb2af6f52808d6b&hash=32B12F5B2280B8460DC23DFEDDD267FA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/resized_for_community_builder.jpg?rev=1dfd84b528164aaaa2141826c8832227&hash=2B38D555C8F1C5625A673C20A0446A33"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/floor-plans/4ehb",
+      "details": {
+        "price": "From $416s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/392920000-rye-crossing-50-exp/4ehb/front.jpg?as=1&w=425&rev=cf49ba1574714bd6aca8ca6d080e765e&hash=11916A10883B430BAD8F30CC73071A05"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39292-rye-crossing/392920000-rye-crossing/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=699f728b9a8a42a89f84f501b98911d0&hash=D9630B99DB5B9819E3E9FECC99BD55D7"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39292-rye-crossing/392920000-rye-crossing/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=699f728b9a8a42a89f84f501b98911d0&hash=D9630B99DB5B9819E3E9FECC99BD55D7"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e501/0021-17231-whiskey-creek-trail/denham-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4a4e7f2f0ac4419885b621a4e812a597&hash=C9648A48DF249707FDE6A60A1FD5FAC9"
+      ],
+      "name": "17231 Whiskey Creek Trail",
+      "plan": "Denham",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17231-whiskey-creek-trail",
+      "id": "17231",
+      "address": "17231 Whiskey Creek Trail",
+      "price": "$475,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e501/0021-17231-whiskey-creek-trail/denham-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4a4e7f2f0ac4419885b621a4e812a597&hash=C9648A48DF249707FDE6A60A1FD5FAC9",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/allex-elevation-with-siding.jpg?as=1&w=494&rev=bb9d867902cd4661b9b5b57b6a6b3841&hash=77AF076A3C3936057AFCEDB96444FF38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=728f3df98d594155a2ce63289af1da0b&hash=50BAC8006784C29FC9431767E28A502D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=fd3af76a1a314adfb73a8c06534ca435&hash=DC212DE8313581F0B0D7F8949537B232",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=d6e1e8c5d6224578b4d9b6df871bb8ac&hash=97BBA6F7D125B529D81EFBB71DBBB2EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=f781dd75fc5744e5bf6a7c3c214a0116&hash=883215BC216D6C6DA604A55E42462102",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=12f69186260b41b3b72e7c805c868f68&hash=8F14F2EB97F981184442E2A7A5960738",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=e6056b7464d249a8891895ffe9d56362&hash=0A2AE10A1B274776DF287154091E0C34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=7cd7de1fc19f433592dc8d96f11452a1&hash=9B12B769DC9DFBE64A3FAC218DB1B191",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=37929b89ba4d4b808cc8e467bef2311d&hash=C02C4F7C08DB73BCF0F16EA7EBA855CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=217869ce27a84930a36c73ad1c4b7db9&hash=C7AC16C5066BFCE4845EBB2BCD2D1709",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=04d0015d753a48c48984dfec6d34b3aa&hash=735EAAB20A10763F4120F5A5ED436A8D"
+      ],
+      "name": "17251 Whiskey Creek Trail",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17251-whiskey-creek-trail",
+      "id": "17251",
+      "address": "17251 Whiskey Creek Trail",
+      "price": "$330,250",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eab/0012-17251-whiskey-creek-trail/allex-elevation-with-siding.jpg?iar=1&sc=1&thn=1&w=425&rev=bb9d867902cd4661b9b5b57b6a6b3841&hash=8D37A3B671A2222271D20D2537647AD5",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/01-robie_g_cls_nogrids.jpg?as=1&w=494&rev=25f6c050921f4d38990cfd457b86a62a&hash=F82936159A681905768BDB6783467889",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/01-fl_west-florida_drhorton_express-ser-robie-8f-entry.jpg?as=1&w=494&rev=7ef6f0fe7a124d36ba5c5f89e990987c&hash=B4DD168A19C24F81967F9379A1B95281",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/02-fl_west-florida_drhorton_express-ser-robie-8f-kitchen.jpg?as=1&w=494&rev=7b0162e5b0884ba7913291cc2c4a1443&hash=B1B5A0A7A1EE62FCA3B3EC6FBAAEFC6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/03-fl_west-florida_drhorton_express-ser-robie-8f-dining.jpg?as=1&w=494&rev=e68a71202e4a4616b1f1ee9fbf94ea9c&hash=26D4F756FC429E28501A79BB6EC41AEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/04-fl_west-florida_drhorton_express-ser-robie-8f-great-room.jpg?as=1&w=494&rev=1285f71871ea443180ed2daa8a783dd9&hash=56724923C09579269F930414CCB022B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/07-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-1.jpg?as=1&w=494&rev=e8153b803a73446fb0a27e26982e8699&hash=12F72467A925BC66300DB29E2052B5AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/08-fl_west-florida_drhorton_express-ser-robie-8f-bath-1.jpg?as=1&w=494&rev=16a9867d762646c3ba5b3e6ee0416725&hash=ADD94E43AC4DA6578DD2C239B71BBB4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/05-fl_west-florida_drhorton_express-ser-robie-8f-1st-floor-guest-room.jpg?as=1&w=494&rev=76ba1389cb514f40aeb70cb840717d25&hash=3D7ADFF201429B733EA0B2F1108443F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/09-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-3.jpg?as=1&w=494&rev=9d7e951986104623bee50b5ffaf49691&hash=9BE5A10F6BFD4C4C29CC4F2066DAD8AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/11-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-5.jpg?as=1&w=494&rev=adb6ebd7f71c4ac1be1ebb2099bd6931&hash=0BA09C6A2B66AC42830BC7546014BE19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/06-fl_west-florida_drhorton_express-ser-robie-8f-1st-floor-guest-bath.jpg?as=1&w=494&rev=5cd91a5fa0a44cc882f9060d66254e93&hash=B5C4100AEAB531034EA12EFC7DF18F25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/10-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-4.jpg?as=1&w=494&rev=0f0c8b1be3464783b5d6b65056f99a14&hash=A0144E5E86BBF383DA1236CD76C95965",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/12-fl_west-florida_drhorton_express-ser-robie-8f-bath-3.jpg?as=1&w=494&rev=7ce2adc3f1e7424f9113c227dc01986f&hash=09233C6389BEE474396DDAB223FC8F86"
+      ],
+      "name": "17255 Whiskey Creek Trail",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17255-whiskey-creek-trail",
+      "id": "17255",
+      "address": "17255 Whiskey Creek Trail",
+      "price": "$390,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2447",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3efb/0011-17255-whiskey-creek-trail/01-robie_g_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=25f6c050921f4d38990cfd457b86a62a&hash=69E7B0CD044F610293E24D80E6438BEB",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/01-elston-g-8ft-nostone.jpeg?as=1&w=494&rev=29540e1b5b2f4c38ab3c112b3579294c&hash=FB96837F0FC3188FC5EAAA94DF80A5A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/006.jpg?as=1&w=494&rev=3a7913fd324b461d9955f3e2691397c6&hash=DB1B5F06E59432EE2EF5F79A991265D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/007.jpg?as=1&w=494&rev=dffec7f8d09543baa539056d0799360c&hash=DFC615D356E5812214A5FB14798634CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/008.jpg?as=1&w=494&rev=d17513d6b9134c5aad2f9a9769c80e3a&hash=20B4FF9C3A589A8BA31A46FA36BAF716",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/005.jpg?as=1&w=494&rev=e90af0e45ff34acd8c452a7142a70b26&hash=3B1EDDB3AB0286D05B9BE696861F7337",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/004.jpg?as=1&w=494&rev=f08f05a4cb1947398dccc039230c0de2&hash=F9C3C1D0E39003B33DDCBE76E839FE15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/002.jpg?as=1&w=494&rev=0124676a81d843648aab91429cd602dc&hash=FB8076CD9D07C168FB4967E3A9E4D866",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/003.jpg?as=1&w=494&rev=fb1425d6958f42f193ceac486dbc0c51&hash=25D95CEE76D282A5D6FEBD6ABC66C803",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/009.jpg?as=1&w=494&rev=10025321014549ae8c4ef51f2e8cffc4&hash=91D21DBDA4E114BEF9AB49479F172845",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/010.jpg?as=1&w=494&rev=2470431036ec457396a8fbaeef8077ac&hash=B6D21EC2C5192CD5771014F369888000",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/020.jpg?as=1&w=494&rev=d79a48f21b7d4dfe8b1e787489404c0d&hash=BED135BCDE7EEF5080B012582AD54C4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/011.jpg?as=1&w=494&rev=e24836a758b64e4c887ce451ae086ec9&hash=22B1DB4F53C65172CC9516E87D30AE0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/019.jpg?as=1&w=494&rev=137211e94504483b868e97d4aac49d09&hash=EE64CBF9CA4433D42283C4C724488783",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/016.jpg?as=1&w=494&rev=712c97ccc17b499b884a6503fb7e9dd4&hash=CD3D09EB6AD6210822EBE58A1DB7A540",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/012.jpg?as=1&w=494&rev=6e3f6756b58c44cb9b6c4d5c69a945ee&hash=251C28E5964C741891D7A114D81B76D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/013.jpg?as=1&w=494&rev=90febc14b45f4cf2a598e41a3ccc8ce6&hash=3F2CC81CF1A81B3478E5EB739A54B2D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/014.jpg?as=1&w=494&rev=d66d9314f6ce4534ac25812165639d89&hash=26A63357AF50660C24E062B303DDC644",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/015.jpg?as=1&w=494&rev=396337a2ffb842b39a89b5a3829d5f89&hash=5D8F94F8E9BBE211F393F4A5D4817F4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/017.jpg?as=1&w=494&rev=f46287f2c967466ba93e99f5ab112305&hash=27B836BE888A7D5F43BA9AAABB989F97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/018.jpg?as=1&w=494&rev=f1fe1cd3a0684922afafe9d0f6a1c041&hash=44600BEE6CBC42C4E643B1946BE1FFF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/021.jpg?as=1&w=494&rev=790d74d64bcf4919b9046f262bf3862d&hash=E0E92CB5DAEEC833BCBF8BECC578EC7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/022.jpg?as=1&w=494&rev=90b523c561d542a68e51e407b1fcc68d&hash=EB2956ED41C43D0084D59421B3E6882C"
+      ],
+      "name": "17357 Whiskey Creek Trail",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17357-whiskey-creek-trail",
+      "id": "17357",
+      "address": "17357 Whiskey Creek Trail",
+      "price": "$392,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397610000-rye-crossing-40-exp/3eeb/0022-17357-whiskey-creek-trail/01-elston-g-8ft-nostone.jpeg?iar=1&sc=1&thn=1&w=425&rev=29540e1b5b2f4c38ab3c112b3579294c&hash=D36437739BD19CB4423C3E9ADD72301C",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/madison-g-gen3-elev_ind.jpg?as=1&w=494&rev=3f6d8747f32d461d85d82cbf650ca237&hash=EEAA751B6C1F31E38D979BF5B1BB245C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/1_madison_quartz_entry.jpg?as=1&w=494&rev=fac20824e373482fbafe138052e9bc75&hash=AA53B90B1D447CD5144FE376EBA4AE25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/2_madison_quartz_office.jpg?as=1&w=494&rev=5847aee685e24a92a01964fb368ac7c0&hash=862F1BE05FB1A2E8A4EB8748833C4701",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/3_madison_quartz_office.jpg?as=1&w=494&rev=4f45610150794f90bb8d1cd4b300e099&hash=37955D792BFCD576026C30E5ED06E73A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/4_madison_quartz_bath1.jpg?as=1&w=494&rev=c3c896199e96453185c26cb7011cce21&hash=01CC800A1F8573F2868097F6C05A64EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/5_madison_quartz_living.jpg?as=1&w=494&rev=226bccced3fe4aa58d2567bb15d58228&hash=EA9041013C6B1E4A5FD08788F53F7CA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/6_madison_quartz_living.jpg?as=1&w=494&rev=01b3cfa0f32f480eac9ac672b39064b7&hash=1043F28AFB0B54E4C3DFF1DDCB9D7E4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/7_madison_quartz_living.jpg?as=1&w=494&rev=6ed73196239444328dd1dbcb51145ed1&hash=7E2063E6BBF7BF246A929CE31C7963A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/8_madison_quartz_dining.jpg?as=1&w=494&rev=719dc890266245f69f591c9733b6598d&hash=40EE98909C50C63EBBF65888FBC4BCDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/9_madison_quartz_dining.jpg?as=1&w=494&rev=b1e166107a9d4f23bace8fb185a7db8d&hash=CBCDF128BB717B45F384BA4FEB33E590",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/10_madison_quartz_kitchen.jpg?as=1&w=494&rev=2329b4951ca3462e8a54316fe8bd98ae&hash=95A492F659149A3205424F65F8ED8CA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/11_madison_quartz_kitchen.jpg?as=1&w=494&rev=7ee7f85baf2c47de9ee3e52580c7becd&hash=96D3C62D2F2650A5DB38BBE0F68EB387",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/12_madison_quartz_kitchen.jpg?as=1&w=494&rev=fd550b4845bf40e1a3bc1d5d8d3b8d7a&hash=98B4C0AB561CA2ECDBC8B50C9FC81EAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/13_madison_quartz_kitchen.jpg?as=1&w=494&rev=1a0ca55eebb74c32bbc948c19c93d3ee&hash=AAF29131757DAD109ACC0433774E0455",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/17_madison_quartz_bed3.jpg?as=1&w=494&rev=a833b70c34764669862e915aa441cbf8&hash=6E8D2159981CC429003B062B0A143463",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/21_madison_quartz_bath3.jpg?as=1&w=494&rev=fe71f03057634064830fe726f8600c1e&hash=271C4E2C4E4B2E5738D6555C1C668A65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/18_madison_quartz_bed3.jpg?as=1&w=494&rev=08792193ade147b69658e8803e5729b7&hash=656340A6838FD797D3EE73B533D1E901",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/14_madison_quartz_bed1.jpg?as=1&w=494&rev=ee93cf97bcaf40f98447288b7f64bf52&hash=ECE6A7F1C5837075D3B0BE55E08302AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/16_madison_quartz_bed2.jpg?as=1&w=494&rev=ec9f92e2036a40abadce13af51d73b93&hash=75BB9B5D27EDDC525CC52935FFEC560C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/15_madison_quartz_bath2.jpg?as=1&w=494&rev=d9148d3c54884580a24ac661ddb8c606&hash=B6C3877CBAF3606C9488929D5610A4AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/19_madison_quartz_bath3.jpg?as=1&w=494&rev=10fd6389bf1e4b96bee55dd030b53ffc&hash=16C728084D50803B87B520CDFA2899CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/20_madison_quartz_bath3.jpg?as=1&w=494&rev=8aa26681b555447e8ecb45f0bacb5370&hash=CD78D987393F4CD84B1689712F94A5A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/22_madison_quartz_washdry.jpg?as=1&w=494&rev=f537b3aa431842d68f0032934e00ea5e&hash=3CFAD1EDFE7372DC40D5F23467A55967",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/23_madision_quartz_lani.jpg?as=1&w=494&rev=9dc840a0a21344bab226afa27ef263dd&hash=5780DF1EFA981360BFF720F60AC21911",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/24_madison_resized_for_web.jpeg?as=1&w=494&rev=06df91ec48f94b7ab12c5a671fd2b7c5&hash=37FC6C6572BC5BB68FE867BEB41CBBD2"
+      ],
+      "name": "17451 Whiskey Creek Trail",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17451-whiskey-creek-trail",
+      "id": "17451",
+      "address": "17451 Whiskey Creek Trail",
+      "price": "$399,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0001-17451-whiskey-creek-trail/madison-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3f6d8747f32d461d85d82cbf650ca237&hash=42A3AAFB1327E054DEDA94C7E8A3DBBE",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/0002-17455-whiskey-creek-trail/covington-l-gen3-elev_ind.jpg?as=1&w=1280&rev=60051042bfb6474c9fa0f2f256c39937&hash=C7B0F2D19B0CF1694CFF01D1F22D7145",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/0002-17455-whiskey-creek-trail/covington_resized_for_web.png?as=1&w=1280&rev=00f886c7b8b6404f84f272d499cfba06&hash=C7B11C941CCDB1085ADDA5FB034D73DE"
+      ],
+      "name": "17455 Whiskey Creek Trail",
+      "plan": "Covington",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17455-whiskey-creek-trail",
+      "id": "17455",
+      "address": "17455 Whiskey Creek Trail",
+      "price": "$474,000",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2490",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/0002-17455-whiskey-creek-trail/covington-l-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=60051042bfb6474c9fa0f2f256c39937&hash=CB384DE27BA68892A202721F34EF9583",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/madison-g-gen3-elev_ind.jpg?as=1&w=494&rev=b6b0ef4ced024dd0921cfe17ce84d73d&hash=08C8CE56FAC6907EA6D2B7BA8F901457",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/1_madison_quartz_entry.jpg?as=1&w=494&rev=fa36f81711c84a35bca3757d46ffe551&hash=21ACAA02734AB175AF934B40B0F3B961",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/2_madison_quartz_office.jpg?as=1&w=494&rev=e98fa24f3cdb4c838c1479597cee2802&hash=FBF00FCC0E2CFD1800FB891EE437BA95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/3_madison_quartz_office.jpg?as=1&w=494&rev=73f472b65c9c44f79678df1fa80092be&hash=333A71B3238BFDFD7ACDBAA7A7B9F432",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/10_madison_quartz_kitchen.jpg?as=1&w=494&rev=5441a74ecb75404090a1f18bafdc5c92&hash=9974791F75F261F21C1FC19DE8C9BC78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/11_madison_quartz_kitchen.jpg?as=1&w=494&rev=5b49017c5e8742f9a911981f9576bef3&hash=52670E4A46BCD0D01D1CC91311588F51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/12_madison_quartz_kitchen.jpg?as=1&w=494&rev=6577154f05044822ac4109488a1c42ba&hash=96EC87AB1E2A3A195E754EDF84E5E7A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/13_madison_quartz_kitchen.jpg?as=1&w=494&rev=31b2eecde14244adaff326daccbe9870&hash=2991A95B0ABB1040E84C50175F9B736F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/8_madison_quartz_dining.jpg?as=1&w=494&rev=be7111c2df584f64a48dc62a45edc4af&hash=4FEDA8E2916FEE336471AF2D0F07A512",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/9_madison_quartz_dining.jpg?as=1&w=494&rev=dbf1e9784d234124926f53cb0ac05758&hash=FC20F0523B60750FA1B889DF24A03ABC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/5_madison_quartz_living.jpg?as=1&w=494&rev=a61bee3a9c3c46c78ed827a38b583824&hash=90C86584CA73301E8246654E9AB5AE26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/6_madison_quartz_living.jpg?as=1&w=494&rev=6f016a41585143bf914b51ca39a12cf1&hash=313B715B5F47FC1D9662439109F7C3FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/7_madison_quartz_living.jpg?as=1&w=494&rev=1772eb59cd4c499a863fb6a3a9123434&hash=E5E8EFBB6AC4A0F35D66B981CEEF59B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/4_madison_quartz_bath1.jpg?as=1&w=494&rev=5492576e54f1459a903aadd18da2e401&hash=E476A1EE095FAEFF77F9EB44660A8AD3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/17_madison_quartz_bed3.jpg?as=1&w=494&rev=dea2cfc551e840b18928ca4eb8a6b1d0&hash=DAE95D19D5E0007653EC22EFA4B75A93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/21_madison_quartz_bath3.jpg?as=1&w=494&rev=0a8e423f2e86465887fac72e29e16fd0&hash=07DE7121A0B4B917469066839B8A7B13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/14_madison_quartz_bed1.jpg?as=1&w=494&rev=8c6d5dcb2663443e9fd73ede8180a69f&hash=6E2A8DE1FB10DEECF6BCC181D0E093D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/15_madison_quartz_bath2.jpg?as=1&w=494&rev=111f78909172459a96a28bd0c08c4d61&hash=EB27315C06A9332F9F772DAF73827DEE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/16_madison_quartz_bed2.jpg?as=1&w=494&rev=d81b9620478c41b69f25dea9f0dd5389&hash=FA506B11098BF1B79AD2327BF6DF108F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/18_madison_quartz_bed3.jpg?as=1&w=494&rev=9da3374fcfee452a8eb9c827176cc9f5&hash=514BF45AB9B8759936A614DEE9530E8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/19_madison_quartz_bath3.jpg?as=1&w=494&rev=186fcf44186243eba046c724aeee346b&hash=0ED2EC2A6277DE030E1239F06F8B5A14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/20_madison_quartz_bath3.jpg?as=1&w=494&rev=3c85463e0e7740349c9ce847be4ee0d7&hash=772D00932F973820B3382FFA1F87341C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/22_madison_quartz_washdry.jpg?as=1&w=494&rev=179de2118b3f4a1d871410393ea18226&hash=F1F40389530FC4B6D149E9C14ABD2D1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/23_madision_quartz_lani.jpg?as=1&w=494&rev=6e835845ea8f4d95bd2d9eeae548c167&hash=FCE5297A73739C9100849DA4F768EB7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/24_madison_resized_for_web.jpeg?as=1&w=494&rev=69851101d67f46738ae59d2064e77354&hash=4A2907F8153E2092077A2CC9F9650442"
+      ],
+      "name": "17463 Whiskey Creek Trail",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17463-whiskey-creek-trail",
+      "id": "17463",
+      "address": "17463 Whiskey Creek Trail",
+      "price": "$425,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/5emb/0004-17463-whiskey-creek-trail/madison-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b6b0ef4ced024dd0921cfe17ce84d73d&hash=5B66C29FE69C7748616BFD6FAB4E0AD1",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/0009-17464-whiskey-creek-trail/covington-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=65bbde0d964c4bd797d8bc784231c193&hash=8E5887803B03552D444D851D2425D0A5"
+      ],
+      "name": "17464 Whiskey Creek Trail",
+      "plan": "Covington",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17464-whiskey-creek-trail",
+      "id": "17464",
+      "address": "17464 Whiskey Creek Trail",
+      "price": "$493,000",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2490",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e502/0009-17464-whiskey-creek-trail/covington-g-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=65bbde0d964c4bd797d8bc784231c193&hash=8E5887803B03552D444D851D2425D0A5",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e501/0005-17467-whiskey-creek-trail/denham-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=77ab9a899b3e4a9396ea3ce425063a07&hash=8E9BC7428F6CF9EC0BF77853ED1DDB6C"
+      ],
+      "name": "17467 Whiskey Creek Trail",
+      "plan": "Denham",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/rye-crossing/qmis/17467-whiskey-creek-trail",
+      "id": "17467",
+      "address": "17467 Whiskey Creek Trail",
+      "price": "$468,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39292-rye-crossing/397620000-rye-crossing-60-exp/e501/0005-17467-whiskey-creek-trail/denham-h-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=77ab9a899b3e4a9396ea3ce425063a07&hash=8E9BC7428F6CF9EC0BF77853ED1DDB6C",
+      "latitude": 27.51855,
+      "longitude": -82.36544,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Gene Witt Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Buffalo Creek Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Parrish Community High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

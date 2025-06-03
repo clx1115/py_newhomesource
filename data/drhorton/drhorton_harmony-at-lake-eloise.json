@@ -1,0 +1,580 @@
+{
+  "timestamp": "2025-06-03T16:45:37.495268",
+  "name": "Harmony at Lake Eloise",
+  "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise",
+  "status": null,
+  "price_from": "$274,990",
+  "address": "1651 Hummingbird Road,Winter Haven, FL 33884",
+  "phone": "(863) 884-4363",
+  "description": "Find a new home in Winter Haven, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Polk County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3_front.jpg"
+  ],
+  "location": {
+    "latitude": 27.98068,
+    "longitude": -81.72115,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$274,990 - $401,105",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Event Lawn",
+      "description": "Event Lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Lake",
+      "description": "Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Multiple Lakes",
+      "description": "Multiple Lakes",
+      "icon_url": null
+    },
+    {
+      "name": "Park",
+      "description": "Park",
+      "icon_url": null
+    },
+    {
+      "name": "Pond",
+      "description": "Pond",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile Flooring",
+      "description": "Ceramic Tile Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Flooring",
+      "description": "Luxury Vinyl Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Shopping Dining",
+      "description": "Nearby Shopping and Dining",
+      "icon_url": null
+    },
+    {
+      "name": "Two Story Concrete Block",
+      "description": "Two Story Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3eab",
+      "details": {
+        "price": "From $275s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3eab/allex_nwg_c_cropped.jpg?as=1&w=425&rev=9cd346a5e5f04897889f13fccc61e35c&hash=4FAE8819B0D4B99F3F63F59F2514AC18"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389670000-harmony-at-lake-eloise-ph1-40s/3eab/allex_nwg_c.jpg?rev=7c2ee09e295b40b49b0bacdc83966a18&hash=0F7DDE6186CF47CEDEFA28E495817B6E"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/4eab",
+      "details": {
+        "price": "From $307s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4eab/aria_nwg_m.jpg?as=1&w=425&rev=f0478643b1b44bf2a9deb3b73b3b8f6e&hash=260EB391C0BF8EBC0D233CAADB7F17C9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4eab/aria_nwg_m.jpg?rev=f0478643b1b44bf2a9deb3b73b3b8f6e&hash=F9165CD17314F43E43208ADCE0CAD792"
+        }
+      ]
+    },
+    {
+      "name": "Astor",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3rab",
+      "details": {
+        "price": "From $310s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,593 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rab/1565_astor_ele_b_cs_3_cropped.jpg?as=1&w=425&rev=f31ebd0353294a74870c49dc2e2728a9&hash=BC6DEADBF5E018491BB1AF2A7F0E6B8A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rab/1565_astor_ele_b_cs_3_cropped.jpg?rev=f31ebd0353294a74870c49dc2e2728a9&hash=AFFBD174574D825602D835385BC142B7"
+        }
+      ]
+    },
+    {
+      "name": "Baldwin",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3rbb",
+      "details": {
+        "price": "From $320s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,720 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rbb/cropped_0003_baldwin_elea_cs5.jpg?as=1&w=425&rev=9bcc3238e9914238bf84ce049a2500d4&hash=2363BF97284B95633CB40650DD0E2DD3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rbb/cropped_0003_baldwin_elea_cs5.jpg?rev=9bcc3238e9914238bf84ce049a2500d4&hash=1FC64454660B410A7086AFB46EF0B3C4"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/4ebb",
+      "details": {
+        "price": "From $317s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise/389700000-harmony-at-lake-eloise-ph1-50s/4ebb/cali-nwg_n.jpg?as=1&w=425&rev=1d17041688fd45d7a1e05e29b4424f8c&hash=F86A12D81291C1EDA32802E06DD4D7A1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4ebb/cali-nwg_m.jpg?rev=36e9389573094190b274d784b2a13d83&hash=CC920EF0C1A28FB3B6BAB322FDC7D345"
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3rcb",
+      "details": {
+        "price": "From $360s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,308 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/1_exterior_cropped.jpg?as=1&w=425&rev=3ee2248611744a3cafad20fcbe9338ce&hash=F07F492132A20443C7D74547E0A56109"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/cropped_0000_2282_-_campbell_ele_b.jpg?rev=7a91279de14c499ebb54aaefa449b6a9&hash=A0A71C3C4E8572407A677473BC785240"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/cropped_0001_2282_-_campbell_ele_a.jpg?rev=27cb1cb77c01441e9b6c5d0e13b6dd48&hash=C18E83D71C85903E110F3994CDAF6BAE"
+        }
+      ]
+    },
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/e502",
+      "details": {
+        "price": "From $455s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,490 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e502/_0000_covington_ele_l_cs9.jpg?as=1&w=425&rev=1b55b024a26b4f25b0c09da6c71d7ce9&hash=69A03FAB4CBDFB0CB69625FAE2CBC6B8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e502/_0000_covington_ele_l_cs9.jpg?rev=1b55b024a26b4f25b0c09da6c71d7ce9&hash=FD159940535F669B2E8DD185DC781617"
+        }
+      ]
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/e501",
+      "details": {
+        "price": "From $435s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,336 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e501/_0000_denham_ele_l_cs_8.jpg?as=1&w=425&rev=8d7a7e28d70f4bc085376456d7433f78&hash=B3ECC26A108E3FCB117AD001D5DC63CB"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e501/_0000_denham_ele_l_cs_8.jpg?rev=8d7a7e28d70f4bc085376456d7433f78&hash=72704B8B7E44382A667F7DA22A712942"
+        }
+      ]
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/e401",
+      "details": {
+        "price": "From $346s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,372 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/e401/ensley_nwg_g.jpg?as=1&w=425&rev=99c7a96544364f07b3a4b35adcc729c6&hash=8981FD42FC2BD44F6CD31F0D932DAD15"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/e401/ensley_nwg_g.jpg?rev=99c7a96544364f07b3a4b35adcc729c6&hash=C2D0878EB93DCFF12AF32B838F63EB18"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/e401/ensley_nwg_h.jpg?rev=81d54abb25da4e65bde92d15ffc979ee&hash=50D42966A348F82CA38E2B392D1EBA8F"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3emb",
+      "details": {
+        "price": "From $287s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise/389670000-harmony-at-lake-eloise-ph1-40s/3emb/harper_c_mls.jpg?as=1&w=425&rev=40984ff777d146e9be0787867f70cbe4&hash=D9E67A45CFA234AC5CFA5B7C64AAF8CE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise/389670000-harmony-at-lake-eloise-ph1-40s/3emb/harper_c_mls.jpg?rev=40984ff777d146e9be0787867f70cbe4&hash=77BC05E94ED3F15ACAA683888DC27D90"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/4ehb",
+      "details": {
+        "price": "From $366s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4ehb/4_hayden_front_exterior_g.jpg?as=1&w=425&rev=73b9252e451a481996740c3caf69ed52&hash=2EB4BFA0D9C363946E8257310406EAE3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4ehb/hayden_nwg_g.jpg?rev=3c57319c4fa7487e8aa2707b68f4e05b&hash=EEA7B5D8D1536BDE27BD5B1B29F6C5FC"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4ehb/hayden_nwg_h.jpg?rev=df161a0943284a04926c5c6fc87ddf16&hash=24629C353F926414E9254751EE2DE3AB"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/e402",
+      "details": {
+        "price": "From $405s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,077 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e402/_0000_lakeside_ele_h_cs_12_revised.jpg?as=1&w=425&rev=f39d736489cb44a890bb653819e83dfc&hash=7C64C343BE2AF810143C9FF7C15E905A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/e402/lakeside_ele_g_cs_8.jpg?rev=aed47d9b2a82441a9a54e4152ebaf0f6&hash=E08077F252F4FB688FE5C3749C2D94B3"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/5emb",
+      "details": {
+        "price": "From $410s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/5emb/cropped_0003_madison_nwg_l.jpg?as=1&w=425&rev=4f480668776e4186973e572f40754bc9&hash=B6BB2679C9243D00B1B8B4A23B09F163"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/5emb/cropped_0003_madison_nwg_l.jpg?rev=4f480668776e4186973e572f40754bc9&hash=F156EF1EFE76A01BA9A654A651FADDA3"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/floor-plans/3efb",
+      "details": {
+        "price": "From $347s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3efb/cropped_0003_robie_nwg_h.jpg?as=1&w=425&rev=d0e6163cce254373ad88ded66a269b68&hash=A23EAE8514A225D5A2EEC8F073449D85"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3efb/cropped_0003_robie_nwg_h.jpg?rev=d0e6163cce254373ad88ded66a269b68&hash=21E6E29928A006988C789D4C2E0642CA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3efb/cropped_0004_robie_nwg_g.jpg?rev=1d58dc6c1b6d4b6db17d06264d7a33bb&hash=B06771482096502302ADA0C30085C5D4"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/aria_nwg_m_cropped.jpg?as=1&w=494&rev=05732049c360486ebdc25a69e7fe6ab9&hash=9E08B60E2BEB5C51540730B76B3DBE84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/1_entry.jpg?as=1&w=494&rev=cc959eee5dd74711b1fb5a91ffdaaa18&hash=4396C4EE9B6A70A76C891531DBF1289A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/2_entry.jpg?as=1&w=494&rev=06d9d9de4a03480ba58df6ec080f4689&hash=BBA939974CD9AEC339B6402FD3100DEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/3_entry.jpg?as=1&w=494&rev=76efcfd6b4bc4953a47a6878e16d911e&hash=E4DDD7F07DF6FAD2ED6668FA52D4639D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/4_entry.jpg?as=1&w=494&rev=ec57bab1d09e4a7c90c5f738b42432c6&hash=933E93173CC7735295B3AE143F5BF920",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/5_entry.jpg?as=1&w=494&rev=c4be2860295e4cb99231f7b1816ce6f6&hash=03388EB273DAF36A7F5E9DC5BD446079",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/6_laundry.jpg?as=1&w=494&rev=547064e70cd44e4584a004068d884119&hash=758E05300A0554900E59DDEF19CB13ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/7_laundry.jpg?as=1&w=494&rev=b15b484685af472c9d90f2d16c43ed42&hash=38BDF55C8A870F534C06F85B7409867B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/8_hall.jpg?as=1&w=494&rev=c159e70eb2214492b5bd4233ad4737c8&hash=290BEEEA849EF27FD6F2DA96EAE252A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/9_kitchen.jpg?as=1&w=494&rev=f0e51f3c30fc4801a90cb6fa443abfef&hash=3B18253834D4B6E19C8FC629A3A32DA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/10_kitchen.jpg?as=1&w=494&rev=5a8b19cc69a647e9a6a8abd09545160a&hash=3EBAA9E14564862FD9CF1CAAFB3A2C46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/11_kitchen.jpg?as=1&w=494&rev=08cafe035ecd471f8b7987a4da92911b&hash=1164DDE88EC1C79A146F83262A25D65B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/12_kitchen.jpg?as=1&w=494&rev=5a18a0fa4cf04ceda8a3929fca3a4fcf&hash=182F56F48A785EE133A70B5454DFCDF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/13_dining.jpg?as=1&w=494&rev=396910bf27e64ee2becb2189a8b10076&hash=746C12677463843FD04C6E80C4FDDFEE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/14_dining.jpg?as=1&w=494&rev=1a0a585b9ff841c18c07d6785004f90c&hash=9F9C0654646BF0DB363548ECEF28B539",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/15_dining.jpg?as=1&w=494&rev=845be5be91574635830bcf96c6234bfe&hash=51C70C92C9CF955004D97256B398C1DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/16_dining.jpg?as=1&w=494&rev=ac93ede4724546dcb9df26304db4e849&hash=05B39E9FB29D06EFA2A609EE6095FC9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/17_dining.jpg?as=1&w=494&rev=b021efd614604ebea9788419ef08f339&hash=52F3E0AE4F871E0EF8341663215A85F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/18_living.jpg?as=1&w=494&rev=5dff217153964c9892955847fea80780&hash=3BF3F360F3EDA36E9FC98BD563411B65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/19_living.jpg?as=1&w=494&rev=a51f4c7927464465b54b0607417c9587&hash=8912192E8088CD24AAE9A8425BADEE0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/20_living.jpg?as=1&w=494&rev=b52e8307dec44b038eb3e4283b3f743e&hash=A43F3E09C80B5E8541B1B84ED5110E28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/21_living.jpg?as=1&w=494&rev=6f9799dcacf640da90e5ed5762b51f9b&hash=20EA27221DF82950B2E1E9D394B02353",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/22_primary.jpg?as=1&w=494&rev=7b323f6a5fc74d0a8bd0095ca13431dd&hash=AFA096EA6CF77F6B3C91AD1A4ABC0699",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/23_primary.jpg?as=1&w=494&rev=febad910e9b446b1916e02eaae0fc49b&hash=42BE6D17FC4863255C62141E8E1268C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/24_primary.jpg?as=1&w=494&rev=67f8a88a422642199a295e1a72578afd&hash=387EBD1EA367E3559AEE802F23F9A271",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/25_primary.jpg?as=1&w=494&rev=2ac137b03c884652bafea8e4d580f093&hash=6D89FFF023A94CB562446779DC509C48",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/26_primary_bathroom.jpg?as=1&w=494&rev=af44c94af7bb4947bca7d695d8866921&hash=716D95527B17647DF9AB1D8B8494A10E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/27_primary_bathroom.jpg?as=1&w=494&rev=cff3000c7f1745afb74b0657102b56b1&hash=C7458B009654ADEB4A4A295E6082B90D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/28_primary_bathroom.jpg?as=1&w=494&rev=692afb33749c40c99d78982b8a9681cd&hash=C6758E764401BAEC5529C78440E873A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/29_primary_bathroom.jpg?as=1&w=494&rev=bd71d0a759ab4c75a1cd18db240ca8ce&hash=1993F1A0724779291B05005353BF4F16",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/30_guest_bedroom.jpg?as=1&w=494&rev=194e14c131a94b9f9c4e81b63e864fe8&hash=945F54E4E84835F09D0030E8E2978467",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/31_guest_bedroom.jpg?as=1&w=494&rev=c57ad8ce39814ef697e4d2afc18e4eb0&hash=4C51B4FA5E06812BA8267EA4C85F072A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/32_guest_bedroom.jpg?as=1&w=494&rev=f13c270d21c14854a52b3607a3c0a30f&hash=48D734A1491AAB1C33205F76C8568EDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/33_guest_bedroom2.jpg?as=1&w=494&rev=6673f59bb0d141378428367419bc51d5&hash=89EE993B01F3696DEC24CE70B4FA741C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/34_guest_bedroom2.jpg?as=1&w=494&rev=afe97c8f468e4f5abc3e28442696eada&hash=E0907E11F7D5158FC8C029A572412F09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/35_guest_bathroom.jpg?as=1&w=494&rev=51573e8b47644ade88078a88f83ddf19&hash=FFCE8F8942A9F566B0BA3DEFD2FF22D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/36_patio.jpg?as=1&w=494&rev=c917ef41c36f4db2ad6e0beed9d59f61&hash=BCA6A3817F18485DBC966CBB2EE714AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/37_patio.jpg?as=1&w=494&rev=6a007fd443f64c0a9552dbf5d9167ed7&hash=6021C6E1FFFE8A8B22E12FE71CEE6F8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4eab/aria_nwg_m.jpg?rev=f0478643b1b44bf2a9deb3b73b3b8f6e&hash=F9165CD17314F43E43208ADCE0CAD792",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise-ph1-40s/389700000-harmony-at-lake-eloise-ph1-50s/4eab/aria_floorplan_ex.jpg?rev=a99bf8415a664cc0b7a51e313c7a89c3&hash=03E5266E1C66907CBE6FB46F5B525A75"
+      ],
+      "name": "1145 Brimstone Circle",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1145-brimstone-circle",
+      "id": "1145",
+      "address": "1145 Brimstone Circle",
+      "price": "$330,290",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389700000-harmony-on-lake-eloise-ph1-50s/4eab/0002-1145-brimstone-circle/aria_nwg_m_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=05732049c360486ebdc25a69e7fe6ab9&hash=181FC26F52B6CECD06DACB691EFE4C8C",
+      "latitude": 27.98068,
+      "longitude": -81.72115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rbb/0009-1664-hummingbird-road/cropped_0001_baldwin_nwg_c.jpg?iar=1&sc=1&thn=1&w=425&rev=292f1c0fda17471d9fef91d81bf32d0c&hash=40CF550AD83584CC4E964057A81C10F7"
+      ],
+      "name": "1664 Hummingbird Road",
+      "plan": "Baldwin",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1664-hummingbird-road",
+      "id": "1664",
+      "address": "1664 Hummingbird Road",
+      "price": "$313,105",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1720",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rbb/0009-1664-hummingbird-road/cropped_0001_baldwin_nwg_c.jpg?iar=1&sc=1&thn=1&w=425&rev=292f1c0fda17471d9fef91d81bf32d0c&hash=40CF550AD83584CC4E964057A81C10F7",
+      "latitude": 27.98068,
+      "longitude": -81.72115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/cropped_0000_2282_-_campbell_ele_b.jpg?as=1&w=494&rev=5f583ea99d3c406abb4039e2da5e39a0&hash=3820CCB1B09CE8EBDEF6262D4A76A673",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/1_foyer_cropped.jpg?as=1&w=494&rev=c0fbf8ab5b394e47be476f2e98ae3b08&hash=4A2073607B10EF279D22EBD25CDF651A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/2_kitchen_cropped.jpg?as=1&w=494&rev=817c9ef79440438ea8f20e61afff226c&hash=653AC4CA16F18FD919B93FDC18909EDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/3_kitchen_cropped.jpg?as=1&w=494&rev=935f64a886054bc7b637c9a282e5f754&hash=9F068EC2CC7E904474F22A5BCEB22E02",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/4_kitchen_cropped.jpg?as=1&w=494&rev=8ab8dd6e9d574be7a9cc52eb4d106b64&hash=41E5DFD70F45F3223E667806FBFC36A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/5_kitchen_cropped.jpg?as=1&w=494&rev=bc8082f7aeea477aa42c4acf8bc8f002&hash=C70615A4A3C08839081AF08A451003C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/6_living_room_cropped.jpg?as=1&w=494&rev=8c2727954ec6441d8afc9912c16de014&hash=6291F59A7734FCEBDEC019D88AA2E1CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/7_living_room_cropped.jpg?as=1&w=494&rev=d64d5a406b824812abb592fcc36505a7&hash=BA299762D77DEAB2BD6EF8189553EAE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/8_living_room_cropped.jpg?as=1&w=494&rev=d2242ace66b443309732f2767a129b95&hash=7740F38FF57A4DB44CA6366A2D8C6760",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/9_living_room_cropped.jpg?as=1&w=494&rev=7092cc28710d4f2cb78092331b76d677&hash=8BBE747A5CA6BBAF41A893A62689ED2C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/10_living_room_cropped.jpg?as=1&w=494&rev=533c89eec9a9441bb170e24f499c0406&hash=6636183641CB766882078ACB32640E9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/11_primary_bedroom_cropped.jpg?as=1&w=494&rev=650c3d4901c040e6a9e5a971ca293e9b&hash=D588530D5E801E468AAD6EA04540DB24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/12__primary_bedroom_cropped.jpg?as=1&w=494&rev=3bab781b31514ed7804d713678574047&hash=DB16A6327896062FD1C2829680AC17D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/13__primary_bedroom_cropped.jpg?as=1&w=494&rev=a1c53706bfee441c9c80322bdd1635a6&hash=3404B3AB6D80B30DF221433FC2819BA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/16_primary_bathroom_cropped.jpg?as=1&w=494&rev=d209633b0830498684fc83d0b1e9d372&hash=54F617063319665A00B17D8D75FA7B68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/18_laundry_room_cropped.jpg?as=1&w=494&rev=571001d801544bdaaa3aae9df0b012b6&hash=C36DC8AFB3B2D00DE29C2E5FA50F1642",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/19_guest_bathroom_cropped.jpg?as=1&w=494&rev=0b4b8b933ada4e6aa52764f9ea2dca63&hash=738848B02D003D576FCE138F33BA7A52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/21_guest_bedroom_cropped.jpg?as=1&w=494&rev=fcaa054689e44b25b5cb22d24fa03510&hash=C7CC13C4A8291EBA191850AE8A8F5D3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/22_guest_bedroom_cropped.jpg?as=1&w=494&rev=0eddb1bbbea9461ba21d026aa22e5885&hash=1712C4EA418A0EE57DBC5696D437F239",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/23_guest_bedroom_cropped.jpg?as=1&w=494&rev=1873f12494834d3eac65c021474e3902&hash=8FCBE4A40C534CF034F38B1CFC5E97FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/24_guest_bedroom_cropped.jpg?as=1&w=494&rev=c10803d42d6e4ac88b0c410064dc1543&hash=D3A97EBF25A88E6F6E8E5D3CB2A8C93E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/25_guest_bedroom_cropped.jpg?as=1&w=494&rev=e4a842f25da842c185d8534facb4b5e4&hash=96D465DCC978ACCDCAAEA47BEDC5827A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/26_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=aebadfe3ba474ec0b976479f788ceca8&hash=4D0D88358A632BAFBACC7766BDFF0708",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/27_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=cfafd62bdfe341488d612b2ea881ef4f&hash=AA8ABDE6CD25D8E8B77673AE35CAF936",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/28_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=44e863e9525e4785b766bdca58118fc3&hash=4C7BA5C9C53BB97C2E62A324D3AEC0F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/29_second_guest_bedroom_cropped.jpg?as=1&w=494&rev=ac9306fb33b449f5ba008bfaf52c2855&hash=865AB7FEA60D98F0F9E3313F68265FAB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/30_third_guest_bedroom_cropped.jpg?as=1&w=494&rev=03b2a00cbe3c41d2b8bf307475a370f3&hash=8BC8B5A15DD3EF8DD0BB221143090C06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/31_third_guest_bedroom_cropped.jpg?as=1&w=494&rev=9ca8262d954541b7a371edf73192359d&hash=CA6549113A1D320A3F71541DEB746A5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/32_fourth_guest_bedroom_cropped.jpg?as=1&w=494&rev=54365e192bd740468ffdd41e669cf20c&hash=B4C71ED7284CF7DD660C6213C8AC89C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/33_fourth_guest_bedroom_cropped.jpg?as=1&w=494&rev=5e8e95bfae2a4d9f8011f4142e4160da&hash=3F7F75596D9F8C8601E930AB0D7CA71E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/34_half_bath_cropped.jpg?as=1&w=494&rev=5a9d1a11b43a43aa968b7e9f58cc1db1&hash=F9E7A833C97BDBD399685E2D5D1BF952",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/36_garage_cropped.jpg?as=1&w=494&rev=f8f2ddd9586749f5b2da8f9780568ac4&hash=29136EE9AD9E115359CC2D61BE917969",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/cropped_0000_2282_-_campbell_ele_b.jpg?rev=7a91279de14c499ebb54aaefa449b6a9&hash=A0A71C3C4E8572407A677473BC785240",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/389670000-harmony-on-lake-eloise-ph1-40s/3rcb/campbell_floorplan_unbranded.jpg?rev=c2a125c492564146b9ba8128a7ed7afb&hash=DDDDBB1FF92E92A88ADA827BC458BB0C"
+      ],
+      "name": "1668 Hummingbird Road",
+      "plan": "Campbell",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/1668-hummingbird-road",
+      "id": "1668",
+      "address": "1668 Hummingbird Road",
+      "price": "$364,605",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2308",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/cropped_0000_2282_-_campbell_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=5f583ea99d3c406abb4039e2da5e39a0&hash=76738B4D778C0B5641BD2658E7F81200",
+      "latitude": 27.98068,
+      "longitude": -81.72115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/5emb/0005-2602-sage-valley-way/cropped_0005_madison_nwg_h.jpg?iar=1&sc=1&thn=1&w=425&rev=0a5572f63b3f445dbfddae2dbfdfd3da&hash=E8E654D08B3724BBD255181E2E9D1FD0"
+      ],
+      "name": "2602 Sage Valley Way",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2602-sage-valley-way",
+      "id": "2602",
+      "address": "2602 Sage Valley Way",
+      "price": "$401,105",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/5emb/0005-2602-sage-valley-way/cropped_0005_madison_nwg_h.jpg?iar=1&sc=1&thn=1&w=425&rev=0a5572f63b3f445dbfddae2dbfdfd3da&hash=E8E654D08B3724BBD255181E2E9D1FD0",
+      "latitude": 27.98068,
+      "longitude": -81.72115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "John Snively Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Denison Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Region High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}
