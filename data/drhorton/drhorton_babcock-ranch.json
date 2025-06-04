@@ -1,0 +1,294 @@
+{
+  "timestamp": "2025-06-03T10:23:32.889028",
+  "name": "Palmetto Landing at Babcock Ranch",
+  "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch",
+  "status": null,
+  "price_from": "$269,999",
+  "address": "44703 Plumeria St,Punta Gorda, FL 33982",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Punta Gorda, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547850000-palmetto-landing-tvs/l1_southwest-florida_palmetto_exterior_2.jpg"
+  ],
+  "location": {
+    "latitude": 26.77151,
+    "longitude": -81.72308,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$269,999 - $424,999",
+    "sqft_range": "From 1,503 Sq. Ft.",
+    "bed_range": "2 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Splash Pad",
+      "description": "Splash Pad",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/4eab",
+      "details": {
+        "price": "From $350s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4eab/aria-mc_revised_web.jpg?as=1&w=425&rev=7389792f6a874f55a72df532a611cda3&hash=864C32D5EAC7E8DFDD34EDBEEDDDABE6"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/4ebb",
+      "details": {
+        "price": "From $360s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/l1_southwest-florida_palmetto_exterior_2.jpg?as=1&w=425&rev=27a2eeaffaca48ff83642916e94edeb4&hash=B1676A15ACD5FD58AE8F18AB9C3AFFC4"
+      }
+    },
+    {
+      "name": "Carrington",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/1503",
+      "details": {
+        "price": "From $290s",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,503 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547850000-palmetto-landing-tvs/1503/1503-carrington-colonial_web.jpg?as=1&w=425&rev=2f785402e5e84cf88b38823f4e6f873c&hash=38CDE34FFD27807AC3EDD3DE731946AF"
+      }
+    },
+    {
+      "name": "Clifton",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/a4cb",
+      "details": {
+        "price": "From $380s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,816 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4cb/clifton-elevation-a-colonial_web.jpg?as=1&w=425&rev=19585597b02848af8db798c11a96e880&hash=5D608EC04FBA0F2E09E5EB00ACB1AA19"
+      }
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/a4db",
+      "details": {
+        "price": "From $400s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,034 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4db/delray-elevation-a-colonial_web.jpg?as=1&w=425&rev=1d06ccda9da448fc8360ffdeef276153&hash=5D30ED7D8CAD4E9027E6DF5277533508"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/4ehb",
+      "details": {
+        "price": "From $430s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ehb/hayden-mg_colonial_revised1_web.jpg?as=1&w=425&rev=dfeb72d8c48f45b3a3023ffc03345c22&hash=8ADB85E4501CE3511AA1546F88A78281"
+      }
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/floor-plans/2077",
+      "details": {
+        "price": "From $390s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/2077/2077_lakeside_ele_ma_stdgarage_web.jpg?as=1&w=425&rev=0844a6f3c2ab4903b6884d825b1ace0a&hash=25397E85270BEEC0D912A3560AA3FF01"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4db/0104-17773-shade-tree-loop/delray-elevation-b_colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=15ca040405a54629b8aad8b75875829e&hash=EA0ADA8D2DBC8CDD9B8C0E56FED24218"
+      ],
+      "name": "17773 SHADE TREE LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/17773-shade-tree-loop",
+      "id": "17773",
+      "address": "17773 SHADE TREE LOOP",
+      "price": "$424,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4db/0104-17773-shade-tree-loop/delray-elevation-b_colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=15ca040405a54629b8aad8b75875829e&hash=EA0ADA8D2DBC8CDD9B8C0E56FED24218",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4cb/0106-17785-shade-tree-loop/clifton-elevation-b-colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=4c0fff9cb4b4442d8a8632316943892b&hash=9849337106ABB243BA9166D35B0B4F6B"
+      ],
+      "name": "17785 SHADE TREE LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/17785-shade-tree-loop",
+      "id": "17785",
+      "address": "17785 SHADE TREE LOOP",
+      "price": "$418,920",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1816",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4cb/0106-17785-shade-tree-loop/clifton-elevation-b-colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=4c0fff9cb4b4442d8a8632316943892b&hash=9849337106ABB243BA9166D35B0B4F6B",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4cb/0069-17788-shade-tree-loop/clifton-elevation-b-colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=a5ddb1c811e14d1fa9d9a57dab0693fa&hash=43BF7A02B3CAD89882CACD72538A6F17"
+      ],
+      "name": "17788 SHADE TREE LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/17788-shade-tree-loop",
+      "id": "17788",
+      "address": "17788 SHADE TREE LOOP",
+      "price": "$401,720",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1816",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/a4cb/0069-17788-shade-tree-loop/clifton-elevation-b-colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=a5ddb1c811e14d1fa9d9a57dab0693fa&hash=43BF7A02B3CAD89882CACD72538A6F17",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547850000-palmetto-landing-tvs/1503/0109-44413-palm-frond-drive/1503-carrington-colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7bde5d2a6b6946c787a80479ef4c81aa&hash=273652BA1F6F74FB68F07BC705DBF777"
+      ],
+      "name": "44413 PALM FROND DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/44413-palm-frond-drive",
+      "id": "44413",
+      "address": "44413 PALM FROND DR",
+      "price": "$269,999",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1503",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547850000-palmetto-landing-tvs/1503/0109-44413-palm-frond-drive/1503-carrington-colonial_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7bde5d2a6b6946c787a80479ef4c81aa&hash=273652BA1F6F74FB68F07BC705DBF777",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/0024-44627-palm-frond-drive/cali_ele_mh_cs3_revised1_web.jpg?iar=1&sc=1&thn=1&w=425&rev=cd34c4b979da4bf09aea17126e6924c9&hash=4EB3C11233C4D74D2F6384EC14071BE4"
+      ],
+      "name": "44627 PALM FROND DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/44627-palm-frond-drive",
+      "id": "44627",
+      "address": "44627 PALM FROND DR",
+      "price": "$379,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/0024-44627-palm-frond-drive/cali_ele_mh_cs3_revised1_web.jpg?iar=1&sc=1&thn=1&w=425&rev=cd34c4b979da4bf09aea17126e6924c9&hash=4EB3C11233C4D74D2F6384EC14071BE4",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/0021-44628-palm-frond-drive/cali_ele_mh_cs3_revised1_web.jpg?iar=1&sc=1&thn=1&w=425&rev=4ef5cda253d143259d9378d5e4279ebc&hash=4527F3916F25EF377F3023C8F5219894"
+      ],
+      "name": "44628 PALM FROND DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/44628-palm-frond-drive",
+      "id": "44628",
+      "address": "44628 PALM FROND DR",
+      "price": "$379,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/0021-44628-palm-frond-drive/cali_ele_mh_cs3_revised1_web.jpg?iar=1&sc=1&thn=1&w=425&rev=4ef5cda253d143259d9378d5e4279ebc&hash=4527F3916F25EF377F3023C8F5219894",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/0022-44634-palm-frond-drive/cali_ele_mg_cs4_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d5ef4111381a4fd8af332da2d04accf6&hash=E752A476C0E568AA39A02E50A81D6B5C"
+      ],
+      "name": "44634 PALM FROND DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/babcock-ranch/qmis/44634-palm-frond-drive",
+      "id": "44634",
+      "address": "44634 PALM FROND DR",
+      "price": "$374,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54785-babcock-ranch/547840000-palmetto-landing-50s/4ebb/0022-44634-palm-frond-drive/cali_ele_mg_cs4_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=d5ef4111381a4fd8af332da2d04accf6&hash=E752A476C0E568AA39A02E50A81D6B5C",
+      "latitude": 26.77151,
+      "longitude": -81.72308,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

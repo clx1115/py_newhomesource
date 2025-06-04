@@ -1,0 +1,161 @@
+{
+  "timestamp": "2025-06-03T20:35:06.521810",
+  "name": "Colonial East",
+  "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east",
+  "status": null,
+  "price_from": "$444,900",
+  "address": "304 Robinson Bluff Road,Panama City Beach, FL 32407",
+  "phone": "(850) 801-6649",
+  "description": "Find a new home in Panama City Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/norfolk.jpg"
+  ],
+  "location": {
+    "latitude": 30.21389,
+    "longitude": -85.8335,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$444,900 - $466,900",
+    "sqft_range": "From 1,771 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2.5 - 3.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Quick Access Highways",
+      "description": "Quick Access to Highways",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Alabaster",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east/floor-plans/alab",
+      "details": {
+        "price": "From $467s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,245 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/alab/alabaster_0000s_0045_dsc09689.jpg?as=1&w=425&rev=ab05d084fc6443fbacd41c0d1739bcc3&hash=7A70F18B933A2D19C7055EE96B2D1906"
+      }
+    },
+    {
+      "name": "Monroe",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east/floor-plans/monr",
+      "details": {
+        "price": "From $449s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,846 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/monr/kelly_street_monroe_1_front.jpg?as=1&w=425&rev=6a1ff2b1805e4fe2a800be9c8dfa7d44&hash=EEA41C1891128C8CE930647DB543F464"
+      }
+    },
+    {
+      "name": "Norfolk",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east/floor-plans/norf",
+      "details": {
+        "price": "From $445s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,771 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/norf/kelly_street_pines_norfolk_1_front.jpg?as=1&w=425&rev=43d51248fadc4044ad1290a2ffe08d5f&hash=3C2E7E57F1C5F2A32DEC7B806DE1B288"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/alab/0010-323-robinson-bluff-road/323_robinson_bluff_road.jpg?iar=1&sc=1&thn=1&w=425&rev=c72e1b973b7e4a2ea069385c2b710163&hash=F6FC0E559251FF567A7AA8206E752A61"
+      ],
+      "name": "323 Robinson Bluff Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east/qmis/323-robinson-bluff-road",
+      "id": "323",
+      "address": "323 Robinson Bluff Road",
+      "price": "$466,900",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2245",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/alab/0010-323-robinson-bluff-road/323_robinson_bluff_road.jpg?iar=1&sc=1&thn=1&w=425&rev=c72e1b973b7e4a2ea069385c2b710163&hash=F6FC0E559251FF567A7AA8206E752A61",
+      "latitude": 30.21389,
+      "longitude": -85.8335,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/norf/0011-325-robinson-bluff-road/kelly_street_pines_norfolk_1_front.jpg?iar=1&sc=1&thn=1&w=425&rev=b3e8995a6b034e7982a508ffe4eee2a6&hash=BB0E754142F0F1021CA01CB842443E4B"
+      ],
+      "name": "325 Robinson Bluff Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east/qmis/325-robinson-bluff-road",
+      "id": "325",
+      "address": "325 Robinson Bluff Road",
+      "price": "$444,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1771",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/norf/0011-325-robinson-bluff-road/kelly_street_pines_norfolk_1_front.jpg?iar=1&sc=1&thn=1&w=425&rev=b3e8995a6b034e7982a508ffe4eee2a6&hash=BB0E754142F0F1021CA01CB842443E4B",
+      "latitude": 30.21389,
+      "longitude": -85.8335,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/monr/0012-327-robinson-bluff-road/3508_cottage_cove_lane.jpg?iar=1&sc=1&thn=1&w=425&rev=2d548aba45c74c019bc7331699f86f9c&hash=918B882DE511269E756B2C93465E4049"
+      ],
+      "name": "327 Robinson Bluff Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east/qmis/327-robinson-bluff-road",
+      "id": "327",
+      "address": "327 Robinson Bluff Road",
+      "price": "$448,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1846",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297770000-colonial-east-sf/monr/0012-327-robinson-bluff-road/3508_cottage_cove_lane.jpg?iar=1&sc=1&thn=1&w=425&rev=2d548aba45c74c019bc7331699f86f9c&hash=918B882DE511269E756B2C93465E4049",
+      "latitude": 30.21389,
+      "longitude": -85.8335,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

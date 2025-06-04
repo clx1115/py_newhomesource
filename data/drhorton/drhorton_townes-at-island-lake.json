@@ -1,0 +1,120 @@
+{
+  "timestamp": "2025-06-03T06:07:15.486485",
+  "name": "Townes at Island Lake",
+  "url": "https://www.drhorton.com/florida/tampa/pinellas-park/townes-at-island-lake",
+  "status": null,
+  "price_from": "$0",
+  "address": "7792 42nd Lane N,Pinellas Park, FL 33781",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Pinellas Park, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39731-townes-at-island-lake-th/397310000-townes-at-island-lake-th/08.jpg"
+  ],
+  "location": {
+    "latitude": 27.84277,
+    "longitude": -82.69078,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": "From 1,463 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction on Both the First and Second Floor",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from Local Area",
+      "description": "Minutes from Local Area Attractions",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Pearson A",
+      "url": "https://www.drhorton.com/florida/tampa/pinellas-park/townes-at-island-lake/floor-plans/t20a",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39731-townes-at-island-lake-th/397310000-townes-at-island-lake-th/t20a/05.jpg?as=1&w=425&rev=63cace53feb54b77853eb7b5d1d9b88c&hash=A1206D9173C06E813B9CC82A0098770B"
+      }
+    },
+    {
+      "name": "Pearson B",
+      "url": "https://www.drhorton.com/florida/tampa/pinellas-park/townes-at-island-lake/floor-plans/t20b",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39731-townes-at-island-lake-th/397310000-townes-at-island-lake-th/t20b/09.jpg?as=1&w=425&rev=2d3554b4e18642cfb7a66ca8ceed2da3&hash=FBE8FA7A75ECBBE111A245A491E15CFF"
+      }
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Pinellas Park Elementary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pinellas Park Middle School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pinellas Park High School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

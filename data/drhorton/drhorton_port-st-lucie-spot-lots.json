@@ -1,0 +1,412 @@
+{
+  "timestamp": "2025-06-03T08:47:05.255500",
+  "name": "Port St. Lucie Spot Lots",
+  "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots",
+  "status": null,
+  "price_from": "$432,990",
+  "address": "2844 SW Savona Blvd.,Port St. Lucie, FL 34953",
+  "phone": "(772) 763-4181",
+  "description": "Find a new home in Port St Lucie, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the East Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/savona_front_web.jpg"
+  ],
+  "location": {
+    "latitude": 27.25886,
+    "longitude": -80.39013,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$432,990 - $526,965",
+    "sqft_range": "From 1,828 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/floor-plans/cali",
+      "details": {
+        "price": "From $434s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/348970000-psl-spot-lots/4ebb/savona_front_web.jpg?as=1&w=425&rev=d16c56598a104a03911079e95bdfc1dd&hash=646CAA645486668744EA166604DBAD6D"
+      }
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/floor-plans/5emb",
+      "details": {
+        "price": "From $480s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/madison-psl2.jpg?as=1&w=425&rev=3d3ecd542054464f9196b1c893c0f780&hash=07E40F3203F61B6231B0991C2DCA5E49"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0032-1026-sw-romaine-ln/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=2c6fcef6a05a40ffb1f673afbfc63b1a&hash=D04AF78AF6B800C99F64D41F86976EA9"
+      ],
+      "name": "1026 SW Romaine Ln",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/1026-sw-romaine-ln",
+      "id": "1026",
+      "address": "1026 SW Romaine Ln",
+      "price": "$496,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0032-1026-sw-romaine-ln/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=2c6fcef6a05a40ffb1f673afbfc63b1a&hash=D04AF78AF6B800C99F64D41F86976EA9",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0073-1801-sw-bismarck-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=7c69600947a24f6bb36c30766b998243&hash=BE869A53D9DD33E3F7F740EE79968808"
+      ],
+      "name": "1801 SW Bismarck St",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/1801-sw-bismarck-st",
+      "id": "1801",
+      "address": "1801 SW Bismarck St",
+      "price": "$489,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0073-1801-sw-bismarck-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=7c69600947a24f6bb36c30766b998243&hash=BE869A53D9DD33E3F7F740EE79968808",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0080-1914-sw-ember-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=a928bef9d5a94a05901c0b6a8dfbcf3d&hash=91EEAE0D7BD78902CFEFDE794BAF99F2"
+      ],
+      "name": "1914 SW Ember St",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/1914-sw-ember-st",
+      "id": "1914",
+      "address": "1914 SW Ember St",
+      "price": "$489,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0080-1914-sw-ember-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=a928bef9d5a94a05901c0b6a8dfbcf3d&hash=91EEAE0D7BD78902CFEFDE794BAF99F2",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0099-2249-se-newcastle-ter/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=82e8a0590bbe4ba2ac437f509d0d6338&hash=9CE07AB106660753EF121E15E2E51B03"
+      ],
+      "name": "2249 SE Newcastle Ter",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/2249-se-newcastle-ter",
+      "id": "2249",
+      "address": "2249 SE Newcastle Ter",
+      "price": "$494,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0099-2249-se-newcastle-ter/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=82e8a0590bbe4ba2ac437f509d0d6338&hash=9CE07AB106660753EF121E15E2E51B03",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0108-2372-sw-lejune-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=97f0972a23b143c1a5df6c2794837a3d&hash=8D26E70B5389008EFC64DF087B557B05"
+      ],
+      "name": "2372 SW Lejune St",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/2372-sw-lejune-st",
+      "id": "2372",
+      "address": "2372 SW Lejune St",
+      "price": "$501,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0108-2372-sw-lejune-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=97f0972a23b143c1a5df6c2794837a3d&hash=8D26E70B5389008EFC64DF087B557B05",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349540000-port-st-lucie-spot-lots/4ebb/0658-356-sw-prima-vista-blvd/cali_c_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=4d02914e67bc4bad808ec1435599780a&hash=52B7C65A71CAB2792204A840E15AA72A"
+      ],
+      "name": "356 SW Prima Vista Blvd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/356-sw-prima-vista-blvd",
+      "id": "356",
+      "address": "356 SW Prima Vista Blvd",
+      "price": "$432,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349540000-port-st-lucie-spot-lots/4ebb/0658-356-sw-prima-vista-blvd/cali_c_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=4d02914e67bc4bad808ec1435599780a&hash=52B7C65A71CAB2792204A840E15AA72A",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0103-4061-sw-bamberg-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=76db73752ee649fc9ccc6316e32fab72&hash=4BEE844B2634B1D3559B3CD874F77C3E"
+      ],
+      "name": "4061 SW Bamberg St",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/4061-sw-bamberg-st",
+      "id": "4061",
+      "address": "4061 SW Bamberg St",
+      "price": "$494,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0103-4061-sw-bamberg-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=76db73752ee649fc9ccc6316e32fab72&hash=4BEE844B2634B1D3559B3CD874F77C3E",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0102-4149-sw-spickler-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=c76a8ceb286a40d3acaaeb441e47f1e7&hash=DDB9BE4FAA95F36850BD3C8BDD033B72"
+      ],
+      "name": "4149 SW Spickler St",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/4149-sw-spickler-st",
+      "id": "4149",
+      "address": "4149 SW Spickler St",
+      "price": "$489,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0102-4149-sw-spickler-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=c76a8ceb286a40d3acaaeb441e47f1e7&hash=DDB9BE4FAA95F36850BD3C8BDD033B72",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0095-455-sw-lakehurst-dr/madison_h_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=2137a8ab323f4903a0daa38ac33b13d0&hash=7C1582B3DB671A3A94C3D3BFE3F4FD26"
+      ],
+      "name": "455 SW Lakehurst Dr",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/455-sw-lakehurst-dr",
+      "id": "455",
+      "address": "455 SW Lakehurst Dr",
+      "price": "$493,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0095-455-sw-lakehurst-dr/madison_h_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=2137a8ab323f4903a0daa38ac33b13d0&hash=7C1582B3DB671A3A94C3D3BFE3F4FD26",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0094-461-sw-lakehurst-dr/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=a93f1f57d3dc483bb2d076cf008dffe2&hash=C899AF4EDD7979706C2E73BB408A6678"
+      ],
+      "name": "461 SW Lakehurst Dr",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/461-sw-lakehurst-dr",
+      "id": "461",
+      "address": "461 SW Lakehurst Dr",
+      "price": "$496,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0094-461-sw-lakehurst-dr/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=a93f1f57d3dc483bb2d076cf008dffe2&hash=C899AF4EDD7979706C2E73BB408A6678",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0055-476-sw-south-quick-cir/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=8d08cf2849b346909234aa3d71468e06&hash=A2210CEA7E79F545C78C9A1763C6C5C0"
+      ],
+      "name": "476 SW South Quick Cir",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/476-sw-south-quick-cir",
+      "id": "476",
+      "address": "476 SW South Quick Cir",
+      "price": "$502,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0055-476-sw-south-quick-cir/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=8d08cf2849b346909234aa3d71468e06&hash=A2210CEA7E79F545C78C9A1763C6C5C0",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0064-5465-nw-model-ct/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=91cabbd5d2da457e9b07b6ccaaa2152f&hash=42BDAE0D4685091AA327CE3824DCBF48"
+      ],
+      "name": "5465 NW Model Ct",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/5465-nw-model-ct",
+      "id": "5465",
+      "address": "5465 NW Model Ct",
+      "price": "$526,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0064-5465-nw-model-ct/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=91cabbd5d2da457e9b07b6ccaaa2152f&hash=42BDAE0D4685091AA327CE3824DCBF48",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0074-5810-nw-blue-bonnet-ct/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=0a667ab581b648a38ea4a36cda7b4009&hash=564609C9E9F450069DD0D6400A2143E7"
+      ],
+      "name": "5810 NW Blue Bonnet Ct",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/5810-nw-blue-bonnet-ct",
+      "id": "5810",
+      "address": "5810 NW Blue Bonnet Ct",
+      "price": "$521,565",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0074-5810-nw-blue-bonnet-ct/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=0a667ab581b648a38ea4a36cda7b4009&hash=564609C9E9F450069DD0D6400A2143E7",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349540000-port-st-lucie-spot-lots/4ebb/0662-617-nw-prima-vista-blvd/cali_c_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=add5e47a62494681ab939f416662495d&hash=2BBA28B34965D567F240ADDB1B9A8C2F"
+      ],
+      "name": "617 NW Prima Vista Blvd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/617-nw-prima-vista-blvd",
+      "id": "617",
+      "address": "617 NW Prima Vista Blvd",
+      "price": "$432,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349540000-port-st-lucie-spot-lots/4ebb/0662-617-nw-prima-vista-blvd/cali_c_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=add5e47a62494681ab939f416662495d&hash=2BBA28B34965D567F240ADDB1B9A8C2F",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349540000-port-st-lucie-spot-lots/4ebb/0666-621-nw-prima-vista-blvd/cali_d_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=26c233479fe5409db9e515bd9b9ec70d&hash=BBB94CC1B0198F1A623CB82E846DC430"
+      ],
+      "name": "621 NW Prima Vista Blvd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/621-nw-prima-vista-blvd",
+      "id": "621",
+      "address": "621 NW Prima Vista Blvd",
+      "price": "$434,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349540000-port-st-lucie-spot-lots/4ebb/0666-621-nw-prima-vista-blvd/cali_d_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=26c233479fe5409db9e515bd9b9ec70d&hash=BBB94CC1B0198F1A623CB82E846DC430",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com"
+      ],
+      "name": "634 SW Caburn Ave",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/634-sw-caburn-ave",
+      "id": "634",
+      "address": "634 SW Caburn Ave",
+      "price": "$496,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0117-6460-nw-halibut-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=d7e5ec4781054d46bc7b64d4f1000c57&hash=206FB63A9830772E813C94F6030D135B"
+      ],
+      "name": "6460 NW Halibut St",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/6460-nw-halibut-st",
+      "id": "6460",
+      "address": "6460 NW Halibut St",
+      "price": "$519,965",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0117-6460-nw-halibut-st/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=d7e5ec4781054d46bc7b64d4f1000c57&hash=206FB63A9830772E813C94F6030D135B",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0075-951-sw-cairo-ave/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=c5d500552b2d45a6b2b4ac0ee382d48f&hash=98A384A9B4F9855E0E72B1291F1F4DAA"
+      ],
+      "name": "951 SW Cairo Ave",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/port-st-lucie-spot-lots/qmis/951-sw-cairo-ave",
+      "id": "951",
+      "address": "951 SW Cairo Ave",
+      "price": "$489,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34897-psl-spot-lots/349760000-port-st-lucie/5emb/0075-951-sw-cairo-ave/madison_g_sl.jpg?iar=1&sc=1&thn=1&w=425&rev=c5d500552b2d45a6b2b4ac0ee382d48f&hash=98A384A9B4F9855E0E72B1291F1F4DAA",
+      "latitude": 27.25886,
+      "longitude": -80.39013,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "timestamp": "2025-06-01T16:59:04.840450",
+  "name": "JB Ranch",
+  "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch",
+  "status": null,
+  "price_from": "$299,990",
+  "address": "9354 SW 60th Terrace Road,Ocala, FL 34476",
+  "phone": "(352) 660-1134",
+  "description": "Find a new home in Ocala, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/delray_e_-_jb_ranch_6107_sw_93rd_loop.png"
+  ],
+  "location": {
+    "latitude": 29.08724,
+    "longitude": -82.22221,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$299,990 - $331,045",
+    "sqft_range": "From 1,816 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated community",
+      "description": "Gated community",
+      "icon_url": null
+    },
+    {
+      "name": "Active",
+      "description": "Active-adult",
+      "icon_url": null
+    },
+    {
+      "name": "Low",
+      "description": "Low-maintenance living",
+      "icon_url": null
+    },
+    {
+      "name": "Clubhouse",
+      "description": "Clubhouse",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness center",
+      "description": "Fitness center",
+      "icon_url": null
+    },
+    {
+      "name": "Heated pool beach entry",
+      "description": "Heated pool with beach entry",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce ball",
+      "description": "Bocce ball",
+      "icon_url": null
+    },
+    {
+      "name": "Pickle ball courts",
+      "description": "Pickle ball courts",
+      "icon_url": null
+    },
+    {
+      "name": "Lawn maintenance",
+      "description": "Lawn maintenance",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete block construction",
+      "description": "Concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "Lofty ceilings",
+      "description": "Lofty ceilings",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Granite countertops",
+      "description": "Granite countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Prime location nearby SR",
+      "description": "Prime location nearby SR-200",
+      "icon_url": null
+    },
+    {
+      "name": "Close hospitals medical centers",
+      "description": "Close to hospitals and medical centers",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Clifton",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/floor-plans/a4cb",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,816 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/clifton_e_-_jb_ranch_-_6113_sw_93rd_loop.png?as=1&w=425&rev=fd01eac3b6da407a82ad2a4aad81a9e0&hash=E02D23445D99F08502DA7DE314746886"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/fl_west_florida_dr_horton_freedom_clifton_floorplan.jpg?rev=7b7ecc6ce52d4482ba5af3a6e60d1359&hash=DAA1D97A4B5B069DB2A8BD0F69FE3B28"
+        }
+      ]
+    },
+    {
+      "name": "Laurel",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/floor-plans/1844",
+      "details": {
+        "price": "From $306s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,844 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34715fre-jb-ranch/347150000-jb-ranch/1844/fl_west_florida_dr_horton_laurel_d_elevation.jpg?as=1&w=425&rev=56c1394911a649928f9441238514345f&hash=AC499958CF4B46251C5360C344BF255C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34715fre-jb-ranch/347150000-jb-ranch/1844/fl_west_florida_dr_horton_freedom_laurel_floorplan.jpg?rev=782bbcd8f35c48e8b1c657ef1a400519&hash=86E9828E901902347471C693454594E4"
+        }
+      ]
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/floor-plans/a4db",
+      "details": {
+        "price": "From $320s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,034 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/delray_e_-_jb_ranch_6107_sw_93rd_loop.png?as=1&w=425&rev=5feb69c306fd4b3b99cba60edf5e84e9&hash=791F8DD767183EFB9C4D59A77D7B54F9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/delray_blacklines_dining_area_1_window_4_24_23_this_one.png?rev=9c2d6c25e11b400ca1a26c048f22ed4e&hash=C3B50736B2A13153E0316E18FA5A387E"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/wcfl_clifton-e.jpg?as=1&w=494&rev=ac0c21536209487595209b5eb5533a73&hash=D4E20C36D624039A96B3731A87A2E7AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/01-fl_west-florida_freedomhomes_clifton-entry.jpg?as=1&w=494&rev=7bc17691f9ce46939884e262dfca9444&hash=2F6B980379375F0C5C2BE47C6E6DB594",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/03-fl_west-florida_freedomhomes_clifton-kitchen.jpg?as=1&w=494&rev=8807dda037874675a38ee1e887f7f6db&hash=651B0B9C9D76E6D36B6BA12CFA18039B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/04-fl_west-florida_freedomhomes_clifton-dining.jpg?as=1&w=494&rev=0a20700e6ab9425d9b0d179a6172b6d9&hash=417116D1549920939F5D7C0799118066",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/05-fl_west-florida_freedomhomes_clifton-living.jpg?as=1&w=494&rev=d4f3f84de8984e31b2947aa2fcd9864d&hash=47B799C2F1B4567BA9182B30F6333866",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/06-fl_west-florida_freedomhomes_clifton-bedroom1.jpg?as=1&w=494&rev=51edbd0d7898482b856159ae6aa3a162&hash=C721FF59D98405432B41B5B00A507274",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/07-fl_west-florida_freedomhomes_clifton-bath1.jpg?as=1&w=494&rev=4ea9f9ab8ad8403fb8d114887b555f0c&hash=18EC6E215D17CE18B96AC5572D5B17D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/08-fl_west-florida_freedomhomes_clifton-bedroom2.jpg?as=1&w=494&rev=895ad50e2f3c485285b0bfe865af5a12&hash=2EFC1A3C1380B791F0902E9F605C0C98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/09-fl_west-florida_freedomhomes_clifton-bedroom3.jpg?as=1&w=494&rev=723e5e649af14bf58eeefec9e211bee7&hash=F30674C49A8DB72CA42298F0713D1B0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/10-fl_west-florida_freedomhomes_clifton-bath2.jpg?as=1&w=494&rev=858419edded6494d9fd56375f9c35e7e&hash=EEC602A23BCE5DE409FD259663429B4A"
+      ],
+      "name": "9291 SW 60th Court Road",
+      "plan": "Clifton",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/9291-sw-60th-court-road",
+      "id": "9291",
+      "address": "9291 SW 60th Court Road",
+      "price": "$299,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1816",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0028-9291-sw-60th-court-road/wcfl_clifton-e.jpg?iar=1&sc=1&thn=1&w=425&rev=ac0c21536209487595209b5eb5533a73&hash=B3D7634411BD5729BE5370DD834628AE",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/clifton-elevation-b-stone-cs10-alt.jpg?as=1&w=494&rev=a5610bd9b6604fdc9a2ce9826248b094&hash=318EEDC5AB542C327168DAC3141299E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/01-fl_west-florida_freedomhomes_clifton-entry.jpg?as=1&w=494&rev=40bf5122abb24e8599c8cae6d31bd179&hash=6FC1B535714CB42748F8C1FF9B6EC411",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/03-fl_west-florida_freedomhomes_clifton-kitchen.jpg?as=1&w=494&rev=107efaef004d4ef19afc531cfc763b9d&hash=CFD09BC0C9B72377BD7CE974AA342081",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/04-fl_west-florida_freedomhomes_clifton-dining.jpg?as=1&w=494&rev=ff3dbf7235e249d39e578de1f0e98629&hash=C486C0D861957553C6B4BD397589F840",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/05-fl_west-florida_freedomhomes_clifton-living.jpg?as=1&w=494&rev=a8fcd0dbe7a340e19e4d14a170bc6c0e&hash=E26C0CF15442D55638DA5D5D83B44597",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/06-fl_west-florida_freedomhomes_clifton-bedroom1.jpg?as=1&w=494&rev=6f9e8cb1493c4a77b5e4438e71668087&hash=E0D43FA0C0138033E2E420D3E94CD848",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/07-fl_west-florida_freedomhomes_clifton-bath1.jpg?as=1&w=494&rev=5ed0ffc32ff148a297d58b63b4ab8bd6&hash=C4D490566411FDA6624CFAA3E175BE9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/08-fl_west-florida_freedomhomes_clifton-bedroom2.jpg?as=1&w=494&rev=7dba5edb71f4499cbd86faa30c3d03f8&hash=A150C00B88DF7F0D682C462F4A4005A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/09-fl_west-florida_freedomhomes_clifton-bedroom3.jpg?as=1&w=494&rev=342c159be1d94d1881e1e975ff136f6f&hash=879EFE8EBBACD7FB95EEC563F64D9E21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/10-fl_west-florida_freedomhomes_clifton-bath2.jpg?as=1&w=494&rev=f7048ea3f0214307afe9712b637bb1fc&hash=E855E262BE8A9C140C3ECCDCC451A359"
+      ],
+      "name": "9295 SW 60th Court Road",
+      "plan": "Clifton",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/9295-sw-60th-court-road",
+      "id": "9295",
+      "address": "9295 SW 60th Court Road",
+      "price": "$299,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1816",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0029-9295-sw-60th-court-road/clifton-elevation-b-stone-cs10-alt.jpg?iar=1&sc=1&thn=1&w=425&rev=a5610bd9b6604fdc9a2ce9826248b094&hash=CA8407C323BE750E76461405246D7670",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/jb_ranch_phase_2_model_cropped.jpg?as=1&w=494&rev=a60a8920430343d48ffe2a43541774ef&hash=23864C08FF0AD601D4516EDCA1F7EE65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/01-fl_west-florida_freedomhomes_clifton-entry.jpg?as=1&w=494&rev=c426ff85a79f4e0ba62f2784131423c7&hash=F8BEAD636551B70A3BF842CC5D162B6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/02-fl_west-florida_freedomhomes_clifton-kitchen.jpg?as=1&w=494&rev=2257ad19a30d48b98916045f5ac6816d&hash=B811F3DC3007433519BEDBA956D63E3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/03-fl_west-florida_freedomhomes_clifton-kitchen.jpg?as=1&w=494&rev=6032837849fc4bbca00850a1a67a811a&hash=4BBB03332552247337C2764F9B352111",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/04-fl_west-florida_freedomhomes_clifton-dining.jpg?as=1&w=494&rev=2bf62cf85f3a45dda99edb7fd4eb25dc&hash=6AE618DFA82EA6C9665FE7EE3E4747A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/05-fl_west-florida_freedomhomes_clifton-living.jpg?as=1&w=494&rev=1be9ace41490423db83f3a46c81271c3&hash=619EF602B7F834BB7B93B969681FF80C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/06-fl_west-florida_freedomhomes_clifton-bedroom1.jpg?as=1&w=494&rev=8d05f916d5294ca185210d4096082ecd&hash=7BE0D9871697FF487A1013CD99CED291",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/07-fl_west-florida_freedomhomes_clifton-bath1.jpg?as=1&w=494&rev=22f62fae6e404cf19d84bf5e92b28ec9&hash=C1F7DFC2D922C897E114C1E903E29052",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/08-fl_west-florida_freedomhomes_clifton-bedroom2.jpg?as=1&w=494&rev=b983ee555bb44854b37313899bda7dda&hash=8A3497C37E429F2BAF616EF37AD791CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/09-fl_west-florida_freedomhomes_clifton-bedroom3.jpg?as=1&w=494&rev=7438d7ac773b4740900c14221f9653be&hash=3A9C05A925D6DAEF47B12C1C5939A7E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/10-fl_west-florida_freedomhomes_clifton-bath2.jpg?as=1&w=494&rev=368473f200e04fba921b1053867b5ccf&hash=1BD54636CFC4B2EC75D8A8BF96075F87"
+      ],
+      "name": "9354 SW 60th Terrace Road",
+      "plan": "Clifton",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/9354-sw-60th-terrace-road",
+      "id": "9354",
+      "address": "9354 SW 60th Terrace Road",
+      "price": "$331,045",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1816",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4cb/0003-9354-sw-60th-terrace-road/jb_ranch_phase_2_model_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=a60a8920430343d48ffe2a43541774ef&hash=5589489F6E5693E76E17ED41F34B7718",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/wcfl_laurel_ii-d-2_car_sch-9-elev.jpg?as=1&w=494&rev=a106743d484345d7a6a0d1a0a92cf378&hash=CB05A2321BBDFB0434C8B4611EF72288",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_02_kitchen_and_dining.jpg?as=1&w=494&rev=c40e964b075147ffb6c7df287e0d341b&hash=1FE373ADF79192A053E29C3818631C0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_03__kitchen_dining_and_living_area.jpg?as=1&w=494&rev=2cc57a727e784ecf828bb9e031cd508d&hash=E528B1466FAF85511C4560D674955434",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_06_owners_suite.jpg?as=1&w=494&rev=6217a0ae20fc4f2dbcdd9e2cd8a546e8&hash=EF5CD482C50C78FE236BE17B37BAF529",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_07_owners_suite_2.jpg?as=1&w=494&rev=3bc80c98a1524502917dcb31d1b36a44&hash=A905EA21AF4531C4F013680D7E5D65CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_08_owners_ensuite.jpg?as=1&w=494&rev=17b5b9300cdd4260b175a6f15818c865&hash=3B18AACD3D4D916DAEAE87F681AFA04F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_09_secondary_bedroom.jpg?as=1&w=494&rev=59576e1ca6d04cfe92173f7c04f1903c&hash=6041FF1AD00AE84ADDF1C22D2C625BA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_10_secondary_bedroom_2.jpg?as=1&w=494&rev=26a769053e6644b6b8f71ae442c4f359&hash=D6714A5C824A3EEFB673DBF9E0BB0AD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/fl_west_florida_drh_laurel_11_secondary_bathroom.jpg?as=1&w=494&rev=aba74168c36e4cef80e4570025370199&hash=4C1CD0EC4039B5294BA04E5B8533BB98"
+      ],
+      "name": "9287 SW 60th Court Road",
+      "plan": "Laurel",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/9287-sw-60th-court-road",
+      "id": "9287",
+      "address": "9287 SW 60th Court Road",
+      "price": "$306,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1844",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0027-9287-sw-60th-court-road/wcfl_laurel_ii-d-2_car_sch-9-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=a106743d484345d7a6a0d1a0a92cf378&hash=8A24333F3847D048406557211312147C",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0033-9317-sw-60th-court-road/wcfl_laurel_ii-d-2_car_sch-9-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=fdf47478a3194f3fb333a88438670984&hash=0DF249CCBCEAE932DCF6DDF28452AF6C"
+      ],
+      "name": "9317 SW 60th Court Road",
+      "plan": "Laurel",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/9317-sw-60th-court-road",
+      "id": "9317",
+      "address": "9317 SW 60th Court Road",
+      "price": "$299,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1844",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/1844/0033-9317-sw-60th-court-road/wcfl_laurel_ii-d-2_car_sch-9-elev.jpg?iar=1&sc=1&thn=1&w=425&rev=fdf47478a3194f3fb333a88438670984&hash=0DF249CCBCEAE932DCF6DDF28452AF6C",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/3fl_west_florida_freedom_homes_delray_e.jpg?as=1&w=494&rev=f0b123eedc594b748ca6bea0ad1d2bb6&hash=191145A941C9318AD6F2E9B9F490D78B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_01-foyer.jpg?as=1&w=494&rev=cd683f194f3e42b49613dc4e18d485c7&hash=42099993169794820D3A54DF9524FD5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_01-kitchen.jpg?as=1&w=494&rev=a82f67bd597b48ab9d38d2719065ff09&hash=BAE1B1C3FC4E28DC850ED4473B1CB3D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_03-dining.jpg?as=1&w=494&rev=b6bbd99a81ff4a158a23d3a20c14d957&hash=D5A3B4B3C0EBC9E7572CD1136C945276",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_05-living-room.jpg?as=1&w=494&rev=ead536d3072a48c8b0a795d2eabbee08&hash=89758AF1E44A1D519A930140906BF6D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_07-master-bedroom.jpg?as=1&w=494&rev=341a62dfe3004a64a8f6b78d781f7053&hash=28E0606824EAE699B643FBDFF5BB4D0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_08-master-bathroom.jpg?as=1&w=494&rev=8f7523f2b9fd4806a86a743e2c030f19&hash=4E97D75B813699DE176985EF73470159",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_09_bedroom.jpg?as=1&w=494&rev=b8d8fae90a9b4d008f1d5a8acadc4fe0&hash=CCF584FF82084AC2B6FA0F94FC57CA0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_10_bedroom-2.jpg?as=1&w=494&rev=9ad5e3dccf5c433cb0a9f4261c7b7a69&hash=877108DAABF1F3FEC3B65F9A06B94FE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_delray_11_bathroom.jpg?as=1&w=494&rev=fbdeeb0fdecc41bda37162b41fc6cb91&hash=1BC82DBFBB72755F2FDAFBE2480661C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/fl_west-florida_freedom-homes_22_lanai.jpg?as=1&w=494&rev=6e5d7cf709b5495fbfe2749e067c6e48&hash=15D3E5B631E599C17E44D3CC35745697"
+      ],
+      "name": "6238 SW 93rd Loop",
+      "plan": "Delray",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/6238-sw-93rd-loop",
+      "id": "6238",
+      "address": "6238 SW 93rd Loop",
+      "price": "$322,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0080-6238-sw-93rd-loop/3fl_west_florida_freedom_homes_delray_e.jpg?iar=1&sc=1&thn=1&w=425&rev=f0b123eedc594b748ca6bea0ad1d2bb6&hash=3BB014863C5EE3A20A10EA591B6E54B2",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/3fl_west_florida_freedom_homes_delray_e.jpg?as=1&w=494&rev=941f6e1aa89f4d7cb2c44355b4c1c347&hash=4DD95267E6CECCD599326934256AE3E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_01-foyer.jpg?as=1&w=494&rev=d46a3fd32d2d4d5598f7ebc31f25e5a7&hash=5D3BEC59A0E5FC86875793EA7C41236A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_02-kitchen.jpg?as=1&w=494&rev=a97b8f1747454434bda42c972fe4766c&hash=B8BFE7114189171D2A70C1B58F30CA02",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_03-dining.jpg?as=1&w=494&rev=3b255f1743d8404f8673ca010e2ed6b8&hash=78ED1AA6D69EF884D366E7C451D21B77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_05-living-room.jpg?as=1&w=494&rev=b3fb3713b77c40918c22422e44176558&hash=CA41EA96C2B43DDD5700FBBA1A04EB01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_07-master-bedroom.jpg?as=1&w=494&rev=c052a053ba0f4887ba2d3b133009b26b&hash=50816ECADD2D29E86C6BFF2864A68E73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_08-master-bathroom.jpg?as=1&w=494&rev=83dee6d8952a4febaa101aa2a46cfc30&hash=CCC2B68D56375FD5707017227C623B85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_10_bedroom-2.jpg?as=1&w=494&rev=1658520e7f524951b6f819d3a0f05cd1&hash=D4CC3B09AE56B423043992FD08AB2F0E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_11_bathroom.jpg?as=1&w=494&rev=06fb17a45639461d943049d398118b01&hash=4197C0621FF361A822CE70770E70BBE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_delray_12_flex-space.jpg?as=1&w=494&rev=46b89d0ce5e44ae5bd3a39f39d186a24&hash=A35916E19070DBE724B4F209FB6DECA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/fl_west-florida_freedom-homes_22_lanai.jpg?as=1&w=494&rev=be52c9bc13ad4d5dac388684d242976f&hash=FE3EFA1474409AECC567D6B1BEFD0CCA"
+      ],
+      "name": "9313 SW 60th Court Road",
+      "plan": "Delray",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/freedom-jb-ranch/qmis/9313-sw-60th-court-road",
+      "id": "9313",
+      "address": "9313 SW 60th Court Road",
+      "price": "$312,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34715fre-jb-ranch/347850000-jb-ranch-2a/a4db/0032-9313-sw-60th-court-road/3fl_west_florida_freedom_homes_delray_e.jpg?iar=1&sc=1&thn=1&w=425&rev=941f6e1aa89f4d7cb2c44355b4c1c347&hash=E8BD8D6CD067D1BACF06CC58737B70B5",
+      "latitude": 29.08724,
+      "longitude": -82.22221,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Hammett Bowen Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Liberty Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "West Port High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

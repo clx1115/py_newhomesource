@@ -1,0 +1,264 @@
+{
+  "timestamp": "2025-06-01T03:29:34.908996",
+  "name": "Groveside at Ormond Station",
+  "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station",
+  "status": null,
+  "price_from": "$325,990",
+  "address": "13 Honeybell Way,Ormond Beach, FL 32174",
+  "phone": "(386) 202-1608",
+  "description": "Find a new home in Ormond Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Volusia County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/13-honeybell-way--ormond-beach--fl-32174---01.jpg"
+  ],
+  "location": {
+    "latitude": 29.27642,
+    "longitude": -81.1594,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$325,990 - $416,405",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Beautiful Master Planned Community",
+      "description": "Beautiful Master Planned Community",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Granite Countertops",
+      "description": "Sleek Granite Countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Tile Flooring Throughout",
+      "description": "Tile Flooring Throughout",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Waterview & Conservation Homesites",
+      "description": "Waterview & Conservation Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Beautiful St. Augustine Front",
+      "description": "Beautiful St. Augustine Front Lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Popular Location",
+      "description": "Popular Location",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from I",
+      "description": "Minutes from I-95 and Beaches",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Tomoka State Park",
+      "description": "Nearby Tomoka State Park",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station/floor-plans/4eab",
+      "details": {
+        "price": "From $326s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/aria_c_web.jpg?as=1&w=425&rev=8ee8f1e197d44542bb91c09a47645465&hash=39A62860B434124F7A1DD4121AC8202C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/aria_floorplan_no_logo.png?rev=916ca3ef9f3b4835b5d58e3651310ae3&hash=2D015265E22FC3E4F314773E00F7E6B9"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station/floor-plans/4ebb",
+      "details": {
+        "price": "From $341s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/4ebb/cali_c_web.jpg?as=1&w=425&rev=78124283ffee469d834c4e33cb9b4e44&hash=4963501B877359EC62D73F925AA5C229"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4ebb/cali_floorplan_only.jpg?rev=2a424c73ff044689918bf2bdfb401583&hash=72023577A13082119634CCF161179E10"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station/floor-plans/4ehb",
+      "details": {
+        "price": "From $396s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/4ehb/hayden_g_web.jpg?as=1&w=425&rev=33fc7934e6184880a1fe54589f2e4b9b&hash=0D2F3C24B1F6EF055F35949B2B06C320"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4ehb/cali_floorplan_only.jpg?rev=c21bb660289a4d27aed4d0d581863309&hash=13A87026C34B51A0D005072F3F2CEF70"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4ehb/cali_c_resizedweb.jpg?rev=c570a39af58c4847a5c2c954debf98f5&hash=B9AF0A51156AE2ADE60616B5EAEAB2BA"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/aria_oak_leaf_preserve-1.jpg?as=1&w=494&rev=3efe78784bb442ef90d017b580cdaeb2&hash=AA3074E3827DA8F7FA8A6915D8E30411",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---11.jpg?as=1&w=494&rev=4c9303362fee44899945d5b7f5e9afc3&hash=676FE2FC6D0C39475B942AC31B7B094C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---13.jpg?as=1&w=494&rev=b71311219b9e4ad1bb5575b7191e062e&hash=9D8890F2D18929A5F407BB283A2E3A0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---16.jpg?as=1&w=494&rev=998d2208e99240689b8911968ee2e4f6&hash=18CB365FAAE7C65EE5EFFCA4D69AA5E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---18.jpg?as=1&w=494&rev=fd1e9a671acb4b5a83a6dfe84465b67c&hash=73AE45375366CF5CBB929CF465342256",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---20.jpg?as=1&w=494&rev=cc5776b203534e71b325a8822c971fac&hash=D08C72E04F0736DD1507F2F3B106B2BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---22.jpg?as=1&w=494&rev=61e2ecfd5ec7482b942f29a16debd0dd&hash=92433F5BE9D3F38C2BE389688242AC7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---04.jpg?as=1&w=494&rev=4994a97aaa6a4c93bbf16dd0d7554673&hash=4D4D38F95C4BDC0E60F9EA1BD9CCFA8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---24.jpg?as=1&w=494&rev=083c6094f3524af899bddd0a101597f2&hash=085A98351B649B607EE64DF6B4DBC097",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/aria_floorplan.jpg?rev=6f4e4096937c47af8df470f62fb9e6e2&hash=FDF713684123B776D981445E478F7EB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/aria_c_web.jpg?rev=8ee8f1e197d44542bb91c09a47645465&hash=CF1F8F89595E393BCA48E6EDEB6E6B3F"
+      ],
+      "name": "48 MELOGOLD DRIVE",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station/qmis/48-melogold-drive",
+      "id": "48",
+      "address": "48 MELOGOLD DRIVE",
+      "price": "$338,035",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34517-ormond-station/345410000-groveside--ormond-station-50s/4eab/0095-48-melogold-drive/aria_oak_leaf_preserve-1.jpg?iar=1&sc=1&thn=1&w=425&rev=3efe78784bb442ef90d017b580cdaeb2&hash=71AE3ADBF7AC34F67A0D5D5AA3ED1AD7",
+      "latitude": 29.27642,
+      "longitude": -81.1594,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_1.jpg?as=1&w=494&rev=a5fd7670d94f490999dd0bd90ba02c7d&hash=4F9A7D879D969464B7AD417AA28D3001",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_2.jpg?as=1&w=494&rev=12eb8f0c635a45d3ab13c2ee616ed281&hash=40E9E92BF8FCCFE2F397B6B01B8B59E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_3.jpg?as=1&w=494&rev=6a2d644d8c1f47ab9b6b4a20ad503eb3&hash=D3AA9D4493657D3F8E74AA75A6BAFAD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_4.jpg?as=1&w=494&rev=af41b56d486742fd9a248e15a1a9f5a9&hash=2F952CC14E67C5AA2A6A1F542DC89306",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_5.jpg?as=1&w=494&rev=a97963bfa6ad4e0eb88057cbdf9b5718&hash=CF1B31F3A65848364B66BF5EF579224F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_7.jpg?as=1&w=494&rev=f7e1d09411024c0ca3dbf4a11d61c79b&hash=B6341AFF4D79F660DFDCBB1A615F9A1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_8.jpg?as=1&w=494&rev=22971b3245034e7d8de5d9797ee2207d&hash=16CC9561A2EF401347C0D93BA4FD88B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_9.jpg?as=1&w=494&rev=8290695499d145828b0cf89f18a435d5&hash=E91C96499D8F6F962C82825B76B7B8C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_10.jpg?as=1&w=494&rev=b18327949fc648f49ea61468fb143073&hash=5431E4D3F01632B3A1DE46B892EAB61A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_11.jpg?as=1&w=494&rev=e75d45948242405eb96733b441d22970&hash=1D7F6A5FDCCB3EC220A3C5265DA64911",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_12.jpg?as=1&w=494&rev=c95f5073408d4aaaa8089727dbe6667d&hash=8A6AE9745A91FEE172884EF804B8C8EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_13.jpg?as=1&w=494&rev=9957c0db3ebd49c9b15742ff875dc997&hash=C15A94ADFCD6890E9D53471F6FA06B9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_14.jpg?as=1&w=494&rev=8e3a455e3e3e440e8581386f3dc3ab56&hash=310F8FAAE5B45CB86FFE3C03B8970ACF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_15.jpg?as=1&w=494&rev=3efeb056fdd44ddfba8f875ed50f4b9b&hash=09C8F9401CBB73B5A34EB52F1CC16F19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_16.jpg?as=1&w=494&rev=a1052a0f8f114e399a21e9635fcf9ae3&hash=A7C94BBD5E788F7F4F100062141B42A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_17.jpg?as=1&w=494&rev=9db2c69220a14ec4b653c4ad6549ea61&hash=29BB97D492E680490DC3B8D27621BA18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_18.jpg?as=1&w=494&rev=0019a4f51b12472793e1af6dc17f0dae&hash=393356007A13393D802FE68E283A10B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_19.jpg?as=1&w=494&rev=dce10c212e124b1e95333a25ad08cb4b&hash=03BA680F623DBCB69CA6BF5B2FD2BF47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_20.jpg?as=1&w=494&rev=d2c5a3f2b7b342db8da8e3741d9910c3&hash=F16ED452933A18DD68AC8CD4FAAB10AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_21.jpg?as=1&w=494&rev=63fc6f5351bc4c28b0c68e13ffc210e4&hash=6228174DA035E1BAD83986BC3BF764AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_22.jpg?as=1&w=494&rev=5e118765d35f43e98cb2a8ead8de0d73&hash=5840AF96D68C1875D4A4ABDBEDEA0174",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_23.jpg?as=1&w=494&rev=0409ffe4b9ec4c3f9e13d40a86545f6f&hash=AE509A33B889D30AE9FB6B84EA10B18E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_24.jpg?as=1&w=494&rev=1ead5dfce9ad4673bf7fe88f4960a1a3&hash=49574D52E9F768B0CDF7BD0E07384DD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_25.jpg?as=1&w=494&rev=812db3c8f8824d1bb22cfed0553268ec&hash=8B9762E1C829FF6D2DE7C9C7A261430B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_26.jpg?as=1&w=494&rev=6de12141414b46a5b6b4f85a9a3a1262&hash=56F1ED868DC98944FE89531757F49380",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_27.jpg?as=1&w=494&rev=e3f8b0e6c1ed4780820acab83b70f2ba&hash=BB24B06A21EC69BDA927E5915DBED4A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_28.jpg?as=1&w=494&rev=2a182712c48a4970bad2a283d1658394&hash=EE6B029BCDF7F47F3C1AAFA895431AC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_29.jpg?as=1&w=494&rev=3d430f22c6884fdf8ca0b6b0f7e1172f&hash=99CB5D092159DCD27879A465F71A18CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_30.jpg?as=1&w=494&rev=586adecd5b3443549c3537f10cc4ed07&hash=5BF5666194143E5E0292392CDB0E7CED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34517-ormond-station/345410000-groveside--ormond-station-50s/4ehb/hayden_3d_floorplan.jpg?rev=af082f6737c04d46bd241b82379d5029&hash=EFF9E9C65F97342791BFB23DD77D4708",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "69 MELOGOLD DRIVE",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/groveside-at-ormond-station/qmis/69-melogold-drive",
+      "id": "69",
+      "address": "69 MELOGOLD DRIVE",
+      "price": "$416,405",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2601",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34541-ormond-station/345410000-groveside--ormond-station-50s/4ehb/0065-69-melogold-drive/hayden_model_drh_1.jpg?iar=1&sc=1&thn=1&w=425&rev=a5fd7670d94f490999dd0bd90ba02c7d&hash=A1BCC135B10821580849BE2EF77AC661",
+      "latitude": 29.27642,
+      "longitude": -81.1594,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Tomoka Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "David C. Hinson Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Seabreeze High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

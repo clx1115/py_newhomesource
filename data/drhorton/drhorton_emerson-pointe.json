@@ -1,0 +1,710 @@
+{
+  "timestamp": "2025-05-31T10:55:14.641267",
+  "name": "Emerson Pointe",
+  "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe",
+  "status": null,
+  "price_from": "$269,990",
+  "address": "2161 NE 28th Place,Ocala, FL 34470",
+  "phone": "(352) 660-1134",
+  "description": "Find a new home in Ocala, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/cali_c_-_ocs_4679_sw_85th_place.png"
+  ],
+  "location": {
+    "latitude": 29.21588,
+    "longitude": -82.10857,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$269,990 - $326,990",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete block construction",
+      "description": "Concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Downtown Ocala",
+      "description": "Minutes to Downtown Ocala",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby historic Silver Springs",
+      "description": "Nearby historic Silver Springs State Park",
+      "icon_url": null
+    },
+    {
+      "name": "Close medical facilities",
+      "description": "Close to medical facilities",
+      "icon_url": null
+    },
+    {
+      "name": "15",
+      "description": "15-minutes to The World Equestrian Center",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/3eab",
+      "details": {
+        "price": "From $270s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/allex_ocs_web.png?as=1&w=425&rev=3a2335b5331247128de9aa1fa55a2f80&hash=CB21C836CFE8024C3D692542681D6962"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/fl_west_florida_dr_horton_express_allex_cd_block_new.jpg?rev=cac95f53045b43eda4648d3a8c62dbad&hash=016188AB4F019D649555D8323219E7E8"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/4eab",
+      "details": {
+        "price": "From $290s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/aria_d_ocs_8563_sw_46th_terrace.png?as=1&w=425&rev=c675ac481705443e9e2958fecfd611f8&hash=87DB816225DB1F5A3FF945BE2811A7AE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=46c7170413634e13a2b57467e21fe6fd&hash=B3A428C4FAF89227B8295A9B5F113B1C"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/4ebb",
+      "details": {
+        "price": "From $305s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/cali_-_d.png?as=1&w=425&rev=f113f2b9d5f54b5584609b0cf422bdf0&hash=567D47795BE4001BDB09A10D6C2D4D23"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=5e6d329958f54e53bbcc1a7d4bc55c77&hash=C4D2A90ED2C4767AFDFEBC442CB6714A"
+        }
+      ]
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/3eeb",
+      "details": {
+        "price": "From $315s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/zfl_west-florida_drh-express_elston_h_no_coach_no_hinge.jpg?as=1&w=425&rev=3a95022e2bcb4eaa9f8dd243964760c4&hash=B9EB7117DED0B5BB2308DEB4C1BAE45B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/fl_west_florida_dr_horton_express_elston_patio_block_new.jpg?rev=812e762817c84e508862178476633bf1&hash=D13A971574D768F519DF2068A382CFCA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/fl_west_florida_dr_horton_express_elston_patio_block_new.jpg?rev=812e762817c84e508862178476633bf1&hash=D13A971574D768F519DF2068A382CFCA"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/3emb",
+      "details": {
+        "price": "From $284s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/harper-c-8ft-gen3-elev_ind.jpg?as=1&w=425&rev=5e35b538ae244b2b8fc8a01ac57dcf5e&hash=219169824489650BCAE8AD3038E8ADA9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/harper_cg_blacklines.png?rev=c7dfe517dd7e4b9b86802c9387e5835a&hash=A82908CFE3F93FCD11117948DD057AFA"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/4ehb",
+      "details": {
+        "price": "From $340s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ehb/hayden_k_ocs.png?as=1&w=425&rev=f15ac8b6bdf8403ba820cce197a78a88&hash=246D442E73833451FF9672CE938B635F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=121403500cf346ad82de370d4df9f462&hash=33FD87592690443476315BBD366F58BA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=121403500cf346ad82de370d4df9f462&hash=33FD87592690443476315BBD366F58BA"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/floor-plans/3efb",
+      "details": {
+        "price": "From $323s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/fl_west_florida_dr_horton_express_robie_h.jpg?as=1&w=425&rev=d1c0227393454b72892847c4cd4fe7bc&hash=F85B7D696C91F0F43D37132D96D21CB3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/fl_west-florida_dr_horton_express_series_robie_gh_patio_new.jpg?rev=02ad1553f66144d1809985786fb6801c&hash=9B98C4A9AA9C4038CE2FBCA83EAF380D"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/fl_west-florida_dr_horton_express_series_robie_gh_patio_new.jpg?rev=02ad1553f66144d1809985786fb6801c&hash=9B98C4A9AA9C4038CE2FBCA83EAF380D"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/cali-d-gen3-elev_ind.jpg?as=1&w=494&rev=9399af9af39c4748b9a2e9d3b6d972ae&hash=3A94373FE505604ECAC85C648B318FF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/3_cali_tos_kitchen_3.png?as=1&w=494&rev=a576bb0fde8444d99a066cf0f43228bc&hash=3DDAE989C1509A8B5741F7B54CD6E46C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/1_cali_tos_kitchen.png?as=1&w=494&rev=a016b3459825470ea8acc7de024a6309&hash=75515FA3B8E1071C567FE8626D5A48BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/2_cali_tos_kitchen_4.png?as=1&w=494&rev=eddf27cffc0343b7b840048278c6ab46&hash=809EFAA1AC3EDB05AE0A0EB62B8F5814",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/4_cali_tos_kitchen_2.png?as=1&w=494&rev=15d00ce43a764a5d931252ef6368d661&hash=70FDBF2F3A91207B7249945C04B12563",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/9_cali_tos_dining_room_3.png?as=1&w=494&rev=b9fe69ce27aa4340a8b5b70eb003826d&hash=3A28100277FE38740E7BD61C0927C545",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/11_cali_tos_great_room.png?as=1&w=494&rev=fbfe101821a24fd5972ca28cba2a27da&hash=D33F2AE3B07ED90EF8F074C38E672E6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/12_cali_tos_great_room_2.png?as=1&w=494&rev=f0b28cb26b8f4339801e8b3cfc14d3dc&hash=B751FE9C9DF20EEAC1DD8E059F4FF05A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/13_cali_tos_great_room_3.png?as=1&w=494&rev=f92396e524d346b5af44eeb69420e95b&hash=D38B2C830506698ABD35AC1ACC343F00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/15_cali_tos_owners_suite.png?as=1&w=494&rev=7f8aef974321407cbe02bcfdbb1d2f2a&hash=6CF58A1EA9D9C713F617AA1C18639CE5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=b620d913c23d445b8966e0890429e8c2&hash=421F38451B1C5CF3E838FC8A502A10F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=227b3345123d4a75b4b60bb90c75c1ed&hash=90451B82F4BD7D25995566ED2CCA95BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=7d02eb948b894b679de5b3d172990570&hash=42ECEEBE96024E269163F79A58E14F83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/21_cali_tos_owners_closet.png?as=1&w=494&rev=f8db51a02bb143648f594f2a83c84b60&hash=E7FAF8A9D4686A68FCCDE3A9DB1B91F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/23_cali_tos_bedroom_03.png?as=1&w=494&rev=bae42f6e9c334bb49131631a86d5f4c3&hash=FC55B69336D24D329CB645763A5D54EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/26_cali_tos_bathroom_2.png?as=1&w=494&rev=bf2f8b17ddec47eeacb27f7096f23575&hash=C2F7B21DEFB45775E6E29D6F0EDEE171",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/27_cali_tos_bedroom_2.png?as=1&w=494&rev=6e930fa6d4a948d2afb0ef7bad91eb08&hash=0B0A67FB83A52CDE0D269E6F3C815274",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/30_cali_tos_bedroom_4.png?as=1&w=494&rev=114ab655a9bc43c0936006ed8d92b8e0&hash=FAEEB21703C69C76A71A62F8D039A652",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/22_cali_tos_laundry_room.png?as=1&w=494&rev=c76843d6244e4b37b4caf14d74f1b9ac&hash=8F64503FC5E723C6B71DB980E7768D7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/17_cali_tos_lanai_web.png?as=1&w=494&rev=be2e43f31c054e0490f9a1bea760dbd7&hash=D33A52CCBDFFFD1F65AF0B3E04450C2E"
+      ],
+      "name": "2153 NE 28th Lane",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2153-ne-28th-lane",
+      "id": "2153",
+      "address": "2153 NE 28th Lane",
+      "price": "$316,910",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0014-2153-ne-28th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9399af9af39c4748b9a2e9d3b6d972ae&hash=1DAEA6D5C0E050D87CF223F753A9EDDE",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/allex-d-8ft-gen3-elev_ind.jpg?as=1&w=494&rev=76c5fe63f1ea45dd970589a4e8df10ac&hash=9EE2BBF9B667F4462723015CA957E100",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=8b427147939340ed9404ac088ca67910&hash=11EFFC979DF5A1AE803E9ACF8A97A715",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=2cc5c8d0eb3a450b97c039441af33254&hash=E51B027D4834A9869A6E37F9C5E84F2C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=029d2308e9b94745930d9205cfb34005&hash=1F9FC12C88BE7AC4BE5921E9B45D8376",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=50ee8ae1cef94b9099822e9a7209a672&hash=B55C207D854C044D5DCE64A431C5B1F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=62e2be5fc52349068e22bf665915a03b&hash=3034FB3B9DCDC5CFB3D4F62389277362",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=768bf19c28454141867a756e8462863f&hash=ACD058B761B7E3A49A372910447AF1F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=53fe96c65b06451a9a94e7018c770069&hash=38EA3D5ABBFBC70D6B331678A1BA6D33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=1106452fc0cc444baff5a7d5802fdb89&hash=9C8FF481BA0F028BDC742D97DD300AD0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=7fdc16b0225840c0bfd1d6b99ab23342&hash=276192D5CB8C97811326C582C5CA9394",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=4eb1b477c989479dbaa77de1ac117b0a&hash=707173D15BB1595092135F8422D00CB8"
+      ],
+      "name": "2164 NE 28th Lane",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2164-ne-28th-lane",
+      "id": "2164",
+      "address": "2164 NE 28th Lane",
+      "price": "$271,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0008-2164-ne-28th-lane/allex-d-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=76c5fe63f1ea45dd970589a4e8df10ac&hash=48251BAF134BD2749F095C771B1FEE6E",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/allex-c-8ft-gen3-elev_ind.jpg?as=1&w=494&rev=87e9b156ea964f3bb4854cae86253efa&hash=57212611919B9D937253063D04AB0BFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=3537f0e6746e46a98300fad7722178c0&hash=09CD6A2F1B512DB6D6538123A611A217",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=a80cbfb3ccac4e5994561e1ce95e5f2e&hash=F58EB67EF199DB3AFB5F20B477B69B9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=32acaf2531d54305b02ebf6739255b60&hash=0EACA5B7E3B73FE141069CD26B88F12D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=89bde6c860e448a3aa39267a4afaa700&hash=29FF4EC5430F5228B5939049B43868F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=edc64ace0fad438a93281d4412641e6b&hash=9D9FDAC03097BFF5F147C994DB570BBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=a66cbb57ea1b4f38b921b7968e861c80&hash=5D403F1DAFD57E277E9FED42702EB67F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=0cf8c1ae2a1242bbbe20c602919e4357&hash=22F1F00F0ED1B6FA1DC0771EFF7D03CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=b85267bf43ef40a4a9637b636dae8a96&hash=680727482D170369755B328ED09A0B70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=b1e3164295dc4b96ad8123e51cd7b25d&hash=ED1C0AC25A9E03D2B2AE187BE4F96EB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=9fb7f56db28c4726b0212755ec469943&hash=CD02EBA8297C59CCDB5BB27B477F9319"
+      ],
+      "name": "2171 NE 28th Lane",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2171-ne-28th-lane",
+      "id": "2171",
+      "address": "2171 NE 28th Lane",
+      "price": "$272,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eab/0006-2171-ne-28th-lane/allex-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=87e9b156ea964f3bb4854cae86253efa&hash=6C74ECFAE1DFAEBD8B5679B00879680E",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/robie-h-8ft-gen3-elev_ind.jpg?as=1&w=494&rev=97dcb2eb2fe942449535e1a61377effb&hash=6C6711D8818500FAD90F55924B601809",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_00_entry.jpg?as=1&w=494&rev=19a7318ccd4f4b91b283249a93a70286&hash=43F632C78696D28CE8B6CBC6AEF95AA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_01_kitchen.jpg?as=1&w=494&rev=2d4f85f47cb24b4cbe91bf0e33fa443a&hash=0780686B62E5E95CA3694CFE98E67C25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_02_kitchen.jpg?as=1&w=494&rev=c43a7a5e462b462dab75fdb1a7871f77&hash=68527CE0A12F25BC214E731D8D039E0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_03_dining_area.jpg?as=1&w=494&rev=39731573308f47a7b754f6d145d0449d&hash=844DD2B30B30ACEC6D83C046D6765B1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_04_dining_great_room.jpg?as=1&w=494&rev=5057e9f0b0ab432b9b71bf0bffaf1b1a&hash=E3B4D8263850FA5A94738F35F4B67CA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_05_great_room.jpg?as=1&w=494&rev=286279fe5d0c481bb460ac793add2014&hash=F678ABBFB131F1433653A945B5130FE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_06_loft.jpg?as=1&w=494&rev=70ca22097eca4765a979b50ecd71623e&hash=6A516A0D5660B882A2FBA57DB3DCE877",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_07_owners_suite.jpg?as=1&w=494&rev=e9341c63ab014e8dac72fe6ffd040030&hash=29B18BAA1F74CF33CA2DBD1FE48CE135",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_08_owners_suite02.jpg?as=1&w=494&rev=b96e57bf03a4479ab911422f1c08cc7b&hash=622E1C1017E8B0C982A4A2ECC6D58245",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_09_owners_ensuite.jpg?as=1&w=494&rev=b0b01ceaf11a415389c9251239930e45&hash=5047EB7D3A458B26BC60E76F22E0E766",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_10_secondary_bedroom.jpg?as=1&w=494&rev=6e97ffd57e6e4e76b2c6244469f039d5&hash=A39DFC8FDEE631D11BDD6A23808F0E19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_11_secondary_bedroom.jpg?as=1&w=494&rev=cfb39fbd73ea42b5a62cc8e33bb38d52&hash=E28E6E1549AFF2DA64A0B1051FC2B9DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_12_secondary_bathroom.jpg?as=1&w=494&rev=8d84aafa7119484e94f552e8f1869ccc&hash=598B04EE96933D89BDCC91E922601340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_13_secondary_bedroom.jpg?as=1&w=494&rev=f8168aab9dad4bd1ab5beabef8a266f2&hash=2F3DFF1419EDDC648B4CFFF7D220372D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_14_secondary_bedroom.jpg?as=1&w=494&rev=83fe4332d254491fb1470e5e9743ff26&hash=BBD7A017C9DFA0239DFCDCB8965B37B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/fl_west_florida_dr_horton_express_robie_15_secondary_bathroom.jpg?as=1&w=494&rev=8ad3a6d2b6fe46718720f92d6b925a8c&hash=226EE95A0653583844BD72C3CF0F81A2"
+      ],
+      "name": "2868 NE 21st Court Road",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2868-ne-21st-court-road",
+      "id": "2868",
+      "address": "2868 NE 21st Court Road",
+      "price": "$326,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2447",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3efb/0017-2868-ne-21st-court-road/robie-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=97dcb2eb2fe942449535e1a61377effb&hash=EE12BFA13E92929236987F9CC8F5C075",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0018-2872-ne-21st-court-road/harper-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=27409d8f3b394edf868e16b985272947&hash=9542BB8153A68B5AF59EB4BE8D3C01DA"
+      ],
+      "name": "2872 NE 21st Court Road",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2872-ne-21st-court-road",
+      "id": "2872",
+      "address": "2872 NE 21st Court Road",
+      "price": "$287,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0018-2872-ne-21st-court-road/harper-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=27409d8f3b394edf868e16b985272947&hash=9542BB8153A68B5AF59EB4BE8D3C01DA",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/elston-h-8ft-gen3-elev_ind.jpg?as=1&w=494&rev=c34a975d3d7245d296da2b7f09eec75c&hash=3C63E4C410A8A11E7BE328E4D74B40FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/17_elston_tos_entry.png?as=1&w=494&rev=f5cc2af068e741dbbfa6635103340fcf&hash=8D9D3C7142979AC1881D563187C44BFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/2_elston_tos_kitchen_5.png?as=1&w=494&rev=42c3a8fc33fe42f098e572bbdeb441de&hash=7C93B3B2A92EA3505141145213BC0496",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/4_elston_tos_kitchen_3.png?as=1&w=494&rev=544db7bc9cab4408ae79c3de9e06e513&hash=274F15E0AEF0C1D1AEF7913E74FBDBFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/7_elston_tos_great_room_4.png?as=1&w=494&rev=8a493e3a07504885bc705a58851cef51&hash=82787051FDC6E2DE29E79CD3E0B45F6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/9_elston_tos_great_room.png?as=1&w=494&rev=fdc0c7218cc1431580c8651fb50c881d&hash=9B06820BB1E162F80DC9A6863C269523",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/12_elston_tos_dining_room.png?as=1&w=494&rev=82411fccfd4f473a8b8e58b4dc620259&hash=407BB1B786896B94DC6D0FB9EF990463",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/18_elston_tos_upstairs_loft_3.png?as=1&w=494&rev=47434b15790548e881c26130ad9c345e&hash=41135401D4420C5E045F18906EE85C0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/20_elston_tos_upstairs_loft_2.png?as=1&w=494&rev=25297ad27e6740ec8a3dbfdbb15836c9&hash=3DD45B19A51521FFDE6B1F94AAD024A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/21_elston_tos_owners_suite.png?as=1&w=494&rev=049b71aa64594cdabb812d41961b8bb0&hash=F1E24E8B8765F8533651D83C9001967E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/26_elston_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=61e98d7fdf0f4a1c8f838e4ae779b4dd&hash=7B2C7FBDD2402E8AA688E1BEE5231BC3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/27_elston_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=54ffc384b0ac4b5387c7682cffb7d2f0&hash=9923A6B3686A4691FA4E9AA83796D660",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/29_elston_tos_laundry_room.png?as=1&w=494&rev=762d500c871f47fc9dba287662f3434e&hash=A65163177D7FF48D8344BDD8D8E398E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/32_elston_tos_bedroom_3.png?as=1&w=494&rev=38388d249c604640ae3f99367e3fbefb&hash=D02EAAA290C238942730C5DFA6511549",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/34_elston_tos_bathroom_2.png?as=1&w=494&rev=243d86f75b264d3090a782dc483b145c&hash=9B98FB028BE9B67151B4DD057A1D2211",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/36_elston_tos_bedroom_02.png?as=1&w=494&rev=c4892bd53e4a4878b905459ccb6d91b9&hash=EDD5C419D552E766A88CCE3B0556C7C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/38_elston_tos_bedroom_4.png?as=1&w=494&rev=151b282c045745f98dfc38ad5416a1bb&hash=9F2774D636AC17B718885E6D140A2261",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/16_elston_tos_outdoor_patio_2.png?as=1&w=494&rev=3b10879f9d6a4ad4b3c9cba9486e2283&hash=A7966CE1A75E84D755FBCD1A39A3C8E1"
+      ],
+      "name": "2880 NE 21st Court Road",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2880-ne-21st-court-road",
+      "id": "2880",
+      "address": "2880 NE 21st Court Road",
+      "price": "$318,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3eeb/0019-2880-ne-21st-court-road/elston-h-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c34a975d3d7245d296da2b7f09eec75c&hash=5E77FF4F077CFB47BD5D34B538AB3F66",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/cali-d-siding-gen3-elev_ind.jpg?as=1&w=494&rev=a326eca9a3bc4394abb9b85de9959eb9&hash=B51791D670FB3DD7043FC5F6281A9322",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/02-fl_west-florida_dr-horton_cali_8_kitchen.jpg?as=1&w=494&rev=92fa4568578540bc84ff6130266edc15&hash=601596A92238D5E349D9852E4D6CADF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/03-fl_west-florida_dr-horton_cali_8_dining.jpg?as=1&w=494&rev=eabe06aecb05409db9939678921eab9d&hash=119D1E4FCED9DCA6E409525FBC5EE2F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/04-fl_west-florida_dr-horton_cali_8_great-room.jpg?as=1&w=494&rev=4ada989f152049d081a2714acd7eed05&hash=C30AC1D5C689B47BA704528D4E4EF6D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/06-fl_west-florida_dr-horton_cali_8_bedroom2.jpg?as=1&w=494&rev=4d363a70887440feb3147570565185b9&hash=20B2A3F244FFC15A47AAA0660C62C76E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/07-fl_west-florida_dr-horton_cali_8_bedroom3.jpg?as=1&w=494&rev=79f9ea991dbd49f8a9ce76ba3260b77f&hash=BEA98438925FF2E52CE5C2068F83E3DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/08-fl_west-florida_dr-horton_cali_8_bath2.jpg?as=1&w=494&rev=fb22c787f1374530944b18e538e1a67f&hash=FFBD9FAD26C1B84590C72E5761856400",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/09-fl_west-florida_dr-horton_cali_8_flex_room.jpg?as=1&w=494&rev=40efdeb1f6a44d62844d0fa23f6f3ce1&hash=1825A652CD42A139BC5B3BAED23E08E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/10-fl_west-florida_dr-horton_cali_8_main-bed.jpg?as=1&w=494&rev=a90f144c36a54c86bd4c594c36fc17ed&hash=B6491DD2558E1EBFA5DB248A1347270A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/11-fl_west-florida_dr-horton_cali_8_main-bath.jpg?as=1&w=494&rev=603e671f417f40bea30b6ef9298a01b5&hash=DDC28E7AE77E37721047E26E9E1F7632",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/12-fl_west-florida_dr-horton_cali_8_laundry.jpg?as=1&w=494&rev=0624bdbfec94497fa5acef37ee5cfabd&hash=CF988A5126E82A18025C215ED7A17EEA"
+      ],
+      "name": "2889 NE 21st Terrace Road",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2889-ne-21st-terrace-road",
+      "id": "2889",
+      "address": "2889 NE 21st Terrace Road",
+      "price": "$304,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0005-2889-ne-21st-terrace-road/cali-d-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a326eca9a3bc4394abb9b85de9959eb9&hash=30F847A0A66D260F79A3D3DCB77C3FF4",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0020-2894-ne-21st-court-road/harper-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6e970837b26148d6b6d720e30f7ab77b&hash=5292B00455FB8ECADE3B04AB1F440492"
+      ],
+      "name": "2894 NE 21st Court Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2894-ne-21st-court-road",
+      "id": "2894",
+      "address": "2894 NE 21st Court Road",
+      "price": "$287,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0020-2894-ne-21st-court-road/harper-g-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6e970837b26148d6b6d720e30f7ab77b&hash=5292B00455FB8ECADE3B04AB1F440492",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0006-2897-ne-21st-terrace-road/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=17aa1ba2260f4fbb85c2feb3b95bda79&hash=11E1DD49B9ADF5E8615CBC82D9C18F5A"
+      ],
+      "name": "2897 NE 21st Terrace Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2897-ne-21st-terrace-road",
+      "id": "2897",
+      "address": "2897 NE 21st Terrace Road",
+      "price": "$289,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0006-2897-ne-21st-terrace-road/aria-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=17aa1ba2260f4fbb85c2feb3b95bda79&hash=11E1DD49B9ADF5E8615CBC82D9C18F5A",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0007-2905-ne-21st-terrace-road/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b7388e6b0d8145579fcb581a4260f462&hash=4FF6DE335932F23ABC8CF952EAABFB8E"
+      ],
+      "name": "2905 NE 21st Terrace Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2905-ne-21st-terrace-road",
+      "id": "2905",
+      "address": "2905 NE 21st Terrace Road",
+      "price": "$302,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0007-2905-ne-21st-terrace-road/cali-c-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b7388e6b0d8145579fcb581a4260f462&hash=4FF6DE335932F23ABC8CF952EAABFB8E",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0021-2908-ne-21st-court-road/harper-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ae34ff4123fb44a7b4dba13bfd001e60&hash=C94392E2623146DC39A8ECBD6C679C99"
+      ],
+      "name": "2908 NE 21st Court Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2908-ne-21st-court-road",
+      "id": "2908",
+      "address": "2908 NE 21st Court Road",
+      "price": "$286,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/347810000-emerson-pointe-40s-exp/3emb/0021-2908-ne-21st-court-road/harper-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ae34ff4123fb44a7b4dba13bfd001e60&hash=C94392E2623146DC39A8ECBD6C679C99",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/cali-c-gen3-elev_ind.jpg?as=1&w=494&rev=a97b2f46871542edbe469994914d18d7&hash=EC8E7190C402EFBBA1DAB5A087B0B4B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/3_cali_tos_kitchen_3.png?as=1&w=494&rev=f2bd95b5f91a4d11ba2dbba2b34f7c12&hash=8B29404FD9E1717FCD01D831D3CAC933",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/1_cali_tos_kitchen.png?as=1&w=494&rev=49179d86d4d641efb4d0c1083157ee7c&hash=D046F4B751CDB5F2F8EFFE66A478D800",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/4_cali_tos_kitchen_2.png?as=1&w=494&rev=fc802ed2c13f4ad2b5ecfcaef5751009&hash=951FBD3A721669DA24B65AEA20863B1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/6_cali_tos_dining_room_4.png?as=1&w=494&rev=a4c13a4823e8497bbc28b56c06af66e7&hash=2BBF66C6ACF32E12B35F54210E0BE054",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/7_cali_tos_dining_room_2.png?as=1&w=494&rev=6bcdda7cafbd444596bb7ba1e708ef10&hash=08A6DCF66C692A5D274497291CFF924C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/10_cali_tos_great_room_dining_room.png?as=1&w=494&rev=431dcd23249443cf8f6fe8f984d172e4&hash=1152AD3D840538A8EA4092440328A093",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/11_cali_tos_great_room.png?as=1&w=494&rev=f057db7ebed54d0285115dba2780eeaf&hash=4A35ADC08A4E6B8724BECE297D3274F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/12_cali_tos_great_room_2.png?as=1&w=494&rev=a9a8b832834e440b801dd159acba71b8&hash=C1E47EEDC6DF58B3B5CD3BD6C412EC4A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/13_cali_tos_great_room_3.png?as=1&w=494&rev=ec7a415bd90a4217be1b1973f2d37330&hash=F0945025594F2421D92AF06D46FCEB3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/15_cali_tos_owners_suite.png?as=1&w=494&rev=6fd87e0fdecd439aa0c5aabf72501862&hash=E7D8D82C03A2AEC59A1771A8AD323A44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=bb418f44850e48cb8272ec063735b7ae&hash=83EF7098C0F47BB0FF6CD7441325C904",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=b7014a2f6294406fb292b8567c7822a7&hash=7F6FE466F1376A7F417656A7AD48F213",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=521488afa4e64b59ab1097cf7d14b90e&hash=A5F6E880FA4603BA835AEF10F1FFC646",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/21_cali_tos_owners_closet.png?as=1&w=494&rev=da15844a9ce64c5ca2fdc4b638fd3c90&hash=621399A11DD2CBDA285E2DCACA9249D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/23_cali_tos_bedroom_03.png?as=1&w=494&rev=88ec3c6a0fc44d0d87b44483425aa83c&hash=FF32B002D04F560312DEA1D9F67F0079",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/26_cali_tos_bathroom_2.png?as=1&w=494&rev=cac20e9c38e243a2be0f454ff760a455&hash=717D90577F831622C0E371C519C9B738",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/27_cali_tos_bedroom_2.png?as=1&w=494&rev=30928e6f34e04b9292993be2a072844a&hash=97D513A2902690DC011893F0E558D0C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/30_cali_tos_bedroom_4.png?as=1&w=494&rev=998ed2f2daf547b5b4baa37c6eef48f7&hash=46E01CB5CFE82DAC6C1CEBA2660CF54E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/22_cali_tos_laundry_room.png?as=1&w=494&rev=fb0d92ec09074df2ae3bcad74d7d95c4&hash=83C63EF80D3B0376636CC370EFDA9599",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/17_cali_tos_lanai_web.png?as=1&w=494&rev=67adabd01bb144c6bea1192e7b173250&hash=391D1581E9DB623E2C6909C1522A2AF3"
+      ],
+      "name": "2929 NE 21st Terrace Road",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2929-ne-21st-terrace-road",
+      "id": "2929",
+      "address": "2929 NE 21st Terrace Road",
+      "price": "$321,240",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0010-2929-ne-21st-terrace-road/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a97b2f46871542edbe469994914d18d7&hash=7168595D683874EFC4E8C11A4128A1FB",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/cali-d-gen3-elev_ind.jpg?as=1&w=494&rev=4b325d9ef9c54e848d9f39ef6aa18567&hash=14ADBAE8609218BF65856A396C117E00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/3_cali_tos_kitchen_3.png?as=1&w=494&rev=8ff88e6ae77248ba92e06ea325491ec0&hash=D628E385F2D8EC1A85D9BAB3C4951B93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/1_cali_tos_kitchen.png?as=1&w=494&rev=521f5f1be73f4646821084f27c097723&hash=2F0B7A9789EF1931E4E6D2446640F3E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/2_cali_tos_kitchen_4.png?as=1&w=494&rev=e30847c06b644cb58bd3657285199525&hash=44B163C6813BEA76A540AC8A45054241",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/4_cali_tos_kitchen_2.png?as=1&w=494&rev=9ac64d61a2394b16aa6c97818000f507&hash=5B71193BFF3DF9CB387876D75E4CAB17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/7_cali_tos_dining_room_2.png?as=1&w=494&rev=20dd4ceb2fae4563baa837338a1c92db&hash=C8C1C932B339780BE3D7F6C26D571E2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/11_cali_tos_great_room.png?as=1&w=494&rev=47e2689cf36847c498e4276f2133aa18&hash=85525426F73D0766BF15634F80912DD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/12_cali_tos_great_room_2.png?as=1&w=494&rev=663bac331c1d442290d3a2d65245db2f&hash=D926D6EB819265ACE9DE1C2B5AF4E740",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/13_cali_tos_great_room_3.png?as=1&w=494&rev=c79a63e982bc4ccab143873684a7426e&hash=C0DC935ED947C7A47526B925204299E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/15_cali_tos_owners_suite.png?as=1&w=494&rev=7416e850286648eab9f06ddef38dd590&hash=9DE61AAD71C9D5078E09A225755ED0E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=c6c68811659f47ed87d9cff4422eb64a&hash=8F6FEC81A9114D44E87138D65B37DB05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=97531c824ddf41bc903922bb1c5641c5&hash=862F7736874D923EA56530E950611DE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=27d7733714274eaaade19cbc377500d9&hash=0AAD9C301CC7EBA1FD4ACFA2BA7414B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/21_cali_tos_owners_closet.png?as=1&w=494&rev=9c0cee82ecd9411695c80f86585b87a8&hash=E48A6D7FE600C69D8FC65FF933E079DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/23_cali_tos_bedroom_03.png?as=1&w=494&rev=89f592cee5024134880227edcaab3814&hash=976496E9902808BC02C722B38303B625",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/26_cali_tos_bathroom_2.png?as=1&w=494&rev=168a598cb8a242a0bcdcfa46c604e27a&hash=5251EFED3997F10632BC71256EFBB3FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/27_cali_tos_bedroom_2.png?as=1&w=494&rev=c814d2c3dabe4c9baa80c92b0c984722&hash=2E547E99002A1D62823E339377CF8C05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/30_cali_tos_bedroom_4.png?as=1&w=494&rev=7343a884ec084c0789f79046ba73ab40&hash=A948D188FB8C33D2E137C5EE979447D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/22_cali_tos_laundry_room.png?as=1&w=494&rev=4bedc5848b9747d29b3d60f0907d5980&hash=BD734429B0E8D67C2F0D210256F65791",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/17_cali_tos_lanai_web.png?as=1&w=494&rev=ccfea72cc01b4a34832393291aa06027&hash=8BB161A8092A217EA71D33AD1260F381"
+      ],
+      "name": "2937 NE 21st Terrace Road",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2937-ne-21st-terrace-road",
+      "id": "2937",
+      "address": "2937 NE 21st Terrace Road",
+      "price": "$323,910",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0011-2937-ne-21st-terrace-road/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4b325d9ef9c54e848d9f39ef6aa18567&hash=4B2ACAB4B2647249B39C26CFDF434DA6",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/aria-c-8ft-gen3-elev_ind.jpg?as=1&w=494&rev=cde436cd950d474f8aa0a4eadf4f5c83&hash=3AFA7887F0D434E813E881067C8FABF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/01-fl_westflorida-dr-horton_express-series_aria_kitchen-entry.jpg?as=1&w=494&rev=c9b4727970cf4c10bb97ce4795c31e00&hash=F12121F0EC7DFE5FC91828D12D831E74",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/02-fl_westflorida-dr-horton_express-series_aria_kitchen-dining.jpg?as=1&w=494&rev=e0372f315dd34999928b32da2459659a&hash=949622A993C1CF17ED061BAFB26F340F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/03-fl_westflorida-dr-horton_express-series_aria_dining.jpg?as=1&w=494&rev=f78f7aba62e84140b01c14671e5707b4&hash=C1698F635DD7554AEEF1104949786228",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/04-fl_westflorida-dr-horton_express-series_aria_great-room.jpg?as=1&w=494&rev=7432e6467e074575bae809bd2aaf2962&hash=57EC1B31DB86B8BD161FCF5F873C9B87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/05-fl_westflorida-dr-horton_express-series_aria_great-room-entry.jpg?as=1&w=494&rev=84938dbcf86b4bcaa2ccb0e28197cd7d&hash=9134574B069A896D46DD1C33EC3B93AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/06-fl_westflorida-dr-horton_express-series_aria_bedroom-1.jpg?as=1&w=494&rev=99f9492fec284a578657d8fb88775bda&hash=114D0F3C1BE495272AFE7BA9FDE677AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/07-fl_westflorida-dr-horton_express-series_aria_bath-1.jpg?as=1&w=494&rev=900d15578dfa4a9dacfe50fb2987ee84&hash=9516BBDD40D95A1FA4C3DF8C4F24DDC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/08-fl_westflorida-dr-horton_express-series_aria_bedroom-2.jpg?as=1&w=494&rev=d1fb90c54f1948aea66c0e9e055ad911&hash=B709A98C4E64EC03781000FD0B3DD32A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/09-fl_westflorida-dr-horton_express-series_aria_bedroom-3.jpg?as=1&w=494&rev=fec0a1f1dc7f44988504c87fe3994e02&hash=979AADB36C5A7F93005165F697BB8062",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/10-fl_westflorida-dr-horton_express-series_aria_bath-2.jpg?as=1&w=494&rev=6a0e4f3a165b4f6495c75d04dfba0a20&hash=112B8DD0FC716D30DC0CD5B87A4206DD"
+      ],
+      "name": "2945 NE 21st Terrace Road",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2945-ne-21st-terrace-road",
+      "id": "2945",
+      "address": "2945 NE 21st Terrace Road",
+      "price": "$302,410",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4eab/0012-2945-ne-21st-terrace-road/aria-c-8ft-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=cde436cd950d474f8aa0a4eadf4f5c83&hash=1A28F5E1EB94AC008D5A0F104A2004EF",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/cali-c-gen3-elev_ind.jpg?as=1&w=494&rev=e021093de92c4b05abd6652e63ddf7d5&hash=ACAEF32CAC3CD60B2A3B78C7A71F832C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/4_cali_tos_kitchen_2.png?as=1&w=494&rev=d09eb1ecbe094389abb9738db91a72ed&hash=7309140F4CD29FD2614FD683BA4CDE1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/1_cali_tos_kitchen.png?as=1&w=494&rev=f2988e82b9894d0496c81df54ab7b890&hash=8C515E5724E81D84DC4FC07ADDA15544",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/2_cali_tos_kitchen_4.png?as=1&w=494&rev=cf25dadda00741599ce19e2b36e3512b&hash=4D4E32C9A119575B4AAD79E389F89037",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/3_cali_tos_kitchen_3.png?as=1&w=494&rev=b21591f0341f4042a5d289bf781fd1f5&hash=4F304B24BF595A205227E4F4E35A137C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/9_cali_tos_dining_room_3.png?as=1&w=494&rev=3b218490ea9f4997811e8951150d0a15&hash=099E22C7A970C8E9DD0FA28F0E263206",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/11_cali_tos_great_room.png?as=1&w=494&rev=2fbcc730bfae4d62bf634832679031ec&hash=5B7345053F2BE669550E91ED93F2E109",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/12_cali_tos_great_room_2.png?as=1&w=494&rev=4d120713ce284d49bbeee9ccb92270ec&hash=66AD868B59FEEBCAB1B5625FE631E0BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/13_cali_tos_great_room_3.png?as=1&w=494&rev=f74f7b6debcd432db9a1d6afd6fffd93&hash=2FE9EF106AC5E644E2F8860F06C97D97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/15_cali_tos_owners_suite.png?as=1&w=494&rev=2b1f3e0f5a884eb8ab90faa1cbeccf77&hash=1890E02DA66D7C757343911E8772DB8A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/16_cali_tos_owners_suite_2.png?as=1&w=494&rev=d858dda3a12545d6a31c6b085d9448f3&hash=5E968B8CC338AD7F38DCC16F13E23B1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/19_cali_tos_owners_ensuite_bathroom.png?as=1&w=494&rev=97ca02ef5900407ab7d1bb55b5b9218b&hash=8AE2DB55EC40E64EC947CA4AFAB920A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/20_cali_tos_owners_ensuite_bathroom_2.png?as=1&w=494&rev=ef863f355aec4c418f0df13017655b1a&hash=18D98F12DF3347276507F6E202DDD028",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/21_cali_tos_owners_closet.png?as=1&w=494&rev=031765e63c8e483fa9e2cf9ab5dfd12d&hash=2E5D455E7FE9E38CDBCC0880E7022A1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/23_cali_tos_bedroom_03.png?as=1&w=494&rev=87e7aea261164cdfab0dc97e5adfa8c0&hash=2A38E810AA742A316BE5F2FBD07FF36C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/26_cali_tos_bathroom_2.png?as=1&w=494&rev=7123d8673de543829d963f285da1a87e&hash=3FA7824EB1E4D3FD75D89FC17D4715CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/27_cali_tos_bedroom_2.png?as=1&w=494&rev=62fa0bd885624a9bbb6c355e53ada001&hash=902BFFDC0403C00B90EAD09E005BD8DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/30_cali_tos_bedroom_4.png?as=1&w=494&rev=197194ab9c8b4296bde61c9a638b7622&hash=65E3331029905B7516DD43BE46E638E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/22_cali_tos_laundry_room.png?as=1&w=494&rev=24c4d56416a54832bcdc3c6aeff1baa1&hash=5E995452563F624C609095B86C4BDFDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/17_cali_tos_lanai_web.png?as=1&w=494&rev=dc97096c551e404389d9e2e4fff83135&hash=90F82A2A44D9B7271D4322F6BFB77F06"
+      ],
+      "name": "2946 NE 21st Terrace Road",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/emerson-pointe/qmis/2946-ne-21st-terrace-road",
+      "id": "2946",
+      "address": "2946 NE 21st Terrace Road",
+      "price": "$312,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34781-emerson-pointe/974660000-emerson-pointe-50s-exp/4ebb/0013-2946-ne-21st-terrace-road/cali-c-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e021093de92c4b05abd6652e63ddf7d5&hash=05053F384D18D832F3CEA9C4E911E276",
+      "latitude": 29.21588,
+      "longitude": -82.10857,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Ocala Springs Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Fort King Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Vanguard High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

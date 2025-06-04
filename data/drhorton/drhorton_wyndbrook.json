@@ -1,0 +1,272 @@
+{
+  "timestamp": "2025-06-03T01:29:09.092817",
+  "name": "Wyndbrook",
+  "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook",
+  "status": null,
+  "price_from": "$213,990",
+  "address": "5407 Tellaro Ln.,Jacksonville, FL 32210",
+  "phone": "(904) 320-0331",
+  "description": "Find a new home in Jacksonville, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/6f1a0005.jpg"
+  ],
+  "location": {
+    "latitude": 30.24731,
+    "longitude": -81.82275,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$213,990 - $229,990",
+    "sqft_range": "From 1,395 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Greyson",
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/floor-plans/1395",
+      "details": {
+        "price": "From $244s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,395 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/6f1a0001.jpg?as=1&w=425&rev=804be25ae321486a8b3e9c655f51d776&hash=30F72EC520A86328C8F98476D2C2E18B"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0086-5409-tellaro-lane/01_main_image_1.jpg?iar=1&sc=1&thn=1&w=425&rev=d394489e63524ea6b6d24d21f7f5a6e0&hash=DC6B48571D2CE9022DA879B5493595FA"
+      ],
+      "name": "5409 Tellaro Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/5409-tellaro-lane",
+      "id": "5409",
+      "address": "5409 Tellaro Lane",
+      "price": "$224,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0086-5409-tellaro-lane/01_main_image_1.jpg?iar=1&sc=1&thn=1&w=425&rev=d394489e63524ea6b6d24d21f7f5a6e0&hash=DC6B48571D2CE9022DA879B5493595FA",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0140-5442-broad-bridge-way/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=633d940b8ad543a294a24ac35f91e356&hash=9DBE65B7347C56085D93908D3F98086C"
+      ],
+      "name": "5442 Broad Bridge Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/5442-broad-bridge-way",
+      "id": "5442",
+      "address": "5442 Broad Bridge Way",
+      "price": "$221,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0140-5442-broad-bridge-way/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=633d940b8ad543a294a24ac35f91e356&hash=9DBE65B7347C56085D93908D3F98086C",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0117-9906-wyndbrook-terrace/01_main_image_4.jpg?iar=1&sc=1&thn=1&w=425&rev=eda9b81919be43879f180bde48ca7d40&hash=05D9702ADC3738DDD0ECE2D153FF95A2"
+      ],
+      "name": "9906 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9906-wyndbrook-terrace",
+      "id": "9906",
+      "address": "9906 Wyndbrook Terrace",
+      "price": "$229,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0117-9906-wyndbrook-terrace/01_main_image_4.jpg?iar=1&sc=1&thn=1&w=425&rev=eda9b81919be43879f180bde48ca7d40&hash=05D9702ADC3738DDD0ECE2D153FF95A2",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0118-9908-wyndbrook-terrace/01_main_image_4.jpg?iar=1&sc=1&thn=1&w=425&rev=1596019cd01a47d38bd9fd5c0aa6fa7a&hash=D898888C04382FB3B5AC1F2FD4893E3E"
+      ],
+      "name": "9908 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9908-wyndbrook-terrace",
+      "id": "9908",
+      "address": "9908 Wyndbrook Terrace",
+      "price": "$214,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0118-9908-wyndbrook-terrace/01_main_image_4.jpg?iar=1&sc=1&thn=1&w=425&rev=1596019cd01a47d38bd9fd5c0aa6fa7a&hash=D898888C04382FB3B5AC1F2FD4893E3E",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0119-9910-wyndbrook-terrace/01_main_image_1.jpg?iar=1&sc=1&thn=1&w=425&rev=52d99ae864534eb9af8b905cfc4e06c3&hash=194D5940637BD7084AA7C3D495CCD22C"
+      ],
+      "name": "9910 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9910-wyndbrook-terrace",
+      "id": "9910",
+      "address": "9910 Wyndbrook Terrace",
+      "price": "$214,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0119-9910-wyndbrook-terrace/01_main_image_1.jpg?iar=1&sc=1&thn=1&w=425&rev=52d99ae864534eb9af8b905cfc4e06c3&hash=194D5940637BD7084AA7C3D495CCD22C",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0120-9912-wyndbrook-terrace/01_main_image_1.jpg?iar=1&sc=1&thn=1&w=425&rev=fd3bf4f2d41b4445bf610b611b2f3b9c&hash=E4081752EAC1BAA437058F2298CE1905"
+      ],
+      "name": "9912 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9912-wyndbrook-terrace",
+      "id": "9912",
+      "address": "9912 Wyndbrook Terrace",
+      "price": "$227,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0120-9912-wyndbrook-terrace/01_main_image_1.jpg?iar=1&sc=1&thn=1&w=425&rev=fd3bf4f2d41b4445bf610b611b2f3b9c&hash=E4081752EAC1BAA437058F2298CE1905",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0121-9918-wyndbrook-terrace/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=e31a15cc36094ccabbee6d6f1f74f500&hash=92D995C68B56F79FC12D3401F03ED120"
+      ],
+      "name": "9918 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9918-wyndbrook-terrace",
+      "id": "9918",
+      "address": "9918 Wyndbrook Terrace",
+      "price": "$227,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0121-9918-wyndbrook-terrace/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=e31a15cc36094ccabbee6d6f1f74f500&hash=92D995C68B56F79FC12D3401F03ED120",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0123-9922-wyndbrook-terrace/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=3d6c0f3f0eeb457ebd55c1716ee96139&hash=BA77CC64329B2CFAB6722ACD0A5DA44F"
+      ],
+      "name": "9922 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9922-wyndbrook-terrace",
+      "id": "9922",
+      "address": "9922 Wyndbrook Terrace",
+      "price": "$213,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0123-9922-wyndbrook-terrace/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=3d6c0f3f0eeb457ebd55c1716ee96139&hash=BA77CC64329B2CFAB6722ACD0A5DA44F",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0124-9924-wyndbrook-terrace/01_main_image_5.jpg?iar=1&sc=1&thn=1&w=425&rev=8a657ac027ea4504b87cd12483baeabb&hash=61A59FC3853D94D24060AACF4D9CFE93"
+      ],
+      "name": "9924 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9924-wyndbrook-terrace",
+      "id": "9924",
+      "address": "9924 Wyndbrook Terrace",
+      "price": "$213,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0124-9924-wyndbrook-terrace/01_main_image_5.jpg?iar=1&sc=1&thn=1&w=425&rev=8a657ac027ea4504b87cd12483baeabb&hash=61A59FC3853D94D24060AACF4D9CFE93",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0125-9926-wyndbrook-terrace/01_main_image_4.jpg?iar=1&sc=1&thn=1&w=425&rev=26805b3128b64d74964efd0d82f0c43b&hash=3ABBC933A2468D0FF263880BAE7BAB4A"
+      ],
+      "name": "9926 Wyndbrook Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/wyndbrook/qmis/9926-wyndbrook-terrace",
+      "id": "9926",
+      "address": "9926 Wyndbrook Terrace",
+      "price": "$213,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33850-wyndbrook-ths/338500000-wyndbrook-ths/1395/0125-9926-wyndbrook-terrace/01_main_image_4.jpg?iar=1&sc=1&thn=1&w=425&rev=26805b3128b64d74964efd0d82f0c43b&hash=3ABBC933A2468D0FF263880BAE7BAB4A",
+      "latitude": 30.24731,
+      "longitude": -81.82275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Westview K-8",
+          "type_and_grades": "Westview K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Westview K-8",
+          "type_and_grades": "Westview K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Westside High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

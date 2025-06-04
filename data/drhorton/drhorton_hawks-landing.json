@@ -1,0 +1,336 @@
+{
+  "timestamp": "2025-06-01T18:33:53.341197",
+  "name": "Hawks Landing",
+  "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing",
+  "status": null,
+  "price_from": "$299,900",
+  "address": "11 Phoenix Street,Santa Rosa Beach, FL 32459",
+  "phone": "(850) 399-9739",
+  "description": "Find a new home in Santa Rosa Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/hawks_landing_townhomes_1_front.jpg"
+  ],
+  "location": {
+    "latitude": 30.39302,
+    "longitude": -86.22004,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$299,900 - $339,900",
+    "sqft_range": "From 1,459 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing/floor-plans/rpex",
+      "details": {
+        "price": "From $350s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,470 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/hawks_landing_palm_a_exterior_1.jpg?as=1&w=425&rev=598b083f8e2645c1a763799fbc0364b4&hash=918F9D6BF59B912759C4B37033CCF13C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=2bd30383c9934ff1acf900f2e7e4b583&hash=8F20B8B1379C1E5886163872ED9F14C1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=2bd30383c9934ff1acf900f2e7e4b583&hash=8F20B8B1379C1E5886163872ED9F14C1"
+        }
+      ]
+    },
+    {
+      "name": "Palm Interior",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing/floor-plans/rpin",
+      "details": {
+        "price": "From $340s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,459 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/hawks_landing_townhomes_1_front.jpg?as=1&w=425&rev=2fbb72fb0c0946ca941039c4ae764bee&hash=47C26F622AFA18EABF59FA7C4D3BE555"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/palm_interior.jpg?rev=925b10712ad04502b3b68ccc644a28b1&hash=8439A4D3436FAE99C484D6654D588D4F"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/palm_interior.jpg?rev=925b10712ad04502b3b68ccc644a28b1&hash=8439A4D3436FAE99C484D6654D588D4F"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_0036_dsc03948.jpg?as=1&w=494&rev=2c939daaee224f9d8095ad8b6e692eea&hash=DD6FD56F2A9BD1F0FE26A74695CC7025",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_01_entry.jpg?as=1&w=494&rev=34fdbe7f179f4e469d8382d36e6ab836&hash=707959A62511581427632E5E307BE32D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_02_foyer.jpg?as=1&w=494&rev=76424f4bab09494993614a416d8a5a91&hash=0FB4D7B9AEC5C4E3E52DD673A4068616",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_03_half_bath.jpg?as=1&w=494&rev=7aa63285dac54e238ac277104256105c&hash=673B0C4F4E0BB0E5B3838A7CB315FB4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_04_half.jpg?as=1&w=494&rev=836d3932f04f42ba82d91f113aeb46b6&hash=E2E1A1F772B66D8E3D4EFC227968959A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_05_kitchen.jpg?as=1&w=494&rev=249c1e1a6d314b4ea7569399efa29608&hash=6BB469DF6A31B30C1F4F5AC90D0A645E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_06_open_kitchen.jpg?as=1&w=494&rev=16fba460f1b445688293e5ae01129952&hash=3EFC71A846C2AE2F432118C0458CE6AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_07_kitchen.jpg?as=1&w=494&rev=2b3a9af7cf3e4614bdbe1d3c89c078b3&hash=A2CF3C6345E0DCA0D75638C7BBE8E9A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_08_kitchen.jpg?as=1&w=494&rev=5fc2530af2534457afdf8f10ca40c76c&hash=59DE9221AA0DDB5CCD0392053A3255C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_09_kitchen.jpg?as=1&w=494&rev=643a8adf431d48658fb14baa27530529&hash=6E0DB9BCE73AE2610F066A69CE0ED38D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_10_living_area.jpg?as=1&w=494&rev=82d1f8c543f547faa519e2365c99139b&hash=50CA1639F211D6AB5C6A5AD1F0CC2F2B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_11_living_and_dining_area.jpg?as=1&w=494&rev=0881614b3f894a04a6a93d0be8d48db8&hash=7E24A7F5809B220BBAB710B5F2AFA3F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_12_dining_and_living_area.jpg?as=1&w=494&rev=14888c164b294078b2f80c5216525386&hash=FB5FD46DABB1AA850E96FD0B32B0E958",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_13_stairs.jpg?as=1&w=494&rev=a7a710e5990a44a08663ff04a94affdd&hash=282EA7E0C0753C7B226AD47A34563047",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_14_hall_to_primary.jpg?as=1&w=494&rev=cfa38e321dd34ce08ff6aa3fb4e325f7&hash=83DB4FCAFCE0DB417DE065DD0D79EF95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_15_primary_bedroom.jpg?as=1&w=494&rev=aa03946f7e214656a940417f95f95be3&hash=2D33981E0C2CCD1168A93FC2030704FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_16_primary_bedroom.jpg?as=1&w=494&rev=c2f8e91086f44de8b6c4db4bda5beaca&hash=14E1ACF5C83CA009A11FC7B10AA21D11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_17_primary_bedroom.jpg?as=1&w=494&rev=11ed88450d1344919ae9866420d579ee&hash=4614BA8B9440D16C538CE51660E81B90",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_18_primary_bed_closet.jpg?as=1&w=494&rev=5dd59247e7a84f22b224f2f2e30f63a5&hash=D6EA319D278E5B19A8757436F1E74898",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_19_primary_bath.jpg?as=1&w=494&rev=fc9af6c4216845caa88f561d882764c9&hash=EFCB1A208B88832504CD0EAA8BF74B80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_20_primary_bath.jpg?as=1&w=494&rev=c606b910093549e88c453f0aa151cb49&hash=BAA890B0CDD869E89AA9432648F91962",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_21_primary_bath.jpg?as=1&w=494&rev=0031c3fa7de54f5f92639c0ed068f004&hash=62B6463C523F099EA92354E07675A95F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_22_upstairs_hall.jpg?as=1&w=494&rev=7ed770df74ab4d0b804952054b7d903b&hash=04BD5E95E5AA4169145716CB3465E671",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_23_additonal_bedroom.jpg?as=1&w=494&rev=b616571c0d964e27ab03b878c6807569&hash=39A242927BFDBF59692366484EFD36B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_24_additional_bedroom.jpg?as=1&w=494&rev=e99bd2f754974e6489f159cfde16cf1b&hash=A9F6AB74ED6FA3D98875A45266879635",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_25_add_bed.jpg?as=1&w=494&rev=ee578a88f81846f7b465d152475466cf&hash=DC41CD6B147651D2A3F4004DE8995786",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_26_add_bed.jpg?as=1&w=494&rev=3900dc33b8bc481aa33c03ee39be6b70&hash=6B59F019751746970D52AEFCE948A744",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_27_add_bed.jpg?as=1&w=494&rev=ff07c5b3a1f8413fa61c2c734a46aa15&hash=1552A3DE3927A3E350F58A436E458BB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_28_add_bed.jpg?as=1&w=494&rev=4baf1c5567b3448aa5c328bca1392202&hash=B2DD190E1F76BB020E1AE7B2B2687F09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_29_hall_to_bed_2_and_3.jpg?as=1&w=494&rev=4d65c89246574d0392490b4c680de72e&hash=994BECD67CF2BD97BC641811ACAC3622",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_30_shared_bath.jpg?as=1&w=494&rev=3642e64682d64849b27b00b9a4ff6621&hash=1B34E0F8EB667DDFDC089A4BB4C08BB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_31_shared_bath.jpg?as=1&w=494&rev=03e830843c9b44129e27e8e2a35f6ad0&hash=B3C71C32E6D72278282D75AC1F3A7BC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_32_laundry_area.jpg?as=1&w=494&rev=00bae0ac28694e6ab6d04399a813e587&hash=0C3C13A95DFC039118598859CD156857",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_33_garage.jpg?as=1&w=494&rev=f6f58fadc6ab454bb6b26f9d48f649e6&hash=7180B2C09F59DC17952FD68E6DF1D37E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_34_garage.jpg?as=1&w=494&rev=939d90a55b3b4a7e9664f0ee41c1a426&hash=943F6B2703AD741BEF0A7149988FE6FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=2bd30383c9934ff1acf900f2e7e4b583&hash=8F20B8B1379C1E5886163872ED9F14C1"
+      ],
+      "name": "159 SPARROW AVE",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing/qmis/159-sparrow-ave",
+      "id": "159",
+      "address": "159 SPARROW AVE",
+      "price": "$334,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0058-159-sparrow-ave/hawks_landing_exterior_unit_0036_dsc03948.jpg?iar=1&sc=1&thn=1&w=425&rev=2c939daaee224f9d8095ad8b6e692eea&hash=28389E524481986E263AAE1C4BD88067",
+      "latitude": 30.39302,
+      "longitude": -86.22004,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_0035_dsc03951.jpg?as=1&w=494&rev=db173c60d088407c8c11d42f06cbe456&hash=8F81CB9883BFAA21529449D06E545CC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_01_entry.jpg?as=1&w=494&rev=9ea33d20eae84c7794e3c90edcb606b1&hash=C47AA2D52B057534D3FDA365FFDA0635",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_02_foyer.jpg?as=1&w=494&rev=a3dfec5f7cd54c28b15568803569411a&hash=7BA38EE1507E0346BD95BADFD26F69DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_03_half_bath.jpg?as=1&w=494&rev=1f3062910ec7459d94918b481a6ab846&hash=577E788BC605EDC816BFC6A0D01A13A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_04_half.jpg?as=1&w=494&rev=286edb14a7cb415c91f89a2bfc362d06&hash=3A4AA0992C3B80102BB44C96DEDD6439",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_05_kitchen.jpg?as=1&w=494&rev=03035ec7207b41d8a4b163ac97f59743&hash=B481333E5BCBBB90043EC2D3B2BF09F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_06_open_kitchen.jpg?as=1&w=494&rev=167a6f4edbd542148789b3b3eb37693e&hash=256BF3B966FEEBA2276748B09AA6F21C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_07_kitchen.jpg?as=1&w=494&rev=4cd7f5408428407e86a1b355862ac29e&hash=F8A2C402FB30B44C96AEEC53B57EEF0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_08_kitchen.jpg?as=1&w=494&rev=30514418825c417c95ecdc2c2514fb73&hash=F0F0E3E5ED25BEEE5D54DFAF9AEDDD8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_09_kitchen.jpg?as=1&w=494&rev=5e841930026e4633a445084069d6035f&hash=B8CFA209CD1E3AFCCACCBE87FD0C3AFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_10_living_area.jpg?as=1&w=494&rev=54da424fa6af4df0891548bcba1a8193&hash=9CCA6B04CE44FCECC9B66349F79987B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_11_living_and_dining_area.jpg?as=1&w=494&rev=d8056e9427444fd3a8cfd32d2460d72e&hash=4129093640ADA58D07BEFB54EF6C976D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_12_dining_and_living_area.jpg?as=1&w=494&rev=0fe9932ac3db4e268e3413265dc5bd95&hash=20D2A397CB07BFCFE9BD0FB6B1E95DA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_13_stairs.jpg?as=1&w=494&rev=25da9c9a5b734b99a9c83e46b7ff3ee5&hash=C1B1CFF0EAC6D83C2E253DD77D117693",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_14_hall_to_primary.jpg?as=1&w=494&rev=e093a6cae4af4b82a7d26ae4b3c0b6c4&hash=4A7BBFD555FBC77D250CF24B9E6D9A6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_15_primary_bedroom.jpg?as=1&w=494&rev=e94554294c814a7fa7fe608d66455d02&hash=A29B8CA7C9E32298D1AAFED2837E5087",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_16_primary_bedroom.jpg?as=1&w=494&rev=c4890b4d382b4eff8aad5905205415f6&hash=FDCC9BE0FAD6008FC68FE800218EFD0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_17_primary_bedroom.jpg?as=1&w=494&rev=ae67e85f598a4777b53ecf072fbb5b9b&hash=97B5958853EC1F78CCB6DACAA1E5B536",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_18_primary_bed_closet.jpg?as=1&w=494&rev=366b9a8117f8409c8e9848e073def0d4&hash=ECE34E3F14FACC12C9705C6D9E5FE490",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_19_primary_bath.jpg?as=1&w=494&rev=21ea118b03394184a91302ca599cfbf8&hash=78429DA63DEE60210BDF30C0A1B7D30C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_20_primary_bath.jpg?as=1&w=494&rev=5cc22d11f7eb4dedb5ced2d1cad16d6f&hash=BA1F80DFCDE435996FB5447A997129E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_21_1_primary_bath.jpg?as=1&w=494&rev=fd920d7266604cf690c26226a9558f01&hash=99CDD8B07DB8DE14E586B8589FCD3741",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_22_upstairs_hall.jpg?as=1&w=494&rev=576bf33c2b724aff8941aae4ab152348&hash=565961204CAA14D00E068149B8540DE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_23_additonal_bedroom.jpg?as=1&w=494&rev=90412d2f4e3a4ceda9a2463e02d58424&hash=F0908555F0420A287EFDFE18C5F0DA11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_24_additional_bedroom.jpg?as=1&w=494&rev=be7388768e564b848e87d9123c42e133&hash=0574485A303D920163808EDF6DE25679",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_25_add_bed.jpg?as=1&w=494&rev=29d6a09ee2ec4b3596b1a3e2f06bdbaf&hash=549490E960AC4E035AA1D5AED35A0661",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_26_add_bed.jpg?as=1&w=494&rev=7b0a9d73ae3e435ca1beff79ed899e5a&hash=9D2516567BEFD9837BEF9DAA60250C92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_27_add_bed.jpg?as=1&w=494&rev=2492a2e6aeac4cb3a2fdf30c3b23f675&hash=DAB301F60459F323538F0FD0D94021E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_28_add_bed.jpg?as=1&w=494&rev=d08d4701a39a43b791dca81f27a37d9f&hash=0070F9B4206089CE5EB7A9A8FE9F4BC2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_29_hall_to_bed_2_and_3.jpg?as=1&w=494&rev=8b183765f756461cbf0515f406031b60&hash=4D216675D6FF17FFF577071C7576E3BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_30_1_shared_bath.jpg?as=1&w=494&rev=f42f7d2343314370a2c6db87c995342d&hash=859062D1709FF11EAE58F1AABC888343",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_31_shared_bath.jpg?as=1&w=494&rev=47bc2c736e84405eb44a47672a345a53&hash=45EFD8A3E6D64C5962C7A161660B5D9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_32_laundry_area.jpg?as=1&w=494&rev=b57ad7a661234f20a572ff9eee9c33f8&hash=E55FA5F73D7AF2F1AF75882AFB3B91C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_33_1_garage.jpg?as=1&w=494&rev=b64251bc531241c8bed12cfd3252b187&hash=3A1E8D5ADA0B9B1E0D24A6838F4A00C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_34_garage.jpg?as=1&w=494&rev=7142dcfaf2164315b816f47959210e44&hash=40F17341FD5862753B8CA516ECE3D95C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=2bd30383c9934ff1acf900f2e7e4b583&hash=8F20B8B1379C1E5886163872ED9F14C1"
+      ],
+      "name": "68 Hawk Street",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing/qmis/68-hawk-street",
+      "id": "68",
+      "address": "68 Hawk Street",
+      "price": "$339,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0087-68-hawk-street/hawks_landing_exterior_unit_0035_dsc03951.jpg?iar=1&sc=1&thn=1&w=425&rev=db173c60d088407c8c11d42f06cbe456&hash=ECD697BE4CB0C68B8EDDF8DF68B6E63B",
+      "latitude": 30.39302,
+      "longitude": -86.22004,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_1_front.jpg?as=1&w=494&rev=9116c194bb7a46baad31dde808c97be7&hash=A38870DF4B81974CA0614D725F868DA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_2_front_entrance.jpg?as=1&w=494&rev=bb06eb625ee1466ba0e9ca2e832baea3&hash=87A134B65A417097A8FA4D6CB6DBD4D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_3_front_entrance.jpg?as=1&w=494&rev=4d7ea0d31bc54901bc069d1a2085a2b1&hash=3130DD5FBDBE3C39B046196C2DEA162D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_4_front_entrance.jpg?as=1&w=494&rev=0c6c083be3bc4da495124185df317725&hash=1C7EAB8BD752D029545BD2E500A66DE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_6_kitchen.jpg?as=1&w=494&rev=daa8197d4aa5416499ecd8ce5ee1abe5&hash=E8CA283272E171804D64391B7954BB5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_7_kitchen.jpg?as=1&w=494&rev=1afe953a09a7448b885e61b127e7c823&hash=B81B35FC24CD2F8C4F148DA9A3B2039D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_8_kitchen.jpg?as=1&w=494&rev=36c0ce8bedfe4734b24d13bdba59b367&hash=2B31D22716C8E14425A2FD664D8BC74A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_9_kitchen.jpg?as=1&w=494&rev=bdd3041632f2446e969c28c0b0aa8481&hash=26D39B6848E143520A621C9F4172EEBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_10_kitchen.jpg?as=1&w=494&rev=40250a0efb3f4b5cb05388b4facffc29&hash=12D434A6688A883BB339BE6686706247",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_11_kitchen.jpg?as=1&w=494&rev=f75b30fcbb834b0c8f599c8745840f4b&hash=90C49986796160DC6385A599935917EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_12_living_room.jpg?as=1&w=494&rev=f5ce30bbe39b48b09a2d5a59d030c770&hash=B3941269F0452F2379A32806916B98F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_13_living_room.jpg?as=1&w=494&rev=758b0336b5e94fbf96d62c87ed92f9a2&hash=50580A5180DEE002A0C66091731D12E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_14_living_room.jpg?as=1&w=494&rev=287b7b095e6f4dbaaf77eccc83668e16&hash=FBBD0AFAF4EE814CD631AE291D5168E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_15_bathroom.jpg?as=1&w=494&rev=ca53cb25be6f4e76ae1551bca9dcfb19&hash=6A0189B8064D29C05D57C4789901FDBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_16_bathroom.jpg?as=1&w=494&rev=2f564b7309534db58d3fc73f4c9b7a4f&hash=8B7DDEB504B12D79AA98FB6219C22002",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_17_stairs.jpg?as=1&w=494&rev=eaae5bec43bf47a7bdaf85bf29f79315&hash=C02326C17AA01DC4FDF94C0CB6D7794C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_18_primary_bedroom.jpg?as=1&w=494&rev=b6252e8742f6411faa6c4b7fe2888727&hash=4DDF233AA0395B6212ADF76208399C63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_19_primary_bedroom.jpg?as=1&w=494&rev=ce28fe3f0bee450ca659473faa6570ed&hash=ED4AA186BBBCA9B75FE4B2F9F627D7CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_20_primary_bedroom.jpg?as=1&w=494&rev=549c11675bc4409aab0d48c1ef9d620a&hash=BC8D2D86A8E7403CCA6899F7B488F4BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_21_primary_bathroom.jpg?as=1&w=494&rev=3a71bcde7de14459aad4dbf46b20cbe1&hash=D42743985DC36C71E6BFA81E8DA6BCDD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_22_primary_bathroom.jpg?as=1&w=494&rev=32054456ca574457929993c867e43b93&hash=267E4DC086A376A0A734A09E565F93FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_23_primary_bathroom.jpg?as=1&w=494&rev=becaeefdb4a2418aaeb09b097730300b&hash=8E933140AB82CBAC83CB214B7CDA49E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_24_bedroom.jpg?as=1&w=494&rev=3875647e84a24f7b9dc43985e51b5de1&hash=D20A615EC3F1A475349BEA1936280768",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_25_bedroom.jpg?as=1&w=494&rev=06c71889a819460fbef0089e8b4b4491&hash=2C1250D7B36EA62783372E28F87EE82C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_26_bathroom.jpg?as=1&w=494&rev=29c8c9aafac0463f9d7eb862e388edae&hash=8E6DA2E8C2CD55C596F427481AFB1CA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_27_bathroom.jpg?as=1&w=494&rev=7a883d903f98463297f46dfb13eb3637&hash=AB31C8018B84A5E9D36AD7FBDAD70383",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_28_bathroom.jpg?as=1&w=494&rev=4afa2545cf90419493644573c4b35437&hash=7259D701FC5C5805C63F8F9F3AE2DB4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_29_bathroom.jpg?as=1&w=494&rev=07b0471d54ac43be96616e56fed5855a&hash=9F96999C7A813BB67801F2D294A04C89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_30_hallway.jpg?as=1&w=494&rev=d3c3ab0a21044c8eaa38225dfb0e7436&hash=0304DC2669EBAFDFCE1E6289F99A0AFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_31_bedroom.jpg?as=1&w=494&rev=113d5c8235944a7d9ab9970495390e7b&hash=8B78EE2A2445E3D28EBD247E8F6901D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_32_bedroom.jpg?as=1&w=494&rev=588c7db38f154ff89e935788b3012200&hash=8BC10E8295B4C8A03F852286F7200A40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_33_washroom.jpg?as=1&w=494&rev=34ec02e1023c414bb6ac6f165cb5d716&hash=4249AB4F317FCDEB27762CE4C81213F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_34_washroom.jpg?as=1&w=494&rev=c016c32485884b1f90f66f5cbaba0264&hash=C68E9346FE42B04D32F956341AA63A4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_5_garage.jpg?as=1&w=494&rev=76f8ea24e9bd46849fb24a2cb93bb2ed&hash=AF36F3A3FFEF837F017E2FC0B7D451E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/palm_interior.jpg?rev=925b10712ad04502b3b68ccc644a28b1&hash=8439A4D3436FAE99C484D6654D588D4F"
+      ],
+      "name": "76 Hawk Street",
+      "plan": "Palm Interior",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing/qmis/76-hawk-street",
+      "id": "76",
+      "address": "76 Hawk Street",
+      "price": "$299,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1459",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpin/0089-76-hawk-street/hawks_landing_townhomes_1_front.jpg?iar=1&sc=1&thn=1&w=425&rev=9116c194bb7a46baad31dde808c97be7&hash=AB360F0D1CDD02153668B00DB8328280",
+      "latitude": 30.39302,
+      "longitude": -86.22004,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_0035_dsc03954.jpg?as=1&w=494&rev=35191d6549d14d76bd344afce132d315&hash=1AAF4ECF9C894EB287D3B43D637DF780",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_01_entry.jpg?as=1&w=494&rev=877acda72a4c4e96bcacf0d8c2bb0edb&hash=01DEFF12BDB0DEBF4CD37D125120915A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_02_foyer.jpg?as=1&w=494&rev=7265dbc8750a49ce8c179a3bc2cd7bf5&hash=EBE059791AF13C2DA85394C8B49A1720",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_03_half_bath.jpg?as=1&w=494&rev=5078f3534c554ef6b23eefde5a6b1d5a&hash=CBF79EA8CD79328CC774D5FE6ECB21FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_04_half.jpg?as=1&w=494&rev=55c33a8b66174a45bd7df336ec49ee26&hash=9388F88898048D16E40CB29FDB88267D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_05_kitchen.jpg?as=1&w=494&rev=8980de1c68ea4520a3cbaf521da78fbf&hash=34F7384C4ED34D7A32DFDD99811AC3F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_06_open_kitchen.jpg?as=1&w=494&rev=09872674cacf426d92d5ee41005e62c2&hash=063F53F499CF3B682EB155C3D626C99D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_07_kitchen.jpg?as=1&w=494&rev=e8860287abb94f719eea2a274502e4b3&hash=76EB16D9FB5A375722BED658306011B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_08_kitchen.jpg?as=1&w=494&rev=4bf8d82283564916b7fd88426ce68bab&hash=12288F54D807D67A483B2C5B2B589EB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_09_kitchen.jpg?as=1&w=494&rev=1edfd4b32bd14f9b907429863308468d&hash=FDFF38CD79FE1CDE0B9E75DE91EA8B67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_10_living_area.jpg?as=1&w=494&rev=0668b00495594380bf6efd89a2bcf431&hash=0E50055D07103CA80153EBB9AC4177EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_11_living_and_dining_area.jpg?as=1&w=494&rev=144adecf7d294d71bf9a41777163beab&hash=A8501F64E9D606DD0C73DCD83CFCC65B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_12_dining_and_living_area.jpg?as=1&w=494&rev=d1d1316fb20f434eba138c074e12ca10&hash=A3B0E51F920548CB8462166BC3E18909",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_13_stairs.jpg?as=1&w=494&rev=ee09444698bf40eead870a1fd35bfffd&hash=3A2490659176A976F496A2BCB4CCA89A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_14_hall_to_primary.jpg?as=1&w=494&rev=6e8a3f24f2204a83b0fac7c11ba7703e&hash=561240830E557516E47171C5CFD98E5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_15_primary_bedroom.jpg?as=1&w=494&rev=332e23351af74fc390b1fcfb263df1a7&hash=83ED52839568A48D383807293490717A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_16_primary_bedroom.jpg?as=1&w=494&rev=960295f7cfe94098a070b5aced0a4f29&hash=807563ACEC96913EF2E82D97418F4498",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_17_primary_bedroom.jpg?as=1&w=494&rev=9ac58f34138f46ef9f4fd9680fab8256&hash=5409AB64506C159BF7A12CA881C9937E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_18_primary_bed_closet.jpg?as=1&w=494&rev=440733c792874e36af6a96ad43c6b59d&hash=6DEDB312DE3BA6600B44657D91A4B0BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_19_primary_bath.jpg?as=1&w=494&rev=a0cc6cabe0bd4efdb929f42c0b4916ac&hash=8347A9E36D0BD11E45748771A8D6E252",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_20_primary_bath.jpg?as=1&w=494&rev=604d52bf24894bcba0ca5514c157f71c&hash=1F9713961F6F676E115EF02933E69E52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_21_1_primary_bath.jpg?as=1&w=494&rev=577fbb371d26413cbe4a7f1d2391b731&hash=05EC8F96D17EC2376A1A05A5BFBDD936",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_22_upstairs_hall.jpg?as=1&w=494&rev=6301d3ae68e449e6a585d7d6fa9a39b3&hash=22C7F138B0838089C1E3524573E0CF24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_23_additonal_bedroom.jpg?as=1&w=494&rev=15ee84e332ef4d7ca3a2e0bb03670cef&hash=C35A5AAEE9F1573618E729012F9D114A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_24_additional_bedroom.jpg?as=1&w=494&rev=ff851360ea034a689de9d80779e3b716&hash=4F16EC529301CFC2DFC73FB33AF1900B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_25_add_bed.jpg?as=1&w=494&rev=dbfb4386f44747cb9ea8a47430dee287&hash=9995BB08165CCC01CBDAAE2F18EEB6B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_26_add_bed.jpg?as=1&w=494&rev=273da1f143cd434aa4b4926911438945&hash=8D4D68DA6D76B89C37F0360D4D99F832",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_27_add_bed.jpg?as=1&w=494&rev=ba8352cb2cd044d08932f115b0984c7a&hash=3EFB3294D9BA7A6C97F090F6AEBD4894",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_28_add_bed.jpg?as=1&w=494&rev=90b49a30723749368623e691efc3421c&hash=C8D270C6C60303A8A27F21C89D12B228",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_29_hall_to_bed_2_and_3.jpg?as=1&w=494&rev=73759caef34b4d6e89309b3d00e295dd&hash=BD9A1C6DE0F87047209ECE99509F5A21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_30_1_shared_bath.jpg?as=1&w=494&rev=01ead6cb1073402c8c9abacb5fa84e0d&hash=5CFA3DD31E542019822B4B78E03196B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_31_shared_bath.jpg?as=1&w=494&rev=d13f3f061a8e4818ad26ef71918c0160&hash=07F60113FD453B1033F36B7ACB923705",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_32_laundry_area.jpg?as=1&w=494&rev=f1cf5f8a53754c1a97c42999a5669ec5&hash=9EF0048A591BCE17570321902927CB1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_33_1_garage.jpg?as=1&w=494&rev=b7c1e3e6b5a3441b9a96095696d1e0c0&hash=34CE0E3C4DBD508851BC49D9E63B5C89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_34_garage.jpg?as=1&w=494&rev=fb3c9b5d41b44784a8d644bb3fc5cbc7&hash=125923487283E82B889F00CE300E3B60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=2bd30383c9934ff1acf900f2e7e4b583&hash=8F20B8B1379C1E5886163872ED9F14C1"
+      ],
+      "name": "86 Hawk Street",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/hawks-landing/qmis/86-hawk-street",
+      "id": "86",
+      "address": "86 Hawk Street",
+      "price": "$339,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29742-hawks-landing/297420000-hawks-landing-townhomes/rpex/0092-86-hawk-street/hawks_landing_exterior_unit_0035_dsc03954.jpg?iar=1&sc=1&thn=1&w=425&rev=35191d6549d14d76bd344afce132d315&hash=599A11215653496CAF53A5F4174A04C2",
+      "latitude": 30.39302,
+      "longitude": -86.22004,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Dune Lakes Elementary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Emerald Coast Middle School",
+          "type_and_grades": "5-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "South Walton High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

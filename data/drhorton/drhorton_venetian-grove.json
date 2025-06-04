@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-06-02T18:45:40.693902",
+  "name": "Venetian Grove",
+  "url": "https://www.drhorton.com/florida/east-florida/vero-beach/venetian-grove",
+  "status": null,
+  "price_from": "$0",
+  "address": "98th Avenue,Vero Beach, FL 32968",
+  "phone": "(772) 356-3689",
+  "description": "Find a new home in Vero Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the East Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34974-venetian-grove/349740000-venetian-grove-40s/venetian_homes4.jpg"
+  ],
+  "location": {
+    "latitude": 27.62457,
+    "longitude": -80.52879,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Community Walking Trails",
+      "description": "Community Walking Trails",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Treasure Coast Elementary",
+          "type_and_grades": "k-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Storm Grove Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Sebastian River High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

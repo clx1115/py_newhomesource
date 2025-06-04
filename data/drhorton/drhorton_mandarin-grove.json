@@ -1,0 +1,338 @@
+{
+  "timestamp": "2025-05-31T16:30:35.218795",
+  "name": "Mandarin Grove",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove",
+  "status": null,
+  "price_from": "$324,000",
+  "address": "11109 37th Avenue E,Palmetto, FL 34221",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Palmetto, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/01.jpg"
+  ],
+  "location": {
+    "latitude": 27.61425,
+    "longitude": -82.52665,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$324,000 - $399,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/floor-plans/4eab",
+      "details": {
+        "price": "From $326s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/front.jpg?as=1&w=425&rev=941cd1382cfa4a5ba89b1f639efbba82&hash=B153B4B33DF3C50387329F632F9F3E3F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39380-mandarin-grove/393800000-mandarin-grove-50-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block.jpg?rev=6b12b0cce4fb4cf6b98b970935084fd7&hash=DF7494B7E264DD7B79953F1F6B20AC9F"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/floor-plans/4ebb",
+      "details": {
+        "price": "From $346s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/front.jpg?as=1&w=425&rev=49be482b0bc54ae7af2d003feffc70e9&hash=19F92AE3A3D6A3FE2B74A48683265B88"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39380-mandarin-grove/393800000-mandarin-grove/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=1152ffac03004bcbb8010432eb423a45&hash=1F4E66842032B442076EC16B5541446A"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/floor-plans/4ehb",
+      "details": {
+        "price": "From $379s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/front.jpg?as=1&w=425&rev=93ea145baaff46cc81a5e3d6b1866671&hash=702DE376596F2D13AC404F1988F03836"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/fl_west_florida_dr_horton_express_hayden_js_ks_lanai_new_11_6.jpg?rev=26ff64dc58ec46ccab96de09d90eee71&hash=45EFC4365FD1A06D9B2A83DD7F117E8D"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/hayden_ghjk_floor_plan_blacklines_lanai.jpg?rev=4f55a5e9459c4d7c8942352fa941b942&hash=C2EB55A90A71093B7828B224593ECD35"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/00_manateesarasota_cali_elevation_c_no_grids_siding.jpg?as=1&w=494&rev=885f179557d04855bdc0d7c73a49bb7b&hash=9CA3EBA035CEDF98EF04CE857363A9A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/002.jpg?as=1&w=494&rev=2c8500500ac047289b7629b39342e5fe&hash=458F12CC3C4F688B88D9BB764A22C5F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/006.jpg?as=1&w=494&rev=b3aaa91587054c5091babdd06c325d0d&hash=FCA52054F018203C2C06C7E8C7FD3C29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/007.jpg?as=1&w=494&rev=740a9d6a5e6c4e6cbc6bc53ebc134ca9&hash=2119905542F6B35FE1298E6E1D081DC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/008.jpg?as=1&w=494&rev=540f8e0bbbdb4c428410b46126da9ea1&hash=0A5B84C51EC7AF4612AA53EE58972934",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/003.jpg?as=1&w=494&rev=ff76d30835eb40c5a51013c63bddc7de&hash=6023F28017223C665C9F58729732DD72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/009.jpg?as=1&w=494&rev=127afc220572444fa4de92d5d3639a64&hash=9760EFA7812947D4167009B5C5228866",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/004.jpg?as=1&w=494&rev=19630f68f71e4fb8a42ea6c024118cfe&hash=5706C909129ACCD6C73468F9E69AC510",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/005.jpg?as=1&w=494&rev=bc0c9aa5061b45a68f1c588894ef505f&hash=5E5C8BD441C8B16F7F1ED7447FE60547",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/010.jpg?as=1&w=494&rev=38e7f2a2407545b784150d8a8b7c1af5&hash=3AB0FBBE4DD56CBCB9A8823321FAE46A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/014.jpg?as=1&w=494&rev=112eebd20ace429b99d802b9debaf331&hash=47796ACF67F9D1B2331C433FA84AC3A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/015.jpg?as=1&w=494&rev=25ab2839b0294f51a83afcdbe37001e0&hash=9F18E506F8FD12C5D0661EA3F9B5119A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/016.jpg?as=1&w=494&rev=575f511dac374be4aee411ed71088a97&hash=0C9AD9C2CE54481FA0DA50E2EA0864BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/011.jpg?as=1&w=494&rev=427fc49c53bd44a98003af0ff80896db&hash=E0DD86626063440CDCFA6154748D0F30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/013.jpg?as=1&w=494&rev=4f55085bc11d4f838df391954115ba75&hash=C257C8A09697916872BBA3E863B459DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/012.jpg?as=1&w=494&rev=1c5150cb93d44989b52c283ca56f6124&hash=9F739067C8D8BABF07E2CB8B0449F4B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/017.jpg?as=1&w=494&rev=f613bea3cfb84c7498f05ad6aaa5c085&hash=E71C000DC9E934378BE35106D7240B6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/018.jpg?as=1&w=494&rev=a5307a68dcc94cd093563e4b782af4cb&hash=3F303CEDEA66239269139FFBF8EE0124"
+      ],
+      "name": "4304 112th Street E",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/qmis/4304-112th-street-e",
+      "id": "4304",
+      "address": "4304 112th Street E",
+      "price": "$349,000",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0475-4304-112th-street-e/00_manateesarasota_cali_elevation_c_no_grids_siding.jpg?iar=1&sc=1&thn=1&w=425&rev=885f179557d04855bdc0d7c73a49bb7b&hash=D23BE65A622C10E615BED527342E43F8",
+      "latitude": 27.61425,
+      "longitude": -82.52665,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/fl_drh_tpas_manateesarasota_hayden_h_8ft_cls.jpg?as=1&w=494&rev=60095ff0e6274dd59a10496d71d6ec17&hash=1D1672882D76F0D2603E277F695D425E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=2e67d23ef96844b684710857a99b469f&hash=A2FA5FC572B79FA83CB3A9AA9779760A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=3b27f6e8704240b4bd67fb4fba6aab17&hash=2FE545D9617270A22100774900A660D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=52f41ec3c1b949bb9baba481e35ad6aa&hash=6FB7D143704CF9C75F44E9DBF795A177",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=0dc93d9be3854a4a98c7060e6d3fa144&hash=AC4F95A5120AA3430FF4018AD61811F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=25592adba5d1401dbe399440a6180cad&hash=6ADFC26E5B2423451963A1D526E67880",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=0a9e7aa62faa4e22b62deef456074731&hash=38FFBF6752C2D7DF1296C39BEDD8C119",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=5f57f315630a448ca0e12866dafd0b8b&hash=F59BAD9F2F5C2C5FCFC5FB155410C744",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=d2ee699c80cd41c09ed8dec4d4debfbe&hash=D79F48190F78C5925125F187DB7BB90C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=c489bdc1bfeb480a9ecec07f4a58f0e3&hash=B1253688036150C1CD2973121EF50FC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=ce2cc7dede7446cba521197222ca1947&hash=4171474C9F874EFFC91831805B660F75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=97fa44e899eb41d88c2c140245e1a4cd&hash=9519D786FC16CCFE6CD221CBB4384526",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=a2b988864e1e4461ba2510c63f39577c&hash=849CE095E0C2A1CE871B531A9111E4B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=0597eed1226c417a8f053cb049751c8e&hash=CE25515483A5EE7793DC3A445E9543B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=fd693acc8138408faaec95529c16ab74&hash=1A00DE5EEE522D367EF60CC67A076E98"
+      ],
+      "name": "4308 112th Street E",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/qmis/4308-112th-street-e",
+      "id": "4308",
+      "address": "4308 112th Street E",
+      "price": "$391,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0477-4308-112th-street-e/fl_drh_tpas_manateesarasota_hayden_h_8ft_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=60095ff0e6274dd59a10496d71d6ec17&hash=AB681AE2BF6279935C780D49DEC9F6DC",
+      "latitude": 27.61425,
+      "longitude": -82.52665,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/fl_drh_tpas_manateesarasota_hayden_g_8ft_cls.jpg?as=1&w=494&rev=c103adc01b544ee2a902cbbb9b597de0&hash=E076B8E42B4C750E9E4BEFA940CED46D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=e8ec0c99bec149d4ab4b941cf9bb2588&hash=D68A20E4C19513B6691027B5EDB6E186",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=0bc680a104ec44958ec0f36bce0df99f&hash=404DFF6A6A8C747909C7DB1FAB19A3A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=857c3c935daf4cb6a4b3d941ed828c5f&hash=13F964C082B674C8CE69352FF5206DD3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=f898fb159b1141ab962b9301f8fa9cea&hash=6FB5C29AC81DCE6463D8BB96506277E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=7cf36fd86acb4d939bec16a02fe7ee07&hash=307ADC5942A4128CB4D6B5741A226717",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=75c91a7c7185407abd1c0b519ae7b0b4&hash=6808E0DDF475484F609E4A41CD3C4A31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=ff06e14f53e34fb2a69ccbda16a49956&hash=5275869252E9011AB0B6B1CA7C84429A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=080f20b10c114f49b49afe8bf6035e44&hash=23BC13AFE6AE0951FE0FADD1E660EBA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=bfd14df42551473f8f83c94ccb33fa00&hash=11999B7091131B35E34D04B235F10F73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=c494382c94d54db79f8a690a518a423d&hash=FE9BCF88FA32F8AFBC2317F0CCEDF6E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=6f7fca1406d54b7cb5050d11af8c907e&hash=94A204B3FC70C3400775893EF695647D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=18972454d48448d2baa5f56c18d23109&hash=078819A9286A7C59A368C67246142BBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=1ed63c7ab0144adf91a393ce0dd077a0&hash=071BFBEE5387A07F305790E4047D1793",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=d6a80f40034b48c0b3550d91586cd38e&hash=520E85DCD8C2B41A14C8CD3112A96FE0"
+      ],
+      "name": "4312 112th Street E",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/qmis/4312-112th-street-e",
+      "id": "4312",
+      "address": "4312 112th Street E",
+      "price": "$374,000",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0478-4312-112th-street-e/fl_drh_tpas_manateesarasota_hayden_g_8ft_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=c103adc01b544ee2a902cbbb9b597de0&hash=EE5726ECAECF8383C015376785CB4285",
+      "latitude": 27.61425,
+      "longitude": -82.52665,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/fl_drh_tpas_manateesarasota_aria_8ft_d_cls-.jpg?as=1&w=494&rev=5295faa437d34679a3fe33f38041ddb8&hash=825F8FE20F7B7091CA15A7144924F413",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/02-fl_westflorida-dr-horton_express-series_aria_kitchen-dining.jpg?as=1&w=494&rev=4eb7e4d3137c4b8f823aa17a5195c3ee&hash=968628B8B5E2A7D9E5B7FF6E64E95644",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/05-fl_westflorida-dr-horton_express-series_aria_great-room-entry.jpg?as=1&w=494&rev=5dc25388f03e4fe1b0966175099fd70a&hash=4AB6F6B9A8E5752FF82600AA67AB1ADD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/04-fl_westflorida-dr-horton_express-series_aria_great-room.jpg?as=1&w=494&rev=5565ac3040384010be1626e34adca1b5&hash=14338ECE5933933285DEC45104DC9AFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/06-fl_westflorida-dr-horton_express-series_aria_bedroom-1.jpg?as=1&w=494&rev=ba02af578df141f9b49460f1addcc71f&hash=88BA58CBC54F68337E0F92B52ABE06BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/07-fl_westflorida-dr-horton_express-series_aria_bath-1.jpg?as=1&w=494&rev=d0090871036047fa9a18d42fdc5481d8&hash=18E982F9B4640978B783E6A158F04C26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/08-fl_westflorida-dr-horton_express-series_aria_bedroom-2.jpg?as=1&w=494&rev=7975245fa1db46f79a4d09b036200aef&hash=9C300FCCC9B4F3391CA0E00691AB96EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/09-fl_westflorida-dr-horton_express-series_aria_bedroom-3.jpg?as=1&w=494&rev=7cac99d0999040bebf36a5ff957d9e27&hash=C832D8379E7829F97362A5FFBEB34325",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/10-fl_westflorida-dr-horton_express-series_aria_bath-2.jpg?as=1&w=494&rev=43e4466d99a94e958037fcdf2f6642ad&hash=8FE40178128677139B7637DA7E607052"
+      ],
+      "name": "4316 112th Street E",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/qmis/4316-112th-street-e",
+      "id": "4316",
+      "address": "4316 112th Street E",
+      "price": "$324,000",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4eab/0480-4316-112th-street-e/fl_drh_tpas_manateesarasota_aria_8ft_d_cls-.jpg?iar=1&sc=1&thn=1&w=425&rev=5295faa437d34679a3fe33f38041ddb8&hash=E218401F3DEE1F064DCA4C61EF3DA906",
+      "latitude": 27.61425,
+      "longitude": -82.52665,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/manateesarasota_cali_elevation_d_no_grids_siding.jpg?as=1&w=494&rev=257259bda7334761b1b09fd7fa9991b0&hash=2C2D7B680A6C5F7448772B68FF52D508",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/006.jpg?as=1&w=494&rev=02b8c5162f15420a90cc9cb80adacb3b&hash=A78E277BBE44E6622BD8CAF6C0CE6FAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/008.jpg?as=1&w=494&rev=9ab433f6c89e42b9b89b513b921d2d99&hash=85388CA84230B1F45155BC5B6B955C5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/007.jpg?as=1&w=494&rev=e230bf3dae2944468c6d21843b78dbd3&hash=AA8DE3C0F7C6CFD7C66CFC5F0C3B7015",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/003.jpg?as=1&w=494&rev=3cb13b2ce732477ead42eb75a86d1685&hash=B1B6AF37B935BAF24EEA7E3E9E48E97F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/009.jpg?as=1&w=494&rev=896eb6c0cec24604848ec2c9cdaacbda&hash=2E23BE310DE8FC41D88EA036EC6030FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/002.jpg?as=1&w=494&rev=9b259dd2a24e4f929b7e3f3374c48eb7&hash=44AB50B78D694996122FD6EBC6734912",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/004.jpg?as=1&w=494&rev=ff38754de68245f295bf17479848e8b4&hash=9136F0E76D46989505F5BF328AE71B58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/005.jpg?as=1&w=494&rev=31f6aa1afa6e4bbe81ddf8229521879d&hash=BECF9D3BAEDCEBDA7DF33B39F2DF76A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/010.jpg?as=1&w=494&rev=65f4d780638f4fafbf246f36417a5cd8&hash=0A490F61B83543B6AA1F3091366BB6FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/014.jpg?as=1&w=494&rev=6a82c641b3f441b3950c41e2ee271d21&hash=DDE3923CDC05289BDF9F6439B6AD4A68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/015.jpg?as=1&w=494&rev=09a3c4eb51ec405bbee7b70fbb9c1d53&hash=AD15B7E38AF0D65026D7F27E61A79B9D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/016.jpg?as=1&w=494&rev=9b3e1e2831bd4fe2ab6a6c442ed5c9d0&hash=46DCB5753C0B4C3E9FE0488AD8519964",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/011.jpg?as=1&w=494&rev=2219a6b928f4449689ae3496a515c11c&hash=8D744033CD63A83BDAEBBC91EB460DA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/013.jpg?as=1&w=494&rev=6c7f145bce5e43a3853ff545a38e0cda&hash=1D92B39D6168C73CEA4C35B6C558EF71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/012.jpg?as=1&w=494&rev=c3ac25ab3090435aae429fbd4446e425&hash=9437A0E5954070F460DA93CBE9D1CCF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/017.jpg?as=1&w=494&rev=3dba68d2cda34093ab6a2d4fd6bddad7&hash=3B1DBDE1CA887DA80A025BA8E709B127",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/018.jpg?as=1&w=494&rev=fdf977c1a01e43a0891d34e5c2097302&hash=85A231EBD174A71903D356D366181AD2"
+      ],
+      "name": "4319 112th Street E",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/qmis/4319-112th-street-e",
+      "id": "4319",
+      "address": "4319 112th Street E",
+      "price": "$363,515",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ebb/0479-4319-112th-street-e/manateesarasota_cali_elevation_d_no_grids_siding.jpg?iar=1&sc=1&thn=1&w=425&rev=257259bda7334761b1b09fd7fa9991b0&hash=C042197316F0BE7CBC6A7633BDAAEE89",
+      "latitude": 27.61425,
+      "longitude": -82.52665,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/fl_drh_tpas_manateesarasota_hayden_h_8ft_cls.jpg?as=1&w=494&rev=a7b7acbc03d74071b3138b9aefab1b1b&hash=53E003091403CD3E8699B8348A12E7C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=408292f8b4b94373894ebc1f8942a40f&hash=C41D71280B0D0EAA4E6F64BF19D44B6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=4e74157111814356a090174c5a6c6b01&hash=B782A4C32CE00A2C4A8792D88E7D5AF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=00b1b1e7f6504beb803e639f527c1ba9&hash=689408149DC2EC9AB4C9EC1B08DA5892",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=2dfa19ba1dbb463e973c1ffd43e11a0d&hash=2D7E16A4684F95FA35699EF7761F8928",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=fc369d10bd85472e95c57590ad399881&hash=15D18D5B2BB868DAB1D4816B25D27A3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=ccd8c17c85c247779e27eba3fb04eb2a&hash=D8CA48F409731EE97300442116F228E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=6688067c23b149c29b3805259d1fe6fd&hash=3455100349E52A63141063EE75E34D41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=b879262dac2148338666f2158cf73bd5&hash=386616BDC917E56228221D29C86BF2C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=0f21d1272f2042dd8f4ce14c74b4868f&hash=45E780266DB83AF7FA78C1A722C3BE44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=40b9da4dc0154558b8ac315c7b028109&hash=B404EFA3AC0C73D278DCF87ECDDDB76C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=99617cef300c44a3a44f44875a629ee9&hash=12A0EF91C6D268DD0824B201621ABF03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=94a109513faf421b86a33f28983164be&hash=2F3C3CB824F48EC0FA7E82AF07B848F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=41eb877476d3483fb978cf73d7a82a17&hash=F75E81007D2B06E8F501B9F1699C8437"
+      ],
+      "name": "4323 112th Street E",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/palmetto/mandarin-grove/qmis/4323-112th-street-e",
+      "id": "4323",
+      "address": "4323 112th Street E",
+      "price": "$399,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39380-mandarin-grove-50-exp/393800000-mandarin-grove-50-exp/4ehb/0483-4323-112th-street-e/fl_drh_tpas_manateesarasota_hayden_h_8ft_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=a7b7acbc03d74071b3138b9aefab1b1b&hash=8778BCD131864630561F97805633AAF9",
+      "latitude": 27.61425,
+      "longitude": -82.52665,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "James Tillman Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Buffalo Creek Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Palmetto High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

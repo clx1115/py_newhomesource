@@ -1,0 +1,83 @@
+{
+  "timestamp": "2025-05-30T15:08:20.825379",
+  "name": "Blossom Trail",
+  "url": "https://www.drhorton.com/florida/southeast-florida/lake-worth/blossom-trail",
+  "status": null,
+  "price_from": "$0",
+  "address": "5595 S. Haverhill Road,Greenacres, FL 33463",
+  "phone": "(561) 769-5163",
+  "description": "Find a new home in Lake Worth, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57156-nash-trail/571570000-nash-trail-th/blossom_towns.jpg"
+  ],
+  "location": {
+    "latitude": 26.59404,
+    "longitude": -80.12329,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Diamond View Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Tradewinds Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Santaluces Community High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "timestamp": "2025-06-03T00:45:13.969866",
+  "name": "Salt Creek at Mexico Beach",
+  "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach",
+  "status": null,
+  "price_from": "$284,900",
+  "address": "396 Salt Creek Lane,Mexico Beach, FL 32456",
+  "phone": "(850) 660-3480",
+  "description": "Find a new home in Port St Joe, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/5-web-or-mls-salt-creek-townhomes.jpg"
+  ],
+  "location": {
+    "latitude": 29.95697,
+    "longitude": -85.43208,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$284,900 - $386,900",
+    "sqft_range": "From 1,460 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Sabal Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/floor-plans/sbex",
+      "details": {
+        "price": "From $367s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,710 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/1-web-or-mls-salt-creek-townhomes.jpg?as=1&w=425&rev=a7c96b665b7549d490a794604584378a&hash=56A7F0B1A22A19AD0E2E285D96B83FAE"
+      }
+    },
+    {
+      "name": "Sabal Interior",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/floor-plans/sbin",
+      "details": {
+        "price": "From $302s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,460 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/1-web-or-mls-salt-creek-townhomes.jpg?as=1&w=425&rev=9d6b8616bf644318996ae7327810025a&hash=94917729A1684C35DE7696C8FDF34CF9"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/0105-255-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=7ba423fd6091494292a3eadf9f0a8b41&hash=9CD4E2D353E002C7F1442F63CBEBFE60"
+      ],
+      "name": "255 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/0105-255-salt-creek-lane",
+      "id": "0105",
+      "address": "255 Salt Creek Lane",
+      "price": "$366,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1710",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/0105-255-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=7ba423fd6091494292a3eadf9f0a8b41&hash=9CD4E2D353E002C7F1442F63CBEBFE60",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0106-259-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=1f5ec2495c0a48feb704782fc8b2cdd6&hash=5A18A01DFC68282D91B6BD349EA48CC5"
+      ],
+      "name": "259 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/0106-259-salt-creek-lane",
+      "id": "0106",
+      "address": "259 Salt Creek Lane",
+      "price": "$299,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0106-259-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=1f5ec2495c0a48feb704782fc8b2cdd6&hash=5A18A01DFC68282D91B6BD349EA48CC5",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0107-263-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=d86771bfc962413c804d2ca7faf47365&hash=6439E1BC404C38E450E9B6E389A9B137"
+      ],
+      "name": "263 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/0107-263-salt-creek-lane",
+      "id": "0107",
+      "address": "263 Salt Creek Lane",
+      "price": "$299,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0107-263-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=d86771bfc962413c804d2ca7faf47365&hash=6439E1BC404C38E450E9B6E389A9B137",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0108-267-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=4da43e1b2833499eae1b73f058c2b304&hash=6C24BFD20EBCF81D48C74963D7F39A78"
+      ],
+      "name": "267 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/0108-267-salt-creek-lane",
+      "id": "0108",
+      "address": "267 Salt Creek Lane",
+      "price": "$299,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0108-267-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=4da43e1b2833499eae1b73f058c2b304&hash=6C24BFD20EBCF81D48C74963D7F39A78",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/0116-252-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=bb2d7fdcf59d48c682baf2aa7f1b1277&hash=6A54499E8488C84B06FA6810E1FCB495"
+      ],
+      "name": "252 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/252-salt-creek-lane",
+      "id": "252",
+      "address": "252 Salt Creek Lane",
+      "price": "$366,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1710",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/0116-252-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=bb2d7fdcf59d48c682baf2aa7f1b1277&hash=6A54499E8488C84B06FA6810E1FCB495",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0115-256-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=9cfa8fcad5f446a2a7a617e3d9b2ffe3&hash=5B90D2DD43D7992D0A7A542BF53181A5"
+      ],
+      "name": "256 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/256-salt-creek-lane",
+      "id": "256",
+      "address": "256 Salt Creek Lane",
+      "price": "$301,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0115-256-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=9cfa8fcad5f446a2a7a617e3d9b2ffe3&hash=5B90D2DD43D7992D0A7A542BF53181A5",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0114-260-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=cdb80e99f1a647448420254fcc1bb614&hash=B42E1A14F0D8B6FFF321EC4D10CEF3A5"
+      ],
+      "name": "260 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/260-salt-creek-lane",
+      "id": "260",
+      "address": "260 Salt Creek Lane",
+      "price": "$301,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0114-260-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=cdb80e99f1a647448420254fcc1bb614&hash=B42E1A14F0D8B6FFF321EC4D10CEF3A5",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0113-264-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=c4a3125d3c1f4172b8298ff7893e68c4&hash=054F77CA9C95C8A0EC9D02C7EEFB3D4D"
+      ],
+      "name": "264 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/264-salt-creek-lane",
+      "id": "264",
+      "address": "264 Salt Creek Lane",
+      "price": "$301,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0113-264-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=c4a3125d3c1f4172b8298ff7893e68c4&hash=054F77CA9C95C8A0EC9D02C7EEFB3D4D",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0112-268-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=221e0ae6f314420caaabd28c07b63596&hash=7AF3843B9385E9C13A7E0866A68B4914"
+      ],
+      "name": "268 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/268-salt-creek-lane",
+      "id": "268",
+      "address": "268 Salt Creek Lane",
+      "price": "$301,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbin/0112-268-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=221e0ae6f314420caaabd28c07b63596&hash=7AF3843B9385E9C13A7E0866A68B4914",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/0111-272-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=e28fc9d60701487ba343887c73b51e2f&hash=122F1DE2D78FEFAF6B4318E31FFA2582"
+      ],
+      "name": "272 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/272-salt-creek-lane",
+      "id": "272",
+      "address": "272 Salt Creek Lane",
+      "price": "$366,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1710",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/652180000-salt-creek-ph-2/sbex/0111-272-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=e28fc9d60701487ba343887c73b51e2f&hash=122F1DE2D78FEFAF6B4318E31FFA2582",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0039-313-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=534899966a634c3ab594e164b1cce7ba&hash=35244742177D4AACC5E5F48B67E19567"
+      ],
+      "name": "313 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/313-salt-creek-ln",
+      "id": "313",
+      "address": "313 Salt Creek Lane",
+      "price": "$284,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0039-313-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=534899966a634c3ab594e164b1cce7ba&hash=35244742177D4AACC5E5F48B67E19567",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbex/0018-329-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=4db1db1bf27748a68376f8c7884bdfd5&hash=D8A0F7A2ABCB93851EA566E148375BAA"
+      ],
+      "name": "329 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/329-salt-creek-lane",
+      "id": "329",
+      "address": "329 Salt Creek Lane",
+      "price": "$386,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1710",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbex/0018-329-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=4db1db1bf27748a68376f8c7884bdfd5&hash=D8A0F7A2ABCB93851EA566E148375BAA",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0017-333-salt-creek-lane/3-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=5a9494a063094f3488c26c79ae949d36&hash=FE36C94C14F297E0B3C6C8F579AE19C2"
+      ],
+      "name": "333 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/333-salt-creek-lane",
+      "id": "333",
+      "address": "333 Salt Creek Lane",
+      "price": "$321,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0017-333-salt-creek-lane/3-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=5a9494a063094f3488c26c79ae949d36&hash=FE36C94C14F297E0B3C6C8F579AE19C2",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0016-337-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=30ff8d56b3f94ea88ec122767d12197d&hash=CF55B0B23844A9F7FC570F2F9997FD30"
+      ],
+      "name": "337 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/337-salt-creek-lane",
+      "id": "337",
+      "address": "337 Salt Creek Lane",
+      "price": "$321,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0016-337-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=30ff8d56b3f94ea88ec122767d12197d&hash=CF55B0B23844A9F7FC570F2F9997FD30",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0015-341-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=2926716140ca40c99ec58ea4811d24c9&hash=FA0494E6EF30F4DB8693B176DF6B9A7D"
+      ],
+      "name": "341 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/341-salt-creek-lane",
+      "id": "341",
+      "address": "341 Salt Creek Lane",
+      "price": "$321,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0015-341-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=2926716140ca40c99ec58ea4811d24c9&hash=FA0494E6EF30F4DB8693B176DF6B9A7D",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0014-345-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=96034d299d6b4e3fa5c9d57c6c41250e&hash=C846393F55A365C78C7DC4164723FFC9"
+      ],
+      "name": "345 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/345-salt-creek-lane",
+      "id": "345",
+      "address": "345 Salt Creek Lane",
+      "price": "$321,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0014-345-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=96034d299d6b4e3fa5c9d57c6c41250e&hash=C846393F55A365C78C7DC4164723FFC9",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbex/0013-349-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=033fcf99288a4c8bb76a3c8dbd577376&hash=C13B68AF708ECA0B853AA01A02A55A90"
+      ],
+      "name": "349 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/349-salt-creek-lane",
+      "id": "349",
+      "address": "349 Salt Creek Lane",
+      "price": "$386,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1710",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbex/0013-349-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=033fcf99288a4c8bb76a3c8dbd577376&hash=C13B68AF708ECA0B853AA01A02A55A90",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0011-357-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=47c656e2ef204cbabb04231a4a599555&hash=BB4C44D1EFE74E79FAA99B09F2BFDD8B"
+      ],
+      "name": "357 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/357-salt-creek-ln",
+      "id": "357",
+      "address": "357 Salt Creek Lane",
+      "price": "$318,925",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0011-357-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=47c656e2ef204cbabb04231a4a599555&hash=BB4C44D1EFE74E79FAA99B09F2BFDD8B",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0027-360-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=69701d691bc347dfb235f825b25a88fc&hash=D1275EEC7E7D00FBCD7EF7083799AB53"
+      ],
+      "name": "360 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/360-salt-creek-ln",
+      "id": "360",
+      "address": "360 Salt Creek Lane",
+      "price": "$289,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0027-360-salt-creek-lane/2-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=69701d691bc347dfb235f825b25a88fc&hash=D1275EEC7E7D00FBCD7EF7083799AB53",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0010-361-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=daa2c76d9b024a14914fe956563bc28a&hash=9EBFDBEDECBADC152C774FDDF30F4105"
+      ],
+      "name": "361 Salt Creek Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/salt-creek-at-mexico-beach/qmis/361-salt-creek-ln",
+      "id": "361",
+      "address": "361 Salt Creek Lane",
+      "price": "$318,925",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1460",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29909-salt-creek-at-mexico-beach/299090000-salt-creek-at-mexico-beach/sbin/0010-361-salt-creek-lane/1-web-or-mls-salt-creek-townhomes.jpg?iar=1&sc=1&thn=1&w=425&rev=daa2c76d9b024a14914fe956563bc28a&hash=9EBFDBEDECBADC152C774FDDF30F4105",
+      "latitude": 29.95697,
+      "longitude": -85.43208,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Tyndall Academy",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Tyndall Academy",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rutherford High School",
+          "type_and_grades": "6-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rutherford High School",
+          "type_and_grades": "6-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

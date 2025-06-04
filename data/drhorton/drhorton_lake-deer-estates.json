@@ -1,0 +1,379 @@
+{
+  "timestamp": "2025-06-02T23:17:18.484922",
+  "name": "Lake Deer Estates",
+  "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates",
+  "status": null,
+  "price_from": "$274,990",
+  "address": "2807 Waterlily Way,Poinciana, FL 34759",
+  "phone": "(407) 966-1983",
+  "description": "Find a new home in Poinciana, FL! See all the new home floor plans, houses under construction, and move-in ready homes available in from Express Homes in the Central Florida area.",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/exterior_harper_c_4.jpg"
+  ],
+  "location": {
+    "latitude": 28.03512,
+    "longitude": -81.50107,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$274,990 - $324,990",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile Flooring",
+      "description": "Ceramic Tile Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Two Story Concrete Block",
+      "description": "Two Story Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Shopping Dining",
+      "description": "Nearby Shopping and Dining",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/3eab",
+      "details": {
+        "price": "From $275s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389380000-lake-deer-poinciana-40s/3eab/allex_c_cropped.jpg?as=1&w=425&rev=14b720c4bf414791a396cb5aab5bb780&hash=7BF2458F40ECE699440EA33A68283216"
+      }
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/4eab",
+      "details": {
+        "price": "From $305s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389390000-lake-deer-poinciana-50s/4eab/aria_c_front_cropped.jpg?as=1&w=425&rev=1f99ed452ee547e383d4afd4b3f8e6e6&hash=F59E239B05895804C1A713693EA2ED4E"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/4ebb",
+      "details": {
+        "price": "From $315s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389390000-lake-deer-poinciana-50s/4ebb/cropped_0001_cali_c_exterior_front_4.jpg?as=1&w=425&rev=3dfa1819606d485fb1ca09ee0f94c974&hash=99E41E7764F97F087EC09A16F1EBD5B3"
+      }
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/3eeb",
+      "details": {
+        "price": "From $328s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389380000-lake-deer-poinciana-40s/3eeb/exterior_elston_harmony_west_4.jpg?as=1&w=425&rev=20a5315f2b1548af857a2589574417f9&hash=107930D9CD85C30533903B53FD15A64E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389380000-lake-deer-poinciana-40s/3eeb/cropped_0000_elston_floorplan_unbranded.jpg?rev=891a1a01e83a485497ded16080dd58bb&hash=8181A3608A2E4329D7E13F4A7B0C1131"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389380000-lake-deer-poinciana-40s/3eeb/elston_nwg_g.jpg?rev=f7e3cc94fc894eb096cd42332bf19935&hash=AEF98552F5B8CD76E01579181E982AC0"
+        }
+      ]
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/e401",
+      "details": {
+        "price": "From $365s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,372 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389390000-lake-deer-poinciana-50s/e401/ensley_g_cropped.jpg?as=1&w=425&rev=e0c137e1cbb340e084e3a575bbfd7ef7&hash=2EC106D4B9B2B5F4873C964ACDC76E7E"
+      }
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/3emb",
+      "details": {
+        "price": "From $287s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389380000-lake-deer-poinciana-40s/3emb/untitled-1_0000_harper_ele_g_cs3_revised.jpg?as=1&w=425&rev=87ec0f82a73b4dcb8ea8ee7b1f7f2437&hash=1C13BC4594819806240019555E1B7874"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/4ehb",
+      "details": {
+        "price": "From $370s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389390000-lake-deer-poinciana-50s/4ehb/cropped_0007_hayden_h.jpg?as=1&w=425&rev=9222843da3fd4b53ae9ec1d85d008cca&hash=6CDBC92A6AE7D808300DD71E9E377F1A"
+      }
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/e402",
+      "details": {
+        "price": "From $335s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,077 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/e402/_0000_lakeside_ele_h_cs_12_revised.jpg?as=1&w=425&rev=26b65cd7508e4fb9928ebe80389a37cc&hash=7B7ADF914339E1655B00E0FBBB3D834D"
+      }
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/floor-plans/3efb",
+      "details": {
+        "price": "From $353s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38939-lake-deer-poinciana/389380000-lake-deer-poinciana-40s/3efb/cropped_0000_robie_h_.jpg?as=1&w=425&rev=45a43b2ed5e44c948e9ee760eaf10bb3&hash=382C415E8AD4C383CF265232E6F9E1C7"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0125-2963-waterlily-way/allex_nwg_d_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0a08ccb3cab6486bb95ef1000fde0675&hash=74D1E318DD2868BFE6B0BF70B868B491"
+      ],
+      "name": "2963 WATERLILY WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/2963-waterlily-way",
+      "id": "2963",
+      "address": "2963 WATERLILY WAY",
+      "price": "$281,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0125-2963-waterlily-way/allex_nwg_d_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=0a08ccb3cab6486bb95ef1000fde0675&hash=74D1E318DD2868BFE6B0BF70B868B491",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0052-2968-waterlily-way/allex_nwg_d_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=9ba7a782212d4c1194a429efc5f141b5&hash=719D008C467888B0DEC5A56C6B4E96EB"
+      ],
+      "name": "2968 WATERLILY WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/2968-waterlily-way",
+      "id": "2968",
+      "address": "2968 WATERLILY WAY",
+      "price": "$279,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0052-2968-waterlily-way/allex_nwg_d_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=9ba7a782212d4c1194a429efc5f141b5&hash=719D008C467888B0DEC5A56C6B4E96EB",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0123-2971-waterlily-way/allex_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=475fb71b665c46e28bc539b9fa440e2b&hash=9065ABF9B5E8F95F9B3E6F283B763561"
+      ],
+      "name": "2971 WATERLILY WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/2971-waterlily-way",
+      "id": "2971",
+      "address": "2971 WATERLILY WAY",
+      "price": "$279,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0123-2971-waterlily-way/allex_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=475fb71b665c46e28bc539b9fa440e2b&hash=9065ABF9B5E8F95F9B3E6F283B763561",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3emb/0115-3306-pine-lily-avenue/harper_ele_c_cs1_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=da2b7100fc27421eaaa949075b37c0c5&hash=71FA28A489F68A112753DA7E34E5EC1D"
+      ],
+      "name": "3306 PINE LILY AVENUE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/3306-pine-lily-avenue",
+      "id": "3306",
+      "address": "3306 PINE LILY AVENUE",
+      "price": "$293,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3emb/0115-3306-pine-lily-avenue/harper_ele_c_cs1_revised.jpg?iar=1&sc=1&thn=1&w=425&rev=da2b7100fc27421eaaa949075b37c0c5&hash=71FA28A489F68A112753DA7E34E5EC1D",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0116-3310-pine-lily-avenue/allex_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=eb3fde96bf174e14828850e47a2aa21d&hash=327627AEE2BE892D6C0379E19C748F43"
+      ],
+      "name": "3310 PINE LILY AVENUE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/3310-pine-lily-avenue",
+      "id": "3310",
+      "address": "3310 PINE LILY AVENUE",
+      "price": "$279,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389380000-lake-deer-estates-poinciana-40/3eab/0116-3310-pine-lily-avenue/allex_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=eb3fde96bf174e14828850e47a2aa21d&hash=327627AEE2BE892D6C0379E19C748F43",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/4ebb/0029-3727-bluethread-way/cropped_0000_cali-nwg_h.jpg?iar=1&sc=1&thn=1&w=425&rev=f764e9a6e9af4503b221dbbddcecf6cb&hash=2D0BA041CEAB889909ECFA9984DAC0DF"
+      ],
+      "name": "3727 BLUETHREAD WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/3727-bluethread-way",
+      "id": "3727",
+      "address": "3727 BLUETHREAD WAY",
+      "price": "$321,490",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/4ebb/0029-3727-bluethread-way/cropped_0000_cali-nwg_h.jpg?iar=1&sc=1&thn=1&w=425&rev=f764e9a6e9af4503b221dbbddcecf6cb&hash=2D0BA041CEAB889909ECFA9984DAC0DF",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/4ebb/0028-3731-bluethread-way/cropped_0003_cali-nwg_c.jpg?iar=1&sc=1&thn=1&w=425&rev=46ab5c1900a64ba09834683d8ae7899b&hash=005F5BCD6B38A05D3F492B57D2F99EC4"
+      ],
+      "name": "3731 BLUETHREAD WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/3731-bluethread-way",
+      "id": "3731",
+      "address": "3731 BLUETHREAD WAY",
+      "price": "$324,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/4ebb/0028-3731-bluethread-way/cropped_0003_cali-nwg_c.jpg?iar=1&sc=1&thn=1&w=425&rev=46ab5c1900a64ba09834683d8ae7899b&hash=005F5BCD6B38A05D3F492B57D2F99EC4",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/4eab/0027-3735-bluethread-way/aria_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=ed4c2fd252b044f59fd19770c92945c5&hash=9D97965092B365584C52F9B7131FE9D5"
+      ],
+      "name": "3735 BLUETHREAD WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/polk-county/poinciana/lake-deer-estates/qmis/3735-bluethread-way",
+      "id": "3735",
+      "address": "3735 BLUETHREAD WAY",
+      "price": "$309,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38939-lake-deer-estates-poinciana/389390000-lake-deer-estates-poinciana-50/4eab/0027-3735-bluethread-way/aria_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=ed4c2fd252b044f59fd19770c92945c5&hash=9D97965092B365584C52F9B7131FE9D5",
+      "latitude": 28.03512,
+      "longitude": -81.50107,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sandhill Elementary School",
+          "type_and_grades": "K-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Marion Creek Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Haines City Senior High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

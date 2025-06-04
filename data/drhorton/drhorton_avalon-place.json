@@ -1,0 +1,176 @@
+{
+  "timestamp": "2025-05-30T20:03:36.071082",
+  "name": "Avalon Place",
+  "url": "https://www.drhorton.com/florida/north-florida/jacksonville/avalon-place",
+  "status": null,
+  "price_from": "$244,990",
+  "address": "12711 Barrack Ln.,Jacksonville, FL 32218",
+  "phone": "(904) 682-9952",
+  "description": "Find a new home in Jacksonville, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/avalon_place_the_greyson_ext_3_nosciab.jpg"
+  ],
+  "location": {
+    "latitude": 30.46734,
+    "longitude": -81.62471,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$244,990 - $262,990",
+    "sqft_range": "From 1,395 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Greyson",
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/avalon-place/floor-plans/1395",
+      "details": {
+        "price": "From $253s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,395 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/exterior_3.jpg?as=1&w=425&rev=3618cef9cf5b456fbdadd7f3213527ec&hash=78CD4BB49D57ECADAC35734CDC894DFE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/1395grayson_fp.jpg?rev=da49cb036bba4180ad037464ef284a11&hash=4683E0F15327A6CD4611D917626A2A6C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/1395grayson_fp.jpg?rev=da49cb036bba4180ad037464ef284a11&hash=4683E0F15327A6CD4611D917626A2A6C"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/01_main_image_3.jpg?as=1&w=494&rev=19fb86629d364064990002a380e99ffd&hash=A29BC9FF7F947B8D550F9C870AA5AB5F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_1.jpg?as=1&w=494&rev=e225dafdcb6a4af48b4085b7ccc748c6&hash=614B5C3288587F239E6AB2D66B555EBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_2.jpg?as=1&w=494&rev=c0c54ae544134015a02352cb25fd10b6&hash=EF8D5D002B23FF45D9AF3DDE3A1D3740",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_4.jpg?as=1&w=494&rev=1a4030a22e244787832b84380e6ff5cd&hash=5ECF11815ED0B798320DB9C0A680CAED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_5.jpg?as=1&w=494&rev=f272a1ea518c48d98e9a4dc69dcc5357&hash=B19400D0B563E5AE627F7D4309727203",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_7.jpg?as=1&w=494&rev=06119704a8c74f89a0ce516d92badbb9&hash=A010264B564A588CAF92D68D5CAFF68D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_8.jpg?as=1&w=494&rev=f19dce17f43f4d41bf0d3fd70424125e&hash=972AAF491BEBDF1DE6D3E1BEECBC7245",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_10.jpg?as=1&w=494&rev=c27cec0dd7a7479b9599579ccc82c810&hash=BCEDD3F9ACD64A0F0653378BE8EDF31B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_11.jpg?as=1&w=494&rev=476b538fca3f444797dcf7ad495825fc&hash=E7DCA344AF941F6C0FA7C6115E322981",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_12.jpg?as=1&w=494&rev=77752a2dede141bf85229e347f53f5e5&hash=9906D88170E171269B8AC6C7BBD927AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_13.jpg?as=1&w=494&rev=0bca3c3553dd4cd1a5254ef8564deed7&hash=B3F18942163A30FD3582648CC93B5053",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_15.jpg?as=1&w=494&rev=0c5ba15bccd64d1593c8a50bdac6361e&hash=16A5522485984C322978B58BDE2A54E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_16.jpg?as=1&w=494&rev=5106096c4b1a451aad755580f1a8880e&hash=8D6507E558188521921F2121A94B2BEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_17.jpg?as=1&w=494&rev=700653fc11e14bb1b7df51d5a393e384&hash=183ACCA6711FF3E1009974C216591476",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_18.jpg?as=1&w=494&rev=2e1e7c5ec64143558ed9a72389ddb101&hash=DEDB661616D0F02284D28AF080C2E310",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_19.jpg?as=1&w=494&rev=790b274d8d9942418c20708f004cc190&hash=91AEB139DB81989782AF53FDF9BC460B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_20.jpg?as=1&w=494&rev=bfd6be2bc2824714b9e15d070417caa8&hash=2639307858BFCE291B35103C23041323",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_21.jpg?as=1&w=494&rev=d53903b162024104a096b0a55f344106&hash=9F96DF6B4E176B56A1B60CA95A1586BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_22.jpg?as=1&w=494&rev=b6c45077337643e4a11e4644640bead1&hash=D0BB8B529A32F5B4D9C5EE18A16C2ECF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_23.jpg?as=1&w=494&rev=2455c0fe36144b948ef8d24c6f2983dd&hash=011B318AB673FBF83178944096EE3F50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_24.jpg?as=1&w=494&rev=8a516d28c09c45a98442a901b35bf60c&hash=CCA7DF90EEDCF1F66591C6B8170D05E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/the_greyson_25.jpg?as=1&w=494&rev=c853d6257a234275b62a5444ec749617&hash=6EFABA206C730CA50F530C83E3170A10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/z-homeisconnected_1920x1080.jpg?as=1&w=494&rev=b01d90a1d82d4e12b88496cd898c89a1&hash=2E648F4534AC1F06036AEE2F9A665DC7",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "12710 Barrack Lane",
+      "plan": "Greyson",
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/avalon-place/qmis/12710-barrack-lane",
+      "id": "12710",
+      "address": "12710 Barrack Lane",
+      "price": "$244,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0207-12710-barrack-lane/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=19fb86629d364064990002a380e99ffd&hash=7722AE94FA645656B47345DA0D982223",
+      "latitude": 30.46734,
+      "longitude": -81.62471,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/01_main_image_3.jpg?as=1&w=494&rev=02c05c5b033c4c33905322c4f6711a67&hash=A944CD2F9F0FE19A9126B026CB4EC280",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_1.jpg?as=1&w=494&rev=55dc62cb7c8840ae915bbc6f3b4c6a8c&hash=0A3ACF236586A170DE81676CE39A440F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_2.jpg?as=1&w=494&rev=166dc4feeadf4b149d5470df01dad0c2&hash=2658B4D615AF54D76430C78986881F89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_4.jpg?as=1&w=494&rev=0463c4013dea4369a2d8ad2c9bc2324b&hash=905EBD3970974DAF360265D6747BAA0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_5.jpg?as=1&w=494&rev=9a29e440acc14aa5aad9a177e700a7af&hash=ED8F226C21999FB85318655DFF800725",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_7.jpg?as=1&w=494&rev=92ddaae2b0f747048aa646cb7cfc0120&hash=8892B6A785D2FE05F530928F76ACC177",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_8.jpg?as=1&w=494&rev=4f5661b34cc64a39b33d9c3b36392f95&hash=19E753B243E1D23CFE2B2262091AC579",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_10.jpg?as=1&w=494&rev=41b15843707b4adf8b555b72c0aa311f&hash=680AC1E5B9FFCFBD4140786BEEBE1B01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_11.jpg?as=1&w=494&rev=10e7351654cf42df8d5744c49456f4e0&hash=54468C1BEA8C9C2D82852D1A9783D3BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_12.jpg?as=1&w=494&rev=f7e5721a4c00451ab104435386d5deb3&hash=19B1A48AEE5BE8DD5FBFD81558294A29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_13.jpg?as=1&w=494&rev=b23ba1d9b6044c5d9822b7c47aab0408&hash=B4C8EAB5204B3098C2000C9EC74875CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_15.jpg?as=1&w=494&rev=a3275fad1a9e4224a9555558a0007bf0&hash=AECAB07ECB4A40B997FB7A9EE02A56BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_16.jpg?as=1&w=494&rev=f4bed5295be14e75bdadf60299313bd9&hash=8D83C6A3E0302EB38FF865FB3186AF14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_17.jpg?as=1&w=494&rev=aed9b1c268cb48459d2709e518a876e5&hash=852B6ED628B640A4E162A7F72D1C1249",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_18.jpg?as=1&w=494&rev=d363c48201334da5baa1caa713317e70&hash=90FC2173818C456C1420E42860C19DA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_19.jpg?as=1&w=494&rev=6a6da137e9a94af0bd10dacb867408a6&hash=4CAD6C3CA4C259EE695F16AB66592DB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_20.jpg?as=1&w=494&rev=bd18b92ec8ad4526a23c864b07512c0e&hash=2387101A123DBC07DA6CE7CA09F16138",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_21.jpg?as=1&w=494&rev=b49421164487444298e9582894b23d4b&hash=E9A34A4F1B523521416CC796F9E644B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_22.jpg?as=1&w=494&rev=f9a9a5212c974b68b7bc59ffc52636b2&hash=8951FA029985166C7CA230C182F0047D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_23.jpg?as=1&w=494&rev=76e05affab5844a4b48812fa46e91c1c&hash=B9638119B9B76A9D2168B7B082B70281",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_24.jpg?as=1&w=494&rev=b0e2707ace2746c69a7f1cea6b8abe71&hash=BB4B5333BFB61CAEAE348076C94214E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/the_greyson_25.jpg?as=1&w=494&rev=a1b9434146d74d088202908e14a47fa3&hash=D153AF140BDDC6A4891F17E643E96A70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/z-homeisconnected_1920x1080.jpg?as=1&w=494&rev=6093e1285654436fbba03a6c841e3edb&hash=3395D46A4DBE0E269B5F6CC7DCBC87F6",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "12710 Whelan Avenue",
+      "plan": "Greyson",
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/avalon-place/qmis/12710-whelan-avenue",
+      "id": "12710",
+      "address": "12710 Whelan Avenue",
+      "price": "$262,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33851-avalon-place-ths/338510000-avalon-place-ths/1395/0168-12710-whelan-avenue/01_main_image_3.jpg?iar=1&sc=1&thn=1&w=425&rev=02c05c5b033c4c33905322c4f6711a67&hash=92FC53A018199DF9ACDA797FC2486016",
+      "latitude": 30.46734,
+      "longitude": -81.62471,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Oceanway Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Oceanway Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "First Coast High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

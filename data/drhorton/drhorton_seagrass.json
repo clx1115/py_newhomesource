@@ -1,0 +1,463 @@
+{
+  "timestamp": "2025-06-02T05:01:28.994397",
+  "name": "Seagrass",
+  "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass",
+  "status": null,
+  "price_from": "$314,990",
+  "address": "9543 Turtle Grass Circle,Punta Gorda, FL 33950",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Punta Gorda, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/l1_southwest-florida_seagrass_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 26.89233,
+    "longitude": -82.0196,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$314,990 - $363,545",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Event Lawn",
+      "description": "Event Lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Passive Park",
+      "description": "Passive Park",
+      "icon_url": null
+    },
+    {
+      "name": "Kayak Launch",
+      "description": "Kayak Launch",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/floor-plans/4eab",
+      "details": {
+        "price": "From $315s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/aria-c-shingle_transom_6over6_web.jpg?as=1&w=425&rev=9efca3dcbd0344d5b1503c651a669f8c&hash=B39719ACA45A6D5D4E21575502815269"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=b482058374fb4c099123a400c8a567d8&hash=68C3930513608040B910F817BC5F6E17"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/floor-plans/4ebb",
+      "details": {
+        "price": "From $330s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/l1_southwest-florida_seagrass_exterior.jpg?as=1&w=425&rev=fa7b26c1219c4cbe977c3776b08d6c25&hash=A49EEF4B91CED28D336CC2F9F95F5A9E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/1828__-_cali_cd_floorplan_web.jpg?rev=aa2e430063b444b29596df65d0c7130d&hash=27721B525DD6C99AF7F0DCC3055DA10C"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/floor-plans/2077",
+      "details": {
+        "price": "From $345s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/2077_lakeside_ele_a_revised_web.jpg?as=1&w=425&rev=7614f2b152724beca47da0ac5b5a001e&hash=75D79CF2695ED2844EA0E353963C3A8E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/2077_lakeside_floor_plan_web.jpg?rev=fec33052759c4dbe8f750aef04016823&hash=8BF6ADD4987361CB8714CD995C27A59E"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/aria-d_shingle_transom_6over6_web.jpg?as=1&w=494&rev=ef32674e2baa4847bdc3097cd3cb8715&hash=885EEA9D9CFCC46C2F63D643277007CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/bath_main_16x9.jpg?as=1&w=494&rev=f78701631a114855b4dac53adff4930e&hash=EDAD2FD4EF9850054E8EE81D8B1F51F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=708d442a9c01479ca944ca8208f3fd4d&hash=523A2A56770D89372AC4D4B43ECE667B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=0e33ed974b73433c9f767cf08989dff7&hash=21BC7EA7F00663B3A9A59AB705FD346A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=8475c6f2e0a541b793b117b99ee16d72&hash=CA433DDA048E3755C3E91CCB1D377DBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=410b14a931754396bdcccebac6d33f6a&hash=803D768660469BDBF6E67963A6BB311E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/living1_hamptons_16x9.jpg?as=1&w=494&rev=130c055886bf49448a577f68802ca295&hash=2A3F683678C6B1672EBB90342E01B472",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=40a74e48a80c42598eeed71cadadcb50&hash=B1C4EE8A6779DFD203D1141307ABB29A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=6c63552cf81940e9915a8eb6104c215c&hash=D0AE2989D08B5CBD0EBEFC02DBA6C409",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=b482058374fb4c099123a400c8a567d8&hash=68C3930513608040B910F817BC5F6E17"
+      ],
+      "name": "9474 TURTLE GRASS CIR",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9474-turtle-grass-circle",
+      "id": "9474",
+      "address": "9474 TURTLE GRASS CIR",
+      "price": "$315,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0032-9474-turtle-grass-circle/aria-d_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=ef32674e2baa4847bdc3097cd3cb8715&hash=9D7E34C40C2DE1F6DB10923D243B1104",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/aria-c-shingle_transom_6over6_web.jpg?as=1&w=494&rev=9aad65e019954f54a9ec1c64ace8e013&hash=8DD75420E2B1CABCFB9E503B139E2F08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/bath_main_16x9.jpg?as=1&w=494&rev=5aba2544959d4e88b25c395108d988b5&hash=7EFDE06730640AD7F42632844ABEC140",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=6abeeb87ded4455cb6388c0a2279d0a6&hash=F618ACD35E85A16B84E0242009E3E817",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=1480673120be4bcfbce3ff4b23bbe2c5&hash=C76E398CA85C19206BE5C95139BA51CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=f8356236df694e079b3ab1984bd62406&hash=6F5604B21E73D1C5507AFA1D23D4BBB8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=bf9ffc4a67604e00ad7c31836713aae0&hash=0F7CA7FEF37DB32CB7B7B67699661BFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/living1_hamptons_16x9.jpg?as=1&w=494&rev=5b6ef30814bd4736b75e3c343640340c&hash=331900DF5B4053306E006986E9488251",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=0b62158d41df4ef48f973c30663d3639&hash=33E16065EDAD7384D33C28BFED58E820",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=71463e9462864740a48c73c4b0e772df&hash=448D111BA94853F64D1676692BEC6CD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=b482058374fb4c099123a400c8a567d8&hash=68C3930513608040B910F817BC5F6E17"
+      ],
+      "name": "9492 TURTLE GRASS CIR",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9492-turtle-grass-circle",
+      "id": "9492",
+      "address": "9492 TURTLE GRASS CIR",
+      "price": "$321,185",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0035-9492-turtle-grass-circle/aria-c-shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=9aad65e019954f54a9ec1c64ace8e013&hash=596A7F3E7AF00944CF69EA8FAA34F067",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/aria-d_shingle_transom_6over6_web.jpg?as=1&w=494&rev=c7274d7b825844c18de4b18037a11095&hash=E39BDAE8D2E38840C96CED28E77DAA9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/bath_main_16x9.jpg?as=1&w=494&rev=dd9d051559e84f92bfd1892f78f80389&hash=30AED87D5F5406D9F4AC5AED2AA0AD0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=b2e5154958bf4272adce438822dfe5fe&hash=757B26D0AEC42B232327E1DE7737F142",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=edf941dcf54242258a8d7af63a89562d&hash=AFC6C3F12384BE965BDAA0D6A7B0E70C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=c1625cef3c674f9cbdc2bbdd94e9a5c7&hash=EC83F2078A9CC639AED8DEFD156ABEC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=f19d8edc42fa4de2bab2737f9a934ae3&hash=33F1E70C779EDE3336FAFC9A3B72A4AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/living1_hamptons_16x9.jpg?as=1&w=494&rev=e14c5ba58e1b45f19bebdac7dc5e8ccb&hash=C283DA3BB45DA5BDF41450584F9E6FE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=e339c9253e6846cea584f14934979c61&hash=4D91FF21FBD84B670656441B7C3A4AA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=d00264db5e6c4546bb6e9722621f0c54&hash=57D4E269DBD7B03043C3E78F64560A7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=b482058374fb4c099123a400c8a567d8&hash=68C3930513608040B910F817BC5F6E17"
+      ],
+      "name": "9504 TURTLE GRASS CIR",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9504-turtle-grass-circle",
+      "id": "9504",
+      "address": "9504 TURTLE GRASS CIR",
+      "price": "$353,820",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0037-9504-turtle-grass-circle/aria-d_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=c7274d7b825844c18de4b18037a11095&hash=C5CDFB09F6C83352A8FC2DFB7B79D623",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/cali-c_shingle_transom_6over6_web.jpg?as=1&w=494&rev=e784c8b932fe49a5a30f54f6bf410054&hash=9065C9E712C02802A9485C572F151982",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/02_seagrass_cali.jpg?as=1&w=494&rev=9329cffbd4cf40e289a72e33a009c54b&hash=612C4867D852F4C44DA29717EFF35AEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/03_seagrass_cali.jpg?as=1&w=494&rev=c9aff78635bd4aa18b1fafaa5bebbf64&hash=26163E4EE436C2432C752FF6733CBC34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/04_seagrass_cali.jpg?as=1&w=494&rev=cd670835a9004c0c86fd1926c305120c&hash=1922168FF1EE178A50336AB54008265A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/05_seagrass_cali.jpg?as=1&w=494&rev=59f56375001944c58d28f13f0119156e&hash=69D0D697BEE25A5387591C429C03FA43",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/06_seagrass_cali.jpg?as=1&w=494&rev=dae7bd2089724d2799e2bc379b1bf352&hash=72D1000D15FFF5000D8B8002C58609C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/07_seagrass_cali.jpg?as=1&w=494&rev=82fabd2e4b6a4e0a86a3ac3c4caaf701&hash=791BB226A702F265CEFE4E90EAFA3618",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/08_seagrass_cali.jpg?as=1&w=494&rev=3b4bfe494f854210935b6a65a65b04a9&hash=B7927B575EB3A217769FBE0140E4DB18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/09_seagrass_cali.jpg?as=1&w=494&rev=9fbfc843aaa243639e16346aae6a2513&hash=2023FE252236B651556233073072FBE6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/10_seagrass_cali.jpg?as=1&w=494&rev=cf1244970984482299aa7f1782095fbf&hash=5D020C0F63EE5F2737E2EF060855FD22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/11_seagrass_cali.jpg?as=1&w=494&rev=8b77349e41ad42d4b7cd6c92198c26f0&hash=64919EB6FB6F1207E3C3F8E9AAD68895",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/12_seagrass_cali.jpg?as=1&w=494&rev=756ecf9431244aa8a0e12322f15cf263&hash=C3C61EACC3B001AF9559A5E817BF081C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/15_seagrass_cali.jpg?as=1&w=494&rev=6609f135480b4145b1c881d1f32eda9d&hash=DE59510841341E2911313920127EC560",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/1828__-_cali_cd_floorplan_web.jpg?rev=aa2e430063b444b29596df65d0c7130d&hash=27721B525DD6C99AF7F0DCC3055DA10C"
+      ],
+      "name": "9510 TURTLE GRASS CIR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9510-turtle-grass-circle",
+      "id": "9510",
+      "address": "9510 TURTLE GRASS CIR",
+      "price": "$343,815",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0038-9510-turtle-grass-circle/cali-c_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=e784c8b932fe49a5a30f54f6bf410054&hash=E6C33556DF1E6206179043E083C236E6",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/aria-c-shingle_transom_web.jpg?as=1&w=494&rev=5356b73f960345129d3bb74bc63f52a3&hash=32B6EFA05099104A1C06A5861C383FA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/bath_main_16x9.jpg?as=1&w=494&rev=c977d849aa7b419fad5516d5278dc55a&hash=30FAFB35EE2AB27703AAF5D764FB4046",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=6326fe80aafd47da91d58d6987b4a84f&hash=F565154920EDD1ADBD7003392017BD89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=b61a8053024b446e90843a854f9c11fc&hash=1F4F4D8C84003DBE029C0A7D01AFD79F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=531fe47f2c014725bdc5231d7e73a0d2&hash=37D5B880848ECB9F2017314DA5F1BD1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=c86f7d3af6414e1bb57202a42a82be74&hash=0DF53CF216C086526477769FF5D850D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/living1_hamptons_16x9.jpg?as=1&w=494&rev=d9348d13281c4023bd3711b76a50d60e&hash=D16E7875B3D2A23EA242D690550CA17E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=74d48897320c41fd9efe9b18bdb7bfd7&hash=CA7654779CAA1AF4216B202C1F375D0F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=d11f5118ed8b472891e8294e53102fb6&hash=BBA0C38C22DF66A481FAF404537F424F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=b482058374fb4c099123a400c8a567d8&hash=68C3930513608040B910F817BC5F6E17"
+      ],
+      "name": "9513 TURTLE GRASS CIR",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9513-turtle-grass-circle",
+      "id": "9513",
+      "address": "9513 TURTLE GRASS CIR",
+      "price": "$314,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0053-9513-turtle-grass-circle/aria-c-shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=5356b73f960345129d3bb74bc63f52a3&hash=EEE23F340DECF7141A13FAC183075673",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/aria-d_shingle_transom_6over6_web.jpg?as=1&w=494&rev=e1c5d83ed2a84c18ab5c316e16757b15&hash=A2BAE337512C94A1A0EA20DE48AB3F38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/bath_main_16x9.jpg?as=1&w=494&rev=e90c2332796646538858e1407e75dd0c&hash=84AD66E0713852F9FBDBA0B7709B0FD4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=83922ac20f3a482e92a29be4fb0454f7&hash=EE617C75274E4B412DE2AD9FBF18E09B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=856b30252ee642728490ad1f0a8ab664&hash=76940C3DD67230F2188A4FE0731A1001",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=1eaebcbe10134b2da499a220c0163a4c&hash=FA00593659C0219C8BBF071DF5C8B853",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=019a5470638346e78da4b0d6159bc1da&hash=18DE1C8C59AA0175A0914E4CDD52AC06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/living1_hamptons_16x9.jpg?as=1&w=494&rev=c5f48e7ead4d41118121d0486ff81f6f&hash=B2927A66DB2FB6A331745BBBED9F4CF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=dfb1ba07c16841fba5644e354e66ba3f&hash=BC0C08E018FFC7AADFFF1F69EC7C7DD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=725e0ef603064f7d86a34a861dcf0eee&hash=B9F40C34C7140435BC4F07C6AB1FB769",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=b482058374fb4c099123a400c8a567d8&hash=68C3930513608040B910F817BC5F6E17"
+      ],
+      "name": "9516 TURTLE GRASS CIR",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9516-turtle-grass-circle",
+      "id": "9516",
+      "address": "9516 TURTLE GRASS CIR",
+      "price": "$314,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4eab/0039-9516-turtle-grass-circle/aria-d_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=e1c5d83ed2a84c18ab5c316e16757b15&hash=C81CF8257FC7B7C1015E10D24EA23353",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/2077_lakeside_ele_a_revised_web.jpg?as=1&w=494&rev=2f652282172547dbbaded8a3ca8b5271&hash=F794B8020E5820134107E8C01389A223",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/02_lakeside.jpg?as=1&w=494&rev=2f31b0cdb3cd4209959a7ccfa9e5e939&hash=98F4265EF3D4700F721CE17BB419F893",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/03_lakeside.jpg?as=1&w=494&rev=e8e4581f5a4f4e20b37912bd5f4cf87d&hash=D851370981CC65FC92771227648FFAFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/04_lakeside.jpg?as=1&w=494&rev=049c0b268223441394287c9b5185687c&hash=451DA8957C6D739247A4D14575A43AAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/07_lakeside.jpg?as=1&w=494&rev=0a037c7d452a402c95540023fd71ecb7&hash=87C79E246973E1D265634262215305A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/09_lakeside.jpg?as=1&w=494&rev=9807094f70f547b396dc81214b26d7b2&hash=07108CED9567F5AED227E933A5A799F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/11_lakeside.jpg?as=1&w=494&rev=bb6d620929eb45a8915a010ee0a8966d&hash=4E0DDFBDFDC778F331585FFF8390BB3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/13.jpg?as=1&w=494&rev=d60265ba08e140c99d348c1b8ab3527d&hash=ED805A41ACFF10B0964CD85C374C53A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/14.jpg?as=1&w=494&rev=dc9645aab4cf47828bbe3b3ed82ce093&hash=C3520BF3E1F83CA5570516853DFE067F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/15.jpg?as=1&w=494&rev=6638b2e38b714fe08cc2bb13874532c7&hash=0493DA8B95CEB7FD5C2A077C0F8CA801",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/16.jpg?as=1&w=494&rev=42710ae79a4942998100756a9add73c7&hash=1BCDB1A342A893A2725E1B117BFC0255",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/17.jpg?as=1&w=494&rev=c12fec7d6f804c5d87f1ee7d773b7599&hash=429AE39EE43CBB73495CEA5D8BF389EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/18.jpg?as=1&w=494&rev=f10c9578d6674d00b42007cfbfbfcd36&hash=8840E824E10777355B2F87AD20279234",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/19.jpg?as=1&w=494&rev=e4b9dbebfb5d43968e6a1e9ed71ca76a&hash=234F0F8BD2C74494E4B50E449A10A119",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/2077_lakeside_floor_plan_web.jpg?rev=fec33052759c4dbe8f750aef04016823&hash=8BF6ADD4987361CB8714CD995C27A59E"
+      ],
+      "name": "9519 TURTLE GRASS CIR",
+      "plan": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9519-turtle-grass-circle",
+      "id": "9519",
+      "address": "9519 TURTLE GRASS CIR",
+      "price": "$363,545",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2078",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/2077/0052-9519-turtle-grass-circle/2077_lakeside_ele_a_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=2f652282172547dbbaded8a3ca8b5271&hash=77836D586EE0CE8E069F57740ED6E269",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/cali-d_shingle_transom_6over6_web.jpg?as=1&w=494&rev=27242821d70b4b94905f8dac61520c7c&hash=4C8D78962DFFD98BCA60B09B100AA481",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/02_seagrass_cali.jpg?as=1&w=494&rev=67b07adf2d304e8590fcb04dd00b5db5&hash=6650445F734C6241998D0A3F37812F5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/03_seagrass_cali.jpg?as=1&w=494&rev=a6b80d12675443bfbba31524f3482a5b&hash=D8D4034B1F5C08C627FAB653A98BE1CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/04_seagrass_cali.jpg?as=1&w=494&rev=6cfb8f545dcc4286899ea8f77e9203b8&hash=809D89FF23262316F02279D5069EB078",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/05_seagrass_cali.jpg?as=1&w=494&rev=1f9f3e8513e24b49b124e978345af262&hash=A654474EB7E502D33BDE3F080C393C83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/06_seagrass_cali.jpg?as=1&w=494&rev=4705392049644374807c245299b90b69&hash=60BED1A8D0E0C0EA9AC06DCADA4329F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/07_seagrass_cali.jpg?as=1&w=494&rev=47352e0069f3473f955563e1cc0ad50f&hash=4A52D135AA8A3191225058619EC29AE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/08_seagrass_cali.jpg?as=1&w=494&rev=e128784ab9e74d8c90d61d322a1818f4&hash=EC2149664B04A3716406961EA6AC1C58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/09_seagrass_cali.jpg?as=1&w=494&rev=2397ee8aa16e48cea8779d888036f2c7&hash=9EC7E3C8EDB924DEE90F1A4C8FBCAF80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/10_seagrass_cali.jpg?as=1&w=494&rev=612c827af10444d4a92744f15881d855&hash=30A273EC7B5B809CABA1ED1B383F7E9D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/11_seagrass_cali.jpg?as=1&w=494&rev=2ec078a4695e4ed392f2f7c8df1d2172&hash=978780F2CD06B27C4C867C605EFA81C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/12_seagrass_cali.jpg?as=1&w=494&rev=ff376f097e7141a5b8109387bfe8f026&hash=93C9E210AB70B7ECB75F34DE64AC6F57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/15_seagrass_cali.jpg?as=1&w=494&rev=897e3d29e8c9431b9ca118f0b577d661&hash=365507B71BAC723FA57C43049712AA2C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/1828__-_cali_cd_floorplan_web.jpg?rev=aa2e430063b444b29596df65d0c7130d&hash=27721B525DD6C99AF7F0DCC3055DA10C"
+      ],
+      "name": "9525 TURTLE GRASS CIR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9525-turtle-grass-circle",
+      "id": "9525",
+      "address": "9525 TURTLE GRASS CIR",
+      "price": "$329,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0051-9525-turtle-grass-circle/cali-d_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=27242821d70b4b94905f8dac61520c7c&hash=851EEC6686D847D754ED5A1A8BE6F300",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/cali-c_shingle_transom_6over6_web.jpg?as=1&w=494&rev=461ec1ef0d674629a85ea0cbfaaee24a&hash=9D9CF9106B96CF36CEA169536C5B1FA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/02_seagrass_cali.jpg?as=1&w=494&rev=87ae12aa6ad64f3b902732f0c592091b&hash=8989A6C0CA7F49A550D5D261E270CAF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/03_seagrass_cali.jpg?as=1&w=494&rev=c8534d2429e4439085377d7e2256cd8e&hash=97A36CB89162772B7F856B3EA2E4E99E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/04_seagrass_cali.jpg?as=1&w=494&rev=8971d1cbe2644b0ea4c57c4acf9a13ba&hash=7CC5B9F47D3A4A2176F90962A904706B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/05_seagrass_cali.jpg?as=1&w=494&rev=36880f5df8174121985a0a010d1ca534&hash=CBA204913DEB49DFE019DC61082A2985",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/06_seagrass_cali.jpg?as=1&w=494&rev=76f0f2fae37941e8a414cdba169f38c1&hash=E297EE4D7044354F957EF68D50871409",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/07_seagrass_cali.jpg?as=1&w=494&rev=f5b384f5b3cd4d3f988a7c0cb5dd3b16&hash=5ACB65B4164EA56132D902AA513AD3D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/08_seagrass_cali.jpg?as=1&w=494&rev=e8f2e39b30b44445970580a618a77a92&hash=3554E3A84F44E4FBA9D356F869FE4ADC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/09_seagrass_cali.jpg?as=1&w=494&rev=fb67f9c3217140b8ae57f6ccb3ed1210&hash=EECAABCA7DD09C2F723A1115014FD14A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/10_seagrass_cali.jpg?as=1&w=494&rev=2dceef8e32304013bd7909ea8efa52ae&hash=3A15C4BD8334C98B1706845976453AAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/11_seagrass_cali.jpg?as=1&w=494&rev=9fb84b6fd06a46269848b921cdfae50a&hash=5D1014F4A5F3758A338543E4EA5EDBBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/12_seagrass_cali.jpg?as=1&w=494&rev=8b69e4dcdd30436095d97f109bb3ff5d&hash=56673A349D02F60BAC3203BF4BF32830",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/15_seagrass_cali.jpg?as=1&w=494&rev=e12f2d85fcab4b3b9fd77cdafb1ff074&hash=45956B484A3EDB12AAD7AD7E7E29A4DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/1828__-_cali_cd_floorplan_web.jpg?rev=aa2e430063b444b29596df65d0c7130d&hash=27721B525DD6C99AF7F0DCC3055DA10C"
+      ],
+      "name": "9531 TURTLE GRASS CIR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9531-turtle-grass-circle",
+      "id": "9531",
+      "address": "9531 TURTLE GRASS CIR",
+      "price": "$334,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0050-9531-turtle-grass-circle/cali-c_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=461ec1ef0d674629a85ea0cbfaaee24a&hash=B0B3F3F5E8595DAF117A3024D65CED07",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/cali-d_shingle_transom_6over6_web.jpg?as=1&w=494&rev=cd2ac334f77f46438034c597716994d3&hash=199101940E961B0C647CFE144CDB7440",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/02_seagrass_cali.jpg?as=1&w=494&rev=a150647b01a64d598393072adadf7f31&hash=814E4F67571A6D071584B93915B69707",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/03_seagrass_cali.jpg?as=1&w=494&rev=fb8d78df8bf346369ad42aef4703b4d4&hash=DE8CE78A32863886500D1FDBFE0D6BA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/04_seagrass_cali.jpg?as=1&w=494&rev=9e4ac7dca26c4900af52b4704b5bb151&hash=0C654DB278B527B766DD32C8FAA89885",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/05_seagrass_cali.jpg?as=1&w=494&rev=e863d9dcb1ec4dedae65646008d6d2b0&hash=95EEF5DD752B40D6EC0FBC150DE9C05B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/06_seagrass_cali.jpg?as=1&w=494&rev=3c66bd6107734b2495b3df4626df0fd6&hash=81DD4A7F389CCEFC69316ACFAE80CF77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/07_seagrass_cali.jpg?as=1&w=494&rev=f6d9fd6865eb4cc4aeac0a943d817361&hash=E1AC75FBF7C937884C173D3F7BBC5810",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/08_seagrass_cali.jpg?as=1&w=494&rev=0a60eb8157a84ca0ba22ebad09935800&hash=191357D3CD495A1DA08F1453F0F578EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/09_seagrass_cali.jpg?as=1&w=494&rev=ac933924050c447a96fd6f92edce1149&hash=6D4EC98169F123B0C40F915098CEA790",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/10_seagrass_cali.jpg?as=1&w=494&rev=720e070451284713a104eedc8e20d576&hash=09D83177B27B5AEC1CA5C12DED4D96AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/11_seagrass_cali.jpg?as=1&w=494&rev=eb3975adbba541618756324c15e26abe&hash=57795C200C5CD25413E48B6304F75521",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/12_seagrass_cali.jpg?as=1&w=494&rev=0122c95009564d63bc2e5cb26a5bdb14&hash=006017AC1BA33106A4C60496FBAC425A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/15_seagrass_cali.jpg?as=1&w=494&rev=d6376415d402429694a650c22b0fe349&hash=47FD30973A8F827A87DD0D7EC94E6423",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/1828__-_cali_cd_floorplan_web.jpg?rev=aa2e430063b444b29596df65d0c7130d&hash=27721B525DD6C99AF7F0DCC3055DA10C"
+      ],
+      "name": "9602 TURTLE GRASS CIR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/punta-gorda/seagrass/qmis/9602-turtle-grass-circle",
+      "id": "9602",
+      "address": "9602 TURTLE GRASS CIR",
+      "price": "$338,650",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54766-seagrass/547660000-seagrass/4ebb/0006-9602-turtle-grass-circle/cali-d_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=cd2ac334f77f46438034c597716994d3&hash=871134605FE0CF00B1AA2C8F3910B9AC",
+      "latitude": 26.89233,
+      "longitude": -82.0196,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sallie Jones Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Punta Gorda Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Charlotte High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "timestamp": "2025-06-03T03:14:58.364204",
+  "name": "Buena Lago",
+  "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago",
+  "status": null,
+  "price_from": "$381,990",
+  "address": "3928 Magenta Place,Saint Cloud, FL 34772",
+  "phone": "(407) 584-8518",
+  "description": "Find a new home in Saint Cloud, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Osceola County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38399-buena-lago/383990000-buena-lago-50s/buena-lago-cali-model-drh--3928-magenta-place--st-cloud--fl-34772---0.jpg"
+  ],
+  "location": {
+    "latitude": 28.17634,
+    "longitude": -81.23946,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$381,990 - $456,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pool Cabana",
+      "description": "Pool and Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Covered Gazebo",
+      "description": "Covered Gazebo",
+      "icon_url": null
+    },
+    {
+      "name": "Multipurpose Park Space",
+      "description": "Multipurpose Park Space",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Oversized Lake View Homesites",
+      "description": "Oversized Lake View Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Top",
+      "description": "Top-Rated Zoned Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Direct Access to Lake, Public Boat Ramp Next",
+      "description": "Direct Access to Lake, Public Boat Ramp Next-Door",
+      "icon_url": null
+    },
+    {
+      "name": "Lake Nona Medical City",
+      "description": "Lake Nona Medical City Just Minutes Away",
+      "icon_url": null
+    },
+    {
+      "name": "Close Beaches Attractions",
+      "description": "Close to Beaches and Attractions",
+      "icon_url": null
+    },
+    {
+      "name": "Grocery 5 Mins Away",
+      "description": "Grocery 5 Mins Away",
+      "icon_url": null
+    },
+    {
+      "name": "Just 25 Mins Orlando",
+      "description": "Just 25 Mins to Orlando International Airport",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/floor-plans/4eab",
+      "details": {
+        "price": "From $382s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38399-buena-lago/383990000-buena-lago-50s/4eab/1_aria_front_exterior_d.jpg?as=1&w=425&rev=e859fad03401440f9cd00df5abeecba5&hash=9198B0525C0EED24468E34EB7A4695C4"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/floor-plans/4ebb",
+      "details": {
+        "price": "From $392s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/1-1-caliexterior-elevationc.jpg?as=1&w=425&rev=5f57f4d7bb60410a998e55046f72ffb7&hash=E2F4AFD1DB3A837B9DE3E73E9BCCCF1D"
+      }
+    },
+    {
+      "name": "Conrad",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/floor-plans/2745",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-60s/2745/bl_conrad_a.jpg?as=1&w=425&rev=a123e2c5119f46bab665254a871538f3&hash=4F29CF432CACF68BE2E3A2E206DA5E96"
+      }
+    },
+    {
+      "name": "Everett",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/floor-plans/2929",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384000000-buena-lago-60s/2929/everett_j_eh_web.jpg?as=1&w=425&rev=1ccfba15bfaf4110b1e53b960f70d3cb&hash=73931D9CE7A3400FBBC15A743A1A7EE7"
+      }
+    },
+    {
+      "name": "Galen",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/floor-plans/4egb",
+      "details": {
+        "price": "From $430s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,432 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38399-buena-lago/383990000-buena-lago-50s/4egb/galen_h_web.jpg?as=1&w=425&rev=f35bb6a38a6e49328f578e2f5f6f3872&hash=2738FD5CF3B1E3AC03F1F6369F435609"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/floor-plans/4ehb",
+      "details": {
+        "price": "From $443s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38399-buena-lago/383990000-buena-lago-50s/4ehb/hayden_h_web.jpg?as=1&w=425&rev=b3686fecf2a54deda3b7e8c84089444b&hash=7AEC81AA08494C6E07D6730251BCB81F"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4eab/0331-5056-tana-terrace/1-1-ariaexterior-elevation.jpg?iar=1&sc=1&thn=1&w=425&rev=11fc6acaebf848ceb1463b4f5d85fb88&hash=E4BE45BEA2A825DB9C4A38E934334F9E"
+      ],
+      "name": "5056 Tana Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5056-tana-terrace",
+      "id": "5056",
+      "address": "5056 Tana Terrace",
+      "price": "$398,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4eab/0331-5056-tana-terrace/1-1-ariaexterior-elevation.jpg?iar=1&sc=1&thn=1&w=425&rev=11fc6acaebf848ceb1463b4f5d85fb88&hash=E4BE45BEA2A825DB9C4A38E934334F9E",
+      "latitude": 28.17634,
+      "longitude": -81.23946,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0333-5064-tana-terrace/hayden_model_drh_1.jpg?iar=1&sc=1&thn=1&w=425&rev=63b20035fef9410bbcbdc2c61f557097&hash=4F6D0E6CBC8B1A5DED776A1C73F9A19C"
+      ],
+      "name": "5064 Tana Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5064-tana-terrace",
+      "id": "5064",
+      "address": "5064 Tana Terrace",
+      "price": "$456,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2601",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0333-5064-tana-terrace/hayden_model_drh_1.jpg?iar=1&sc=1&thn=1&w=425&rev=63b20035fef9410bbcbdc2c61f557097&hash=4F6D0E6CBC8B1A5DED776A1C73F9A19C",
+      "latitude": 28.17634,
+      "longitude": -81.23946,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4eab/0258-5067-tana-terrace/1_1_aria_exterior_elevation_c.jpg?iar=1&sc=1&thn=1&w=425&rev=36f6e0341dc9492ea8e86367c3238e20&hash=3E893213192DBBE1632F22B0391499EA"
+      ],
+      "name": "5067 Tana Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5067-tana-terrace",
+      "id": "5067",
+      "address": "5067 Tana Terrace",
+      "price": "$392,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4eab/0258-5067-tana-terrace/1_1_aria_exterior_elevation_c.jpg?iar=1&sc=1&thn=1&w=425&rev=36f6e0341dc9492ea8e86367c3238e20&hash=3E893213192DBBE1632F22B0391499EA",
+      "latitude": 28.17634,
+      "longitude": -81.23946,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0336-5076-tana-terrace/hayden_model_drh_1.jpg?iar=1&sc=1&thn=1&w=425&rev=afaf67925e9c430db395734eb91012a5&hash=5BEF65241266545D1825D1A25E155EB0"
+      ],
+      "name": "5076 Tana Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5076-tana-terrace",
+      "id": "5076",
+      "address": "5076 Tana Terrace",
+      "price": "$456,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2601",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ehb/0336-5076-tana-terrace/hayden_model_drh_1.jpg?iar=1&sc=1&thn=1&w=425&rev=afaf67925e9c430db395734eb91012a5&hash=5BEF65241266545D1825D1A25E155EB0",
+      "latitude": 28.17634,
+      "longitude": -81.23946,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0327-5145-masser-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=b9802f53958741a0b61cf0a1bb48e52f&hash=91196EB6D672DA6A3019A79D263B138D"
+      ],
+      "name": "5145 Masser Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5145-masser-road",
+      "id": "5145",
+      "address": "5145 Masser Road",
+      "price": "$399,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4ebb/0327-5145-masser-road/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=b9802f53958741a0b61cf0a1bb48e52f&hash=91196EB6D672DA6A3019A79D263B138D",
+      "latitude": 28.17634,
+      "longitude": -81.23946,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4egb/0324-5157-masser-road/agalen_h_wyndham_preserve.jpg?iar=1&sc=1&thn=1&w=425&rev=170113b5909e46fba14188ec770744d1&hash=E8AF27E23DECA450A85A31DB9B0C7EA8"
+      ],
+      "name": "5157 Masser Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago/qmis/5157-masser-road",
+      "id": "5157",
+      "address": "5157 Masser Road",
+      "price": "$443,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2432",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/383990000-buena-lago-50s/4egb/0324-5157-masser-road/agalen_h_wyndham_preserve.jpg?iar=1&sc=1&thn=1&w=425&rev=170113b5909e46fba14188ec770744d1&hash=E8AF27E23DECA450A85A31DB9B0C7EA8",
+      "latitude": 28.17634,
+      "longitude": -81.23946,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Hickory Tree Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Harmony Middle School",
+          "type_and_grades": "6-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Harmony High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

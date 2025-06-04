@@ -1,0 +1,348 @@
+{
+  "timestamp": "2025-06-04T09:20:18.177993",
+  "name": "Bentley Crossing",
+  "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing",
+  "status": null,
+  "price_from": "$288,999",
+  "address": "1244 Brumfield Crossing,Fort Myers, FL 33905",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Fort Myers, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/l1_southwest-florida_bentley-crossing_exterior_2.jpg"
+  ],
+  "location": {
+    "latitude": 26.63947,
+    "longitude": -81.72067,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$288,999 - $366,750",
+    "sqft_range": "From 1,302 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Event Lawn",
+      "description": "Event Lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/floor-plans/3eab",
+      "details": {
+        "price": "From $295s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/1504-allex-c-gen3-elev_mrn_web.jpg?as=1&w=425&rev=28df24ffc9ab4782a22c7a26c889948c&hash=17FFB26CACF8281B2D23D0FE94788E61"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/allex_cd_web.jpg?rev=a3e541ca4b394eedad06ec2e3677d5f8&hash=1312AE130D204A27DD3AD46ED38DCE8C"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/floor-plans/4eab",
+      "details": {
+        "price": "From $330s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4eab/aria-c-shingle_transom_web.jpg?as=1&w=425&rev=98df032cd0a24a878b13dca4446c38bd&hash=C706F11573175652B42B4C1A92FDE2B7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4eab/1672_-_aria_cd_singlesink.jpg?rev=89c27815d71d48b3951997ab78d11700&hash=D8EE41F6E738DB88F7D9A24159C30EE2"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/floor-plans/4ebb",
+      "details": {
+        "price": "From $345s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/cali-c_shingle_transom_web.jpg?as=1&w=425&rev=7b0c3895d6db4482901c5a99634e4546&hash=B6171D89E1C3E115BA6CD032E41A5D5C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/1828__-_cali_cd_singlesink.jpg?rev=676c3668e595499c95676f4a614289d8&hash=E2F93447CA68FA632DB75648C0CCD2F8"
+        }
+      ]
+    },
+    {
+      "name": "Downing",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/floor-plans/e305",
+      "details": {
+        "price": "From $318s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,302 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/e305/downing__ele_a_cs1_revised_web.jpg?as=1&w=425&rev=7a483245adb34e919a149e014302e7db&hash=3D041836753E5B78202EA4ED2A730029"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/e305/1302_downing_3_2.jpg?rev=cb04e132181d49648bf636a88ab62e18&hash=304EBDFF2597F9E84D72E8DA3876B082"
+        }
+      ]
+    },
+    {
+      "name": "Jemison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/floor-plans/3ejb",
+      "details": {
+        "price": "From $305s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,614 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3ejb/jemison-elevation-c-nostone-csh1-alt-wtransom_new_web.jpg?as=1&w=425&rev=e5d34343d6664d07bcbaeb8afa3662b0&hash=748B3591D81D2F282E8E6B5391789F75"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/3ejb/jemison_3_bedroom.jpg?rev=82f3eda0aa904e4ab9467795e45003f5&hash=70C12CA2EE5A6A53777E43ADBF9F24E1"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/floor-plans/2077",
+      "details": {
+        "price": "From $360s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/l1_southwest-florida_bentley-crossing_exterior_2.jpg?as=1&w=425&rev=e331c4d0e6d14a51b215915e7c4b5ef9&hash=2FD187F85FC631703D46BE4B2BC22E9A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/2077_lakeside_floor_plan_web.jpg?rev=ea7b2d0d8d7244a49b534a1096ebd39c&hash=7C3411D747B8AFBAE455C320B450B37D"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0041-1132-brooklands-drive/1504-allex-d-gen3-elev_mrn_web.jpg?as=1&w=1280&rev=fdfcfdc034bb4194ad9977eac65b89b5&hash=11578BAA36C1715DC927C983E924C537",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/allex_cd_web.jpg?as=1&w=1280&rev=a3e541ca4b394eedad06ec2e3677d5f8&hash=0F335DF19A7ADEFB64F1E6B63852ED56"
+      ],
+      "name": "1132 BROOKLANDS DR",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/1132-brooklands-drive",
+      "id": "1132",
+      "address": "1132 BROOKLANDS DR",
+      "price": "$299,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0041-1132-brooklands-drive/1504-allex-d-gen3-elev_mrn_web.jpg?iar=1&sc=1&thn=1&w=425&rev=fdfcfdc034bb4194ad9977eac65b89b5&hash=2D77F554D6EE2CCD8B6E7BD1E6D3A2CA",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3ejb/0037-1150-brooklands-drive/jemison-elevation-c-nostone-csh1-alt-wtransom_new_web.jpg?as=1&w=1280&rev=311d60683d4f42e493f52e649b02251d&hash=9F3DF8BF06B4717312985336AB902B2D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/3ejb/jemison_3_bedroom.jpg?as=1&w=1280&rev=82f3eda0aa904e4ab9467795e45003f5&hash=A0BCD408E2711FB177D96CB3099E90BC"
+      ],
+      "name": "1150 BROOKLANDS DR",
+      "plan": "Jemison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/1150-brooklands-drive",
+      "id": "1150",
+      "address": "1150 BROOKLANDS DR",
+      "price": "$314,185",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1614",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3ejb/0037-1150-brooklands-drive/jemison-elevation-c-nostone-csh1-alt-wtransom_new_web.jpg?iar=1&sc=1&thn=1&w=425&rev=311d60683d4f42e493f52e649b02251d&hash=9B476AC206A309DCF2171598128E9F42",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/1504-allex-d-gen3-elev_mrn_web.jpg?as=1&w=494&rev=cb375d18e37a47bfaf381b470e00f5cb&hash=32A65B84474CF4C29CB88C77DED5950B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/02_allex_asher_park.jpg?as=1&w=494&rev=534fdb0b6f52494f85bf34e991b421a3&hash=29EE001AE795B2ED63BEF5A925FBA4F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/03_allex_asher_park.jpg?as=1&w=494&rev=984ed34a092c4578b849aeae956122d9&hash=ACED83E8DAB061318E1A7AC6C0CEA00F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/04_allex_asher_park.jpg?as=1&w=494&rev=b8a40e3b1b8e46f88dc368ce058c815c&hash=402D160D3A8BC9DC8F6831542C43F893",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/05_allex_asher_park.jpg?as=1&w=494&rev=4b280d98d8bf49eeaf3b5780701cfc75&hash=CDFE24D33BBBF490FF69BAF944D6B129",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/06_allex_asher_park.jpg?as=1&w=494&rev=1dd6ad5d92714b358c3f1970446bac0d&hash=3DDD384A5E762E6889ED62D3F2315BCE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/07_allex_asher_park.jpg?as=1&w=494&rev=e3f61f7c59b54eecac56bfc80458c05c&hash=33E03B32975BE2441F7C92228FBE1F91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/allex_cd_web.jpg?rev=a3e541ca4b394eedad06ec2e3677d5f8&hash=1312AE130D204A27DD3AD46ED38DCE8C"
+      ],
+      "name": "1181 BROOKLANDS DR",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/1181-brooklands-drive",
+      "id": "1181",
+      "address": "1181 BROOKLANDS DR",
+      "price": "$288,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547980000-bentley-crossing-40s/3eab/0059-1181-brooklands-drive/1504-allex-d-gen3-elev_mrn_web.jpg?iar=1&sc=1&thn=1&w=425&rev=cb375d18e37a47bfaf381b470e00f5cb&hash=0BF8D7E54C6908729563B5E4A595BD7C",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0158-1255-brumfield-crossing/cali-c_shingle_transom_web.jpg?as=1&w=1280&rev=2dbf7bb30730451a8b615204e3d7ee6f&hash=4B3492A9F1BBAC3E717AED5425F5B732",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/1828__-_cali_cd_singlesink.jpg?as=1&w=1280&rev=676c3668e595499c95676f4a614289d8&hash=5C92E3FE54A48EF165CBBD5D0D35AD0F"
+      ],
+      "name": "1255 BRUMFIELD CROSSING",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/1255-brumfield-crossing",
+      "id": "1255",
+      "address": "1255 BRUMFIELD CROSSING",
+      "price": "$366,750",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0158-1255-brumfield-crossing/cali-c_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=2dbf7bb30730451a8b615204e3d7ee6f&hash=5E80934D0488202526834462CAB88166",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/cali-d_shingle_transom_web.jpg?as=1&w=494&rev=94a9726720fe4e7b9e925986bd9ec452&hash=316386F655A748EBEDBEBE51BFAAA296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/02_magnoliacali.jpg?as=1&w=494&rev=42792d6bd26d419fb3e2aa6bc9b2688c&hash=26446A6DD9140516526F859F3F193EFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/03_magnoliacali.jpg?as=1&w=494&rev=0fea7c088b104b1681b3161e53c8fad3&hash=DFE53EB588AC4C215502926493659D50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/04_magnoliacali.jpg?as=1&w=494&rev=828a41f922a043d2b5fec65cdda70b21&hash=E413A3C54797B69CD772DBE077206390",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/06_magnoliacali.jpg?as=1&w=494&rev=19b04b069489444ba459b3c438cd0d95&hash=BC793C73D7AC36316A78795BA0724E8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/07_magnoliacali.jpg?as=1&w=494&rev=ba859ff115c14ec9a44b34d41132271c&hash=19F287BA8A5B066E3B5EB49F85CEF1D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/08_magnoliacali.jpg?as=1&w=494&rev=2102a542fdef441b8008b99587f9749d&hash=34FCEB8AE4A25B74804F401348B3BB87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/09_magnoliacali.jpg?as=1&w=494&rev=ee0a3950513d46258a2d25efb8b9579d&hash=9F47A7ABBEF067BA1ED7BE322997A850",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/10_magnoliacali.jpg?as=1&w=494&rev=6b37f74476bd439987e81a7fdc3db7f7&hash=2D49412FE06948DAD64B9D7A77AF16E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/11_magnoliacali.jpg?as=1&w=494&rev=84cc64d38c194420b082ca558f7da21d&hash=3A96FA36FDB66BD2322721A06C6BE0E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/14_magnoliacali.jpg?as=1&w=494&rev=669466ed6aec4d83a4f4fa00c2c8b54b&hash=2C6A9C5BC3707F809F85202C72A36BC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/15_magnoliacali.jpg?as=1&w=494&rev=5b2585e4627d46de99832828af001b00&hash=05EBA81C44C193B58B04E1C8D15940F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/1828__-_cali_cd_singlesink.jpg?rev=676c3668e595499c95676f4a614289d8&hash=E2F93447CA68FA632DB75648C0CCD2F8"
+      ],
+      "name": "1261 BRUMFIELD CROSSING",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/1261-brumfield-crossing",
+      "id": "1261",
+      "address": "1261 BRUMFIELD CROSSING",
+      "price": "$366,750",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4ebb/0157-1261-brumfield-crossing/cali-d_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=94a9726720fe4e7b9e925986bd9ec452&hash=2714240A64C7B42CF49B49C41361464D",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4eab/0156-1267-brumfield-crossing/aria-c-shingle_transom_web.jpg?as=1&w=1280&rev=7063a97c0791413bb7001f7f5c26182e&hash=3AA9E4262C6DFBBD713D21CD29FFDCE6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4eab/1672_-_aria_cd_singlesink.jpg?as=1&w=1280&rev=89c27815d71d48b3951997ab78d11700&hash=97D27BC5A94FC807B86CACC67D384B62"
+      ],
+      "name": "1267 BRUMFIELD CROSSING",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/1267-brumfield-crossing",
+      "id": "1267",
+      "address": "1267 BRUMFIELD CROSSING",
+      "price": "$350,240",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/4eab/0156-1267-brumfield-crossing/aria-c-shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7063a97c0791413bb7001f7f5c26182e&hash=E60AA86CB7C5CB7325267968BA4E1780",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/2077_lakeside_ele_b_revised_web.jpg?as=1&w=494&rev=6d90b14e9e7e4b9bbb3e8d8ec77ad1ca&hash=082FB37897AEB499BF1E28801839F497",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/02_lakeside_bentley.jpg?as=1&w=494&rev=86344cdc52474cab810214a7cb32fa16&hash=BBCCC74B7E5FE91E54A3435A335F59F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/03_lakeside_bentley.jpg?as=1&w=494&rev=9e16d9296bb2415c90e7217a4cddb0a0&hash=38773E4CF3B0D20972D4E004C5409686",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/04_lakeside_bentley.jpg?as=1&w=494&rev=578e3e9d9889433aa3e5427dc4d9563b&hash=9A395C2354A0457EAEF7FD91E0D88DA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/05_lakeside_bentley.jpg?as=1&w=494&rev=359f040792cc40479f2bd16b571b9b4b&hash=F585C2C7F426A6C27A40EA84F18C4124",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/06_lakeside_bentley.jpg?as=1&w=494&rev=aecde5428e794d7aa2523f7b70ee8617&hash=AD476217AA3B67CDB4F72791DFD1A477",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/07_lakeside_bentley.jpg?as=1&w=494&rev=f00cb6ab4b6644e193c6ca13cfdcbf35&hash=221AEA02E5DFE95515C3878C41224AD3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/08_lakeside_bentley.jpg?as=1&w=494&rev=4f4c9bf8770849f7b711d008aec919e8&hash=A84A465160932BFF37EEEC0D2E205AAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/09_lakeside_bentley.jpg?as=1&w=494&rev=d5512c0c25304a8491f19c6bd6cd71ca&hash=83A28E5E47F9283D39372E010545BF4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/10_lakeside_bentley.jpg?as=1&w=494&rev=7da0592db432448799d0c743b971a9a4&hash=9C80CCC8FF8F9CB1C9B3BF55783D66C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/11_lakeside_bentley.jpg?as=1&w=494&rev=5e794bd0cc30410a9bf6d93d66c69bb4&hash=2C34CB0FCD63DDE8AAF5ABA69F8CDAD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/12_lakeside_bentley.jpg?as=1&w=494&rev=3a580189100943558f6376a45e6ee05e&hash=F03848C1CBFF883B972B43DD40B119FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/13_lakeside_bentley.jpg?as=1&w=494&rev=2db28b8ab3224aaaa3fad60bb6748d7f&hash=33BFE48CAC54B0475DE673CB461921F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/2077_lakeside_floor_plan_web.jpg?rev=ea7b2d0d8d7244a49b534a1096ebd39c&hash=7C3411D747B8AFBAE455C320B450B37D"
+      ],
+      "name": "5135 OXFORD POINT DR",
+      "plan": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/bentley-crossing/qmis/5135-oxford-point-drive",
+      "id": "5135",
+      "address": "5135 OXFORD POINT DR",
+      "price": "$364,999",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2078",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54778-bentley-crossing/547780000-bentley-crossing-50s/2077/0005-5135-oxford-point-drive/2077_lakeside_ele_b_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=6d90b14e9e7e4b9bbb3e8d8ec77ad1ca&hash=25FD28A625A05AAD93A9975DC0EA6726",
+      "latitude": 26.63947,
+      "longitude": -81.72067,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

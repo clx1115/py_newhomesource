@@ -1,0 +1,293 @@
+{
+  "timestamp": "2025-05-31T11:56:23.882362",
+  "name": "Magnolia Landing Express",
+  "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii",
+  "status": null,
+  "price_from": "$284,990",
+  "address": "20094 Fiddlewood Avenue,North Fort Myers, FL 33917",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in North Fort Myers, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/579900000-magnolia-iii-tvs/01_magnoliacali.jpg"
+  ],
+  "location": {
+    "latitude": 26.75828,
+    "longitude": -81.923,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$284,990 - $311,140",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Golf",
+      "description": "Golf",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Lap Pool & Resort",
+      "description": "Lap Pool & Resort-style Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/floor-plans/4eab",
+      "details": {
+        "price": "From $285s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/aria-c4_shingle_transom_web.jpg?as=1&w=425&rev=1839f9714a3340658749e0918879a63f&hash=0A269F07B7C129FD8DC18A762EEC0C9A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/aria_floor-plan.jpg?rev=9ead11d6661140ac9ddc8eba6c5154ed&hash=88DD0294ABB949B15F4FC28EAA453B28"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/floor-plans/4ebb",
+      "details": {
+        "price": "From $295s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/cali-c_shingle_transom_web.jpg?as=1&w=425&rev=235d83708f3744148fd675fe4cf7bf60&hash=E58665E0C994DBA8E2780524B56D5F4D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/cali_floor-plan.jpg?rev=9d48708f49a44ad6822c35d95a9cc623&hash=E7575AAD233CCCD4C2760650961ADC69"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0165-3659-rollingwater-way/bath_main_16x9.jpg?as=1&w=1280&rev=46c168cac5cf433fab45cfb7eb4565a8&hash=151B612F7E1C7D39EDF01D40B4551BDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/aria_floor-plan.jpg?as=1&w=1280&rev=9ead11d6661140ac9ddc8eba6c5154ed&hash=67C1C57834338F341D520ED241DB44F2"
+      ],
+      "name": "3659 ROLLINGWATER WAY",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/qmis/3659-rollingwater-way",
+      "id": "3659",
+      "address": "3659 ROLLINGWATER WAY",
+      "price": "$297,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com",
+      "latitude": 26.75828,
+      "longitude": -81.923,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/cali-d_shingle_transom_web_169.jpg?as=1&w=494&rev=22713c30aa2e41be88d2ea400ee1e27c&hash=E7EAFB9E6BCF22A5D53ED5E77668A0EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/02_magnoliacali.jpg?as=1&w=494&rev=b468bd7f9f43493f8ae6f1b4c0d27717&hash=E0832C115C10757F4B803401CA9C29A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/03_magnoliacali.jpg?as=1&w=494&rev=68032d219fc340f0866cc22f620f46b4&hash=96EBC6060F97860ACB4DFA04F89DD1B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/04_magnoliacali.jpg?as=1&w=494&rev=deac7717b1cc418da4c4f9b29cafb03e&hash=5862002F4E198CBC7EDC57D09F106F6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/06_magnoliacali.jpg?as=1&w=494&rev=183469a0d123457d85f15dc45bb911b9&hash=F5BE5CE2D404348A921B5F9D1B91A2D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/07_magnoliacali.jpg?as=1&w=494&rev=de6a03ff4da14c2c9b050815d70ccd3e&hash=0AF6B1DC6DDA4D1651AB807A817D9E83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/08_magnoliacali.jpg?as=1&w=494&rev=a53b1bb511134f98bb0adba289ac193e&hash=1EDDD4A8C1C093F3EC87C15B48ACFEB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/09_magnoliacali.jpg?as=1&w=494&rev=ee0329eaba9041db8c925650250caa66&hash=F7B34CED270A8B14B4E2AEB559B3C165",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/10_magnoliacali.jpg?as=1&w=494&rev=7d2b154703264330ad896c128194d223&hash=E6EB48054A445C1FDCB6A9972CD491F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/11_magnoliacali.jpg?as=1&w=494&rev=258d8f68bda24abea87c8f7c5a4f46f5&hash=A8EA1FBA8C85339427B129C5548EA0C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/14_magnoliacali.jpg?as=1&w=494&rev=8b5a6f94c5544f3982034b1a6e405406&hash=886455A8F55B2415F3F0BCCEEC365F80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/15_magnoliacali.jpg?as=1&w=494&rev=a87c53648eae48458304afb9b3bf1de5&hash=60E68FC304301936267C43612F7D59EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/cali_floor-plan.jpg?rev=9d48708f49a44ad6822c35d95a9cc623&hash=E7575AAD233CCCD4C2760650961ADC69"
+      ],
+      "name": "3671 CROSSWATER DR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/qmis/3671-crosswater-drive",
+      "id": "3671",
+      "address": "3671 CROSSWATER DR",
+      "price": "$299,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0215-3671-crosswater-drive/cali-d_shingle_transom_web_169.jpg?iar=1&sc=1&thn=1&w=425&rev=22713c30aa2e41be88d2ea400ee1e27c&hash=1E90D659C81505CE3A0727B0B877BA1F",
+      "latitude": 26.75828,
+      "longitude": -81.923,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/aria-d-shingle_transom_web_169.jpg?as=1&w=494&rev=1b9cbee153944e6c910784000ef364f8&hash=89E9C3830DB98B5EAAFD5985B11AD785",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/bath_main_16x9.jpg?as=1&w=494&rev=b8ddde502acb4d4d932044183f4e0cd6&hash=9B7383F12AAEB731DB6242E3BB3EF29C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=24053109436d46f996b4b8d854f8e253&hash=4BC613F9B250CD33BDACF1C6794E3B20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=3dd8e97a5539444b8279ec97dbfe7d12&hash=269EF9131E987B273E761022F09DE024",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=73b29b58d0f94023bac95344ab6d6360&hash=33E1CB4C23C12EDBDCE95986595D9728",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=70d943bf3c3a4cf9b3ba0bfef7d0cf1d&hash=39BA4073FB7B3470BF326EAA30E8E55F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/living1_hamptons_16x9.jpg?as=1&w=494&rev=50f075231c374f4bbf2b71256109d0a2&hash=2ED055C92BC61AA3FF0CC3A02C7FB7F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=3d51e6af667f48a5938fbc5d93325677&hash=D7DD1B93FA8156F265F35BC58E09EC7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=9dc18b1841534178a1aff27547f45443&hash=09F5006FBFAC9F01CE8FF8A126B2B12A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/aria_floor-plan.jpg?rev=9ead11d6661140ac9ddc8eba6c5154ed&hash=88DD0294ABB949B15F4FC28EAA453B28"
+      ],
+      "name": "3671 ROLLINGWATER WAT",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/qmis/3671-rollingwater-way",
+      "id": "3671",
+      "address": "3671 ROLLINGWATER WAT",
+      "price": "$299,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0167-3671-rollingwater-way/aria-d-shingle_transom_web_169.jpg?iar=1&sc=1&thn=1&w=425&rev=1b9cbee153944e6c910784000ef364f8&hash=F74C27A3E02DA002EFFE27111E6D5A6A",
+      "latitude": 26.75828,
+      "longitude": -81.923,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/cali-d_shingle_transom_web_169.jpg?as=1&w=494&rev=85a6b01c8c314f46921956be88fd56e2&hash=80847D6F64FA383F9A222DBA55AE2F43",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/02_magnoliacali.jpg?as=1&w=494&rev=aa7973afd92d4d868b02779f77bd46ef&hash=BFC99AE95C5A6B0F7982A5E2CA1A4753",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/03_magnoliacali.jpg?as=1&w=494&rev=ef4d07b719c04f1f969f1bb42e6ad62c&hash=E28DBB46AB83E8FF81FA21C0C1885BF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/04_magnoliacali.jpg?as=1&w=494&rev=735b7cb1d2f74b4a871c6e95bc342522&hash=2D399CCB034AB46D817C5E5B5EA0039C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/06_magnoliacali.jpg?as=1&w=494&rev=49ced7fd10e547c9b04f0592bb4da58a&hash=1C0C10BA45FA1834F75AF5B638A1601B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/07_magnoliacali.jpg?as=1&w=494&rev=0c646f37e1ed4adda9d8dcc8754afb3b&hash=D6DAFFF2E6A81D1CB7C537CE5092A47B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/08_magnoliacali.jpg?as=1&w=494&rev=80e1f2fefc124097a8e83fb2029c99fe&hash=32A6BACD2A2F838A325FFFF988A2652A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/09_magnoliacali.jpg?as=1&w=494&rev=c58c1971e80e4e42934db43b7dc6b0f7&hash=BF799C86D5A989ADF8B792B8D9006F39",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/10_magnoliacali.jpg?as=1&w=494&rev=bf17e5a6042849439cf8f113ccbf265f&hash=4C7FD977C82D4196A2B76CF0FAD686BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/11_magnoliacali.jpg?as=1&w=494&rev=433408a52964411b9b321cbdec09ea71&hash=C2A87244FC2EA36E7363B84C97262664",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/14_magnoliacali.jpg?as=1&w=494&rev=e19f51b70d36449eb690f3b4cc32351f&hash=D96B5724288F1BF836C44B1DDB7E1761",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/15_magnoliacali.jpg?as=1&w=494&rev=5c511024814a4c04a9f02a374ccebe68&hash=A74E89EBBC0FE90903741FD56E53183B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/cali_floor-plan.jpg?rev=9d48708f49a44ad6822c35d95a9cc623&hash=E7575AAD233CCCD4C2760650961ADC69"
+      ],
+      "name": "3674 CROSSWATER DR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/qmis/3674-crosswater-drive",
+      "id": "3674",
+      "address": "3674 CROSSWATER DR",
+      "price": "$309,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0173-3674-crosswater-drive/cali-d_shingle_transom_web_169.jpg?iar=1&sc=1&thn=1&w=425&rev=85a6b01c8c314f46921956be88fd56e2&hash=41E988D104DC9713CC89CB054D273FBC",
+      "latitude": 26.75828,
+      "longitude": -81.923,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0129-3676-rollingwater-way/aria-c-shingle_transom_web_169.jpg?as=1&w=1280&rev=5d15c8b22a41486d99321a2f12e7ac88&hash=D9D3D490E18999D78A6F51D13A8FB571",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/aria_floor-plan.jpg?as=1&w=1280&rev=9ead11d6661140ac9ddc8eba6c5154ed&hash=67C1C57834338F341D520ED241DB44F2"
+      ],
+      "name": "3676 ROLLINGWATER WAY",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/qmis/3676-rollingwater-way",
+      "id": "3676",
+      "address": "3676 ROLLINGWATER WAY",
+      "price": "$309,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4eab/0129-3676-rollingwater-way/aria-c-shingle_transom_web_169.jpg?iar=1&sc=1&thn=1&w=425&rev=5d15c8b22a41486d99321a2f12e7ac88&hash=EE5422E019AE079BA16A53244C218832",
+      "latitude": 26.75828,
+      "longitude": -81.923,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0178-3654-crosswater-drive/cali-d_shingle_transom_web_169.jpg?as=1&w=1280&rev=47c6d928c32240b3ac4b168d48b39eed&hash=DB74B8CC8A4B1CC69AC8861D66692CAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/cali_floor-plan.jpg?as=1&w=1280&rev=9d48708f49a44ad6822c35d95a9cc623&hash=319C067DC772876D65F388C5B792B456"
+      ],
+      "name": "3654 CROSSWATER DR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/express-magnolia-ii/qmis/3654-crosswater-drive",
+      "id": "3654",
+      "address": "3654 CROSSWATER DR",
+      "price": "$311,140",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-magnolia-ii/547640000-magnolia-iii-50s-express/4ebb/0178-3654-crosswater-drive/cali-d_shingle_transom_web_169.jpg?iar=1&sc=1&thn=1&w=425&rev=47c6d928c32240b3ac4b168d48b39eed&hash=8B665AB144DDA0E081926F59C743EBD2",
+      "latitude": 26.75828,
+      "longitude": -81.923,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Lee County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lee County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lee County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

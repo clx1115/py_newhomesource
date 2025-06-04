@@ -1,0 +1,299 @@
+{
+  "timestamp": "2025-05-31T23:35:29.041518",
+  "name": "Archer at Two Rivers",
+  "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer",
+  "status": null,
+  "price_from": "$464,990",
+  "address": "2274 Stratten Dr,Zephyrhills, FL 33541",
+  "phone": "(813) 670-6193",
+  "description": "Find a new home in Zephyrhills, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394390000-two-rivers-south-w-1-60s-drh/fl_west_florida_dr_horton_hawthorne_b.jpg"
+  ],
+  "location": {
+    "latitude": 28.18628,
+    "longitude": -82.21678,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$464,990",
+    "sqft_range": "From 2,045 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2.5 - 4.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    },
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Fire Pits",
+      "description": "Fire Pits",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/2795",
+      "details": {
+        "price": "From $563s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,794 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394390000-two-rivers-south-w-1-60s-drh/2795/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?as=1&w=425&rev=3b687d9fba2b4d89b8604ee54854b1e4&hash=F131B02973FEBA608E62C2CFE0A7EA6C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2795/camden_blacklines_two_rivers_no_waterheater_25.jpg?rev=c03298f322d349079ae6701f7056b100&hash=C94394BBE266B7F97D2550196B8D7DAD"
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/2767",
+      "details": {
+        "price": "From $503s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,756 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394380000-two-rivers-south-w-1-50s-drh/2767/fl_tampanorth_drhorton_coralg.jpg?as=1&w=425&rev=ab00936dab6445e99ae742021f8b8c46&hash=7BA645D844EB7501B42E04E96842280C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2767/coral_blacklines_two_rivers_no_wh_25.jpg?rev=540a086b880742d9b95118a69d644a08&hash=CDCABE9217F82236FD816EECA440C49E"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2767/coral_blacklines_two_rivers_no_wh_25.jpg?rev=540a086b880742d9b95118a69d644a08&hash=CDCABE9217F82236FD816EECA440C49E"
+        }
+      ]
+    },
+    {
+      "name": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/2558",
+      "details": {
+        "price": "From $540s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394390000-two-rivers-south-w-1-60s-drh/2558/fl_tampanorth_drhorton_hawthorneb_nocl.jpg?as=1&w=425&rev=50a6c66bdc25429db879c90ea3a18a21&hash=46B14CA1516A8F02A135409AED27AF53"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/2558/hawthorne_blacklines_two_rivers_no_wh_25.jpg?rev=0b4d59161ba648eeb4637c4d597a5f89&hash=7DFF0C1373F3A9EC7F37F621C2968DC2"
+        }
+      ]
+    },
+    {
+      "name": "Hemmingway",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/2924",
+      "details": {
+        "price": "From $516s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,934 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394380000-two-rivers-south-w-1-50s-drh/2924/fl_tampanorth_drhorton_hemingwayg.jpg?as=1&w=425&rev=5bd6c03aa4fe478eb23cd013fb94a13b&hash=81A8D415439D9E176E30E6B0EAA88D03"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2924/hemmingway_blacklines_two_rivers_no_wh_25.jpg?rev=1e81c20a568841fea34705d8251f081f&hash=F8D5001CF9F5A824468F0DB64198CC1B"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2924/hemmingway_blacklines_two_rivers_no_wh_25.jpg?rev=1e81c20a568841fea34705d8251f081f&hash=F8D5001CF9F5A824468F0DB64198CC1B"
+        }
+      ]
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/3129",
+      "details": {
+        "price": "From $533s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,313 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394380000-two-rivers-south-w-1-50s-drh/3129/fl_tampanorth_drhorton_holdeng.jpg?as=1&w=425&rev=2bcb3e587fc84d7296f20289e3145ece&hash=FC9F72F63716F09DE0E78CBD4A4CDACE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/holden_blacklines_two_rivers_no_wh_25.jpg?rev=bece4c6094714a69982f798a5cbf15fe&hash=C5D14E0E3483F3FD8E90FF01EED59A3A"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3129/holden_blacklines_two_rivers_no_wh_25.jpg?rev=bece4c6094714a69982f798a5cbf15fe&hash=C5D14E0E3483F3FD8E90FF01EED59A3A"
+        }
+      ]
+    },
+    {
+      "name": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/3278",
+      "details": {
+        "price": "From $593s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,278 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394390000-two-rivers-south-w-1-60s-drh/3278/fl_tampanorth_drhorton_jordynii_g_shinglenocl.jpg?as=1&w=425&rev=e6be4c9ac73546ed90da20c030d369ff&hash=81C85E4C14CDC6F3C2244B2A7DB33EC4"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/3278/jordyn_ii_blacklines_two_rivers_no_wh_25.jpg?rev=b30ece61005148fe845a8144c72d3bed&hash=9F3FD20CFEB3F85030305F5501CD49AE"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/3278/jordyn_ii_blacklines_two_rivers_no_wh_25.jpg?rev=b30ece61005148fe845a8144c72d3bed&hash=9F3FD20CFEB3F85030305F5501CD49AE"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/2045",
+      "details": {
+        "price": "From $465s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394380000-two-rivers-south-w-1-50s-drh/2045/fl_tampanorth_drhorton_lantanad.jpg?as=1&w=425&rev=540b5d9e8ce840b39241172f9fd69d5d&hash=CF10E3615AABAEAFC75C3AD2DBB0A0F6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/2045/lantana_blacklines_two_rivers_no_wh_25.jpg?rev=6bb38a620a2e470cada37cb265d9c6f7&hash=FD887FCCD9E899487D2EBDB3AF2B51C7"
+        }
+      ]
+    },
+    {
+      "name": "Sea Cliff",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/3327",
+      "details": {
+        "price": "From $537s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,334 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394380000-two-rivers-south-w-1-50s-drh/3327/sea_cliff_ele_k_25.jpg?as=1&w=425&rev=e43f442ed548480883925240689fca20&hash=2C0E8F53E2B96D266DC27802AE10A8DC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3327/lantana_blacklines_two_rivers_no_wh_25.jpg?rev=903765db2e114cdf95907f9089de6301&hash=8F6505CA26F11A88342C1E06B6D78EE7"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394380000-archer-at-two-rivers-50s-drh/3327/lantana_blacklines_two_rivers_no_wh_25.jpg?rev=903765db2e114cdf95907f9089de6301&hash=8F6505CA26F11A88342C1E06B6D78EE7"
+        }
+      ]
+    },
+    {
+      "name": "Torino",
+      "url": "https://www.drhorton.com/florida/tampa/zephyrhills/two-rivers---archer/floor-plans/3975",
+      "details": {
+        "price": "From $622s",
+        "beds": "5 bd",
+        "baths": "4.5 ba",
+        "half_baths": null,
+        "sqft": "3,975 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-two-rivers---archer/394390000-two-rivers-south-w-1-60s-drh/3975/fl_tampanorth_drhorton_torinog_nocl.jpg?as=1&w=425&rev=d73491f4f48145a1bfda060cf18466e6&hash=7150D00A85506988AE33F195833BD8FE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/3975/jordyn_ii_blacklines_two_rivers_no_wh_25.jpg?rev=5dd5b2a8bb0d4601a973d29525541200&hash=7F90F353B54CFC06A6FB3695F4DFD5FB"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39437-archer-at-two-rivers/394390000-archer-at-two-rivers-60s-drh/3975/jordyn_ii_blacklines_two_rivers_no_wh_25.jpg?rev=5dd5b2a8bb0d4601a973d29525541200&hash=7F90F353B54CFC06A6FB3695F4DFD5FB"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Chester Taylor Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Raymond B. Stewart",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Zephyrhills High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

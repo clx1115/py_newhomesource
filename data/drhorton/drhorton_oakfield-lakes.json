@@ -1,0 +1,922 @@
+{
+  "timestamp": "2025-06-03T23:59:44.677697",
+  "name": "Oakfield Lakes",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes",
+  "status": null,
+  "price_from": "$312,990",
+  "address": "10972 Gentle Current Way,Parrish, FL 34221",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Parrish, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/001_calic_oakfieldlakes_modelhome.jpg"
+  ],
+  "location": {
+    "latitude": 27.62661,
+    "longitude": -82.45174,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$312,990 - $411,990",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Tennis",
+      "description": "Tennis",
+      "icon_url": null
+    },
+    {
+      "name": "Event Lawn",
+      "description": "Event Lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Lake",
+      "description": "Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pools",
+      "description": "Community Pools",
+      "icon_url": null
+    },
+    {
+      "name": "Park",
+      "description": "Park",
+      "icon_url": null
+    },
+    {
+      "name": "Pavillions",
+      "description": "Pavillions",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/3eab",
+      "details": {
+        "price": "From $313s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/front.jpg?as=1&w=425&rev=30ae81820e5641819c170f124a69fe48&hash=07FB12D055E23B285A9792F7DD319C49"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/allex.png?rev=dd047e3966f84d37ae329bfb937df432&hash=C1450972232004C8983329CA392F648B"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/4eab",
+      "details": {
+        "price": "From $336s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/front.jpg?as=1&w=425&rev=6194a42cf9a64bf7b91f1866f46b236a&hash=DCCAEFAEB87F12673466D07AF5BA8BCE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/fl_tpasouth_drhorton_express_aria.jpg?rev=afd6a887ca094bee9135cee20f6bd59c&hash=E9AA763D15AD0A2F31C3751FCF887254"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/4ebb",
+      "details": {
+        "price": "From $358s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/front.jpg?as=1&w=425&rev=5bc1a7137e384f61a29c3341b08cd84d&hash=269AE9EA859A51848F3BC7EDA035E456"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=00ecd9156766445aad5afa0dc6f7ce82&hash=88CE554FE958864D22E78A4212C60B42"
+        }
+      ]
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/3eeb",
+      "details": {
+        "price": "From $372s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/front.jpg?as=1&w=425&rev=10a997b238a742e6b6cc0cd9c3c9924e&hash=86FD40613886D6F09CA20DF2BBE2B05C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/elston.png?rev=a0a3e830633648e1a4e0d0881403c473&hash=87C440C93D3684B862B994E906641184"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/elston.png?rev=a0a3e830633648e1a4e0d0881403c473&hash=87C440C93D3684B862B994E906641184"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/3emb",
+      "details": {
+        "price": "From $330s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/harper_elevationc_stone_88.jpg?as=1&w=425&rev=78865a008c9f4eacade094865755a62f&hash=4C5FC42DB5BAA9806CBA89FFD5A50959"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/harper.png?rev=b2c6822a3cf541519552e59b19c23eb8&hash=ED7BA18ED51EF4B79DE2EF7FE041F964"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/4ehb",
+      "details": {
+        "price": "From $391s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/front.jpg?as=1&w=425&rev=7457600531294b8b808789adaec1146b&hash=0017830D2F64018B582635029A196D97"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/hayden.png?rev=c86bfb8482af4a649d5adda26c7c705e&hash=3836B2A3EA66A23C2632060A5F7B2AB6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/hayden.png?rev=c86bfb8482af4a649d5adda26c7c705e&hash=3836B2A3EA66A23C2632060A5F7B2AB6"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/floor-plans/3efb",
+      "details": {
+        "price": "From $380s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3efb/robie_front_ext.jpg?as=1&w=425&rev=e5dd762d1ecd46e7babbe76c1e1e23a0&hash=3B65194B14BD37FB880986CA2E8BFEA6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3efb/fl_west-florida_dr_horton_express_series_robie_gh_patio_new.jpg?rev=340f78972b9542d7831a785694e0faf5&hash=DF198995E4F98C6A235BDE72CFE1A623"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3efb/fl_west-florida_dr_horton_express_series_robie_gh_patio_new.jpg?rev=340f78972b9542d7831a785694e0faf5&hash=DF198995E4F98C6A235BDE72CFE1A623"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/03-allex-d_nogrids_cls.jpg?as=1&w=494&rev=e0327216176940058660ab167199c42c&hash=5A8F5A0629C9925469DE2AFD58BDC2FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=4d7f64695953439b9958e286af1b5e1e&hash=DB8B477948A58DA4A76C500DAB5A0EEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=98a79072ffec4496b109dc7458db1c2f&hash=194F9A390EC437012A0E8E9253E9B29B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=5911e512c180477b8432ab4da25779c6&hash=E372087D3F8901DD74A7A2280102E8BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=cebf0508453d40a5a760de2c22c3a1d1&hash=9F16E6536D52BA703877CEB2ED6F2255",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=62ff7c10ebe34cf0bfe5973ec1e83bf9&hash=CE953081A8B5F065898DA2DA1EF557C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=8fc21af52162452da3ce6d4cd8703b5f&hash=20D197664E64DFFE07641E5C3CA8C606",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=7e933e85cbf54eec930a8a24ebbdc9ee&hash=ABE68A384FCA938489EC79ACF1EBE26C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=512dc1a65c7944ac889e3a08fd55f987&hash=181A146C5F2026AF9F2026C238B05FF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=dd70251d9ca84e46aa44a534dfec52de&hash=76E39659FF77AF2C77A899F667E55063",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=a514047db4e245cca2792b2400db4c8f&hash=1D28E9A35D5D8C8E5B3549E94D9FE05D"
+      ],
+      "name": "10706 Hidden Banks Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10706-hidden-banks-glen",
+      "id": "10706",
+      "address": "10706 Hidden Banks Glen",
+      "price": "$320,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0049-10706-hidden-banks-glen/03-allex-d_nogrids_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=e0327216176940058660ab167199c42c&hash=6DB1C3B07C2595231F0354F7897F817C",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/harper-elevation-g-nostone.jpg?as=1&w=494&rev=d1f57e0ac5e6427da880bf549d08ae6f&hash=77FD943C1244123609DE6419857113D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/02-kitchen.jpg?as=1&w=494&rev=3faf8ee20e3b4ccaa381ed2c76d16a61&hash=69014BDE0ABFC16F80B46DFD43938FDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/03-kitchen.jpg?as=1&w=494&rev=3e1741492afc4a8fb842d0b5aba9cd13&hash=35AF065378F29606DEC53013F6D07ADA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/05-kitchen.jpg?as=1&w=494&rev=c6e7c7d2cab64c1983a6669b335aabde&hash=630CE093C3578A10B8FA2A58E26AFA3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/04-dining_room.jpg?as=1&w=494&rev=73d4e5c9c42442069bbe5428eee0ca1a&hash=39D2E074F966E5778ECE35E200520171",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/06-family_room.jpg?as=1&w=494&rev=b5e28815227e4ff59315db3ca9dd44d3&hash=45AC5E2309CBCFE5483A59B7E0936872",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/07-family_room.jpg?as=1&w=494&rev=ebb15b24d93141bfa724e1e08c9f03cb&hash=113915E977BACB56EC94BD434D691100",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/08-primary_bedroom.jpg?as=1&w=494&rev=caf046dc43944c56986c388168e579cb&hash=61BC652749F9CFEF10BADF9993781470",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/09.jpg?as=1&w=494&rev=3904d26af46441c6b6fee62168148dec&hash=4D6A089DF83E5A0FAFA463CA2F9B6BC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/09-bedroom_2.jpg?as=1&w=494&rev=7d689255faf942b885269d39c9038799&hash=BA193E7F1F008B1840B2EE388DEDB2AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/10-bedroom_3.jpg?as=1&w=494&rev=07c47a35f6794e93b96c8d664cad30d3&hash=963A93324DCD474298289859A40CF5FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/11-bedroom_4.jpg?as=1&w=494&rev=cbf83a75f21f4ab5ac92fa8c8f8a866d&hash=61A777F673D6503CC0D66AAA93B70B55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/12.jpg?as=1&w=494&rev=cedfd697799546d59ca8bf63fc6673ee&hash=8D071538E8155AE2582F6E59A584E941",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/13.jpg?as=1&w=494&rev=cac040f5df5643988aac73deff3760ae&hash=ACD6795C3F33B0C66F21BB127F772363",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/14.jpg?as=1&w=494&rev=86cca22fca204fd89c4d235b7b0234b3&hash=3C861322E217EC162D8F437CFE2B5E32"
+      ],
+      "name": "10710 Hidden Banks Glen",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10710-hidden-banks-glen",
+      "id": "10710",
+      "address": "10710 Hidden Banks Glen",
+      "price": "$334,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0050-10710-hidden-banks-glen/harper-elevation-g-nostone.jpg?iar=1&sc=1&thn=1&w=425&rev=d1f57e0ac5e6427da880bf549d08ae6f&hash=F7A4CAF889389B75CDD3553B603A871E",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/02-allex_c_nogrids_cls.jpg?as=1&w=494&rev=3b93f888e4e04116b6f538c8b9207ffe&hash=8DF0333BC99D9B4743A86484E2B3CBB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=6459587b43de4ad3803ab61d1fcdc963&hash=456CEF1713685A91E35ADD2AE0130B80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=95f9f0e4fcd744fd906aa55ce840e748&hash=6D46FD8D1FE5328AFBAD39A7BCA8D22F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=f4b205bfa762488498db3276fee01489&hash=4C25CC5928645C23BE84648F7165DE67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=e69797b00e74480d8681e23642b98e86&hash=9E28E6C5ACBBF4BB88AC7857AF64D4C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=acb803789a2e4e768c165fafa44a82ed&hash=54B5E459274B2544E4CF960AE3BF29DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=c5a4fd849d8947bfbf7696ee00fe0dc4&hash=7A13370B573D7AEE800D3D01BD8ACE70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=f6523cea7e7c4a5399dfd1ae288345ef&hash=BDF19B2C23EDE9EC183ED3EBDC3A1D58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=f6c9eb6a4bbc4732ad5afbf452ae56e6&hash=83E816C560BB06BE0622861E3FB13C2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=8593a77ccc43408d815090dfc74d6e32&hash=307A7A7CF02FF8254D80943063735128",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=6815d942f70041e8ac368e56e77308c2&hash=E50E23E63AFEB40AAFCA5232C6294B78"
+      ],
+      "name": "10713 Hidden Banks Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10713-hidden-banks-glen",
+      "id": "10713",
+      "address": "10713 Hidden Banks Glen",
+      "price": "$323,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0026-10713-hidden-banks-glen/02-allex_c_nogrids_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=3b93f888e4e04116b6f538c8b9207ffe&hash=62F8A869FA6A02F56C90436ECCC5348F",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/harper-elevation-c-siding-accent2.jpg?as=1&w=494&rev=adefce00dd6246b38d029d8c9f5e9387&hash=A9CC13102173CB1318A079F535E28759",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/02-kitchen.jpg?as=1&w=494&rev=078a6ea71c1d46bdaf079f3465852b41&hash=68F4A61E545697D99475C4418E421D24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/03-kitchen.jpg?as=1&w=494&rev=909aeaa96b9d4cad9658f4f67b635693&hash=9EBBF2293E560B2DB6A14CB442FA20CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/05-kitchen.jpg?as=1&w=494&rev=70f7e8d2016f40ce9c0c759668c6b114&hash=4DF44DAA332B74F560CB2DF50DB9E7B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/04-dining_room.jpg?as=1&w=494&rev=fb0187447be7462e81b1e623855a58c8&hash=5D743AD715418F4BEA5B3E0C10DF0085",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/06-family_room.jpg?as=1&w=494&rev=14bd1083a6b445f6b2dfc61aafbc137b&hash=7398ABBBDBE8A02954F003DD77707BE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/07-family_room.jpg?as=1&w=494&rev=627b4a6808bb43f3b8cae46923ce5d20&hash=6B1E4EDA93BA488923A70EFBBA1AF5E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/08-primary_bedroom.jpg?as=1&w=494&rev=a87294c417534de69adf6f4a970ca78d&hash=F9A55B258B873AFF72159C4211150259",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/09.jpg?as=1&w=494&rev=4a81fe39e5034009b44107d924a18877&hash=8E9D70551CBA6AE198F6680E4017F600",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/09-bedroom_2.jpg?as=1&w=494&rev=c11d67e87bf147abaea7ea015f8b4d68&hash=4B0B377F339522916F803105D23298FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/10-bedroom_3.jpg?as=1&w=494&rev=854cc70800cc4932807baa4cbdd96c47&hash=3A3A6A6766E5207701E0D0B2844B55CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/11-bedroom_4.jpg?as=1&w=494&rev=4704dcadef2941faa5306364a3308e79&hash=64704E64EAA482C12337A021CFAD7F5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/12.jpg?as=1&w=494&rev=184341ac97cc469a8e317f891bdbd3a0&hash=427F91DA6259FBFD404EE1FC443D1CE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/13.jpg?as=1&w=494&rev=3240315a4d2c44a7bfbead52f32e246a&hash=0EACAD86AEEE4E715415778B1A0E456B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/14.jpg?as=1&w=494&rev=b963999399084191981a233dee11c70a&hash=61089C5E8E69640AFDDC165E19077D49"
+      ],
+      "name": "10714 Hidden Banks Glen",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10714-hidden-banks-glen",
+      "id": "10714",
+      "address": "10714 Hidden Banks Glen",
+      "price": "$335,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3emb/0051-10714-hidden-banks-glen/harper-elevation-c-siding-accent2.jpg?iar=1&sc=1&thn=1&w=425&rev=adefce00dd6246b38d029d8c9f5e9387&hash=62EB4524C4CC7A6A245C3E92657B7676",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/allex-elevation-c-8ph-cs6-siding.jpg?as=1&w=494&rev=f194747ed4944cbcbd69e39c023bc2b3&hash=A7C939736BD14CB31BF087B69F877A20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=071869ae0116427a87d1482d3b297a66&hash=A12CB06E6A88AFE73284A1BA9380A3AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=6752b47f7f144fbd984f8e7b4fb57ddb&hash=6BA8C7A9D40E2315F78F8B5921F6C9C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=0d300b38a72b4eec8f3408a292545f51&hash=8FA6B1A49558D223F50F3D0929D6E6A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=4870b6331e9c4aa2b1cd3dfa04ba9a85&hash=43D90789F32CAA25B2AEF7A2209BEA01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=7fa687481310491f9054999283f86c96&hash=5E86CF6C1B7337910C3E99850F40D05E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=f4e94c62ce8d4989b76a9d97a27a9db5&hash=E9B7756F3491E86CF95A4B5CA7D11362",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=8a6fc333b4ed47359dc507cbadf19a4c&hash=8C175542FBBC9DD69F769547E6B0FA41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=d736e4f74c9a4d14b3c9a4198652565a&hash=5BAA1EE4F7C1AF77CE69364100C3CEC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=46cc97223675483a9f89a36bc7df8de3&hash=9B061791437EB0FD2AC6A4EAD27E1831",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=5a850b55636c4612b055db6210dd192f&hash=03C631B7C5DCDF94DC6A9C4B2F0BBF5E"
+      ],
+      "name": "10718 Hidden Banks Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10718-hidden-banks-glen",
+      "id": "10718",
+      "address": "10718 Hidden Banks Glen",
+      "price": "$320,250",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0052-10718-hidden-banks-glen/allex-elevation-c-8ph-cs6-siding.jpg?iar=1&sc=1&thn=1&w=425&rev=f194747ed4944cbcbd69e39c023bc2b3&hash=D7F6AF077961713E6F22D39DEBB8AF31",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/02_elston_h_8ft_cls_nogrids.jpg?as=1&w=494&rev=7af93a198e6d424ab878ae448590cf5a&hash=B228E7AD4FC3158AA8D98DF289A4E12C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/006.jpg?as=1&w=494&rev=2f667f0ec986426398a1def069507712&hash=9577FA9B22A991CFA8E1F60FF7538958",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/007.jpg?as=1&w=494&rev=a17e66976a55417ba3ac32f8b8d7b361&hash=BF881F0896E1CF946881F2AD3A09E4EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/008.jpg?as=1&w=494&rev=ef8233ff3a3344abaa91a63d95ca5b18&hash=8A497E3CFB8FD05D0A0C38DCB96A268F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/005.jpg?as=1&w=494&rev=b528b0b6e69a40ab87e509fc4f377c3d&hash=FEECAEDECB738D0CCC258212508A77DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/004.jpg?as=1&w=494&rev=ffe2d93466c74a6389ee2605aa860f4b&hash=D68BA8D2FCFBF9A2FA2758E6C526BAC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/003.jpg?as=1&w=494&rev=c8187cd31cba4d5c9315d14bab76f488&hash=EB40D440ACD7D852E0C7A2A47E3B142C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/002.jpg?as=1&w=494&rev=11a4ca9e49cc427fb308d435a9ce513c&hash=C321DABE9064750D2C553EF6EF03394D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/009.jpg?as=1&w=494&rev=639cc1b0a2784259a7937543222e62f2&hash=694194F48D58D71946A52D64FBD2A4FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/010.jpg?as=1&w=494&rev=5b85bfc6f1514a8dbf6c45e9eb0ed29e&hash=21FBFF3045F216F8FC6CDA0AA1F95469",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/020.jpg?as=1&w=494&rev=cbfab0aa8fae436c9d562ea056bb72b7&hash=EBF5D2DDDDE314500D671AE4A7371BFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/011.jpg?as=1&w=494&rev=3bd92b95f5b74fb397e9c94ac4745c9d&hash=025837280B96CC55594C363DD5397D08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/019.jpg?as=1&w=494&rev=2745587c9cad426db7e0b2d0a085d63e&hash=04949A55C90F83288E4980097D7E5266",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/016.jpg?as=1&w=494&rev=6b8b3775ac7445b081d596c1a3a7fb34&hash=4E6A2ED72EF8891A91972896AD5644A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/012.jpg?as=1&w=494&rev=b6473630be8c4561a2c52e08fc512c46&hash=72DAFE0159EC2A01EDE9B7E6022CF0FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/013.jpg?as=1&w=494&rev=fea8557afd1e4e12935c0d9c3ce2316b&hash=21D74BE8339E1D9F09CF2B967D5326AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/014.jpg?as=1&w=494&rev=344c1a3047254c4fb762ddf925c43bab&hash=F37DA043E614D62C8A0DA106E1763FDC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/015.jpg?as=1&w=494&rev=9d0f3038551d4168b3423fa10af22516&hash=4B57199CE4B69450AC3CF534AA4A39B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/018.jpg?as=1&w=494&rev=f431d968b734477e955f179c696ab8b2&hash=FEBBF164A7D08D1C1786ABA6ED025A91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/017.jpg?as=1&w=494&rev=8f5e32a94b56433bb14e0995276105a6&hash=4BB0FE83BA03AB11DCC2F722FE5621D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/021.jpg?as=1&w=494&rev=1acb82c76d304eb7a78df36e1da4cb6a&hash=1C8605213DD0432F5D251A91F731B573",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/022.jpg?as=1&w=494&rev=82ad3fe0be85494eab0f2d5e60bbea12&hash=6AFD3B84C5FA0D2F1CF89E97678DB11A"
+      ],
+      "name": "10721 Hidden Banks Glen",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10721-hidden-banks-glen",
+      "id": "10721",
+      "address": "10721 Hidden Banks Glen",
+      "price": "$378,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0025-10721-hidden-banks-glen/02_elston_h_8ft_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=7af93a198e6d424ab878ae448590cf5a&hash=00745F20AFCD6F97CDC82201E1C50A8B",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/01-elston-g-8ft-nostone.jpeg?as=1&w=494&rev=a7e5024a2a834afba59c2d18f9882e58&hash=454902A10D96CC1A85FB6CCE2472A69D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/006.jpg?as=1&w=494&rev=20ef6ed12aed46c49380f6ec34ac9bd8&hash=13E54123193E3EA1FEA304D27AD8AD6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/007.jpg?as=1&w=494&rev=0eb5e08f63db49fd8ba2ee812ad92c94&hash=8A7AADF3FEC3B5C4DD2EC12E1BE574A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/008.jpg?as=1&w=494&rev=7f385d0ca4e24a8b9ca1644eeb748812&hash=4D8BCC02B26E05EE45B4D901155F6F00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/005.jpg?as=1&w=494&rev=64bfab1a524c4ecb8a51cce350e9e327&hash=2E6D75B650F256E5E9AF9AC5778D96EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/004.jpg?as=1&w=494&rev=a01d0d2a69264d18b279175523fea6be&hash=51DF050E5FA31BC752DA47054F5AEE8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/002.jpg?as=1&w=494&rev=dfd4c43d7d564af6802a4700738840fe&hash=C30E2C923BB848AA32CB0702E5322D6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/003.jpg?as=1&w=494&rev=9871c670d59a46139c5f4c342a85a0d5&hash=084E3BDBEA0D7A753A29575E4DE39B64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/010.jpg?as=1&w=494&rev=9d6425dd9cfc4826b616e2e4927ec355&hash=607473A48BC719F40EE3E626BCC5A0D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/009.jpg?as=1&w=494&rev=a0fa4d7dce8a4c6ea1743aee9d47d27e&hash=6A5082DEF131B4783D38356C03A77446",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/020.jpg?as=1&w=494&rev=fd8c0f850e774826ac30f253023845f4&hash=2AF5EAFD4A800139A123BA57085C5D04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/011.jpg?as=1&w=494&rev=19e16479462943b39649a4af78b4f1fd&hash=8A7D0DB1C64FFA425D1F64D874E99A14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/019.jpg?as=1&w=494&rev=4b0afa6c4c3648b7a143d21d0c55b062&hash=D100CF9EA979020400B6C88FB750FA26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/016.jpg?as=1&w=494&rev=c28ecb2944f74d8995d2b779874e7e00&hash=32A095012F1169F441E1C7E04C87AFF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/012.jpg?as=1&w=494&rev=78ff4acef9504342a94d48214f05e41e&hash=72F69467308DBC53EF2819BCAFC7F07E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/013.jpg?as=1&w=494&rev=dc259dc1519549fc9bbd1f51f420766c&hash=FAC5A0C42F39701EE61C5722E91F84A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/014.jpg?as=1&w=494&rev=99809755246b4a18a0c56ed1fe333aad&hash=947FD663743088A61EDA5D6282E3A37F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/015.jpg?as=1&w=494&rev=3f23d2c60a934ccf8cb99be3ddfa0740&hash=62EE43075696DECC627669DE5BB9C757",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/018.jpg?as=1&w=494&rev=c69b9cb8aa294a118d2150f9dade6765&hash=2C83478B8906220EA6C99139E98C7570",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/017.jpg?as=1&w=494&rev=55560affaa5b40fabc56a45e9e2ce06f&hash=9A9946374A6B9B5943A137786C1A4FD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/021.jpg?as=1&w=494&rev=74cbc0fded804202b8ba4dd0de131bcf&hash=158F339982DAD2A6AD30F4229039FCD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/022.jpg?as=1&w=494&rev=81b1675c1a33410cbe4da60ef80cbaae&hash=5B8ACA47F7A4EA10AC096E2E2AF88DBB"
+      ],
+      "name": "10722 Hidden Banks Glen",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10722-hidden-banks-glen",
+      "id": "10722",
+      "address": "10722 Hidden Banks Glen",
+      "price": "$376,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0053-10722-hidden-banks-glen/01-elston-g-8ft-nostone.jpeg?iar=1&sc=1&thn=1&w=425&rev=a7e5024a2a834afba59c2d18f9882e58&hash=5BBF84B4F72F88CEE0F483790217AD86",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/03-allex-d_nogrids_cls.jpg?as=1&w=494&rev=b59f80c2947c4ea88e88db699b1cb94b&hash=89322C3489BFACEA20B2F3B614F57C45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=96841c3c22c14ba7adcbcf5660679fb0&hash=0DE34D9D3F20AE2C7A742483DC884C67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=13e082073c9c4832b419ce8ca655e426&hash=25EE556F3FD2F91BB529F546D9837BA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=2a9f8449630b4c5a896a613db39d7633&hash=60D6F7F1499774F042D519773537CDEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=f7fd3c766923435db8839cacbc100a31&hash=3DA38E428B4F5D564E6E7EA1AB5865DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=11d0148166394dcdb3a28e19017e1ff0&hash=F79D81EDD95C257D0A2FC03BDD3A088C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=5d00e9cae634437397d2c4b7cc6a4fdb&hash=76E56257007B8FFADE3646BDA7ADD4AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=d0fc146188324b33963eef613c5a7c24&hash=5AEAAD9460E32E8197FE36E53F6F4D98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=89d2ccabc8174d0bb8010da26162415b&hash=EA9B7D51759C109A622A7C0590732E19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=8e189fc2a44e48dfb3a4ed644434144b&hash=A107A3244756B795F5F9D565919516B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=966e8f92d65b4db09502f7955752f398&hash=90224E31C2F2276C8028F3E790F49FF1"
+      ],
+      "name": "10725 Hidden Banks Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10725-hidden-banks-glen",
+      "id": "10725",
+      "address": "10725 Hidden Banks Glen",
+      "price": "$320,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eab/0024-10725-hidden-banks-glen/03-allex-d_nogrids_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=b59f80c2947c4ea88e88db699b1cb94b&hash=0F7B07DEDA27D958636A4DB93F9D51BB",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/02_elston_h_8ft_cls_nogrids.jpg?as=1&w=494&rev=e3529f05b0c14a24bc133a44c18c2499&hash=7D619F736CAC126A65F6EEB1AE368859",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/006.jpg?as=1&w=494&rev=65252bd216534093951f651d18b3f86f&hash=26B9B2FAB0AB3ABBBCA464970F34CCCA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/007.jpg?as=1&w=494&rev=cb6db201a7ef4be7aefad9c958838dae&hash=FF4CD1E5B211452C49A7A38CDEEA05BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/008.jpg?as=1&w=494&rev=99d1c4ed3542405abc82a92d1032e99a&hash=0A82262FC82563531319DFDBB9F49B79",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/004.jpg?as=1&w=494&rev=aac28f1516b04f59b59741418ee11f3b&hash=ECB72AF986E023F7829F194BA3CBDF83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/005.jpg?as=1&w=494&rev=e5bd941194c64175bda6d86f570613d4&hash=D2FEFAAAE84D16F1C28AEAE79019B056",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/002.jpg?as=1&w=494&rev=20e214d5805d47d885eba06a219d46fb&hash=3A173EA7438BA0C35D0C61099E9DEB50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/003.jpg?as=1&w=494&rev=d42fa4437079412da605d70f704a6ed4&hash=3E0A7D8EB43BD1D9D54126D1B56CC05E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/009.jpg?as=1&w=494&rev=19b813db901c489c9eb677509e0c2a3f&hash=ACECAE881D93CCD315769D270F5615F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/010.jpg?as=1&w=494&rev=add621ea328d4e96affa53fcf3367e87&hash=B71E4D4F25CBE9B29DBF545B68936065",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/011.jpg?as=1&w=494&rev=094667584fd3439a919bb1e23e7e9b0a&hash=F89327F70EFF2AA30B292906DA25E7B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/019.jpg?as=1&w=494&rev=ad9636ac148c4dd8acf86a321c5199ee&hash=733DC18AAD8CEA058A7E474063F24915",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/016.jpg?as=1&w=494&rev=e01de533366a4aa6a5f8826fa4d3d7b3&hash=D67826E817E9BC8F67894929561B4215",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/012.jpg?as=1&w=494&rev=6c017ef3e26c414f9909a5909b789bef&hash=CC289B6299E6DE8234973A9C4C3CD2E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/013.jpg?as=1&w=494&rev=8e199547a2a74be18fd071f52ecf1194&hash=569A9269F11CCC566EC29D742A8D040A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/014.jpg?as=1&w=494&rev=288eb2506cdd4de691d6abb327dd6410&hash=E1D1ABE4D40C2873192CED08B0698271",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/015.jpg?as=1&w=494&rev=6a1cf9777dd241febb2a3d94e9b7eddc&hash=0D55F8DDE8B3AEAE70C848C2AFC166FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/017.jpg?as=1&w=494&rev=7427e2a8b2014568a39a843e1bb4098c&hash=0633A729262137303227E5753B574050",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/018.jpg?as=1&w=494&rev=ea95b59c9afb44d2a85d8877e8ddd565&hash=155402CF186F0AEA5F85DA74AD9818D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/020.jpg?as=1&w=494&rev=c0918de91d1242d8b95efb5dcfb5a114&hash=11B473CB86EE0BB7FEF67A2E6B36EA08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/021.jpg?as=1&w=494&rev=b202224f85c94fd48231ddfd1fe63337&hash=662C9F792AD1324E209818634A605A29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/022.jpg?as=1&w=494&rev=ed978b12b688483f943453c1b12be61f&hash=7AA34BE710D1BF207D82DF6977F17352"
+      ],
+      "name": "10741 Hidden Banks Glen",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10741-hidden-banks-glen",
+      "id": "10741",
+      "address": "10741 Hidden Banks Glen",
+      "price": "$385,000",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397100000-oakfield-lakes-40-exp/3eeb/0020-10741-hidden-banks-glen/02_elston_h_8ft_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=e3529f05b0c14a24bc133a44c18c2499&hash=97998DAF1821E8BEB2D7CDA95FB9D96B",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/aria-elevation-c-8ph-cs6-no_grids.jpeg?as=1&w=494&rev=b5c791b2725742a3bacebdaa58e0e694&hash=CAF3D856F7D29791CB48705A28A18AF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/02-kitchen_dining.jpg?as=1&w=494&rev=d1d38b69944f430494a61a480b3632a1&hash=9B56F8F9B4DBE60CFC1075723CBD5132",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/03-dining.jpg?as=1&w=494&rev=15b625f40cbd4924b6b5b343866ba167&hash=FAA617A9777987E42757D3DC044CF0FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/04-great_room.jpg?as=1&w=494&rev=9153ba9cb3a24f87bed5c64582017abc&hash=B2A6EE477684359A9ABA0030E87B0E3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/05-great_room-entry.jpg?as=1&w=494&rev=d829b25e988e49b9b32ac35df2220a9a&hash=BAF8BF287A0AFF6A911A812F27DCECDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/06-bedroom_1.jpg?as=1&w=494&rev=ce6b1b05dc9446db8c2415a1780e4f66&hash=95EA7806949445B21A7741EEFEA93554",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/07-bathroom_1.jpg?as=1&w=494&rev=8320fedfa3464fe9905b8280a04c2cec&hash=DBCB49213D0DE8771EAAD7D752335BFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/08-bedroom_2.jpg?as=1&w=494&rev=f222fcea487249c8a3da79ef3dd3ed79&hash=0CD96B6D332C01A28D9CD154166F6A57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/09-bedroom_3.jpg?as=1&w=494&rev=eda4cf1f3b8842de87798cb51ee43eac&hash=07878E7FEE66BB5B82FA1C373E6ECBD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/10-bath_2.jpg?as=1&w=494&rev=d6399c26844d43fa9eab0ae7e2df61a7&hash=B74097B078F492C239779C0240ADBE5D"
+      ],
+      "name": "10820 Gentle Current Way",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10820-gentle-current-way",
+      "id": "10820",
+      "address": "10820 Gentle Current Way",
+      "price": "$358,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0070-10820-gentle-current-way/aria-elevation-c-8ph-cs6-no_grids.jpeg?iar=1&sc=1&thn=1&w=425&rev=b5c791b2725742a3bacebdaa58e0e694&hash=EC95D647746F97C7FA1124D99043343F",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/aria-elevation-d-8ph-cs5-no_grids.png?as=1&w=494&rev=6508f1069a1e43e589fbc2531e203eca&hash=AD52F2BF6B8FFEAF58736CC1CDF7EF93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/02-kitchen_dining.jpg?as=1&w=494&rev=f950718d9b54434488fa6675f1e0c27d&hash=E448D3CF2BC1DAC00F71E7B02D22A041",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/03-dining.jpg?as=1&w=494&rev=651894fea0be42b490ec1db39e55db62&hash=3D4988A9C67EDC2BCC0D40AA65CC4E2C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/04-great_room.jpg?as=1&w=494&rev=d98c767f52ec4f6499a3642bd37f14b5&hash=84A3E456782B1559EA2EEA14BF0567B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/05-great_room-entry.jpg?as=1&w=494&rev=6849ab99c712433bb40c0c8ccaa4ab65&hash=88228182973A7BD1979DD92001517F51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/06-bedroom_1.jpg?as=1&w=494&rev=471de7cd96dc40d9b183425aa39595a3&hash=C90A446650C64B2BC2AE55E57811E679",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/07-bathroom_1.jpg?as=1&w=494&rev=eceef3420eda4966b1e822e3fba79f3d&hash=808D49887F0A700F8EA982E23EC6DE0F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/08-bedroom_2.jpg?as=1&w=494&rev=06718177b32c42baacff157f2cbdbb72&hash=6620DF234D16068BF4B8B66F06D029CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/09-bedroom_3.jpg?as=1&w=494&rev=f2efe6eb8ebf46dfbf8699aa2682f48c&hash=D874B697146400626E5C6FA4281FB135",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/10-bath_2.jpg?as=1&w=494&rev=2cfa24ca4f6d4d2db4a2ecd6ff98b44d&hash=196A6C9F40A21EDB6837296354B60F09"
+      ],
+      "name": "10821 Gentle Current Way",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10821-gentle-current-way",
+      "id": "10821",
+      "address": "10821 Gentle Current Way",
+      "price": "$353,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0015-10821-gentle-current-way/aria-elevation-d-8ph-cs5-no_grids.png?iar=1&sc=1&thn=1&w=425&rev=6508f1069a1e43e589fbc2531e203eca&hash=92E63B6D03A984B769DC97C5553D615A",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/fl_drh_tpas_manateesarasota_cali_8ft_d_cls.jpg?as=1&w=494&rev=c0b3402aed94477aa1e5a6dd20ada90a&hash=CD171485DA6D84DD4359BF038F1C7537",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/006.jpg?as=1&w=494&rev=5476abc7f6c14c9e9a2a287e1235a722&hash=9A6FE8B490BD7F23378E3470ADC0185F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/007.jpg?as=1&w=494&rev=60572c8bd2374fc090b187e03d56ac3d&hash=2FB9093B9F5E42C8BDA23D1C1A150C30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/008.jpg?as=1&w=494&rev=401f4447d7214527a87ef138096f77e3&hash=69F87B6EB9AA06DE34449654F29E5654",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/003.jpg?as=1&w=494&rev=1b1093df432f48eea2638820ebe4497e&hash=0C5E6B2933429E293AE91FD28193AFE6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/009.jpg?as=1&w=494&rev=4591d2c05fd1499e8224b5d8adf24e3d&hash=A9BAF0C0B28DFF5EFA1511929C15C902",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/002.jpg?as=1&w=494&rev=cce81bbd88d549938f021229a3853f66&hash=BD66E131159BB99AF2FB42D1633925EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/004.jpg?as=1&w=494&rev=fd6a2182e6eb4af2a9f10037b89c2a9a&hash=14D3FA17F51B1C1F6406EEACF0CE1833",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/005.jpg?as=1&w=494&rev=fe7ec918144d46b3af4f94fa083e5160&hash=46D3E75E681438487C4048C97E1C6777",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/010.jpg?as=1&w=494&rev=1523165132384002b235fda721232291&hash=2E9FD8E1AACF9823E56D607A3544F55A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/014.jpg?as=1&w=494&rev=1d23aa7158b4429fb5202f9828d06442&hash=4291813AD5B5B1B4D1D3DD6311ACBC7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/015.jpg?as=1&w=494&rev=1a5e9dfbec4840e68511494770b8d2c8&hash=AC7883C178D9626E6F5D48FADD006D2D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/016.jpg?as=1&w=494&rev=04c9a071a8dc402a9c6158727850b8a7&hash=5EDDEFEFDA900CAD9AC33BE925CE6D4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/011.jpg?as=1&w=494&rev=3124303e57ce4079b241bad5b1fe7d66&hash=ABDE530B9EB8B8EB44D898102CF8F2E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/013.jpg?as=1&w=494&rev=96020cf8950a4661b4436039f2a1c570&hash=445A5FD64F46CA3523B4C9F80C76EE41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/012.jpg?as=1&w=494&rev=61b1b5be557046aa9aeb3b09a643576b&hash=1E1A0ED1F6F4BA9845B1DB80DE955C80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/017.jpg?as=1&w=494&rev=6050818cc41a4879a020cf03d36d4ada&hash=E2373DEADBC0995D43675C77C6154E49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/018.jpg?as=1&w=494&rev=a73325328e004e36bef5c9da2410ee92&hash=67DE9F5B7A9D4E36422208D710C3FC1F"
+      ],
+      "name": "10824 Gentle Current Way",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10824-gentle-current-way",
+      "id": "10824",
+      "address": "10824 Gentle Current Way",
+      "price": "$377,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0069-10824-gentle-current-way/fl_drh_tpas_manateesarasota_cali_8ft_d_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=c0b3402aed94477aa1e5a6dd20ada90a&hash=B67951981D42C629BEC821E094323756",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/hayden-elevation-g-cs6.jpg?as=1&w=494&rev=915de55f8a4742508796e26b4a2b9fc8&hash=9ACE7FC61EB1E405A27926D7368AF569",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=7c5e3011a12f42cfaab7b5e6b75a8dc4&hash=08FF2F013258146958F6CE50B4F59A31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=06295a8790e5484f96e0a3eb1ca5533a&hash=F6AEB720FECD77325A5FB6209F392934",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=051fc6baa78f4f6dabfdfa354b434575&hash=1EABDEFC34AF981CE16BBB4DAB519E62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=5f17ab240059436da6d9a6f30264ea3d&hash=E20EF5EE1735A21775C5E670108A143A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=b60c138ed48645f79075ae715a4d78b7&hash=84C71256D51599BDDE6E8340FA07EAC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=b4af9540e8724018af73611ff607aa58&hash=E24246DF245548BD86077043E4B2C51B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=fbfdc5080ba4487c9afe017e6ea20043&hash=A1EA43A2EEE4100A6D2CB902EEF7E355",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=7750875bb1da4e35a0e0b676217aad17&hash=30E8EFB2C9B587AAB26B35037BD2BE83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=3c4332a87ed040f38ddb1bee102ab472&hash=F77F990B1BF5FF84EFD6611B938348A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=93d2b6f2a0fd46408183ae13050daf66&hash=1A009311EAE0D61097FBC61EEFD4785C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=71e277e08ea7435aa3f94523ec3ae898&hash=3248128FFC1AF6B49F93C8C4B66AE146",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=1fb21a9780f44ac5a6178673a99b65b9&hash=B7A18970A3BA49D46DA2A4C327910574",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=cd4fd630246f4720a0276fdf6cea81fa&hash=B6A141554706FFA6CA7D2D53DBDFA09A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=ccb7b632b9fc458c95df1eda5fb43308&hash=AF6306B693E22E18395CB20BBB8391D6"
+      ],
+      "name": "10825 Gentle Current Way",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10825-gentle-current-way",
+      "id": "10825",
+      "address": "10825 Gentle Current Way",
+      "price": "$408,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0016-10825-gentle-current-way/hayden-elevation-g-cs6.jpg?iar=1&sc=1&thn=1&w=425&rev=915de55f8a4742508796e26b4a2b9fc8&hash=480B1FDAFDDF1A9206805C7316479C04",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/cali-elevation-c-nostone-cs4.jpg?as=1&w=494&rev=14b720d0f3fa4b4e8663ef79a6dc9ce7&hash=C35E2812B9EA811922B82AA5FA74C87B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/006.jpg?as=1&w=494&rev=72553f57f674458299e9372fc49f141c&hash=7A7D994F6B982ADC606163C73874AAA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/007.jpg?as=1&w=494&rev=d1cf0b67f70844ee8e2f6ab626ee9dad&hash=22581D6A2633459A018C31D603459987",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/008.jpg?as=1&w=494&rev=5aeec20aa5344d8f9ef262b426c509d7&hash=BD88106B03D96400A96F22B85ABBFEC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/003.jpg?as=1&w=494&rev=7f4b27b0d74b408688b362be1800acd0&hash=EF11D1954B4721F92D89E24091C378BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/009.jpg?as=1&w=494&rev=d8d9c59903a04e7d99a36240b18b71df&hash=BEEB0D969BCE8F3FE330D1F8262783A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/002.jpg?as=1&w=494&rev=d04615c8cfcd4c1db55644ec534056dc&hash=A5EF918ADD6054492ADD1E4C3BE03514",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/004.jpg?as=1&w=494&rev=3ecfda910f564944997da0b2d9a10b1a&hash=05D4F7A480AE768CFA442E702B93982C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/005.jpg?as=1&w=494&rev=d67d7ca3f8664513b19a393f932e340c&hash=A0D61993D2DBD603ACB0323C92AE0AEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/010.jpg?as=1&w=494&rev=7596535b0f284f1aa409b6e49142caa8&hash=7CA4A60E3795380629721E0FB14F999C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/014.jpg?as=1&w=494&rev=a34e8684f61c40ec9d5dacfaea486307&hash=E29F3B29955A1E9479C493A457E69CB7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/015.jpg?as=1&w=494&rev=00574666d2f2437aa9a6e437a35d11f5&hash=0C552AFAEEB6C6833B6B2D7CE4F575E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/016.jpg?as=1&w=494&rev=81f0017651dc446bb2081b10ae84f0b7&hash=EA01D0504124E2BBE9DC42EBBF9D8429",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/011.jpg?as=1&w=494&rev=4a718e591e9141b3986c17f4753a0d48&hash=0FB320F6C6425821A3C1CC9DD6DBE06B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/012.jpg?as=1&w=494&rev=e93532ff8d9b49a7a8f96fc6c8d6158f&hash=CE5C5942C7DF0A906FE5B7E983EB004E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/013.jpg?as=1&w=494&rev=e9af7be88ede4e0fba25e0b3023ab4ac&hash=14300F8B1A9EC43EC043C3116F61F5A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/017.jpg?as=1&w=494&rev=3f9f18293b334f10b025551915f0d5e5&hash=E060E182E83A9AF81A104BDBBD7A1BED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/018.jpg?as=1&w=494&rev=7cf302df4b2e4569b510bcb821c59aee&hash=8586BE75E0B2AD8D51561F65C1C2D524"
+      ],
+      "name": "10829 Gentle Current Way",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10829-gentle-current-way",
+      "id": "10829",
+      "address": "10829 Gentle Current Way",
+      "price": "$376,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0017-10829-gentle-current-way/cali-elevation-c-nostone-cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=14b720d0f3fa4b4e8663ef79a6dc9ce7&hash=97FF6E62929F3C51C5FDA77FF4F6335B",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/hayden-elevation-g-cs6.jpg?as=1&w=494&rev=2e61d1fca1154e01adbd50cc1b441cd2&hash=83CE77CD03F28FCAE9EBA70155CAA43A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=e742382c38cb43f3b63e008b08795d75&hash=C7B0843E5E95218936E3F7AC413A0778",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=2f7c9ab4bae849a580ca63bcd017bd58&hash=549D8AF0F4BB6C85702524D5F4483BFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=5e18a97950a440e5b775ce3313e49ce0&hash=11D59C38319668E2CB7271DED470BFF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=727727e643a141678c9ca54c9ddc0d75&hash=A85B80A2014FEB9ED16DFFE2E1E4A46B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=8966ac99ce074470a904068cbd9e1458&hash=4B3F4D24ADAA38BB4190711E56AABE02",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=e584a6bdc939438aa59f5884f9ca7533&hash=82387A67D35E57C8E250136E839CA7F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=5d089c088af34d80a857e1f8d0fe1eb3&hash=1898939425D2944B67848A29977F3F23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=802942f84c96495197007ae80b45e7e7&hash=8792901C58EB3B0A96F612645D65A8FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=2740880764124e55acafec25bc18238d&hash=162882480F0FEE653AE653BA8C8D9AF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=c7dce9b0105d4a0a880a5f826478848e&hash=917FC53C4B6D855BF3CE7DDCCA355800",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=a545df3550ad4fbd9fd255e1c37df462&hash=996273301501853DC9DC83DBB8788120",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=25ba0948d26a46ba96f8777ca4e948c7&hash=B8BCCAD28B7F2AD9F03A7688EBF03EDD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=295610f917ab4ff29ecbc09988e9e9b3&hash=7DB143507FAD941ACD36ECEC141B5785",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=fc018348169c4b7eb7bc0c29bdc921a7&hash=591A1CD45B40815371F1E2DDB5C0CF49"
+      ],
+      "name": "10832 Gentle Current Way",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10832-gentle-current-way",
+      "id": "10832",
+      "address": "10832 Gentle Current Way",
+      "price": "$410,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0067-10832-gentle-current-way/hayden-elevation-g-cs6.jpg?iar=1&sc=1&thn=1&w=425&rev=2e61d1fca1154e01adbd50cc1b441cd2&hash=EE19B224E6D71FD6006310E9F09D42AA",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/hayden-elevation-h-cs8.jpg?as=1&w=494&rev=924cd7ae8e6b4e37a0512125a81a2aed&hash=23845C762F316D288313000C926FDB19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=cb85a6737bf34092ae6cdfa8c5a22b5c&hash=BFFBFF0F57B37928725D5934DAF1AE98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=790335b74f15439cbbe80259b702edee&hash=A85307E6AF999FE9EA3E42A98BEA4325",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=daa89823743941a58aa1fdf66252741f&hash=3D9D2A1373909E47D53A74B90A33D0AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=70f5c27f593f4be2a4f2e23da4fe52b7&hash=9200416D0AC4EDCD876B2136BD8BCC27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=2b1725777a59492fbbba67336ed85671&hash=4891C9B5DE1D2C1D0AD03EC09B9CF758",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=50c42477015744e9ba695d2d24dba42c&hash=F05CBD7F913D0BEEC9A3F5568B669B19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=f5241ffd100e4585a93f16fa91fb2d40&hash=9147DB42B0934B808181477FCB36EF8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=b815226a225648e197849356b3804ca6&hash=79102ED60200AB96C48C63FD45D4713C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=cfa824ef3c284b10aeb8fe3fc0a5b127&hash=6181C19F8772C16BC0FC29CFA4D95713",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=06020a86b64643dfa0995ff38309f391&hash=91470B24D835F1026E79A293CF584875",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=4a8d0e61de6744e7bc637bbe2eb780e1&hash=771DA95680CFBCD08C37A19506EC593C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=2679426efa7246beae0067497a509287&hash=0B43E374CC0AF9FAF58E339341F7582B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=7ed68bcb437749a9bf77d24a92476ba8&hash=08CAAC49CAE6F0DB21D56FB82BF67C82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=ca523e6c0ca54da98e8822849c26005b&hash=CC8690B5742BF6AA77159FF0613FBF65"
+      ],
+      "name": "10833 Gentle Current Way",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10833-gentle-current-way",
+      "id": "10833",
+      "address": "10833 Gentle Current Way",
+      "price": "$411,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0018-10833-gentle-current-way/hayden-elevation-h-cs8.jpg?iar=1&sc=1&thn=1&w=425&rev=924cd7ae8e6b4e37a0512125a81a2aed&hash=4E45B0091B5CA350FF417F1C4D6937B8",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/cali-elevation-c-nostone-cs4.jpg?as=1&w=494&rev=0571914ed3d94b94865ccb6086258112&hash=F26E679DBEA4EAFC4C3B761241DAC7E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/006.jpg?as=1&w=494&rev=dad4513bb3b3461c9d20ff3e27582768&hash=E6CDEE5C82EC571B1E37CFB5207D82A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/008.jpg?as=1&w=494&rev=1b55d64c4b964c5982876c288577699d&hash=3CA90CB9F60159B76179D9D5D6E7B615",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/007.jpg?as=1&w=494&rev=0d711d3d649646f29e50535a2810e38c&hash=EC044244067DDDE0CD12B12105D97FEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/003.jpg?as=1&w=494&rev=8942991174b14e5b9969ee382f73daa5&hash=21BF02E091BF88006B564BB9447812E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/009.jpg?as=1&w=494&rev=b95752cb76584b0791ad2e49cd79fd9e&hash=D3B27089A2052C505F948D4FBB15BCB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/002.jpg?as=1&w=494&rev=0b9c7e5859714ecb857d4057a137fe3d&hash=C02F0E6AA25CAB09AA09803CBEF660E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/004.jpg?as=1&w=494&rev=c3dbd969e82441e5ae9805e17e5c03b4&hash=C03D50CF66DADC77D0DE1F151A551EF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/005.jpg?as=1&w=494&rev=28207b7140ee46269a3cbd076bfaf8e0&hash=7C5679C89854A3FD9F07FA94E732EE1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/010.jpg?as=1&w=494&rev=7e0ce696d7f4419d81ec42d291803267&hash=FE1964278F4B549D97F79FAD0FAD3D5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/014.jpg?as=1&w=494&rev=00dc5cf1b2a5422e86fecc5603eca489&hash=0A1B5E40AB498179EFB910E7C370D22F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/015.jpg?as=1&w=494&rev=1dca4ab0da4745c18e31d74e8f6a16af&hash=59A431B44F0554E612F6E2ED4F1E45A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/016.jpg?as=1&w=494&rev=adab22e33e9d4c1aa8ab9b8da9b84b13&hash=726D5F6933B7D8997FB1A2A4785C0E7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/011.jpg?as=1&w=494&rev=28d1f7a9d87e420dbb7b9403cf734d0a&hash=B489DCD17E21AD5F7C0DF97BC9C60256",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/012.jpg?as=1&w=494&rev=6960955717954e40965f71c0399fcafa&hash=E3AE333AA276CC57D1B6683C74758CB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/013.jpg?as=1&w=494&rev=5e0d2c62098840b3aea943d9388e1d6d&hash=C86A90F13E68706C6F72353746097775",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/017.jpg?as=1&w=494&rev=c075c11f33484864969b712894263ffa&hash=45E3AFB6CAD83B2EAB4B5C81DA1CA203",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/018.jpg?as=1&w=494&rev=07ecf9eff89e416d994495aa4908bcc1&hash=D22BA12BCD3BD38CA90D4F26720C6FAC"
+      ],
+      "name": "10836 Gentle Current Way",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10836-gentle-current-way",
+      "id": "10836",
+      "address": "10836 Gentle Current Way",
+      "price": "$378,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0066-10836-gentle-current-way/cali-elevation-c-nostone-cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=0571914ed3d94b94865ccb6086258112&hash=45B96D98F83729D11B4DE0D6910C55C8",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/fl_drh_tpas_manateesarasota_cali_8ft_siding_d_cls.jpg?as=1&w=494&rev=45902ee44fd64e238d3e13086949ece7&hash=EE3E8EE35FE53D021C8D3B0733BFBAE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/006.jpg?as=1&w=494&rev=b558e216b22d4d449d39552d8008a37d&hash=085650B0AD0F3EF253C3553F65AADC53",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/007.jpg?as=1&w=494&rev=1a0ed5c1f6244f06b4ddf1214bfea241&hash=47F4A1E4BE2F2D0FD29D6934489BE763",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/008.jpg?as=1&w=494&rev=8ea004e405a644ef8cca1a73d360529c&hash=E434CB99D63A003971E58A8499CA0B60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/003.jpg?as=1&w=494&rev=756176271a6548bc82e3d4c4c9b1793d&hash=284BA704CCCCF20DCE3392D837CAC941",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/009.jpg?as=1&w=494&rev=200da8702b8d4c8e8509acc19add5f94&hash=1F40443C66C65D98C2127B9867800E04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/002.jpg?as=1&w=494&rev=a33af3eaca414ddab0256548e61352c0&hash=94387890E9F9189DCFEF472B8B47D691",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/004.jpg?as=1&w=494&rev=9b26218d7ae643e2b822184b3879cfbc&hash=5EBA24DD94CAB73A788AD85601BC2E5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/005.jpg?as=1&w=494&rev=30e5f0fee8be4852a998ce3ed01e3473&hash=AC96BF70A0EE48518F3CF0CF1E5779ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/010.jpg?as=1&w=494&rev=38208cf2f3544a9a8b70cd6117897e67&hash=9F79A4DB8DE53D2BD64DBAAAA6AC3B5F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/014.jpg?as=1&w=494&rev=88b9580c0aff475fa551ddfd70a49ee9&hash=A66B9F368B079DB95EE9045D790CB950",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/015.jpg?as=1&w=494&rev=7e711f1c2aba4eccb6302df358d99834&hash=04EFC6994A6D32487858F89A2CD82B56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/016.jpg?as=1&w=494&rev=400e129370e3424685ec78e14106c625&hash=1AE97130F398B6030A107DC204A7E6C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/011.jpg?as=1&w=494&rev=4e83b76a064041d19afd31773fb3b37f&hash=AA55C84E3BB83A3CB23D439CF980849D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/012.jpg?as=1&w=494&rev=3a25bd66e45346a2bcd92c6bb3a89300&hash=4FFD773F3E45FB9157381EDCE21D5F7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/013.jpg?as=1&w=494&rev=e1216d67894d4c92ae27cadf5b7a2b4d&hash=991B2DC016A52B48D3FE487A45BF685C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/017.jpg?as=1&w=494&rev=56fd052e7e31416e8abf1752969b296c&hash=8C052AAA53E4C03BEE4E389E259B175E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/018.jpg?as=1&w=494&rev=c6f350788c8b4cff830440bc92cfeeaf&hash=7A004723B4D3F0701AB2ECAE778BC2A2"
+      ],
+      "name": "10837 Gentle Current Way",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10837-gentle-current-way",
+      "id": "10837",
+      "address": "10837 Gentle Current Way",
+      "price": "$376,375",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ebb/0019-10837-gentle-current-way/fl_drh_tpas_manateesarasota_cali_8ft_siding_d_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=45902ee44fd64e238d3e13086949ece7&hash=5F4185C6EB36329C7EB75C7DBCE70527",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/hayden-elevation-g-cs6.jpg?as=1&w=494&rev=96cc103f97e64027a59dbeaf9372d264&hash=67A4E5EBCEC09D809F019CBB82EF98EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=53bdb07c160a4626b31e6e9e09a5345d&hash=884119BD4019F7549FB57DA2CCA852E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=46c67ba30e5e4d8eaecdd63d776eb11a&hash=549940ED15E786A745B908E093A41575",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=88f306281d1f48a7ba4093001848e67b&hash=6E8D52869A5ED0D6BB405C271EC4D429",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=32b9911025fb4ef1a89462ff8949decb&hash=B3999659CEE5A7BF1528051B12AAAA07",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=97a6b759652941ac88e0379e72615f76&hash=EABF130636C0D43588C6353AE40383C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=f451babdd9df46da99e9f27d0b32aeb6&hash=6CF1C4D5FA04C86ACCD9363E12B226AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=cea8cc20310542549414e3079aabbbde&hash=172901EFE9286C4EC3D9070C9B042945",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=f806dd32c8a24790a06b33a6ede4b1fb&hash=6109920D7FD92DF222A291E55D09132D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=d94ec62a3ec948cc84ac16eebfdcf48b&hash=2E4B00D9F26B36F731FBE46ABD8D62CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=d1603d48b4904ae2920ca6bb58555fd5&hash=2372E653A345BBD079266CFA82CA6139",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=8054e9e5373f4b839e4e9d430d40c104&hash=1B2F101EA57B61375A841E8BEC48B88F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=2af182545e2f4756ab56c8ea190c0ae6&hash=27200B556F065B2EB1D680119088DA52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=e64c0d4882d048ea94c8c01c5ce1b283&hash=E7424880D94CD149EF6FE141100D5ECD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=3bb8ebecd50f452baa6536583165f609&hash=23270F46EE920018116C58FB2FBCA7FB"
+      ],
+      "name": "10841 Gentle Current Way",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10841-gentle-current-way",
+      "id": "10841",
+      "address": "10841 Gentle Current Way",
+      "price": "$402,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4ehb/0020-10841-gentle-current-way/hayden-elevation-g-cs6.jpg?iar=1&sc=1&thn=1&w=425&rev=96cc103f97e64027a59dbeaf9372d264&hash=15D171C807CD01E249513880DAB8650E",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/aria-elevation-c-8ph-cs2-siding-alt-wcl.jpeg?as=1&w=494&rev=32c7eae457be4211b2af561c9cc8266d&hash=1B069AA43C2F0291AC7DC82E15475533",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/02-kitchen_dining.jpg?as=1&w=494&rev=84bb4b4392e7436eb361a770a6efe72c&hash=826F14A783ABB1D92FAD940B7C041331",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/03-dining.jpg?as=1&w=494&rev=6a4589683423471cad7588300fcbea23&hash=AB9961F6749E31EEF93DC9649E065BAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/04-great_room.jpg?as=1&w=494&rev=d6feefe649644a18b3745258c7c31c19&hash=FE43FB1348460D6EF178DD89AD6DBD9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/05-great_room-entry.jpg?as=1&w=494&rev=3fbe819a6fcc467aa5bc3c6b3f6cccbf&hash=F1DD579D14CDBD1163D2558B5799B9D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/06-bedroom_1.jpg?as=1&w=494&rev=7b3f75a4cf1f408e894c428a2f973632&hash=421DCDBF9357EC8223AC1BB0DFD48515",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/07-bathroom_1.jpg?as=1&w=494&rev=b1cd50b41e4d47edaee3307875830403&hash=E7047BF004826D9E97787E67A2DC0073",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/08-bedroom_2.jpg?as=1&w=494&rev=c63807b518d44fcd86cdbe50ec06ad83&hash=9C0C42CC75B15E87BF011B8998B0E7EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/09-bedroom_3.jpg?as=1&w=494&rev=9c9f42eae3a247dba834a260a8cbaff1&hash=ECF18F5413C1BF51B8869A7BE04772D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/10-bath_2.jpg?as=1&w=494&rev=276a4c7f40fe496ead9ee47d3b5764d6&hash=87D675C34DB0DA31A69C3D8E81EEDA2C"
+      ],
+      "name": "10845 Gentle Current Way",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/oakfield-lakes/qmis/10845-gentle-current-way",
+      "id": "10845",
+      "address": "10845 Gentle Current Way",
+      "price": "$349,890",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39710-oakfield-lakes/397130000-oakfield-lakes-50-exp/4eab/0021-10845-gentle-current-way/aria-elevation-c-8ph-cs2-siding-alt-wcl.jpeg?iar=1&sc=1&thn=1&w=425&rev=32c7eae457be4211b2af561c9cc8266d&hash=E477A6CECBBAB0C1958EFB762DF51BB9",
+      "latitude": 27.62661,
+      "longitude": -82.45174,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Barbara A. Harvey Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Buffalo Creek Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Parrish Community High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
-  "timestamp": "2025-05-29T14:48:12.712779",
+  "timestamp": "2025-05-30T03:01:50.303162",
   "name": "Cordera Townhomes Express",
+  "url": "https://www.drhorton.com/florida/north-florida/st-augustine/cordera-townhomes-express",
   "status": null,
   "price_from": "$236,990",
   "address": "55 Ayamonte Rd.,St. Augustine, FL 32084",
@@ -21,7 +22,7 @@
   "details": {
     "price_range": "$236,990 - $251,990",
     "sqft_range": "From 1,109 Sq. Ft.",
-    "bed_range": "2",
+    "bed_range": null,
     "bath_range": "2.5",
     "stories_range": "2",
     "community_count": 1
@@ -93,10 +94,8 @@
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0044-63-crisanto-road/01main_img_04.jpg?iar=1&sc=1&thn=1&w=425&rev=391b412d101844b3a2734e80c921a2d1&hash=8FE7988D6AF443508F3CCF2B6F094B9D",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -134,16 +133,14 @@
       "url": "https://www.drhorton.com/florida/north-florida/st-augustine/cordera-townhomes-express/qmis/79-crisanto-road",
       "id": "79",
       "address": "79 CRISANTO ROAD",
-      "price": "$249,990",
+      "price": "$248,990",
       "beds": "2",
       "baths": "2.5",
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0046-79-crisanto-road/01main_img_02.jpg?iar=1&sc=1&thn=1&w=425&rev=af71f8b6071e43a4b377497511576894&hash=5B732B0118A5C603C94452E3DB744CE6",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -183,16 +180,14 @@
       "url": "https://www.drhorton.com/florida/north-florida/st-augustine/cordera-townhomes-express/qmis/81-crisanto-road",
       "id": "81",
       "address": "81 CRISANTO ROAD",
-      "price": "$249,990",
+      "price": "$248,990",
       "beds": "2",
       "baths": "2.5",
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0047-81-crisanto-road/01main_img_03.jpg?iar=1&sc=1&thn=1&w=425&rev=4eac254703bc46e9bf4a7793493f006f&hash=D4C55C8030C22F48205A31AC8A765E56",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -238,10 +233,8 @@
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0019-84-montellano-road/01main_img_04.jpg?iar=1&sc=1&thn=1&w=425&rev=87c1a25020054236b605c80a480abb6d&hash=E00E9D8E056FF2AE4E7D718315999F3B",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -287,10 +280,8 @@
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0048-85-crisanto-road/01main_img_04.jpg?iar=1&sc=1&thn=1&w=425&rev=e119b53e4b46416b89570ab983154149&hash=C7BA9D9FB83E88DB443CAE54C8F2B74D",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -335,10 +326,8 @@
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0049-87-crisanto-road/01main_img_01.jpg?iar=1&sc=1&thn=1&w=425&rev=284685599ef64baeb1987a671335fdd9&hash=4201F4873FB9514880BA2A1C22F3EEF4",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -383,10 +372,8 @@
       "sqft": "1109",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33893-cordera-ths-drh/338930000-cordera-ths-exp/1109/0018-88-montellano-road/01main_img_03.jpg?iar=1&sc=1&thn=1&w=425&rev=5fe2f357ff644fc3bc74bf94b55e14f7&hash=95903B5C84FB02B837D76B17B4544ED3",
-      "location": {
-        "latitude": 29.84743,
-        "longitude": -81.36659
-      },
+      "latitude": 29.84743,
+      "longitude": -81.36659,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     }
   ],

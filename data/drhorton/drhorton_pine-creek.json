@@ -1,0 +1,288 @@
+{
+  "timestamp": "2025-06-02T13:44:42.131598",
+  "name": "Pine Creek and Heron Walk",
+  "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek",
+  "status": null,
+  "price_from": "$374,935",
+  "address": "338 Jones Homestead Road,Port St. Joe, FL 32456",
+  "phone": "(850) 600-4471",
+  "description": "Find a new home in Port St Joe, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/1-113_crane_dr_01.jpg"
+  ],
+  "location": {
+    "latitude": 29.77364,
+    "longitude": -85.28574,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$374,935 - $449,255",
+    "sqft_range": "From 1,799 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "The Delray",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/floor-plans/delr",
+      "details": {
+        "price": "From $445s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,044 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/1-web-or-mls-111_crane-1.jpg?as=1&w=425&rev=742ebf5a48db42a9963fd730a43b5f52&hash=1278A99E2DEEE02B8E7A2CF0FE132C5F"
+      }
+    },
+    {
+      "name": "The Destin",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/floor-plans/dest",
+      "details": {
+        "price": "From $465s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,303 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/dest/1-113_crane_dr_01.jpg?as=1&w=425&rev=a5a1b1d2fc664010b9b7f16eeb9946c1&hash=8D095F1741A6B74F862E05D7D9038ACC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/dest/destin-abc-floor-plan-1920x1080.jpg?rev=5129d3ff797242d28439c64336e10f82&hash=14C53D04B227D4B431457FEE1C31F1BA"
+        }
+      ]
+    },
+    {
+      "name": "The Kennedy",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/floor-plans/kenn",
+      "details": {
+        "price": "From $469s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,145 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/_0001_1-web-or-mls-302-jones-homestead-rd-1.jpg?as=1&w=425&rev=1d272a7964ac4da1b66bb0bd571456d2&hash=673652EB182204A6D73A98FF61F27790"
+      }
+    },
+    {
+      "name": "The Rhett",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/floor-plans/rhet",
+      "details": {
+        "price": "From $425s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/rhet/1-web-or-mls-298-jones-homestead-rd-1.jpg?as=1&w=425&rev=776f340753644389a69b67756cc8ddcf&hash=23048F4AA8DE390E2210CCF8572E2F08"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0007-108-walkabout-court/delray_c15__rendering_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=c6d75afcf4c3430b9e92884dfdb299ca&hash=C0FAD284084EA5F5063B41FF6F7B87AD"
+      ],
+      "name": "108 Walkabout Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/108-walkabout-court",
+      "id": "108",
+      "address": "108 Walkabout Court",
+      "price": "$389,255",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2044",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0007-108-walkabout-court/delray_c15__rendering_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=c6d75afcf4c3430b9e92884dfdb299ca&hash=C0FAD284084EA5F5063B41FF6F7B87AD",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0015-110-crane-drive/delray_c15__rendering_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=60e8eb9caac64b3c8fe4818983196aea&hash=A8984975F6FB7000EAE6AE44DA5B44D2"
+      ],
+      "name": "110 Crane Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/110-crane-drive",
+      "id": "110",
+      "address": "110 Crane Drive",
+      "price": "$449,255",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2044",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0015-110-crane-drive/delray_c15__rendering_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=60e8eb9caac64b3c8fe4818983196aea&hash=A8984975F6FB7000EAE6AE44DA5B44D2",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0009-114-walkabout-court/1-web-or-mls-114_walkabout_court-1.jpg?iar=1&sc=1&thn=1&w=425&rev=0dd09d19507c44ed80813b85e3c71051&hash=7AC87D388FBE14E5010123A01B33ABFB"
+      ],
+      "name": "114 Walkabout Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/114-walkabout-court",
+      "id": "114",
+      "address": "114 Walkabout Court",
+      "price": "$389,255",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2044",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0009-114-walkabout-court/1-web-or-mls-114_walkabout_court-1.jpg?iar=1&sc=1&thn=1&w=425&rev=0dd09d19507c44ed80813b85e3c71051&hash=7AC87D388FBE14E5010123A01B33ABFB",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0010-124-walkabout-court/6-web-or-mls-124_walkabout_court-1.jpg?iar=1&sc=1&thn=1&w=425&rev=90da9e1703b04daca5e28b457e12dbf9&hash=323172A9843D053E88E34F6830EB7B72"
+      ],
+      "name": "124 Walkabout Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/124-walkabout-court",
+      "id": "124",
+      "address": "124 Walkabout Court",
+      "price": "$389,255",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2044",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/delr/0010-124-walkabout-court/6-web-or-mls-124_walkabout_court-1.jpg?iar=1&sc=1&thn=1&w=425&rev=90da9e1703b04daca5e28b457e12dbf9&hash=323172A9843D053E88E34F6830EB7B72",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0004-302-jones-homestead-road/_0001_1-web-or-mls-302-jones-homestead-rd-1.jpg?iar=1&sc=1&thn=1&w=425&rev=8f1b7037172f4c29a98ee25d3e79b139&hash=0720C7BDAD40C02DB478D3E566FFCBBD"
+      ],
+      "name": "302 Jones Homestead Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/302-jones-homestead-rd",
+      "id": "302",
+      "address": "302 Jones Homestead Road",
+      "price": "$400,170",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2145",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0004-302-jones-homestead-road/_0001_1-web-or-mls-302-jones-homestead-rd-1.jpg?iar=1&sc=1&thn=1&w=425&rev=8f1b7037172f4c29a98ee25d3e79b139&hash=0720C7BDAD40C02DB478D3E566FFCBBD",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/rhet/0002-326-jones-homestead-road/rhett_e8_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=6cf221de61604de89abc507f84f16dd7&hash=F1BFF5FB2ADEA01FE4CA987A6085DE88"
+      ],
+      "name": "326 Jones Homestead Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/326-jones-homestead-road",
+      "id": "326",
+      "address": "326 Jones Homestead Road",
+      "price": "$374,935",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1799",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/rhet/0002-326-jones-homestead-road/rhett_e8_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=6cf221de61604de89abc507f84f16dd7&hash=F1BFF5FB2ADEA01FE4CA987A6085DE88",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/kennedy_b_bb_rendering_1920x1080.jpg?as=1&w=494&rev=7f75a1a1f65f454ab17c463289d33178&hash=DE1870D2CE0714610A4971FE9D3D4781",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0001_1-web-or-mls-314-jones-homestead-rd-1.jpg?as=1&w=494&rev=e03410bded064c81b5dd1d3ce0fdb433&hash=E41968198CFE68554F0A83C33810D024",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0002_2-web-or-mls-314-jones-homestead-rd-2.jpg?as=1&w=494&rev=f0303133eada4550820e214bbebdbeef&hash=5B6335E3D77064CCEDFDEB79EC7DD55C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0003_3-web-or-mls-314-jones-homestead-rd-5.jpg?as=1&w=494&rev=c015200df26f408b8f0f8321848ce675&hash=E4B026B136C2E34352DD32F3E768C016",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0004_4-web-or-mls-314-jones-homestead-rd-6.jpg?as=1&w=494&rev=ca5e3981ba1c4783808dbbdfe01a92aa&hash=028CEF1EEFE72E4BB44E0DD58460FED2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0005_5-web-or-mls-314-jones-homestead-rd-7.jpg?as=1&w=494&rev=ab2b6dd8981141d8bdd7a79e50483d20&hash=B230F563911B1E673A1DA7F8C5888EDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0006_6-web-or-mls-314-jones-homestead-rd-8.jpg?as=1&w=494&rev=a72d6647560a487ca486e6d10bc5b967&hash=D0EED58BFFD2346C3AFCD2B9AA80A03F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0007_7-web-or-mls-314-jones-homestead-rd-9.jpg?as=1&w=494&rev=a209e65fcba44e44866fd42081b42c79&hash=89518F1386CEFF9BF139C56C933D00CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0008_8-web-or-mls-314-jones-homestead-rd-10.jpg?as=1&w=494&rev=ca438c706f464a78a6436bb6578a95a2&hash=04F0C9C578B8B2A1640B57F8961E51BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0009_9-web-or-mls-314-jones-homestead-rd-11.jpg?as=1&w=494&rev=5e9726bc236c432c9abbcaaf6511439e&hash=0F8864480A33292B2DC3552E19F2BC41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0010_10-web-or-mls-314-jones-homestead-rd-12.jpg?as=1&w=494&rev=f58e144eeb324a66b655f48976829740&hash=B456EDFAFF1E37884B2CAE5350C95532",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0011_11-web-or-mls-314-jones-homestead-rd-13.jpg?as=1&w=494&rev=0ba013b031ae418da4f5d1afb3459e2f&hash=3D86FAE7EB426899F0DCC4892E1DDA27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0012_12-web-or-mls-314-jones-homestead-rd-14.jpg?as=1&w=494&rev=66f35d6f5e1942ef907308684818b9f3&hash=D789A2976CD6A3D9E561EBA03F7B5B41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0013_13-web-or-mls-314-jones-homestead-rd-15.jpg?as=1&w=494&rev=9e0452d7e0d74aab87f6bd410e8b566e&hash=BC7DB96738856352191EB73034B36CF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0014_14-web-or-mls-314-jones-homestead-rd-16.jpg?as=1&w=494&rev=56ae47881ef64296be4683809086c8dd&hash=D1F56B2D897BDA15BCEA7EDFFF626092",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0015_15-web-or-mls-314-jones-homestead-rd-17.jpg?as=1&w=494&rev=f722d1313476478eb170aaf4a030e1f1&hash=127C8AA165915DD54535ED594A8299C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0016_16-web-or-mls-314-jones-homestead-rd-18.jpg?as=1&w=494&rev=6b61a3d8cd5546b1a2b46bd411002f77&hash=70A30441125A86998C3A77B14822F014",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0017_17-web-or-mls-314-jones-homestead-rd-19.jpg?as=1&w=494&rev=2898b9da182c46dc9e011c519004af3b&hash=FB09898F728CC00B003AD68A2B4696B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0018_18-web-or-mls-314-jones-homestead-rd-20.jpg?as=1&w=494&rev=003b7056c5564d60890c24768c9ef247&hash=2B80C9812B33524595BBF39C2E157E45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0019_19-web-or-mls-314-jones-homestead-rd-21.jpg?as=1&w=494&rev=350957c789704c5ea422da859d3e8b06&hash=8BE0B0137BBCE63CB80D9EDF3A4FADFC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0020_20-web-or-mls-314-jones-homestead-rd-22.jpg?as=1&w=494&rev=9189f0f52543413c93fdd12dbb425ca8&hash=7EF8A2DDE9ECFCAF30098BBF2EA8ACD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0021_21-web-or-mls-314-jones-homestead-rd-23.jpg?as=1&w=494&rev=c076eab02bf347fd910c752293a9a6f0&hash=F4BC7DD306EC7F4130D28EC21CBD9307",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0022_22-web-or-mls-314-jones-homestead-rd-24.jpg?as=1&w=494&rev=289947e9ce804bee9f9b15d2a4261c3c&hash=CD1F453A3007E02E6D2AE1C572E4E876",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0023_23-web-or-mls-314-jones-homestead-rd-25.jpg?as=1&w=494&rev=293fc39b4eed41468b34a17aa56a61bd&hash=2C24687E8DD39210E72C03F3E495DBC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0024_24-web-or-mls-314-jones-homestead-rd-26.jpg?as=1&w=494&rev=b6d4881bb77e4553a81429dfee3c7728&hash=50C6AE3D53EE77CFF645BD93D492AE6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0025_25-web-or-mls-314-jones-homestead-rd-27.jpg?as=1&w=494&rev=1a2c67442d6f4bfc9b120a091d2fa409&hash=5F70FBC5A1BDD711505AABE9C1B7B088",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0026_26-web-or-mls-314-jones-homestead-rd-28.jpg?as=1&w=494&rev=0e81cb3fd1ee4fd383dc1c1229bc2b24&hash=D3793B8BCD7FCE5FE291E6508DF3B07C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0027_27-web-or-mls-314-jones-homestead-rd-29.jpg?as=1&w=494&rev=491bd2729b0d4c83b5be6153e59d132f&hash=B1C00F2C6ECE3B95216D97ADF646675B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0028_28-web-or-mls-314-jones-homestead-rd-30.jpg?as=1&w=494&rev=3eac2d48492144b7af0f56e123711c64&hash=502DC6DC45B8506CFAB2DF54304B3E0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0029_29-web-or-mls-314-jones-homestead-rd-31.jpg?as=1&w=494&rev=fc19c683ca5641d79c8315cdb58c4e2e&hash=E467CCAD27C6167E7BDC342200770873",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0030_30-web-or-mls-314-jones-homestead-rd-32.jpg?as=1&w=494&rev=53e575b6a0454fa5972e84496430afa4&hash=89F7C36A8D54AB9D879E1FBA41F50ACF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0031_31-web-or-mls-314-jones-homestead-rd-33.jpg?as=1&w=494&rev=fca66b7c5ef245cd895196e6dc87a5bc&hash=FD4F970405FFA3B248576A258512B482",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0032_32-web-or-mls-314-jones-homestead-rd-34.jpg?as=1&w=494&rev=ffc74428b55f4c1ea687c4d2efeedf78&hash=B2D4128DB1D40967D9EED8CCD7BFE21C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0033_33-web-or-mls-314-jones-homestead-rd-35.jpg?as=1&w=494&rev=f41441186d3049e3b983f1cae3d49ac2&hash=8D6C659EBA7FE13E42EB5D807A0B9C05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0034_34-web-or-mls-314-jones-homestead-rd-36.jpg?as=1&w=494&rev=218e3f2c434f47778b61eb0f6e8c5cb6&hash=FFAB9AF90D32C062240BA46078C243E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/_0035_35-web-or-mls-314-jones-homestead-rd-4.jpg?as=1&w=494&rev=66e9481350d6409dbf45b6946e657270&hash=6ECDEB840D09F81ED87348D50206A272",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/kennedy_cd_floor_plan_dining_room_option_1920_x_1080.jpg?rev=7fce7184d91a48c4b4531adc0dbc8f30&hash=3CB13FF59767C3BE6B14D8AD83D2CA38"
+      ],
+      "name": "338 Jones Homestead Road",
+      "plan": "The Kennedy",
+      "url": "https://www.drhorton.com/florida/panama-city/port-st-joe/pine-creek/qmis/338-jones-homestead-road",
+      "id": "338",
+      "address": "338 Jones Homestead Road",
+      "price": "$430,160",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2145",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29779-pc-east-spot-lots/297790000-pc-gulf-county-spot-lots/kenn/0001-338-jones-homestead-road/kennedy_b_bb_rendering_1920x1080.jpg?iar=1&sc=1&thn=1&w=425&rev=7f75a1a1f65f454ab17c463289d33178&hash=B4C236895001465E0D35B68562F42449",
+      "latitude": 29.77364,
+      "longitude": -85.28574,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Port St. Joe Elementary",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Port St Joe Junior-Senior High School",
+          "type_and_grades": "6-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

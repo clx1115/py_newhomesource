@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-06-03T20:44:07.326477",
+  "name": "Triumph",
+  "url": "https://www.drhorton.com/florida/west-central-florida/wildwood/triumph",
+  "status": null,
+  "price_from": "$0",
+  "address": "8443 Clearway Drive,Wildwood, FL 34785",
+  "phone": "(352) 660-1142",
+  "description": "Find a new home in Wildwood, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34748-triumph-south/974860000-triumph-south-ph-2/cali_d_siding.png"
+  ],
+  "location": {
+    "latitude": 28.8783,
+    "longitude": -82.02514,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce ball",
+      "description": "Bocce ball",
+      "icon_url": null
+    },
+    {
+      "name": "All concrete block construction",
+      "description": "All concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes Villages",
+      "description": "Minutes to The Villages",
+      "icon_url": null
+    },
+    {
+      "name": "Near the Florida Turnpike & I",
+      "description": "Near the Florida Turnpike & I-75 corridor",
+      "icon_url": null
+    },
+    {
+      "name": "Easy access Orlando &",
+      "description": "Easy access to Orlando & Tampa",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Wildwood Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wildwood Intermediate School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wildwood High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

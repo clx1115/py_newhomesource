@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-06-03T12:26:59.418620",
+  "name": "Silver Springs Shores Spot Lots",
+  "url": "https://www.drhorton.com/florida/west-central-florida/ocala/silver-springs-spot-lots",
+  "status": null,
+  "price_from": "$0",
+  "address": "COMING SOON,Ocala, FL 34472",
+  "phone": "(352) 660-1142",
+  "description": "Find a new home in Ocala, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/97494-silver-springs-shores/974950000-silver-springs-shores---wells/dakota_b_-_lake_diamond_no_address.png"
+  ],
+  "location": {
+    "latitude": 29.0555,
+    "longitude": -82.03405,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "No HOA or CDD",
+      "description": "No HOA or CDD fees",
+      "icon_url": null
+    },
+    {
+      "name": "Homesites throughout Silver Springs",
+      "description": "Homesites throughout Silver Springs Shores",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete block construction",
+      "description": "Concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Washer & dryer",
+      "description": "Washer & dryer",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Downtown Ocala &",
+      "description": "Nearby Downtown Ocala & historic Silver Springs State Park",
+      "icon_url": null
+    },
+    {
+      "name": "Close medical facilities",
+      "description": "Close to medical facilities",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Greenway Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Weir Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Weir High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

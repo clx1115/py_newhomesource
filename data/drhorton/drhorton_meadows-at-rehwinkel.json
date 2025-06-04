@@ -1,0 +1,184 @@
+{
+  "timestamp": "2025-06-02T04:29:55.774527",
+  "name": "Meadows at Rehwinkel",
+  "url": "https://www.drhorton.com/florida/tallahassee/tallahassee/meadows-at-rehwinkel",
+  "status": null,
+  "price_from": "$424,900",
+  "address": "430 Golden Loop,Crawfordville, FL 32327",
+  "phone": "(850) 808-8240",
+  "description": "Find a new home in Tallahassee, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tallahassee area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/001-430_golden_loop-1.jpg"
+  ],
+  "location": {
+    "latitude": 30.13994,
+    "longitude": -84.34736,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$424,900",
+    "sqft_range": "From 2,091 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Large Lots",
+      "description": "Large Lots",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Camden",
+      "url": "https://www.drhorton.com/florida/tallahassee/tallahassee/meadows-at-rehwinkel/floor-plans/camd",
+      "details": {
+        "price": "From $515s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/camd/002-430_golden_loop-2.jpg?as=1&w=425&rev=54d4aa55bca241ab8519486d8c9d8595&hash=B69B531776166EEF011CA4CC47931975"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/camd/camden_floorplan.png?rev=8e5e75412b3949a5bc4c1f489df0e2ea&hash=381A8D1D6FFBC97B54831CCF5899E059"
+        }
+      ]
+    },
+    {
+      "name": "The Hawthorne",
+      "url": "https://www.drhorton.com/florida/tallahassee/tallahassee/meadows-at-rehwinkel/floor-plans/hawt",
+      "details": {
+        "price": "From $485s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,467 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/hawt/ghs-38.jpg?as=1&w=425&rev=97ece0c53a7f45eb9e1933fa3b75cca1&hash=23C560048E85D960FA9D2600810210F9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/hawt/hawthorne_a_b_fe_floor_plan.jpg?rev=591258eacf53492196435966ffdbe079&hash=F6173267F8D4628FC882EEA4A9E29165"
+        }
+      ]
+    },
+    {
+      "name": "The Jasmine",
+      "url": "https://www.drhorton.com/florida/tallahassee/tallahassee/meadows-at-rehwinkel/floor-plans/jasm",
+      "details": {
+        "price": "From $425s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,091 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/jasm/ghs-33.jpg?as=1&w=425&rev=bc2438acbe7341fe88b94dd6f1b8322f&hash=732B12663C2DB4E1B52067C841B40A3A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/jasm/jasmine_d_fe_floor_plan.jpg?rev=d8363338499543718216c04e8615d278&hash=98830D14742E2EC292BED2C24BCAE850"
+        }
+      ]
+    },
+    {
+      "name": "The McKenzie",
+      "url": "https://www.drhorton.com/florida/tallahassee/tallahassee/meadows-at-rehwinkel/floor-plans/kenz",
+      "details": {
+        "price": "From $536s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,044 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/kenz/lot_52.jpg?as=1&w=425&rev=ec3e3857daf045da8fb44bc9a9581284&hash=F0F36FA91EAF91C80F539946759D4525"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/kenz/f067054c-e598-410e-b82d-5bd3926433ea.jpg?rev=cd9234c5638048ae97dd03c06916946a&hash=5B9C7F7CAAB3CB108DDB53366F4BEF69"
+        }
+      ]
+    },
+    {
+      "name": "The Victoria",
+      "url": "https://www.drhorton.com/florida/tallahassee/tallahassee/meadows-at-rehwinkel/floor-plans/vict",
+      "details": {
+        "price": "From $435s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,275 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/vict/house_02_-01.jpg?as=1&w=425&rev=987db37048e1489d915d78fb4638801e&hash=D96D8DD7D13908241CCCEF411FC4BE47"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68644-meadows-at-rehwinkel/686440000-meadows-at-rehwinkel/vict/victoria_g_marketing_floorplan.jpg?rev=1716ca88f4a149d284d7fb575388c3d3&hash=03B8BD7ACDEF3A09A2FEE1AA53EAE74D"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Medart Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wakulla Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wakulla High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

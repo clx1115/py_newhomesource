@@ -1,0 +1,329 @@
+{
+  "timestamp": "2025-06-03T12:57:29.412751",
+  "name": "Hidden Lakes",
+  "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes",
+  "status": null,
+  "price_from": "$259,900",
+  "address": "6499 Burleson Blvd,Crestview, FL 32539",
+  "phone": "(850) 403-4727",
+  "description": "Find a new home in Crestview, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/camilla_c15_-_edited.jpg"
+  ],
+  "location": {
+    "latitude": 30.84371,
+    "longitude": -86.52418,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$259,900 - $309,900",
+    "sqft_range": "From 1,302 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Quick Access Highways",
+      "description": "Quick Access to Highways",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Corkins Lake",
+      "description": "Nearby Corkins Lake",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Cali",
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/floor-plans/4ebf",
+      "details": {
+        "price": "From $310s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4ebf/cali_d15.jpg?as=1&w=425&rev=7692d60e1da84342804aa9291937f36a&hash=23756BB7FF017E7C6E91FC0DC1EE33F3"
+      }
+    },
+    {
+      "name": "The Camilla",
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/floor-plans/cami",
+      "details": {
+        "price": "From $286s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,528 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/camilla_c15_-_edited.jpg?as=1&w=425&rev=1bd3a2f503fd4ae6a6150cc544c47f57&hash=44F6C929A7BAB4C218596AD5EF41236D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/camilla_a_b_floorplan.jpg?rev=0f69168a0f944a3a848f5ccc3abd5a87&hash=B9FD1C16F6979ABF2C6AE0BDD5CF1597"
+        }
+      ]
+    },
+    {
+      "name": "The Delilah",
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/floor-plans/deli",
+      "details": {
+        "price": "From $268s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,302 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/deli/delilah_a15_-_edited.jpg?as=1&w=425&rev=c7fa4d9947e84c0aa610e6a9972ef32c&hash=23CFD84EA6234F25288CE699F49BD143"
+      }
+    },
+    {
+      "name": "The Lismore",
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/floor-plans/4elf",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,568 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4elf/lismore_a15_-_edited.jpg?as=1&w=425&rev=d3e30ad3893149789e1aee63f91437fb&hash=833B1B6488018AB69969AD48BD054F85"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4elf/lismore_a_marketing_floorplan.pdf?rev=cd4db1a714534d08bc7444e0283b288b&hash=EE460501ED2CAAC8DA3BBE96498E7E5C"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0116-6527-burleson-blvd/6527_-_edited.jpg?iar=1&sc=1&thn=1&w=425&rev=9fd37ea744f44f2e897c8b626683763b&hash=C0E56D8A0080FBA8E82464A8F848C6E5"
+      ],
+      "name": "6527 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6527-burleson-blvd",
+      "id": "6527",
+      "address": "6527 BURLESON BLVD",
+      "price": "$262,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1528",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0116-6527-burleson-blvd/6527_-_edited.jpg?iar=1&sc=1&thn=1&w=425&rev=9fd37ea744f44f2e897c8b626683763b&hash=C0E56D8A0080FBA8E82464A8F848C6E5",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0117-6529-burleson-blvd/6529_-_edited.jpg?iar=1&sc=1&thn=1&w=425&rev=041c3954b28c44c8a5c2c4e7914431cf&hash=F480EB34C58EF635F2762D93998B68CC"
+      ],
+      "name": "6529 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6529-burleson-blvd",
+      "id": "6529",
+      "address": "6529 BURLESON BLVD",
+      "price": "$264,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1528",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0117-6529-burleson-blvd/6529_-_edited.jpg?iar=1&sc=1&thn=1&w=425&rev=041c3954b28c44c8a5c2c4e7914431cf&hash=F480EB34C58EF635F2762D93998B68CC",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/deli/0118-6531-burleson-blvd/delilah_a815.jpg?iar=1&sc=1&thn=1&w=425&rev=0ef0af0d4d3543d29d11e3fc1bf74338&hash=723B98D72ABBC382578F37FE39A3B3EB"
+      ],
+      "name": "6531 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6531-burleson-blvd",
+      "id": "6531",
+      "address": "6531 BURLESON BLVD",
+      "price": "$259,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1302",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/deli/0118-6531-burleson-blvd/delilah_a815.jpg?iar=1&sc=1&thn=1&w=425&rev=0ef0af0d4d3543d29d11e3fc1bf74338&hash=723B98D72ABBC382578F37FE39A3B3EB",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/deli/0119-6533-burleson-blvd/delilah_a815.jpg?iar=1&sc=1&thn=1&w=425&rev=144a41c3117f4b8fb1eeb19b289de848&hash=E122AA5FE059E3D6513FD5FCA4550EB4"
+      ],
+      "name": "6533 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6533-burleson-blvd",
+      "id": "6533",
+      "address": "6533 BURLESON BLVD",
+      "price": "$259,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1302",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/deli/0119-6533-burleson-blvd/delilah_a815.jpg?iar=1&sc=1&thn=1&w=425&rev=144a41c3117f4b8fb1eeb19b289de848&hash=E122AA5FE059E3D6513FD5FCA4550EB4",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilla_c815_.jpg?as=1&w=494&rev=6177095cde994085af037bbd18f065d0&hash=1C29B9529E022BA1A0DF4AAC582892DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_1.jpg?as=1&w=494&rev=ca12dbbc711c4bf09f1c13ae650aa4f9&hash=E5FDCA0EAE651833B1985D64E6AC27D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_2.jpg?as=1&w=494&rev=03b8e754ed1842b387094203916ad192&hash=7F9186F0553D127D77F84A262A86DCB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_3.jpg?as=1&w=494&rev=267b8051cef24b0e83dbdc0e1debf731&hash=A11E68DBE22A5D86DCC8C75B4F5F58DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_4.jpg?as=1&w=494&rev=a10eb600c5274bec96a30724c58b0031&hash=CFD0709E190B6DED8AE31431B650E4A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_5.jpg?as=1&w=494&rev=5b21d47814244966bd593a64dac3a089&hash=3D9D03F4FD6B50470F42E410410B53EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_6.jpg?as=1&w=494&rev=229862e1fb754dc2911d1bf5dba3291e&hash=1EDCA98B64B3B96C9655796501C7AED9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_7.jpg?as=1&w=494&rev=0254408c85794cd79f0b689a2ea22a62&hash=3D4000793E451C07208846FDCBB54F25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_8.jpg?as=1&w=494&rev=bf572b600fd344c88c398b09db8903cf&hash=6EF6B622115D4D8F7E7BF876B39B6F50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_9.jpg?as=1&w=494&rev=aceac9e1beae48a1a1e94f23e19de7bc&hash=877093DF390517D9E9AFEFD05260DFE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_10.jpg?as=1&w=494&rev=a0ea7c58a6ce4389a857bd85ae739ce2&hash=E36E0CB4A1FD310776D0CDC86A823771",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_11.jpg?as=1&w=494&rev=70d7ec90c6dd4f968612129ea4ad44a6&hash=A06FBC534BA433D4F5CAA73D2D763AA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_12.jpg?as=1&w=494&rev=5e2cdaed01144db79e99649400bfd259&hash=9C7567D9D7F2AC6E717A7FE979551480",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_13.jpg?as=1&w=494&rev=deb1e7c9d930496ba3056c7ecdb8432e&hash=35012141EF3FDF14790B117E0E24D3DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_14.jpg?as=1&w=494&rev=092c3fbcb71c452a9b0496d6cc725460&hash=C9B5F7D9E1ED44243B3D61735E66616E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_15.jpg?as=1&w=494&rev=b626fe0ace4d42648727541e330411c9&hash=E569F430C6567000FB4F7B20D00105D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_16.jpg?as=1&w=494&rev=e3e6ee482cb94a2e87227a314d9c153a&hash=4C61FD47DC54E19DA496A4C105D48A45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_17.jpg?as=1&w=494&rev=0f0f665ee5cb44f38cd17c64492d712b&hash=C3BCAEE4A44952C58DBA4FCE3B9F66B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_18.jpg?as=1&w=494&rev=1ffffc50b1ab42af82d10b43da70abff&hash=25D77F231E480E26BDE3E143EA628EE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_19.jpg?as=1&w=494&rev=f2c1522dc34348f88af0f47f2b870e66&hash=363257D163BDF0CE1A809096EB60269F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_20.jpg?as=1&w=494&rev=56c67c0814ff475987b69e311aac12c1&hash=278517E3AE6F95DCE1503B945B43E2AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_21.jpg?as=1&w=494&rev=53adb2d69e124c6098a9558d1738c44c&hash=CB227047E448896CEFFC4C29ECCAB4F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_22.jpg?as=1&w=494&rev=843c85b8065d4652a63248b1cd361cdc&hash=69B202E35E5A9CA3FEB2C954FC0092DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_23.jpg?as=1&w=494&rev=472b7e36a01e4f46853b925d0e6540c4&hash=D7C88ECAAA19CE7116E8BAD139D57E8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_24.jpg?as=1&w=494&rev=acad1a9376974f4db8779251be6fb4e6&hash=2892B77A7A68C49826A532C1321C3B15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_25.jpg?as=1&w=494&rev=3712a068fdc643c9b824c9c49ab2593a&hash=7293710A57AED60DAA19B162C6C439F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_26.jpg?as=1&w=494&rev=f60f1cf68b1349d69c875777374b3801&hash=ADCBEF73D8E36CAA77E1432F0B37EFC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_27.jpg?as=1&w=494&rev=3096d687401948a8992b443ac33ce35f&hash=B3004F9B84F05B3A4D4071DA0811FCDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilah_28.jpg?as=1&w=494&rev=ffb50fda77cf466ab9601e117c0ae498&hash=AC5A83351A3666C3AF190FFEB5347A11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/camilla_c_floorplan.jpg?rev=84d8e47132dd4048a922e42f66e558cf&hash=3A78A552351E5890B84AA92E20F2DA1E"
+      ],
+      "name": "6535 BURLESON BLVD",
+      "plan": "The Camilla",
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6535-burleson-blvd",
+      "id": "6535",
+      "address": "6535 BURLESON BLVD",
+      "price": "$269,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1528",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/cami/0120-6535-burleson-blvd/camilla_c815_.jpg?iar=1&sc=1&thn=1&w=425&rev=6177095cde994085af037bbd18f065d0&hash=3A233EC7BF6D711A6704A9C5FE597B22",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4elf/0121-6537-burleson-blvd/lismore_b.jpg?iar=1&sc=1&thn=1&w=425&rev=3264012432de4092b5e93e174cc8328b&hash=146D1D2B29F08841734355762E54197E"
+      ],
+      "name": "6537 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6537-burleson-blvd",
+      "id": "6537",
+      "address": "6537 BURLESON BLVD",
+      "price": "$299,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1568",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4elf/0121-6537-burleson-blvd/lismore_b.jpg?iar=1&sc=1&thn=1&w=425&rev=3264012432de4092b5e93e174cc8328b&hash=146D1D2B29F08841734355762E54197E",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4ebf/0122-6539-burleson-blvd/cali_d15.jpg?iar=1&sc=1&thn=1&w=425&rev=4292f9f77c1b4f938662079560d9d89b&hash=913A1FFFA82B93EC241468ACCC47499B"
+      ],
+      "name": "6539 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6539-burleson-blvd",
+      "id": "6539",
+      "address": "6539 BURLESON BLVD",
+      "price": "$309,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4ebf/0122-6539-burleson-blvd/cali_d15.jpg?iar=1&sc=1&thn=1&w=425&rev=4292f9f77c1b4f938662079560d9d89b&hash=913A1FFFA82B93EC241468ACCC47499B",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4elf/0123-6541-burleson-blvd/lismore_a.jpg?iar=1&sc=1&thn=1&w=425&rev=c42bf3240fd2440884224a45812b82bd&hash=547CCAA41ADBA33E6C88093BDEDCE540"
+      ],
+      "name": "6541 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6541-burleson-blvd",
+      "id": "6541",
+      "address": "6541 BURLESON BLVD",
+      "price": "$299,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1568",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4elf/0123-6541-burleson-blvd/lismore_a.jpg?iar=1&sc=1&thn=1&w=425&rev=c42bf3240fd2440884224a45812b82bd&hash=547CCAA41ADBA33E6C88093BDEDCE540",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4ebf/0124-6543-burleson-blvd/cali_d15.jpg?iar=1&sc=1&thn=1&w=425&rev=1af6917689a544eebf0f1af6579eefe1&hash=1103FBB776B7DD0E8A77C60ED466F51E"
+      ],
+      "name": "6543 BURLESON BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/crestview/hidden-lakes/qmis/6543-burleson-blvd",
+      "id": "6543",
+      "address": "6543 BURLESON BLVD",
+      "price": "$309,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/649-pensacola-east/22781-hidden-lake-at-garden-springs/227810000-hidden-lake-at-garden-springs/4ebf/0124-6543-burleson-blvd/cali_d15.jpg?iar=1&sc=1&thn=1&w=425&rev=1af6917689a544eebf0f1af6579eefe1&hash=1103FBB776B7DD0E8A77C60ED466F51E",
+      "latitude": 30.84371,
+      "longitude": -86.52418,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

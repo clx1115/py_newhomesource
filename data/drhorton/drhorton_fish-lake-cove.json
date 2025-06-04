@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-06-02T05:18:49.356300",
+  "name": "Fish Lake Cove",
+  "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/fish-lake-cove",
+  "status": null,
+  "price_from": "$0",
+  "address": "Partin Settlement Rd,Kissimmee, FL 34744",
+  "phone": "(877) 415-0030",
+  "description": "Find a new home in Kissimmee, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Osceola County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38530-fish-lake-island/385300000-fish-lake-island/glen_resized_web.jpg"
+  ],
+  "location": {
+    "latitude": 28.27865,
+    "longitude": -81.3476,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Townhome Community",
+      "description": "Townhome Community",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Living",
+      "description": "Convenient Living",
+      "icon_url": null
+    },
+    {
+      "name": "Lakeview Homesites",
+      "description": "Lakeview Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Included Features",
+      "description": "Sleek Included Features",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Access US192 &",
+      "description": "Convenient Access to US192 & Florida's Turnpike",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Dining, Shopping &",
+      "description": "Nearby Dining, Shopping & Attractions",
+      "icon_url": null
+    },
+    {
+      "name": "20 mins Orlando International",
+      "description": "20 mins to Orlando International Airport",
+      "icon_url": null
+    },
+    {
+      "name": "Beaches Less Than One",
+      "description": "Beaches Less Than One Hour Away",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Neptune Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Neptune Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Gateway High School",
+          "type_and_grades": "9-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

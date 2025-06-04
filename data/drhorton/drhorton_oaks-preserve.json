@@ -1,0 +1,688 @@
+{
+  "timestamp": "2025-06-03T16:55:23.331365",
+  "name": "Oaks Preserve",
+  "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve",
+  "status": null,
+  "price_from": "$384,990",
+  "address": "4679 SW 51st Drive,Gainesville, FL 32608",
+  "phone": "(352) 660-1134",
+  "description": "Find a new home in Gainesville, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/elston_as_avalon_woods.png"
+  ],
+  "location": {
+    "latitude": 29.61015,
+    "longitude": -82.39749,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$384,990 - $494,990",
+    "sqft_range": "From 1,619 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "1 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Bike Path",
+      "description": "Bike Path",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Lofty Ceilings",
+      "description": "Lofty Ceilings",
+      "icon_url": null
+    },
+    {
+      "name": "Stone accent exteriors",
+      "description": "Stone accent exteriors",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "10",
+      "description": "10-minutes to the University of Florida",
+      "icon_url": null
+    },
+    {
+      "name": "Close UF Health Shands",
+      "description": "Close to UF Health Shands Hospital and HCA North Florida Hospital",
+      "icon_url": null
+    },
+    {
+      "name": "Seconds Celebration Pointe",
+      "description": "Seconds to Celebration Pointe",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Oaks Mall &",
+      "description": "Nearby the Oaks Mall & Butler Plaza",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/4eab",
+      "details": {
+        "price": "From $400s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,619 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/4eab/aria_js_stone_okp_web.png?as=1&w=425&rev=1745c58fb4e1402fb722b5d2557a6fb7&hash=09CD5826498A42D9462EBCB19EEEB7BB"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/4ebb",
+      "details": {
+        "price": "From $413s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,774 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/4ebb/cali_ks_okp_web.png?as=1&w=425&rev=ee04fd74d8c14a51bffb6bf3cc72abe8&hash=900EC03F4EDBAC809AC3C2C8B7713079"
+      }
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/2767",
+      "details": {
+        "price": "From $446s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,662 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2767/fl_west_florida_dr_horton_coral_ks_exterior_photo.jpg?as=1&w=425&rev=132557b8d8574fd081fd02ca78733cc1&hash=ED26936235AF9063E2C81924AD9CF19B"
+      }
+    },
+    {
+      "name": "Darwin",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/e301",
+      "details": {
+        "price": "From $395s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,886 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/e301/darwin_bs_aw_web.png?as=1&w=425&rev=764513e9db814d4db06e51502028113a&hash=2C2A101AA00E8444508F41989C0A3AF6"
+      }
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/2368",
+      "details": {
+        "price": "From $449s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,265 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2368/destin_js_aw_web.png?as=1&w=425&rev=0f43ccb81e7745d2bdd741333419e4bf&hash=5BFCA8910DD060B199E245B3FA91B781"
+      }
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/3eeb",
+      "details": {
+        "price": "From $406s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,176 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/elston_as_avalon_woods.png?as=1&w=425&rev=81735993781d4808a992839085237c25&hash=B82EC29A7459436D489DE50489E01D32"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/4ehb",
+      "details": {
+        "price": "From $456s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,516 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/4ehb/hayden_okp_web.png?as=1&w=425&rev=f81b8489260641c5835d480c1aa79d28&hash=5B752E297E4B87F2A5AE932C3EA03D9F"
+      }
+    },
+    {
+      "name": "Hemingway",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/2924",
+      "details": {
+        "price": "From $466s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,836 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2924/hemingway_briarwood.png?as=1&w=425&rev=548dacfadee24bd3aabdc8b71cffa877&hash=91DCF75E4A3D24A99F427C96D1640015"
+      }
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/3129",
+      "details": {
+        "price": "From $482s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,209 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/1412_nw_132nd_circle_arborgreens_holden_ks.png?as=1&w=425&rev=684c6cd85091480dbd30944b2fc566e0&hash=FF08064BBB3ACE6A39C007206D0FC6C4"
+      }
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/floor-plans/3efb",
+      "details": {
+        "price": "From $415s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,370 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3efb/robie_as_aw_web.png?as=1&w=425&rev=8aab652b5ceb4eb6b167e3119c9f7edc&hash=861EF560909162767291D2B9F21627FE"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/e301/0078-4921-sw-51st-road/darwin-ks-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4038bc9a2a4c482e88cee714234a2f73&hash=9CC4552C88AA49898CB41F44A00E7B1D"
+      ],
+      "name": "4921 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/4921-sw-51st-road",
+      "id": "4921",
+      "address": "4921 SW 51st Road",
+      "price": "$406,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1961",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/e301/0078-4921-sw-51st-road/darwin-ks-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4038bc9a2a4c482e88cee714234a2f73&hash=9CC4552C88AA49898CB41F44A00E7B1D",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0079-4937-sw-51st-road/elston-ks-stone-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=53167007a3eb47f483ef2ed6302e2ed3&hash=D1E7E1ABAB12BAC2AB60082E691EBD11"
+      ],
+      "name": "4937 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/4937-sw-51st-road",
+      "id": "4937",
+      "address": "4937 SW 51st Road",
+      "price": "$417,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0079-4937-sw-51st-road/elston-ks-stone-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=53167007a3eb47f483ef2ed6302e2ed3&hash=D1E7E1ABAB12BAC2AB60082E691EBD11",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/elston-js-stone-gen3-elev_day.jpg?as=1&w=494&rev=eecaba937aaf404c8f93a49ee1710816&hash=9370A248FB0729B9E20D6F5428EC496D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/1_okp_elston_entry.jpg?as=1&w=494&rev=f19ce7855da44ddaa3658747469a9250&hash=63296D96521E77413E53D0D6D614E92D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/2_okp_elston_kitchen3.jpg?as=1&w=494&rev=f9622f5b96a24eb08a7dc191a1a49404&hash=B55207AB721BEC396B4AC2B961446D4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/3_okp_elston_kitchen4.jpg?as=1&w=494&rev=da18060812cd41f1b031ec270496f2a9&hash=C61F9E9D779C4AFA01EDCD52822A3502",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/4_okp_elston_kitchen5.jpg?as=1&w=494&rev=61379f5b067b448bb1f9b4265e4ad2b6&hash=3EC62485272C902C95677931552A438A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/5_okp_elston_kitchen2.jpg?as=1&w=494&rev=58fd0cfa269e4b5daf3d0d835d747dd6&hash=8F15215F008C9CEE43A47FDF4591F236",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/6_okp_living_room.jpg?as=1&w=494&rev=43577e48bbaa47f980bdcca94a54071c&hash=CE115147889ECAFB80E5B6EDF28D2236",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/7_okp_elston_living_room_2.jpg?as=1&w=494&rev=b64186b426b74d46b85af0b3e3f2f9ed&hash=420D01EE5942337AB02F04C17227F4D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/8_okp_elston_living_room_3.jpg?as=1&w=494&rev=bd6fdb9b9d05487787681a7d55b4f33e&hash=2FBC999574FD26BA5990E6A4343760A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/9_okp_elston_dining_room.jpg?as=1&w=494&rev=70a7140d7c1f4a8ebf0e20332993a50a&hash=781C1D97087A1BD55D94937FB126611B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/10_okp_elston_dining_room_3.jpg?as=1&w=494&rev=093fd143e4b94afe81c1a079dc9eec0d&hash=B35E538B4942DCC1FF9146E18E674842",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/11_okp_elston_half_bathroom.jpg?as=1&w=494&rev=817a4a267b8044b0a77522cacd3b4e01&hash=F5E0859B68252728805C2109643D2CC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/12_okp_elston_upstairs_loft2.jpg?as=1&w=494&rev=16c2f011b620467fa0562231e595e076&hash=BE81BFBE549AD2C5B8C88CC01A49B580",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/13_okp_elston_upstairs_loft.jpg?as=1&w=494&rev=6067999517fe4addba955bc4f5736807&hash=DD04BABAF54FF8676DAA1067920E1EF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/14_okp_elston_owners_suite.jpg?as=1&w=494&rev=159aab5fa3644a289cc7c3a6b6dec915&hash=CBA1B211F5DA1815B19268503A74A620",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/16_okp_elston_owners_ensuite_bathroom_3.jpg?as=1&w=494&rev=1a5bfb76955246c5aa89569ec95347e3&hash=2FF6A65ABB8E6686376DF823FC44620D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/17_okp_elston_laundry_room.jpg?as=1&w=494&rev=02c74311b27b4a8ea9b2fbd045b408c0&hash=D7765F18EAF53BA35F3F711B43F3D75A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/18_okp_elston_bedroom_4.jpg?as=1&w=494&rev=a52987ea69f84500b7783e207ba3bbc8&hash=2E199F244D285D506DD23D947C8CDCBD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/19_okp_elston_bedroom_02.jpg?as=1&w=494&rev=b6a1fa7cdcfd4d1ba3dc8b5cbb083427&hash=F5D6CAD275F9DE6645B1F9E902A6FFC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/20_okp_elston_bathroom_2.jpg?as=1&w=494&rev=6df43f800cf846efaa5eac416656e47d&hash=7941A5BCE036FCFEF91D578510E7B3B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/21_okp_elston_bedroom_3.jpg?as=1&w=494&rev=6f7ee50af6d94aafb082be4011bd91cd&hash=267B2A047341BA7587322308C2762E0C"
+      ],
+      "name": "4955 SW 51st Road",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/4955-sw-51st-road",
+      "id": "4955",
+      "address": "4955 SW 51st Road",
+      "price": "$415,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0080-4955-sw-51st-road/elston-js-stone-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=eecaba937aaf404c8f93a49ee1710816&hash=ADE15A367A15904E30E5DEB8CDD1EF3C",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3efb/0081-4971-sw-51st-road/robie-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=e96af04d2ffc493dba58074ba2e3f0ce&hash=F2336F018A4224AA6E1A32EEE68C4E51"
+      ],
+      "name": "4971 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/4971-sw-51st-road",
+      "id": "4971",
+      "address": "4971 SW 51st Road",
+      "price": "$424,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2370",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3efb/0081-4971-sw-51st-road/robie-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=e96af04d2ffc493dba58074ba2e3f0ce&hash=F2336F018A4224AA6E1A32EEE68C4E51",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0082-4987-sw-51st-road/elston-ks-stone-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=df66b35e44c64cb3aa2eebede1931631&hash=0A8BE9A75C3EDAEB71F051D9AF231A3A"
+      ],
+      "name": "4987 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/4987-sw-51st-road",
+      "id": "4987",
+      "address": "4987 SW 51st Road",
+      "price": "$402,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3eeb/0082-4987-sw-51st-road/elston-ks-stone-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=df66b35e44c64cb3aa2eebede1931631&hash=0A8BE9A75C3EDAEB71F051D9AF231A3A",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3efb/0083-5003-sw-51st-road/robie-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=24d0229f927347d5b0bba38faefff292&hash=72665CD7F6BCCC9DA972C1E73CB5A66A"
+      ],
+      "name": "5003 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5003-sw-51st-road",
+      "id": "5003",
+      "address": "5003 SW 51st Road",
+      "price": "$404,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2370",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/3efb/0083-5003-sw-51st-road/robie-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=24d0229f927347d5b0bba38faefff292&hash=72665CD7F6BCCC9DA972C1E73CB5A66A",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/e301/0088-5085-sw-51st-road/darwin-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bfb013502fc54c86b998ad63f1f1c8c7&hash=48C25F602BE8594C72E5B14C2CB49FCB"
+      ],
+      "name": "5085 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5085-sw-51st-road",
+      "id": "5085",
+      "address": "5085 SW 51st Road",
+      "price": "$384,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1961",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/347830000-oaks-preserve-40s/e301/0088-5085-sw-51st-road/darwin-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bfb013502fc54c86b998ad63f1f1c8c7&hash=48C25F602BE8594C72E5B14C2CB49FCB",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/0003-5155-sw-52nd-road/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4965dd129a7548c09696359bb11b7ec6&hash=F35C848972FA9B60855165248FA453DE"
+      ],
+      "name": "5155 SW 52nd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5155-sw-52nd-road",
+      "id": "5155",
+      "address": "5155 SW 52nd Drive",
+      "price": "$489,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3209",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/0003-5155-sw-52nd-road/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=4965dd129a7548c09696359bb11b7ec6&hash=F35C848972FA9B60855165248FA453DE",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2924/0004-5173-sw-52nd-road/hemingway-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6790bbc80ad54462927ade7389dce526&hash=5E08BFC0053D16AB4230177F9CF18368"
+      ],
+      "name": "5173 SW 52nd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5173-sw-52nd-road",
+      "id": "5173",
+      "address": "5173 SW 52nd Drive",
+      "price": "$474,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2836",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2924/0004-5173-sw-52nd-road/hemingway-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=6790bbc80ad54462927ade7389dce526&hash=5E08BFC0053D16AB4230177F9CF18368",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0010-5184-sw-53rd-drive/cali-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3f28dd7e6b7f40d798bf0aea53130619&hash=93575E80A9F8DAA470DFECDC1D2A45A1"
+      ],
+      "name": "5184 SW 53rd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5184-sw-53rd-drive",
+      "id": "5184",
+      "address": "5184 SW 53rd Drive",
+      "price": "$394,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0010-5184-sw-53rd-drive/cali-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3f28dd7e6b7f40d798bf0aea53130619&hash=93575E80A9F8DAA470DFECDC1D2A45A1",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0011-5190-sw-53rd-drive/cali-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2149134dd0544d98ae95ae62194d74a8&hash=E1C3193DAEB0C7BA3F1119CB7CEA2AA5"
+      ],
+      "name": "5190 SW 53rd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5190-sw-53rd-drive",
+      "id": "5190",
+      "address": "5190 SW 53rd Drive",
+      "price": "$399,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0011-5190-sw-53rd-drive/cali-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2149134dd0544d98ae95ae62194d74a8&hash=E1C3193DAEB0C7BA3F1119CB7CEA2AA5",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/0005-5191-sw-52nd-road/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=84cac259d8b94bdfb211bea1eff173a0&hash=CE20FF0FC56A205BE7B5FF35BAA979EE"
+      ],
+      "name": "5191 SW 52nd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5191-sw-52nd-road",
+      "id": "5191",
+      "address": "5191 SW 52nd Drive",
+      "price": "$494,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3209",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/0005-5191-sw-52nd-road/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=84cac259d8b94bdfb211bea1eff173a0&hash=CE20FF0FC56A205BE7B5FF35BAA979EE",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2767/0006-5219-sw-52nd-drive/coral-ks-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=d235be9febc6496fb7a3179e6d61907a&hash=C09EB441207BC02326B7354A675E8FEA"
+      ],
+      "name": "5219 SW 52nd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5219-sw-52nd-drive",
+      "id": "5219",
+      "address": "5219 SW 52nd Drive",
+      "price": "$455,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2662",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2767/0006-5219-sw-52nd-drive/coral-ks-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=d235be9febc6496fb7a3179e6d61907a&hash=C09EB441207BC02326B7354A675E8FEA",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/0007-5245-sw-52nd-drive/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ed04f354ae974575ba41999533ac8884&hash=41E66C5C4E9FBBBCE0DF0D0CAF571701"
+      ],
+      "name": "5245 SW 52nd Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5245-sw-52nd-drive",
+      "id": "5245",
+      "address": "5245 SW 52nd Drive",
+      "price": "$491,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3209",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/3129/0007-5245-sw-52nd-drive/holden-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ed04f354ae974575ba41999533ac8884&hash=41E66C5C4E9FBBBCE0DF0D0CAF571701",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4eab/0018-5263-sw-51st-road/fl_west-florida_drh_express-series_aria_02-elevation_ks.jpg?iar=1&sc=1&thn=1&w=425&rev=895c906ba5e14c4698fe73bbf7c42f66&hash=ABCED429FF8DC534313B1137FE2396DC"
+      ],
+      "name": "5263 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5263-sw-51st-road",
+      "id": "5263",
+      "address": "5263 SW 51st Road",
+      "price": "$384,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1619",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4eab/0018-5263-sw-51st-road/fl_west-florida_drh_express-series_aria_02-elevation_ks.jpg?iar=1&sc=1&thn=1&w=425&rev=895c906ba5e14c4698fe73bbf7c42f66&hash=ABCED429FF8DC534313B1137FE2396DC",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0017-5281-sw-51st-rd/1fl_west-florida_drhorton_express-series_cali_js.jpg?iar=1&sc=1&thn=1&w=425&rev=c4134011d60d49639b9e37a8ca988030&hash=A7ACA93241D202ACC20B42B2D1720033"
+      ],
+      "name": "5281 SW 51st Rd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5281-sw-51st-rd",
+      "id": "5281",
+      "address": "5281 SW 51st Rd",
+      "price": "$394,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0017-5281-sw-51st-rd/1fl_west-florida_drhorton_express-series_cali_js.jpg?iar=1&sc=1&thn=1&w=425&rev=c4134011d60d49639b9e37a8ca988030&hash=A7ACA93241D202ACC20B42B2D1720033",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ehb/0006-5290-sw-51st-road/hayden-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=0b436ae35a0b4041b0c28abb77ace3f0&hash=AC75A6E8EE9C011550094B14B1B0FA43"
+      ],
+      "name": "5290 SW 51st Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5290-sw-51st-road",
+      "id": "5290",
+      "address": "5290 SW 51st Road",
+      "price": "$432,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2516",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ehb/0006-5290-sw-51st-road/hayden-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=0b436ae35a0b4041b0c28abb77ace3f0&hash=AC75A6E8EE9C011550094B14B1B0FA43",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0012-5314-sw-52nd-court/cali-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=93af310ea2364d8985467b923d369226&hash=C1B48773E60250AD06FC97BF6F184AE0"
+      ],
+      "name": "5314 SW 52nd Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5314-sw-52nd-court",
+      "id": "5314",
+      "address": "5314 SW 52nd Court",
+      "price": "$410,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0012-5314-sw-52nd-court/cali-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=93af310ea2364d8985467b923d369226&hash=C1B48773E60250AD06FC97BF6F184AE0",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0013-5322-sw-52nd-court/cali-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6fef861f49d14c06a0481d27640dddc2&hash=5EE631128BA9E707F109943837943BD3"
+      ],
+      "name": "5322 SW 52nd Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5322-sw-52nd-court",
+      "id": "5322",
+      "address": "5322 SW 52nd Court",
+      "price": "$399,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0013-5322-sw-52nd-court/cali-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6fef861f49d14c06a0481d27640dddc2&hash=5EE631128BA9E707F109943837943BD3",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0014-5326-sw-52nd-court/cali-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=24a3ef51452b45f08f16417d50c727c1&hash=2862A40503CBFD30667193531F849853"
+      ],
+      "name": "5326 SW 52nd Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5326-sw-52nd-court",
+      "id": "5326",
+      "address": "5326 SW 52nd Court",
+      "price": "$408,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0014-5326-sw-52nd-court/cali-ks-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=24a3ef51452b45f08f16417d50c727c1&hash=2862A40503CBFD30667193531F849853",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0015-5334-sw-52nd-court/cali-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=bcd5bf34c1a54a3e8bea7603a3022913&hash=47FC5618198D9AE200BBE7E41C1D12FA"
+      ],
+      "name": "5334 SW 52nd Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5334-sw-52nd-court",
+      "id": "5334",
+      "address": "5334 SW 52nd Court",
+      "price": "$406,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974710000-oaks-preserve-50s-exp/4ebb/0015-5334-sw-52nd-court/cali-js-gen3-elev_ind_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=bcd5bf34c1a54a3e8bea7603a3022913&hash=47FC5618198D9AE200BBE7E41C1D12FA",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2924/0018-5347-sw-52nd-court/hemingway-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d5b48b62c4af48279b42773b057cb0d5&hash=2F029089480D1BC894B293B6F1F1ED44"
+      ],
+      "name": "5347 SW 52nd Court",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/gainesville/oaks-preserve/qmis/5347-sw-52nd-court",
+      "id": "5347",
+      "address": "5347 SW 52nd Court",
+      "price": "$471,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2836",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34783-oaks-preserve/974720000-oaks-preserve-60s-drh/2924/0018-5347-sw-52nd-court/hemingway-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d5b48b62c4af48279b42773b057cb0d5&hash=2F029089480D1BC894B293B6F1F1ED44",
+      "latitude": 29.61015,
+      "longitude": -82.39749,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Idylwild Elementary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Kanapaha Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Gainesville High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

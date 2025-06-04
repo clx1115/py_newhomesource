@@ -1,0 +1,162 @@
+{
+  "timestamp": "2025-05-30T13:36:32.136462",
+  "name": "Holley Grove at Peach Creek",
+  "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/peach-creek",
+  "status": null,
+  "price_from": "$454,900",
+  "address": "Holley Grove Lane,Santa Rosa Beach, FL 32459",
+  "phone": "(850) 809-3772",
+  "description": "Find a new home in Santa Rosa Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/delray_b_rendering.jpg"
+  ],
+  "location": {
+    "latitude": 30.36706,
+    "longitude": -86.10518,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$454,900",
+    "sqft_range": "From 1,856 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Carol",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/peach-creek/floor-plans/caro",
+      "details": {
+        "price": "From $508s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,511 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/caro/carol_b54.jpg?as=1&w=425&rev=0aebdc6ecacb4c8c945595a0810e66d5&hash=9795601A717CFC88D2FA78CD9CA7AD7D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/caro/carol_a_marketing_fp.jpg?rev=827ba05fe0e54d08b9caa8b5f9f381fa&hash=4E8B01917B2A7164B97AEFE049C32264"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/caro/carol_b_marketing_fp.jpg?rev=eb72cead554846d08f0849f26ebd22e5&hash=515925B6953676599983D2B8F9B75D73"
+        }
+      ]
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/peach-creek/floor-plans/delr",
+      "details": {
+        "price": "From $475s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,108 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/delr/delray_b_rendering.jpg?as=1&w=425&rev=6eb21384688e4d369d0e552305f7212d&hash=F458826479A29D379314AA91B2E3E517"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/delr/delray_ab_web.jpg?rev=56fda642048242029600928b04c8869a&hash=AC00D22EEE5F758F25CA8DF2716E8990"
+        }
+      ]
+    },
+    {
+      "name": "Kennedy",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/peach-creek/floor-plans/kenn",
+      "details": {
+        "price": "From $482s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,212 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/kenn/kennedy_b.jpg?as=1&w=425&rev=d17bb74c11184b798e16f4e2e5fa8750&hash=61B8250C3BD11A71F99E1324D663F66B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-peach-creek-sf/kenn/kennedy_dining_option.jpg?rev=cc7d7db8249e4a628aea81f370e612a2&hash=B8CB0AEF95D34B1F8AC85B213B7FD00B"
+        }
+      ]
+    },
+    {
+      "name": "Rhett",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/peach-creek/floor-plans/rhet",
+      "details": {
+        "price": "From $455s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,856 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-holley-grove/297290000-holley-grove-sf/rhet/rhett_d_elevation.jpg?as=1&w=425&rev=b44d1ef4819143e29521081eb00988a6&hash=E0AD53B22F0F710483F9604FE6BBB01C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29730-peach-creek/297290000-holley-grove-sf/rhet/rhett_e_marketing_fp.jpg?rev=0f449018495d48b4b54e1acf86f37aa7&hash=EDAA3ED6799521E5E09070BDC5634DB4"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Dune Lakes Elementary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Bay Elementary School",
+          "type_and_grades": "K-4",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Emerald Coast Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "South Walton High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

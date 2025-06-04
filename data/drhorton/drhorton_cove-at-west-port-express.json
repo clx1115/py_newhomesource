@@ -1,0 +1,445 @@
+{
+  "timestamp": "2025-05-30T22:43:27.341039",
+  "name": "Cove at West Port Express",
+  "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express",
+  "status": null,
+  "price_from": "$294,990",
+  "address": "1156 Moss Cove Ct,Port Charlotte, FL 33953",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Port-Charlotte, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/l1_southwest-florida_cove-at-west-point_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 27.01616,
+    "longitude": -82.18365,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$294,990 - $446,999",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/4eab",
+      "details": {
+        "price": "From $295s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/aria-c-shingle_transom_6over6_web.jpg?as=1&w=425&rev=0d6af5c881f84d13baced7b0f689bcc3&hash=E9478895CD25F9633E226629858C6A9A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/1672_-_aria_cd_web.jpg?rev=68427f9eb69241a3999a299e48047199&hash=84FB070E6362969A91829F6CB896B57E"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/4ebb",
+      "details": {
+        "price": "From $310s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/1828__-_cali_cd_singlesink.jpg?rev=eb3195c79e494bf5be5be9b3222406e9&hash=259E99A9BFA6BE07C1C65458516144C5"
+        }
+      ]
+    },
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/e502",
+      "details": {
+        "price": "From $430s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,490 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/e502/covington_ele_g_3car_revised_web.jpg?as=1&w=425&rev=aa7244030d81464b869866438471faa9&hash=4593013EBF431ADCE64B9D3239824B3C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/e502/2490_covington_gh.jpg?rev=794be306e67d40dd95ba2f25aaf25ef6&hash=0ED693577899010CF9434476EA49A47E"
+        }
+      ]
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/a4db",
+      "details": {
+        "price": "From $370s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,034 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/a4db/2034-delray-3-car-a-elev-shingle_web.jpg?as=1&w=425&rev=d6c44904a4ec4a8a9b79a61738d2294d&hash=23CF990FF9833B082991C82BC1908249"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/a4db/3_car_delray_no_opt_levelled.jpg?rev=bac101ed74714c298cc843ec38c31eeb&hash=387A6BA60018159EF5F7636D5F5F339C"
+        }
+      ]
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/e501",
+      "details": {
+        "price": "From $425s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,336 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/e501/denham_ele_g_3car_revised_web.jpg?as=1&w=425&rev=c5df33ba9ab840d684d6fa3754489dce&hash=05E3D34DF41DFFBA0E1ECCCDFA20C8E2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/e501/denham_blackline_revised_02.jpg?rev=95696b2da3464f23bf9fc6e7980307b2&hash=E871C704371E3EC4A6D7C9CE0745349F"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/2077",
+      "details": {
+        "price": "From $330s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/2077/2077_lakeside_ele_a_revised_web.jpg?as=1&w=425&rev=5f49492248434ebea16c58eade8bd571&hash=F4BCD68D192146BDA879C70268532FC1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/2077/2077_lakeside_floor_plan.jpg?rev=4d8c37f4836242febd6fa35b68da9cc0&hash=1686BC8D0A31A347CB03280A976DEFD3"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/5emb",
+      "details": {
+        "price": "From $360s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/5emb/2768-madison-g-elev-web16x9.jpg?as=1&w=425&rev=e4803d45c1854aa1a7a1a20b613e23fd&hash=ED4B1BD39165FC225345261BFAD8D691"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/5emb/2020_madison_h_g-_floor_plan_nokey_web.jpg?rev=f579327b797e4c9294e04d449d9d78ca&hash=C9C22C6FD5E8CC84BA0DEC71CB4CDAAD"
+        }
+      ]
+    },
+    {
+      "name": "Shelby",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/2221",
+      "details": {
+        "price": "From $420s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,221 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/2221/2221-shelby-l-2s_web.jpg?as=1&w=425&rev=e5173aa963fa4fb3b1e067bb20ccfb48&hash=44D04E3B3C555438064DD981A0808644"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/2221/fl_port-charlotte_cove-at-west-port_shelby_floor-plan.jpg?rev=3561ca216613443e81e1ccf6317d8cde&hash=8EBF9A35D7CF7C302B1A031F327ED50D"
+        }
+      ]
+    },
+    {
+      "name": "Wheaton",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/floor-plans/2540",
+      "details": {
+        "price": "From $440s",
+        "beds": "3 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,565 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/2540/wheaton-l-sch_f-white-elev.jpg?as=1&w=425&rev=35b9a7f5bc7f4b079e750f383f3206f8&hash=68997FA090D801CF8214E79C38FD7492"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/2540/fl_port-charlotte_cove-at-west-port_wheaton_extlanai_floor-plan.jpg?rev=73e576901e454031912f2213ff196bbb&hash=C4B071910F6BE770B640C16F864D3CA2"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/cali-d_shingle_transom_6over6_web.jpg?as=1&w=494&rev=0085ff5e55614f559c72eeed32b48b91&hash=2343F11838271DAA709A358961AEED7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/02_cali_west_port.jpg?as=1&w=494&rev=6be29a34b036461dbf1457f6505a20db&hash=AA54589B31D6D0E4B88483332F55458D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/03_cali_west_port.jpg?as=1&w=494&rev=f14db2cb26214902886e288b42b3d877&hash=D32342A9F7F5897B14DE4DCAE5B713A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/04_cali_west_port.jpg?as=1&w=494&rev=1589d97dcef34c67a81be27b0e8b049a&hash=7A32EF1794D5F090BBC434DC6E2F2141",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/05_cali_west_port.jpg?as=1&w=494&rev=49d9a5db2479407d8b12970863d99c41&hash=BEF53BB1C7119B54151A517698071D7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/06_cali_west_port.jpg?as=1&w=494&rev=be56d959f68143bba842e7a9f5cd5b40&hash=0624BCD238AAA2BFAB34ED9762977FEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/07_cali_west_port.jpg?as=1&w=494&rev=fc5ddc03945148b1b65a2e5832714521&hash=71EF1E56FFABAC8D75C9FD2802F8805B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/08_cali_west_port.jpg?as=1&w=494&rev=ca325664f0f54c469a08f753594b526d&hash=BCB47B17E9B234A219A4122BC2FD140D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/09_cali_west_port.jpg?as=1&w=494&rev=f956b9455afc41e0a68ebaaf50c3ecda&hash=8739887CCCA2DDB83D4859D49989BAEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/10_cali_west_port.jpg?as=1&w=494&rev=2c9291f6c85041a58dd0fb0484deebb0&hash=592001A74EE595452B5BFA0637BDDF42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/11_cali_west_port.jpg?as=1&w=494&rev=c8f1087b710c43b59f088ca85d082cb6&hash=0F8A37E7817B6A7F32AA37106AC62AE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/12_cali_west_port.jpg?as=1&w=494&rev=89300e8dc0b24f409fa8c0e31d177ea0&hash=7A502392F36FB557A74B63DE21E93710",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/13_cali_west_port.jpg?as=1&w=494&rev=97e7f7137e5e43f6ac42a5cf0417793c&hash=ACC00D5986254899BA0233918CA64FEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/14_cali_west_port.jpg?as=1&w=494&rev=45f2c65ff60945d9b24278bd200d2bb5&hash=DE66F192CDB100778E5E43BB9B5F27E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/15_cali_west_port.jpg?as=1&w=494&rev=197299fbcb554754af4f1c6b050ee27c&hash=83F71B25FA1CB501488556B27367616A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/1828__-_cali_cd_singlesink.jpg?rev=eb3195c79e494bf5be5be9b3222406e9&hash=259E99A9BFA6BE07C1C65458516144C5"
+      ],
+      "name": "1419 POWELL VALLEY DR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/qmis/1419-powell-valley-drive",
+      "id": "1419",
+      "address": "1419 POWELL VALLEY DR",
+      "price": "$319,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0018-1419-powell-valley-drive/cali-d_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=0085ff5e55614f559c72eeed32b48b91&hash=AAAAFC1097513BF3F97B5F5BA6CCBF71",
+      "latitude": 27.01616,
+      "longitude": -82.18365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/aria-c-shingle_transom_6over6_web.jpg?as=1&w=494&rev=0b1d885dda124750bcc7ebe917138066&hash=8E114EB57D33E3CA9CDD85D6452E4621",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/bath_main_16x9.jpg?as=1&w=494&rev=1dbea700b8264ad08981ab97938f437e&hash=4242B6D0763EE6AB0364E019CE4DA526",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=34a1470743c24f1299aeec8e876634bf&hash=C89CC4189C9B4B8B3B7B8C1724402276",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=a106c5ed53ae48129c7b3c8c97595005&hash=77E07B21DC01B4003F36F5EC2055B394",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=c4ed8c8ea16a44c6bedf62b80dc4dd72&hash=4866E896ED9586334E810E1AD29E94E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=d28ad6706182455ea74c2a08534e951a&hash=107354A054BAAB3B5B45494923C00613",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/living1_hamptons_16x9.jpg?as=1&w=494&rev=30cc1d85ccca4603831b73dd55517005&hash=53450F71C0670F1B457BC1517553C0BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=2950010b010a40da85a74178ca31e846&hash=982FD2EF8AC4634496DB30766E36D8F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=56e31e73292744d4afd2d2124ee8cfd5&hash=BFF0DE5F8618956869BCD787BF8F0B3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/1672_-_aria_cd_web.jpg?rev=68427f9eb69241a3999a299e48047199&hash=84FB070E6362969A91829F6CB896B57E"
+      ],
+      "name": "1425 POWELL VALLEY DR",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/qmis/1425-powell-valley-drive",
+      "id": "1425",
+      "address": "1425 POWELL VALLEY DR",
+      "price": "$299,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/4eab/0017-1425-powell-valley-drive/aria-c-shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=0b1d885dda124750bcc7ebe917138066&hash=60F2B48142BFA407858795D11992642F",
+      "latitude": 27.01616,
+      "longitude": -82.18365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/cali-d_shingle_transom_web.jpg?as=1&w=494&rev=812503a4c3f24e6db2224877d028b0fa&hash=3B7DE433B0175FB659D3E25B526715D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/02_cali_west_port.jpg?as=1&w=494&rev=48491390e7774b36b828ee0664993161&hash=A8C7850D41DAF9C7D625BDE945FB8160",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/03_cali_west_port.jpg?as=1&w=494&rev=fe8480beec974214b21351894202f257&hash=94EB6634B15D252DE5A6F3C6F1F9AF31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/04_cali_west_port.jpg?as=1&w=494&rev=56c0bff8398545fe9e10daaaf4c14475&hash=9154713EB02FF5DB5C2E58D2E1B62008",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/05_cali_west_port.jpg?as=1&w=494&rev=f56ca351bb484205a46c2f353884db15&hash=3C66E4EE766F99B3C81681A709641059",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/06_cali_west_port.jpg?as=1&w=494&rev=8ad875bf555d46f98606c9111de1fe09&hash=3F3DB94868AACACAF9B3B7E2B17732B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/07_cali_west_port.jpg?as=1&w=494&rev=7d9e83323a0a41df959a61355d72bedf&hash=B36FBF1D287ABE7925B9D19F8046E13E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/08_cali_west_port.jpg?as=1&w=494&rev=09e8289a721940d6a9afa08cb1ebb342&hash=28FB770744B3A7C6766CA00FD811E6E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/09_cali_west_port.jpg?as=1&w=494&rev=fdfc56bdbb34477690242dbcf65e839a&hash=AB516982368767953AA56E0CB344081C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/10_cali_west_port.jpg?as=1&w=494&rev=991a2fe5037d4a958990d2e8cf757dcc&hash=FA72648315642E31905B2B72880E4D4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/11_cali_west_port.jpg?as=1&w=494&rev=736800914804408eb611a39cb5f8f0bc&hash=DE53F1CF74D9DC2803525834B6AE974F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/12_cali_west_port.jpg?as=1&w=494&rev=df3c107dd95d49d9b64cdd9ce6a1a154&hash=7F540360A8865DC6A12EA809DCD6400E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/13_cali_west_port.jpg?as=1&w=494&rev=0826806463bd46e48d6ad7ec4742ccf5&hash=F49C8658AB013D98A8B16AD044E72A6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/14_cali_west_port.jpg?as=1&w=494&rev=597201cc2624437eb6ea4eacafdb8e00&hash=CE0FFB70E54AA536D49B203E6D937A10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/15_cali_west_port.jpg?as=1&w=494&rev=8ed18a8ff9014e30ab94aaf162714655&hash=98B3B4F81A9184BA4E690E3504A85ECB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/1828__-_cali_cd_singlesink.jpg?rev=eb3195c79e494bf5be5be9b3222406e9&hash=259E99A9BFA6BE07C1C65458516144C5"
+      ],
+      "name": "1428 POWELL VALLEY DR",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/qmis/1428-powell-valley-drive",
+      "id": "1428",
+      "address": "1428 POWELL VALLEY DR",
+      "price": "$304,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/4ebb/0021-1428-powell-valley-drive/cali-d_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=812503a4c3f24e6db2224877d028b0fa&hash=B087ACF466A949EB85A65F85B8D2686E",
+      "latitude": 27.01616,
+      "longitude": -82.18365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/2077_lakeside_ele_b_revised_web.jpg?as=1&w=494&rev=b7cb19a31b4f4343b3f955b7e4b30ac7&hash=2F9F75214B3AF27EE18E094797E94D13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/02_lakeside.jpg?as=1&w=494&rev=544297bc7f4747368d2c5f93826b77dc&hash=900C454EC5EEEB6474497F5198220E73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/03_lakeside.jpg?as=1&w=494&rev=647e9f569e424359a464345fb9598f2b&hash=E2E8A737E422774DF67EA2BFF600E4BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/04_lakeside.jpg?as=1&w=494&rev=121c6ea174a84121a281471284096525&hash=5D1A71A80D7BAD06A22529EC45DE1A89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/07_lakeside.jpg?as=1&w=494&rev=dfe83bea60db44d4b78d57eb85edea5a&hash=05BE0EE8BFF0D7F8402606A4F7D08A60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/09_lakeside.jpg?as=1&w=494&rev=6d77e14644ed42d8b913beb4032fe4a7&hash=3E9E09651B57D87C4E6F54ABE7A8FC8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/11_lakeside.jpg?as=1&w=494&rev=d315eda649c34ce9b556ce074a4782de&hash=2EA9E3B37771A4F92C8B1B3DE0478C34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/13.jpg?as=1&w=494&rev=5bfd5f550d2349858ce3871e2d2ef09e&hash=420E2491E0AD57280F6F737F28E1FF75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/14.jpg?as=1&w=494&rev=376c9aa1367f48e3924f068299484528&hash=BDD40CCF7ECB40516A05EFDB33EA3FD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/15.jpg?as=1&w=494&rev=e1b4244fe6b14c078b67102f2f09664c&hash=0246F160B0941010A4A01C0D89BC5D5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/16.jpg?as=1&w=494&rev=ffb4ef113baf4b20825cf1d42e1fed87&hash=8E648940564E93CAA5D4FFAF858C86B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/17.jpg?as=1&w=494&rev=7e7e59df41a14c54b1aa904c4cfab2ee&hash=C685D44E75C21EE00713261B19D8B743",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/18.jpg?as=1&w=494&rev=040137ff371b4c109fbafaf8ff5eb740&hash=7E653772A87F67D6EC7645ED7D02C30E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/19.jpg?as=1&w=494&rev=1daa55be2c4f409fb6f28126f6efe576&hash=CE837DCDDBFC3B450086943E3218713F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/547750000-west-port-50s-express/2077/2077_lakeside_floor_plan.jpg?rev=4d8c37f4836242febd6fa35b68da9cc0&hash=1686BC8D0A31A347CB03280A976DEFD3"
+      ],
+      "name": "1437 POWELL VALLEY DR",
+      "plan": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/qmis/1437-powell-valley-drive",
+      "id": "1437",
+      "address": "1437 POWELL VALLEY DR",
+      "price": "$349,999",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2078",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/547750000-west-port-50s-express/2077/0016-1437-powell-valley-drive/2077_lakeside_ele_b_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b7cb19a31b4f4343b3f955b7e4b30ac7&hash=56552C4475E7040A5CB12CE00F56CF67",
+      "latitude": 27.01616,
+      "longitude": -82.18365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/2768-madison-g-elev-web16x9.jpg?as=1&w=494&rev=b918772a4eb84ed981b7c74c81c3ef7b&hash=B1C1B68D7092BE2FC4355098CA46E484",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bath1.jpg?as=1&w=494&rev=956e742166214314b17b24896b461276&hash=93BBD979E78342272546B56952551E12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bath2.jpg?as=1&w=494&rev=896b657e32834323a622fe967c284776&hash=90E3C81BD81CDE5468890B9CF602C579",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bedroom1.jpg?as=1&w=494&rev=4c77d5f550f348f784af0a44ab26e478&hash=BF028AD0FD546C627162BBCC8308FACA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bedroom1_2.jpg?as=1&w=494&rev=ee6227623ba242309bfdfe92d184c6d3&hash=02F79083A87B3B36109B24D478BDF280",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bedroom2.jpg?as=1&w=494&rev=d7728fbbf6334e348edc3b9957ead435&hash=DE4E6E77CB01E69E9A9171DA10C2DED8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bedroom3.jpg?as=1&w=494&rev=e1f34361ddf44d8495cfd1b3e8671160&hash=EC131ABF9125817A7FDB4ACDA77C572A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/bedroom4.jpg?as=1&w=494&rev=45e63d1e0318426d80be76fe0eb645a0&hash=0EC0D96DF07FCDCEB1361ADEA35B1F20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/living.jpg?as=1&w=494&rev=a2f5add3c2c44e76996ee2a443775216&hash=2CE14A888783E78606DE09B57EFB7FA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/living2.jpg?as=1&w=494&rev=041686b12ed347679808327e13f8f2a5&hash=D0291479F4886CDAE13B277AC7DF6CA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/living3.jpg?as=1&w=494&rev=6b59981dc5b84d048ff72cccf0a286d5&hash=E7771B7017740DB156E4A75A37150D7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54770-west-port/548390000-west-port-60s-express/5emb/2020_madison_h_g-_floor_plan_nokey_web.jpg?rev=f579327b797e4c9294e04d449d9d78ca&hash=C9C22C6FD5E8CC84BA0DEC71CB4CDAAD"
+      ],
+      "name": "1478 MABLETON DR",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/qmis/1478-mableton-drive",
+      "id": "1478",
+      "address": "1478 MABLETON DR",
+      "price": "$375,999",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/5emb/0010-1478-mableton-drive/2768-madison-g-elev-web16x9.jpg?iar=1&sc=1&thn=1&w=425&rev=b918772a4eb84ed981b7c74c81c3ef7b&hash=9AD6B6940B89BA03BCEE42C92686A5C3",
+      "latitude": 27.01616,
+      "longitude": -82.18365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/e502/0009-1484-mableton-drive/covington_ele_g_3car_revised_web.jpg?as=1&w=1280&rev=69b8607a07e5495f895e28c47d474a62&hash=A3EAB958AFDAF7458A66F68729482378",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/e502/2490_covington_gh.jpg?as=1&w=1280&rev=794be306e67d40dd95ba2f25aaf25ef6&hash=1BA5E7A0FB8EBA0E6360AE19DE9A3B99"
+      ],
+      "name": "1484 MABLETON DR",
+      "plan": "Covington",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/cove-at-west-port-express/qmis/1484-mableton-drive",
+      "id": "1484",
+      "address": "1484 MABLETON DR",
+      "price": "$446,999",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2490",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54775-west-port/548390000-west-port-60s-express/e502/0009-1484-mableton-drive/covington_ele_g_3car_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=69b8607a07e5495f895e28c47d474a62&hash=108D2D743AF2DB7891C912D8465E6D47",
+      "latitude": 27.01616,
+      "longitude": -82.18365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Liberty Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Murdock Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Port Charlotte High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

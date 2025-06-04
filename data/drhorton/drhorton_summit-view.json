@@ -1,0 +1,377 @@
+{
+  "timestamp": "2025-06-03T03:14:58.443381",
+  "name": "Summit View",
+  "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view",
+  "status": null,
+  "price_from": "$318,990",
+  "address": "13301 Table Rock Lane,Dade City, FL 33525",
+  "phone": "(813) 491-1682",
+  "description": "Find a new home in Dade City, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/broad_river_ave-001.jpg"
+  ],
+  "location": {
+    "latitude": 28.35121,
+    "longitude": -82.2356,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$318,990 - $402,990",
+    "sqft_range": "From 1,328 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Half Basketball Court",
+      "description": "Half Basketball Court",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Archer",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/e403",
+      "details": {
+        "price": "From $319s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,328 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/e403/archer_ele_a_c8_without_stone_8-0.jpg?as=1&w=425&rev=2a374983945348f5afb8e3ce8ff3bec5&hash=6503862663B9601ED288FBB456C4D606"
+      }
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/4eab",
+      "details": {
+        "price": "From $335s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/fl_tampanorth_drhorton_ariac_nocl.jpg?as=1&w=425&rev=b7ff1b9367db43a19eb1dfd0e9b631f0&hash=C64B97E9E1317ECA3D96532C02AF89C5"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/4ebb",
+      "details": {
+        "price": "From $349s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/fl_tampanorth_drhorton_calic_nocl.jpg?as=1&w=425&rev=c045b7b23a474a92b6d2e2fe4c708cb2&hash=BDDF091959A968FA33893464DE6708AE"
+      }
+    },
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/e502",
+      "details": {
+        "price": "From $409s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,490 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e502/390_tpa_n_covington_g.jpg?as=1&w=425&rev=22fa7c5531e94cee8872ffd619e00640&hash=28486B68238D79371F41F7CCA8C18070"
+      }
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/e501",
+      "details": {
+        "price": "From $399s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,336 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/e501/390_tpa_n_denham_elevation_g.jpg?as=1&w=425&rev=eaf9e1631cc949109875e81cee0d9873&hash=244A19EC9F348C6E2CB0CA2CFBBE7FDB"
+      }
+    },
+    {
+      "name": "Denton",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/5edb",
+      "details": {
+        "price": "From $395s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,319 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/5edb/1fl_west-florida_drh_express-series_denton_c_no_hinge.jpg?as=1&w=425&rev=c85471027d40417f943b5f33f8e3fcfc&hash=D7F214AD8809007E12055D844D624772"
+      }
+    },
+    {
+      "name": "Elston II",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/e303",
+      "details": {
+        "price": "From $347s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,305 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/393690000-summit-view-40s-exp/e303/fl_tampanorth_drhorton_elstonii_g_nocl.jpg?as=1&w=425&rev=127405e8658445029a51175201f5ff8b&hash=0FF50E6A6DAE5A694508F7A961B07081"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/4ehb",
+      "details": {
+        "price": "From $387s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/fl_tampanorth_drhorton_haydeng_nocl.jpg?as=1&w=425&rev=a72b891989564087b17185c6fab32216&hash=17BB87BD223C3273E49D36FCC9B22022"
+      }
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/e402",
+      "details": {
+        "price": "From $360s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,077 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/e402/lakeside_ele_g_cs_-8_revised_1.jpg?as=1&w=425&rev=c659d9a1ad3146c9a4b8799bccf04723&hash=59A6840847F1ECDB5CD490587E5C2D5C"
+      }
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/floor-plans/5emb",
+      "details": {
+        "price": "From $384s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394470000-summit-view-60s-exp/5emb/fl_tampannorth_drhorton_madisong.jpg?as=1&w=425&rev=e10c24c8ebf044c399667b32dcfadc2e&hash=756853862C952D7B0C5DF441E2805658"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0061-35109-valley-ridge-road/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=43c61ed1da9a480d941a07eb4a873f20&hash=AB6789DD7E5B0F04A4E1ECC23F62F257"
+      ],
+      "name": "35109 Valley Ridge Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35109-valley-ridge-road",
+      "id": "35109",
+      "address": "35109 Valley Ridge Road",
+      "price": "$339,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0061-35109-valley-ridge-road/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=43c61ed1da9a480d941a07eb4a873f20&hash=AB6789DD7E5B0F04A4E1ECC23F62F257",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0005-35112-valley-ridge-road/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f8653c3340be459a994a0df626cac33e&hash=DF90E6AC6C8B4F0DABF4C59812D5AC99"
+      ],
+      "name": "35112 Valley Ridge Rd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35112-valley-ridge-road",
+      "id": "35112",
+      "address": "35112 Valley Ridge Rd",
+      "price": "$393,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0005-35112-valley-ridge-road/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f8653c3340be459a994a0df626cac33e&hash=DF90E6AC6C8B4F0DABF4C59812D5AC99",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/0060-35121-valley-ridge-road/fl_tampanorth_drhorton_ariac_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9bfe7e15786c48e8bb5e2acfc7182f01&hash=3DECA4586AE673F29F95B4F1D1328EA6"
+      ],
+      "name": "35121 Valley Ridge Rd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35121-valley-ridge-road",
+      "id": "35121",
+      "address": "35121 Valley Ridge Rd",
+      "price": "$319,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/0060-35121-valley-ridge-road/fl_tampanorth_drhorton_ariac_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9bfe7e15786c48e8bb5e2acfc7182f01&hash=3DECA4586AE673F29F95B4F1D1328EA6",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0006-35124-valley-ridge-road/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=0f3a162df6894f6a8f620444158a4a01&hash=8AEBFFCC852D8C5751CDE8A0EC83CE6E"
+      ],
+      "name": "35124 Valley Ridge Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35124-valley-ridge-road",
+      "id": "35124",
+      "address": "35124 Valley Ridge Road",
+      "price": "$339,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0006-35124-valley-ridge-road/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=0f3a162df6894f6a8f620444158a4a01&hash=8AEBFFCC852D8C5751CDE8A0EC83CE6E",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/0007-35130-valley-ridge-road/fl_tampanorth_drhorton_ariad_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=1492da8eed344a20941964d293449bc7&hash=C7EC4AA69DC8279227B5C3944F2DA4BB"
+      ],
+      "name": "35130 Valley Ridge Rd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35130-valley-ridge-road",
+      "id": "35130",
+      "address": "35130 Valley Ridge Rd",
+      "price": "$324,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/0007-35130-valley-ridge-road/fl_tampanorth_drhorton_ariad_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=1492da8eed344a20941964d293449bc7&hash=C7EC4AA69DC8279227B5C3944F2DA4BB",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/0010-35160-valley-ridge-road/fl_tampanorth_drhorton_aria_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b61bceb0b08247978a4834de6f1706a3&hash=FCC144869A4346E0A51C20F586BDD8C2"
+      ],
+      "name": "35160 Valley Ridge Road",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35160-valley-ridge-road",
+      "id": "35160",
+      "address": "35160 Valley Ridge Road",
+      "price": "$324,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4eab/0010-35160-valley-ridge-road/fl_tampanorth_drhorton_aria_c.jpg?iar=1&sc=1&thn=1&w=425&rev=b61bceb0b08247978a4834de6f1706a3&hash=FCC144869A4346E0A51C20F586BDD8C2",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0108-35480-valley-ridge-road/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=384ec94745724d259e95c12ebb084333&hash=513A2853ABFC79FB91C86E454974A5FD"
+      ],
+      "name": "35480 Valley Ridge Rd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35480-valley-ridge-road",
+      "id": "35480",
+      "address": "35480 Valley Ridge Rd",
+      "price": "$354,665",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ebb/0108-35480-valley-ridge-road/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=384ec94745724d259e95c12ebb084333&hash=513A2853ABFC79FB91C86E454974A5FD",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0109-35496-valley-ridge-road/fl_tampanorth_drhorton_haydenk_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9acaf911206b4a38a0c07fbd4c8316a1&hash=110B1C0FCCDFECFEE4A39418251BD2C5"
+      ],
+      "name": "35496 Valley Ridge Rd",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/dade-city/summit-view/qmis/35496-valley-ridge-road",
+      "id": "35496",
+      "address": "35496 Valley Ridge Rd",
+      "price": "$402,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39369-summit-view/394460000-summit-view-50s-exp/4ehb/0109-35496-valley-ridge-road/fl_tampanorth_drhorton_haydenk_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=9acaf911206b4a38a0c07fbd4c8316a1&hash=110B1C0FCCDFECFEE4A39418251BD2C5",
+      "latitude": 28.35121,
+      "longitude": -82.2356,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Pasco Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pasco Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pasco High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

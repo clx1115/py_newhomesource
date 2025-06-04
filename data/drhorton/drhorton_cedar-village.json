@@ -1,0 +1,161 @@
+{
+  "timestamp": "2025-05-31T14:42:15.401576",
+  "name": "Cedar Village",
+  "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/cedar-village",
+  "status": null,
+  "price_from": "$239,900",
+  "address": "7102 Village Ln,Pensacola, FL 32504",
+  "phone": "(850) 752-5861",
+  "description": "Find a new home in Pensacola, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/web_size.jpg"
+  ],
+  "location": {
+    "latitude": 30.49806,
+    "longitude": -87.20739,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$239,900 - $269,900",
+    "sqft_range": "From 1,537 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Palm Exterior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/cedar-village/floor-plans/rpex",
+      "details": {
+        "price": "From $270s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,553 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpex/017_1679-caleigh-court-04.jpg?as=1&w=425&rev=faec52e8951f4c7bb796357a1334d048&hash=48E70948905941A9BCAFC3F615746BC7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=7e58f2ea4d6f4ce7adc2de8a14a98b6b&hash=425994A17FDCECB7D3518839ECD5F936"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=7e58f2ea4d6f4ce7adc2de8a14a98b6b&hash=425994A17FDCECB7D3518839ECD5F936"
+        }
+      ]
+    },
+    {
+      "name": "The Palm Interior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/cedar-village/floor-plans/rpin",
+      "details": {
+        "price": "From $255s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpin/026_1679-caleigh-court-13.jpg?as=1&w=425&rev=2f821123a3914aa5a62091240135bbe9&hash=3FE52C006130C1A3D1B786A5ABD59DEC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=bb09e43a769f4e29be47a18ef7bb6121&hash=4D2F5A844F4C08489CB3BB8C29AB69A9"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=bb09e43a769f4e29be47a18ef7bb6121&hash=4D2F5A844F4C08489CB3BB8C29AB69A9"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpin/0206-7107-village-ln/web_size.jpg?as=1&w=1280&rev=28a8e5617e264a328529261cb1058069&hash=CE7AF70B9DF41A4E77B8342E3EC78340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?as=1&w=1280&rev=bb09e43a769f4e29be47a18ef7bb6121&hash=B2C698558B056E789B665755F6EB097E"
+      ],
+      "name": "7107 VILLAGE LN",
+      "plan": "The Palm Interior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/cedar-village/qmis/7107-village-ln",
+      "id": "7107",
+      "address": "7107 VILLAGE LN",
+      "price": "$239,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpin/0206-7107-village-ln/web_size.jpg?iar=1&sc=1&thn=1&w=425&rev=28a8e5617e264a328529261cb1058069&hash=13562ACF4F0893CCF1CB9F37F69E9B24",
+      "latitude": 30.49806,
+      "longitude": -87.20739,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpex/0225-7183-village-ln/web_size.jpg?as=1&w=1280&rev=c9844dfba5214988b9d3afe6c0740800&hash=62455E26C0B205CE54184D9EB54C2400",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?as=1&w=1280&rev=7e58f2ea4d6f4ce7adc2de8a14a98b6b&hash=EA7A5855C08345B10BE1EF8D9DF80431"
+      ],
+      "name": "7183 VILLAGE LN",
+      "plan": "The Palm Exterior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/cedar-village/qmis/7183-village-ln",
+      "id": "7183",
+      "address": "7183 VILLAGE LN",
+      "price": "$269,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1553",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22787-cedar-village/227870000-cedar-village/rpex/0225-7183-village-ln/web_size.jpg?iar=1&sc=1&thn=1&w=425&rev=c9844dfba5214988b9d3afe6c0740800&hash=01ACF8BDB2186BD25300C692BFCC22D9",
+      "latitude": 30.49806,
+      "longitude": -87.20739,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Reinhardt Holm Elementary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Workman Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Booker T. Washington High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

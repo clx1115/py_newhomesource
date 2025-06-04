@@ -1,0 +1,76 @@
+{
+  "timestamp": "2025-06-03T05:18:17.687307",
+  "name": "Palm Coast Villas",
+  "url": "https://www.drhorton.com/florida/north-florida/palm-coast/palm-coast-villas",
+  "status": null,
+  "price_from": "$246,990",
+  "address": "2 Pleasant Lane,Palm Coast, FL 32164",
+  "phone": "(386) 261-7832",
+  "description": "Find a new home in Palm Coast, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33569-palm-coast-homesites/338690000-palm-coast-villas/newexterior_0005_img_0001.jpg"
+  ],
+  "location": {
+    "latitude": 29.53074,
+    "longitude": -81.21991,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$246,990 - $246,990",
+    "sqft_range": "From 1,198 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Surfside",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/palm-coast-villas/floor-plans/1198",
+      "details": {
+        "price": "From $259s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,198 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33569-palm-coast-homesites/338690000-palm-coast-villas/1198/by1a0017.jpg?as=1&w=425&rev=a6d2b1d466e94fe6be229ca4c9cac013&hash=8665CF814BBF182DFE55C14E90CB2DC6"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33569-palm-coast-homesites/338690000-palm-coast-villas/1198/0035-55-rose-drive-b/1198surfside_elevation_angle_web.jpg?iar=1&sc=1&thn=1&w=425&rev=65e7fd36dfc2455fba3c72648c16de4c&hash=ADFBA8672323B3E75013AA1ABBBA248A"
+      ],
+      "name": "55 Rose Drive B",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/palm-coast-villas/qmis/55-rose-drive-b",
+      "id": "55",
+      "address": "55 Rose Drive B",
+      "price": "$246,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1198",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33569-palm-coast-homesites/338690000-palm-coast-villas/1198/0035-55-rose-drive-b/1198surfside_elevation_angle_web.jpg?iar=1&sc=1&thn=1&w=425&rev=65e7fd36dfc2455fba3c72648c16de4c&hash=ADFBA8672323B3E75013AA1ABBBA248A",
+      "latitude": 29.53074,
+      "longitude": -81.21991,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

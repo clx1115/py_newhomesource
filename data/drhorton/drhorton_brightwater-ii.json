@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-06-03T09:29:44.259663",
+  "name": "New Homes For Sale in North Fort Myers, FL",
+  "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/brightwater-ii",
+  "status": null,
+  "price_from": "$0",
+  "address": "North Fort Myers,\n\t\t\t\t\n\t\t\t\tFL 33917",
+  "phone": "",
+  "description": "Find a new home in North Fort Myers, FL! See all the floor plans, houses under construction, & move-in-ready homes available in the Southwest Florida area.\n",
+  "images": [],
+  "location": {
+    "latitude": 0,
+    "longitude": 0,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

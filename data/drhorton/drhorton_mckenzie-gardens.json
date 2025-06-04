@@ -1,0 +1,67 @@
+{
+  "timestamp": "2025-06-03T09:29:16.479546",
+  "name": "McKenzie Gardens",
+  "url": "https://www.drhorton.com/georgia/brunswick/brunswick/mckenzie-gardens",
+  "status": null,
+  "price_from": "$0",
+  "address": "1 Gardens Drive,Brunswick, GA 31525",
+  "phone": "(912) 207-9677",
+  "description": "Find a new home in Brunswick, Georgia! See all the home floor plans, houses under construction, & move-in ready homes available in the Brunswick area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/515-hilton-head-savannah/51594-mckenzie-gardens/515940000-mckenzie-gardens/2.jpg"
+  ],
+  "location": {
+    "latitude": 31.2658,
+    "longitude": -81.56622,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Golden Isles Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Jane Macon Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Brunswick High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

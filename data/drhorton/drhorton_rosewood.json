@@ -1,0 +1,233 @@
+{
+  "timestamp": "2025-06-03T15:44:28.464436",
+  "name": "Rosewood",
+  "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood",
+  "status": null,
+  "price_from": "$310,900",
+  "address": "1287 Hayward Loop,Foley, AL 36535",
+  "phone": "(251) 501-4006",
+  "description": "Find a new home in Foley, Alabama! See all the home floor plans, houses under construction, & move-in ready homes available in the Baldwin County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/cali_rosewood_exterior_front.png"
+  ],
+  "location": {
+    "latitude": 30.36778,
+    "longitude": -87.71098,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$310,900 - $341,968",
+    "sqft_range": "From 1,510 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Lake",
+      "description": "Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/floor-plans/4ebf",
+      "details": {
+        "price": "From $320s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,791 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/4ebf/cali_b8_exterior.png?as=1&w=425&rev=44d62c305c7544e3919bef2fb91ad9bd&hash=ECE9E239BE3A7BDC3B104F329EA96FE8"
+      }
+    },
+    {
+      "name": "Kelly",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/floor-plans/kell",
+      "details": {
+        "price": "From $311s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,510 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/kell/kelly_p5_front_exterior.png?as=1&w=425&rev=f16e37faa0774648831d90e1ab727dfd&hash=0F0FF472E6CD244CFCAB5A8FA06BDED6"
+      }
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/floor-plans/lake",
+      "details": {
+        "price": "From $330s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,012 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/lake/lakeside_c5_fe.jpg?as=1&w=425&rev=68d87c9d99e845af83264af460bc8a82&hash=4C3C0FC8FD269BD75FC8DAE34BDEB910"
+      }
+    },
+    {
+      "name": "Ryder",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/floor-plans/ryde",
+      "details": {
+        "price": "From $330s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,031 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/ryde/ryder_c5_exterior.png?as=1&w=425&rev=ee0f4e6590f04a0fa0a3c5e4e886bc8f&hash=63CF6B95C5BFC7E8FEB49B95F36079B3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/ryde/ryder_c_fe_floor_plan.jpg?rev=602c9328ef254b57bcabe56528c0031b&hash=E58B5EB52DC28DDF2579F6FB6021546D"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/ryde/0124-1036-hayward-loop/ryder_c8_c16_fe.jpg?iar=1&sc=1&thn=1&w=425&rev=d2b1458c26c64f49942da07d05fe1079&hash=660B2C28EA149C59DCEBB4186D27A600"
+      ],
+      "name": "1036 HAYWARD LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/qmis/1036-hayward-loop",
+      "id": "1036",
+      "address": "1036 HAYWARD LOOP",
+      "price": "$341,008",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2031",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/ryde/0124-1036-hayward-loop/ryder_c8_c16_fe.jpg?iar=1&sc=1&thn=1&w=425&rev=d2b1458c26c64f49942da07d05fe1079&hash=660B2C28EA149C59DCEBB4186D27A600",
+      "latitude": 30.36778,
+      "longitude": -87.71098,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/lake/0125-1040-hayward-loop/1040_hayward_loop.jpg?iar=1&sc=1&thn=1&w=425&rev=d89dbf9b6fb44e2ea7524a16727939eb&hash=86164EA7EA71F819AD53E98CDAE6172A"
+      ],
+      "name": "1040 HAYWARD LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/qmis/1040-hayward-loop",
+      "id": "1040",
+      "address": "1040 HAYWARD LOOP",
+      "price": "$341,968",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2012",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/lake/0125-1040-hayward-loop/1040_hayward_loop.jpg?iar=1&sc=1&thn=1&w=425&rev=d89dbf9b6fb44e2ea7524a16727939eb&hash=86164EA7EA71F819AD53E98CDAE6172A",
+      "latitude": 30.36778,
+      "longitude": -87.71098,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/ryde/0128-1052-hayward-loop/1052_hayward_loop.jpg?iar=1&sc=1&thn=1&w=425&rev=b10be4d1143a48c5bdcfc7bb2882f6b2&hash=907D28F0591D354399912F7D35CC07FC"
+      ],
+      "name": "1052 HAYWARD LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/qmis/1052-hayward-loop",
+      "id": "1052",
+      "address": "1052 HAYWARD LOOP",
+      "price": "$341,008",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2031",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/ryde/0128-1052-hayward-loop/1052_hayward_loop.jpg?iar=1&sc=1&thn=1&w=425&rev=b10be4d1143a48c5bdcfc7bb2882f6b2&hash=907D28F0591D354399912F7D35CC07FC",
+      "latitude": 30.36778,
+      "longitude": -87.71098,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/kell/0156-1248-hayward-loop/lot_156_front_exterior_rosewood.png?iar=1&sc=1&thn=1&w=425&rev=0fb0a1999f63404187c0f9f4e5bf6d61&hash=1401C45FD221A876C8E51985FE6EE79E"
+      ],
+      "name": "1248 HAYWARD LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/qmis/1248-hayward-loop",
+      "id": "1248",
+      "address": "1248 HAYWARD LOOP",
+      "price": "$327,599",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1510",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/kell/0156-1248-hayward-loop/lot_156_front_exterior_rosewood.png?iar=1&sc=1&thn=1&w=425&rev=0fb0a1999f63404187c0f9f4e5bf6d61&hash=1401C45FD221A876C8E51985FE6EE79E",
+      "latitude": 30.36778,
+      "longitude": -87.71098,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/4ebf/0154-1256-hayward-loop/cali_b5_front_exterior.png?iar=1&sc=1&thn=1&w=425&rev=b8298bc92b064d699a4d6dce8157b19c&hash=9122650782D10F6FA2CC09427A473E88"
+      ],
+      "name": "1256 HAYWARD LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/rosewood/qmis/1256-hayward-loop",
+      "id": "1256",
+      "address": "1256 HAYWARD LOOP",
+      "price": "$329,308",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56907-rosewood/569070000-rosewood/4ebf/0154-1256-hayward-loop/cali_b5_front_exterior.png?iar=1&sc=1&thn=1&w=425&rev=b8298bc92b064d699a4d6dce8157b19c&hash=9122650782D10F6FA2CC09427A473E88",
+      "latitude": 30.36778,
+      "longitude": -87.71098,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Florence B. Mathis Elementary",
+          "type_and_grades": "K-6th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Foley Middle School",
+          "type_and_grades": "7-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Foley High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

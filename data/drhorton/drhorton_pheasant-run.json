@@ -1,0 +1,252 @@
+{
+  "timestamp": "2025-06-01T06:59:49.466177",
+  "name": "Pheasant Run",
+  "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run",
+  "status": null,
+  "price_from": "$300,000",
+  "address": "12539 Pheasant Run,Elberta, AL 36530",
+  "phone": "(251) 501-4006",
+  "description": "Find a new home in Elberta, Alabama! See all the home floor plans, houses under construction, & move-in ready homes available in the Baldwin County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/pheasant_run_cairn_front_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 30.40785,
+    "longitude": -87.61394,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$300,000 - $309,900",
+    "sqft_range": "From 1,734 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Lake",
+      "description": "Lake",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Alston",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run/floor-plans/5eaf",
+      "details": {
+        "price": "From $317s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,755 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/1alston_j5_front_exterior.png?as=1&w=425&rev=0d83b6ec3a36461db3bd221660d74ae1&hash=7AF71DADE5E655CA7EA6BE9EC56F26F1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/alston_fe_j_k_-_floor_plan.jpg?rev=733b3515d6bf4974ba2d2bfec97cd5ac&hash=01791B5A97B2596C821CDC093D5E9D1B"
+        }
+      ]
+    },
+    {
+      "name": "Booth",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run/floor-plans/5ebf",
+      "details": {
+        "price": "From $332s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,915 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5ebf/booth_k4_front_exterior.png?as=1&w=425&rev=45617e8c1ce34e5996bc1959e2e5aa4e&hash=7F66B1A89321399FE375891C778A4A26"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5ebf/booth_fe_j_-_floor_plans.jpg?rev=2eec5d50573140cc9937f4370e30a61a&hash=CCE95313ED785EEA6A911F7F4142B8FC"
+        }
+      ]
+    },
+    {
+      "name": "Cairn",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run/floor-plans/5ecf",
+      "details": {
+        "price": "From $337s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,047 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5ecf/lot_156_cairn_j8_front_exterior.png?as=1&w=425&rev=ebd41e1a044449bbbf056e5c05539fc2&hash=18254635889A9FB02FA1D85701A7654D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5ecf/cairn_fe_j_k_-_floor_plan.jpg?rev=070b1878ae084ba19dafc993369fd7a2&hash=34E51E4FBA6245088E27E3EF9B4B773D"
+        }
+      ]
+    },
+    {
+      "name": "Denton",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run/floor-plans/5edf",
+      "details": {
+        "price": "From $339s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,250 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5edf/denton_exterior.png?as=1&w=425&rev=30c6884c0000404b9b19ddf3fd83e5df&hash=C5CE6B8CC3D49D9A75C9A723E79082B1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5edf/denton_h_fe_floor_plan.jpg?rev=10155ef658664d059349f3ddea48432b&hash=E43E3CDD9C984105D0E38B093FB7AC26"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/alston_j8_24369_ringneck_loop.png?as=1&w=494&rev=7aee6f2d1e4842ae85987c64be999f7b&hash=12DA607E00C51189288E04455E06855F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/1alston_entry.jpg?as=1&w=494&rev=b1795b954844423c89a5527565bc1448&hash=62D31FFF1A464201DAF67209EB47B48F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/2alston_entry_hallway.jpg?as=1&w=494&rev=92fc857a204a4e6382d5dadc32027fb0&hash=C8CA9484D2643EC4300929858FB764CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/3alston_primary_bedroom.jpg?as=1&w=494&rev=26f3b29a9dc14ff0a5254befe52da378&hash=8E8495F3CFF36BEC24DD01978B266BAB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/4alston_primary_bedroom_2.jpg?as=1&w=494&rev=958deffb4de14800b446aff1873b8bf2&hash=7325E22A8F7438132BD4D4FC2A51471E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/5alston_primary_bedroom_3.jpg?as=1&w=494&rev=6983e4d38db040e58fd7bf2336d08207&hash=67570018054423FD35B161443BB09C3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/6alston_primary_closet.jpg?as=1&w=494&rev=9229afcee15c44659a1fb7b05a770a09&hash=84F81E513185DC74FFD2D2192EE8FE5A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/7alston_primary_bathroom.jpg?as=1&w=494&rev=9db8e245444440949f33e935309fba10&hash=B8415031DE3907AA1077A0CEDCCC7359",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/8alston_primary_bathroom_2.jpg?as=1&w=494&rev=1c8502da1db94cc8945cb4932bf40ad6&hash=DEF7EEB37F551599E78BEA9D719B18B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/9alston_primary_bathroom_3.jpg?as=1&w=494&rev=186deddce1c64ca68f009bde79b6906e&hash=78D1550D1ABA772301741C6F0062C151",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/10alston_great_room.jpg?as=1&w=494&rev=7ddc4d8f8e3f47b683536d8a20be633d&hash=CF440D14C11250EEF71E994155365846",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/11alston_great_room_2.jpg?as=1&w=494&rev=4391a090764d4af69dd2e1ed89960650&hash=117E66B5B48080956EB2FC925C58C38A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/12alston_great_room_3.jpg?as=1&w=494&rev=2e1b3843162141b7a72cab77db5a7420&hash=AF66858D513CB3F22366886C1F4A5D83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/13alston_kitchen.jpg?as=1&w=494&rev=a5daec0140664ba7a475dd6e501ae97d&hash=7B7688351DA9FF2D72177D4579D4A367",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/14alston_kitchen_2.jpg?as=1&w=494&rev=58cf721fd9bc4943b094e22a34d98133&hash=8DE1D995B2831A1C4FB785ED6F6F11FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/15alston_kitchen_island.jpg?as=1&w=494&rev=cb095892fd2043039f6060a7f9eafbeb&hash=2140E118D8DE7BB875541DC524A3077E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/16alston_dining.jpg?as=1&w=494&rev=ad49572627e4402e9a19f1d0cd02b1b0&hash=B31AF713CAEB467A1955C28A559D9181",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/17alston_dining_2.jpg?as=1&w=494&rev=478dba21403344bf9c468e2e101bdf45&hash=E411C23E9BAE517FA8DCF2C07965B978",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/18alston_hallway.jpg?as=1&w=494&rev=6774f20e2e964f4d927960ff2f9e036f&hash=14DAB809F2F326FAD5CE3760ACEE10A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/19alston_laundry_room.jpg?as=1&w=494&rev=e37ef4f3d82649a4a77ef22acd477d76&hash=BD67BD26D25C3AFD3BEDFD94617FBB35",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/20alston_second_bedroom.jpg?as=1&w=494&rev=84af78cff0294e819b768ea7b41e45e4&hash=25C7F7D1ADDEED2909716A54C434EE62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/21alston_second_bedroom_2.jpg?as=1&w=494&rev=dd7330a80afe4f3aba6896120f95430e&hash=23DD5DFB25547BDB6B63AA128E93006A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/22alston_third_bedroom.jpg?as=1&w=494&rev=ecb8bbf5d608417d98d3f8595140bcea&hash=2173118040D47ABF7C5C74EEF7E215EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/23alston_third_bedroom_2.jpg?as=1&w=494&rev=ab21f1870c9548f6b2e9f1fae76dae6d&hash=765252ED08503728B4DFD60B7800448F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/24alston_second_bathroom.jpg?as=1&w=494&rev=3fe2627e7c3849928fec6141a72eb4dc&hash=95519511D3EA8651CA672D2F9E79B897",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/25alston_second_bathroom_2.jpg?as=1&w=494&rev=cf65eb54843a477994dbd5f118786f7b&hash=74D76074914686030C105E80EFEC2E80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/26alston_back_porch.jpg?as=1&w=494&rev=a23bccffaba64fc2ababe335128dd2ed&hash=E046A42A21D7B919F729FB13F9B20EDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/27alsotn_back_exterior.jpg?as=1&w=494&rev=a03f3d73eaee458aa63e10d339912805&hash=152CD1807A974E5362B5A64A043FB73A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/28alston_back_exterior_2.jpg?as=1&w=494&rev=b9d7e6f958c940aea7ae5005de4178c2&hash=EDC906C3847571F7CF13555D31F258DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/community_entrance.jpg?as=1&w=494&rev=ddc4c6653f7e40f7807cc62a1234c837&hash=1F3A7AF36FB38506CB3714E7A5E7D238",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/alston_fe_j_k_-_floor_plan.jpg?rev=733b3515d6bf4974ba2d2bfec97cd5ac&hash=01791B5A97B2596C821CDC093D5E9D1B"
+      ],
+      "name": "24144 RIEGER DRIVE",
+      "plan": "Alston",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run/qmis/24144-rieger-drive",
+      "id": "24144",
+      "address": "24144 RIEGER DRIVE",
+      "price": "$309,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1755",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0046-24144-rieger-drive/alston_j8_24369_ringneck_loop.png?iar=1&sc=1&thn=1&w=425&rev=7aee6f2d1e4842ae85987c64be999f7b&hash=CC08F92E548C5E95A0C56E2E01287405",
+      "latitude": 30.40785,
+      "longitude": -87.61394,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/alston_j5_24593_ringneck_loop.png?as=1&w=494&rev=ff5779f1750547bcbaa013b9054cd6b5&hash=1173EF6E6F31605EB8425A8FC7E977D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/1alston_entry.jpg?as=1&w=494&rev=00ad4172e96f43aeb84821b3691cd5b1&hash=2BD70490CD16F6B75B628317A2AF84C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/2alston_entry_hallway.jpg?as=1&w=494&rev=cd17b7c91ebc455ea2b9cc8093946ce0&hash=8EC0EE4B07F5A066EBC74650BF613598",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/3alston_primary_bedroom.jpg?as=1&w=494&rev=dda3289b635749cf969cd3a7d823b194&hash=2905B2701C4D7A304BFA87CEC20F1C0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/4alston_primary_bedroom_2.jpg?as=1&w=494&rev=03531f66df2b400a9335c9258dff1c44&hash=5B0B1176F0D08134AF80662888B40807",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/5alston_primary_bedroom_3.jpg?as=1&w=494&rev=f60dca46f11c48a7b9bbf72efa2cc392&hash=AC4A9D4070B864E90DA1C310BEDD430A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/6alston_primary_closet.jpg?as=1&w=494&rev=28577eb45bd1402dbdf448d40800d352&hash=C53C00874C5629FA09D4C10BF3EBE77A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/7alston_primary_bathroom.jpg?as=1&w=494&rev=42c8d45a4f4340bf8d2135b65566fafc&hash=82F2B358406EB0B6DD822FBB64E75E00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/8alston_primary_bathroom_2.jpg?as=1&w=494&rev=e990b6d0b1e8443bba70602f196e3260&hash=476AB82A1F31651C342FCAAC8E8C51D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/9alston_primary_bathroom_3.jpg?as=1&w=494&rev=bda54d386b1c47fbbc62ccd3841735c7&hash=8A4E456153096A7EF262DBB852C4A0E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/10alston_great_room.jpg?as=1&w=494&rev=a1ca2ecc121b4710899a861d70be15ae&hash=A36CA7E1976184D1ADA5350A7BBFB8C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/11alston_great_room_2.jpg?as=1&w=494&rev=567fd75a5db24630a7efc6b4145c7496&hash=23BBEB3F473B02112BBD14AC95800981",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/12alston_great_room_3.jpg?as=1&w=494&rev=f51d26f7e4a3492984c67d13b3d2f5f3&hash=CA22C10728B35645198BE6B679BEB9EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/13alston_kitchen.jpg?as=1&w=494&rev=15b4896e329245d98b9844632c1918c5&hash=12548802D59E03F18334A7F23C457FBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/14alston_kitchen_2.jpg?as=1&w=494&rev=6cb3dbc110134f81ac68a05cb3642a53&hash=7236E2A70EB73DE563BC09CEB1C20ED8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/15alston_kitchen_island.jpg?as=1&w=494&rev=3be5c15fd08c434ea374361fd00e4d23&hash=CB794706F8D3FB9AE23BF2AB6B0DDF65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/16alston_dining.jpg?as=1&w=494&rev=e99c60dad4174eaca16638c57361f174&hash=ED25ED12EE69592621008901A9AF0EAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/17alston_dining_2.jpg?as=1&w=494&rev=c6644cff3c6b49d88aec2033cc208480&hash=427F37882C8B8B72CD5143AD60EDCC6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/18alston_hallway.jpg?as=1&w=494&rev=30d0cecc1b8d41538e225c8b80e74cca&hash=A6CAF695E90A6BE628FCB4F38FC5EF38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/19alston_laundry_room.jpg?as=1&w=494&rev=77469368106546f9a99ff98051d1dbd8&hash=00103EDC3C3B09C2B812A38F2098DEF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/20alston_second_bedroom.jpg?as=1&w=494&rev=b2777cb4d0934d679571fa5a66389098&hash=CB755B611B432F17CE568C85ADFDC8A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/21alston_second_bedroom_2.jpg?as=1&w=494&rev=7095288201744e36b6822adfceb2f93d&hash=246C101393D9D0843100C15454468649",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/22alston_third_bedroom.jpg?as=1&w=494&rev=8489cdcd061647aa8cf88ccc8edeae4c&hash=AB342F6A14BF32F98DC14CCC2C7D471D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/23alston_third_bedroom_2.jpg?as=1&w=494&rev=0a1318bf44624bb8b2ed0d16449a0e75&hash=63114CFBB0954E112960DEFA88EEC629",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/24alston_second_bathroom.jpg?as=1&w=494&rev=6eb6fbf920234bb4aca1e187674f3a2b&hash=F0EEE4C83C15ED5A1AD16D332B87CE47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/25alston_second_bathroom_2.jpg?as=1&w=494&rev=2d93ab2b750c4bb6a46d64831c1050bf&hash=1C01F8DAF8C3F07B8E9F1B04C06D403B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/26alston_back_porch.jpg?as=1&w=494&rev=709376d9439f49afb39da8bc54849340&hash=E71B81B9297571B837F206FF1E7C49A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/27alsotn_back_exterior.jpg?as=1&w=494&rev=6d32b25f2e454cf8a1b99be24975fa6a&hash=BC7062AFAF5FFC918190C9AD1F479B8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/28alston_back_exterior_2.jpg?as=1&w=494&rev=f5e2cb13c5304afd97061106fd67a8e2&hash=D7243F13DD0548B575282C6F887C242D"
+      ],
+      "name": "24593 RINGNECK LOOP",
+      "plan": "Alston",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/elberta/pheasant-run/qmis/24593-ringneck-loop",
+      "id": "24593",
+      "address": "24593 RINGNECK LOOP",
+      "price": "$300,000",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1755",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56788-pheasant-run/567880000-pheasant-run/5eaf/0061-24593-ringneck-loop/alston_j5_24593_ringneck_loop.png?iar=1&sc=1&thn=1&w=425&rev=ff5779f1750547bcbaa013b9054cd6b5&hash=E5BF197FD2D32E79923546ED649F063A",
+      "latitude": 30.40785,
+      "longitude": -87.61394,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Elberta Elementary School",
+          "type_and_grades": "K-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Elberta Middle School",
+          "type_and_grades": "7-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Elberta High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "timestamp": "2025-05-31T20:06:06.836001",
+  "name": "Huntington Ridge",
+  "url": "https://www.drhorton.com/florida/west-central-florida/ocala/huntington-ridge",
+  "status": null,
+  "price_from": "$311,990",
+  "address": "7211 SW 135th Place,Ocala, FL 34473",
+  "phone": "(352) 660-1142",
+  "description": "Find a new home in Ocala, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/denton_d_at_lake_diamond_cropped.png"
+  ],
+  "location": {
+    "latitude": 29.025,
+    "longitude": -82.23976,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$311,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Concrete block construction",
+      "description": "Concrete block construction",
+      "icon_url": null
+    },
+    {
+      "name": "Large homesites",
+      "description": "Large homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Washer & dryer",
+      "description": "Washer & dryer",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby SR",
+      "description": "Nearby SR-200",
+      "icon_url": null
+    },
+    {
+      "name": "Nature trails & state",
+      "description": "Nature trails & state parks close by",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/huntington-ridge/floor-plans/4eab",
+      "details": {
+        "price": "From $312s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4eab/aria_d_ocs_8563_sw_46th_terrace.png?as=1&w=425&rev=b5dbcb8ac4c74317ae30f71afbf26fb4&hash=C70F93FA160EAD0EE411FFD18797772F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=70c715f93e504b6d890ae2939b4125ed&hash=96746F609FDC70912A8C7A4997E154D6"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/huntington-ridge/floor-plans/4ebb",
+      "details": {
+        "price": "From $327s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4ebb/fl_west_florida_dr_horton_express_cali_c_8f_brookside_1.jpg?as=1&w=425&rev=bf94e63c8c804524b656e968417f7ad5&hash=8D35BFE7E19B7C83F42D222C988E6C6F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=26ee1ef7055d49feaaae4accdd0ec02f&hash=92F70C0CB362491A60437642E583CC7D"
+        }
+      ]
+    },
+    {
+      "name": "Denton",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/huntington-ridge/floor-plans/5edb",
+      "details": {
+        "price": "From $349s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,319 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/5edb/denton_d_at_lake_diamond_cropped.png?as=1&w=425&rev=e5ac5e765d3d497f8664a34518ea10c0&hash=662DC4F05B84E78F7926ABFB41CD3BF8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/5edb/fl_west_florida_dr_horton_express_denton_block_new.jpg?rev=428eecfb1de94ecdb7abbb51997fd0b5&hash=2D2AD7043782D46DE4BD397B70F773EA"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/ocala/huntington-ridge/floor-plans/4ehb",
+      "details": {
+        "price": "From $366s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4ehb/hayden_k_ocs.png?as=1&w=425&rev=591ac79c1fa04e328ce471b14097406d&hash=0A5333EAB528AD565A8F0C43D1EE0711"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=9c5c97fddfb945d99b5b16c862ac89f5&hash=100FE65777DB13D3FE2C5C1CDA722EF7"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34778-huntington-ridge/347780000-huntington-ridge/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=9c5c97fddfb945d99b5b16c862ac89f5&hash=100FE65777DB13D3FE2C5C1CDA722EF7"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sunrise Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Horizon Academy at Marion Oaks",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Dunnellon High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "timestamp": "2025-06-03T12:27:17.659130",
+  "timestamp": "2025-05-30T04:04:18.604985",
   "name": "Angeline Townhomes",
   "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes",
   "status": null,
-  "price_from": "$301,990",
+  "price_from": "$300,990",
   "address": "11024 Crescent Deer Dr,Land O Lakes, FL 34638",
   "phone": "(813) 856-2737",
   "description": "Find a new home in Land O Lakes, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
@@ -20,9 +20,9 @@
     }
   },
   "details": {
-    "price_range": "$301,990 - $345,990",
+    "price_range": "$300,990 - $346,990",
     "sqft_range": "From 1,673 Sq. Ft.",
-    "bed_range": "3",
+    "bed_range": null,
     "bath_range": "2.5",
     "stories_range": "2",
     "community_count": 1
@@ -84,7 +84,7 @@
       "name": "Addington",
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/floor-plans/1758",
       "details": {
-        "price": "From $321s",
+        "price": "From $320s",
         "beds": "3 bd",
         "baths": "2.5 ba",
         "half_baths": null,
@@ -107,7 +107,7 @@
       "name": "Ballantyne",
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/floor-plans/1673",
       "details": {
-        "price": "From $302s",
+        "price": "From $301s",
         "beds": "3 bd",
         "baths": "2.5 ba",
         "half_baths": null,
@@ -130,6 +130,25 @@
   "homesites": [
     {
       "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1758/0098-11393-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=375d37267d25437e87b4dcdb703bea55&hash=1209E7897BCDA826C75C81E3D26CA84B"
+      ],
+      "name": "11393 Velvet Apricot Drive",
+      "plan": "Addington",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11393-velvet-apricot-drive",
+      "id": "11393",
+      "address": "11393 Velvet Apricot Drive",
+      "price": "$346,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1758/0098-11393-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=375d37267d25437e87b4dcdb703bea55&hash=1209E7897BCDA826C75C81E3D26CA84B",
+      "latitude": 28.32552,
+      "longitude": -82.53165,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
         "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1673/0099-11399-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=d8fbcbf81aef4192b2e0827f6ebb6425&hash=7FDE824251B022110E002BC821C1E790"
       ],
       "name": "11399 Velvet Apricot Drive",
@@ -137,12 +156,31 @@
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11399-velvet-apricot-drive",
       "id": "11399",
       "address": "11399 Velvet Apricot Drive",
-      "price": "$321,990",
+      "price": "$320,990",
       "beds": "3",
       "baths": "2.5",
       "sqft": "1673",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1673/0099-11399-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=d8fbcbf81aef4192b2e0827f6ebb6425&hash=7FDE824251B022110E002BC821C1E790",
+      "latitude": 28.32552,
+      "longitude": -82.53165,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1673/0100-11403-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=59a4a1cfaa75428ba0bdc582d7c7c3ff&hash=9E2C7F98CECBDEEC2AE39279607A835E"
+      ],
+      "name": "11403 Velvet Apricot Drive",
+      "plan": "Ballantyne",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11403-velvet-apricot-drive",
+      "id": "11403",
+      "address": "11403 Velvet Apricot Drive",
+      "price": "$325,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1673/0100-11403-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=59a4a1cfaa75428ba0bdc582d7c7c3ff&hash=9E2C7F98CECBDEEC2AE39279607A835E",
       "latitude": 28.32552,
       "longitude": -82.53165,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
@@ -156,7 +194,7 @@
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11404-velvet-apricot-drive",
       "id": "11404",
       "address": "11404 Velvet Apricot Drive",
-      "price": "$345,990",
+      "price": "$344,990",
       "beds": "3",
       "baths": "2.5",
       "sqft": "1758",
@@ -175,7 +213,7 @@
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11407-velvet-apricot-drive",
       "id": "11407",
       "address": "11407 Velvet Apricot Drive",
-      "price": "$328,990",
+      "price": "$327,990",
       "beds": "3",
       "baths": "2.5",
       "sqft": "1673",
@@ -194,7 +232,7 @@
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11408-velvet-apricot-drive",
       "id": "11408",
       "address": "11408 Velvet Apricot Dr",
-      "price": "$315,990",
+      "price": "$314,990",
       "beds": "3",
       "baths": "2.5",
       "sqft": "1673",
@@ -213,12 +251,31 @@
       "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11411-velvet-apricot-drive",
       "id": "11411",
       "address": "11411 Velvet Apricot Drive",
-      "price": "$325,990",
+      "price": "$324,990",
       "beds": "3",
       "baths": "2.5",
       "sqft": "1673",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1673/0102-11411-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=641818bae2dc456e9d263f8e04c2df23&hash=983D7CCACE0A2D62A084903991AF2915",
+      "latitude": 28.32552,
+      "longitude": -82.53165,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1758/0091-11412-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=18b28dcb0eeb40cda3729fd7360c74ce&hash=250C9D53A0A9AD2A32DE144CFC48280F"
+      ],
+      "name": "11412 Velvet Apricot Drive",
+      "plan": "Addington",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline-townhomes/qmis/11412-velvet-apricot-drive",
+      "id": "11412",
+      "address": "11412 Velvet Apricot Drive",
+      "price": "$344,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39465-angeline/394650000-angeline-th/1758/0091-11412-velvet-apricot-drive/1-addington-ballantyne-front.jpg?iar=1&sc=1&thn=1&w=425&rev=18b28dcb0eeb40cda3729fd7360c74ce&hash=250C9D53A0A9AD2A32DE144CFC48280F",
       "latitude": 28.32552,
       "longitude": -82.53165,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."

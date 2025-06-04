@@ -1,0 +1,258 @@
+{
+  "timestamp": "2025-06-03T12:57:39.856656",
+  "name": "Hansen Creek",
+  "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek",
+  "status": null,
+  "price_from": "$0",
+  "address": "12704 Geronimo Place,Jacksonville, FL 32218",
+  "phone": "(904) 875-3236",
+  "description": "Find a new home in Jacksonville, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395greyson_duplex_web.jpg"
+  ],
+  "location": {
+    "latitude": 30.46308,
+    "longitude": -81.7096,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0 - $276,990",
+    "sqft_range": "From 1,395 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Greyson",
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/floor-plans/1395",
+      "details": {
+        "price": "From $266s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,395 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/01main.jpg?as=1&w=425&rev=90bff5e14e13429cb3f407cce5fb6d94&hash=7448CE2B8A3A10D841E8D96D01A8D41B"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5140-12715-geronimo-place/05main.jpg?iar=1&sc=1&thn=1&w=425&rev=c017e2e5ee104b83ae99926702cb09eb&hash=2CD60C9BA57899E6C4BC2DB9E9ED65C8"
+      ],
+      "name": "12715 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12715-geronimo-place",
+      "id": "12715",
+      "address": "12715 GERONIMO PLACE",
+      "price": "$270,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5140-12715-geronimo-place/05main.jpg?iar=1&sc=1&thn=1&w=425&rev=c017e2e5ee104b83ae99926702cb09eb&hash=2CD60C9BA57899E6C4BC2DB9E9ED65C8",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5007-12716-geronimo-place/01main.jpg?iar=1&sc=1&thn=1&w=425&rev=3691f45b03db46c28eb1b9fafc86e1cb&hash=3A99D50B915D8A9EA4FE87CB19C0A081"
+      ],
+      "name": "12716 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12716-geronimo-place",
+      "id": "12716",
+      "address": "12716 GERONIMO PLACE",
+      "price": "$269,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5007-12716-geronimo-place/01main.jpg?iar=1&sc=1&thn=1&w=425&rev=3691f45b03db46c28eb1b9fafc86e1cb&hash=3A99D50B915D8A9EA4FE87CB19C0A081",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5139-12717-geronimo-place/04main.jpg?iar=1&sc=1&thn=1&w=425&rev=175e97f56b0e4de1aa22da627553f2c2&hash=320EE3F2C415D2A86F25DFA4EB1BEA2A"
+      ],
+      "name": "12717 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12717-geronimo-place",
+      "id": "12717",
+      "address": "12717 GERONIMO PLACE",
+      "price": "$270,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5139-12717-geronimo-place/04main.jpg?iar=1&sc=1&thn=1&w=425&rev=175e97f56b0e4de1aa22da627553f2c2&hash=320EE3F2C415D2A86F25DFA4EB1BEA2A",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/02main.jpg?as=1&w=494&rev=ecc356ef9c2349d68807514550667231&hash=99176D21BBCC028693C0AC73EF456BC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/exterior_2.jpg?as=1&w=494&rev=32966f78a63d49b9885974da49f35f08&hash=7891849944E661CBC7A3056E924B3194",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0001_6f1a0003.jpg?as=1&w=494&rev=29a0f715bc864546acfb21ddde41f6d4&hash=3B2B75454AB8082247985F35790E0CA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0002_6f1a0015.jpg?as=1&w=494&rev=f1d6c7629e094aa1a4459fadaa500eb4&hash=9B3D363EEF49D2FEDA1295D3139DC892",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0003_6f1a0027.jpg?as=1&w=494&rev=e1fd57106cd642a79285853d23aa7c13&hash=5013C2C046515E87C810F9A70DDD8465",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0004_6f1a0043.jpg?as=1&w=494&rev=e437dcd12daa40bea298b1f0471d110f&hash=EAC5F2CE9F75487B1E054E8983F72A95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0005_6f1a0051.jpg?as=1&w=494&rev=d93789c7c4284ddbada971df6597e477&hash=76890591031B694BF5C4A60C450CE929",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0047.jpg?as=1&w=494&rev=cdd63ef8fcb54484aa6038cc954db4df&hash=83DDC6D068AD1A41752171A884B8D9AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0067.jpg?as=1&w=494&rev=f00b1b9df6f0499cbad2e07f5c6c3cf2&hash=F30F0ED828636DD8F4A2628A3D5343C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0071.jpg?as=1&w=494&rev=2fcb82922d5646738b2baa3e1095e843&hash=954020334DC2C56591B89F878E396B9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0083.jpg?as=1&w=494&rev=1fcdd58557d34cb88e46be9563084f2b&hash=7CE4D79F0E01BBB68EE813743ECC9386",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0103.jpg?as=1&w=494&rev=adadc39d630f4ccd83dd208c21636a94&hash=95AB37DFE136CCD9347F3CF642ABD1D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0139.jpg?as=1&w=494&rev=ccae915d7f2b43ec96db4f8a48bb32de&hash=ADA599A79F24209C8B78AF2D7B39AC40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0147.jpg?as=1&w=494&rev=7826e74856314b888c81716e6aa6e7e3&hash=41CAE26F5BAE758D6810C4B4D4E28602",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0148.jpg?as=1&w=494&rev=9ed0f584f9c74c119ff6e57c2056c51f&hash=4BE8CC7E0D31E06D39247D946968D566",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0149.jpg?as=1&w=494&rev=dc13129b618a4aedbf8221b3e27b070b&hash=0854DE7E238F9990599B64A708BA548C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0171.jpg?as=1&w=494&rev=89abc9509f7d410d851ca5100b94f13b&hash=73C6C81AD6F6B7C7D2380E557B54F481",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0006_6f1a0183.jpg?as=1&w=494&rev=e6aba06d11594a638f3d087695d0a7d4&hash=94F6EE93F7E6BBDD68080CCF5768E6AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0008_6f1a0159.jpg?as=1&w=494&rev=b90a3607dcb24b719630813bc072924d&hash=170CC77C95310B10098FB6ABFD7FB228",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0008_6f1a0187.jpg?as=1&w=494&rev=db28a4a41ef644f7949897111e85fcb2&hash=DB6A44D970A0FF59B059B8D881411908",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0008_6f1a0203.jpg?as=1&w=494&rev=1fc55c648f4347d49dd83a0fc1c6826a&hash=95A816DC5EADE3451CCBCB1B1F681E24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0014_6f1a0115.jpg?as=1&w=494&rev=d11f13a82de946a3a9fae1229909d926&hash=B3D54FAC5DE4885C54713CA361C70C6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/irongate_0016_6f1a0091.jpg?as=1&w=494&rev=c2c98c726f244688b00a38b328c91ad3&hash=0B86AF6605B5639646942B9D046BB574",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/z-homeisconnected_1920x1080.jpg?as=1&w=494&rev=b733897f852b49698360dc909a8c162c&hash=741DCBA39F72DE2F9550F6CA5AEE4F40",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "12718 GERONIMO PLACE",
+      "plan": "Greyson",
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12718-geronimo-place",
+      "id": "12718",
+      "address": "12718 GERONIMO PLACE",
+      "price": "$275,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5008-12718-geronimo-place/02main.jpg?iar=1&sc=1&thn=1&w=425&rev=ecc356ef9c2349d68807514550667231&hash=FEA9221ED0F1105CFCDF3A3926B2A620",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5138-12719-geronimo-place/03main.jpg?iar=1&sc=1&thn=1&w=425&rev=6eb427f5292447a686a9b1248451ecc3&hash=591A585EB91EFD998053F1BF99A06103"
+      ],
+      "name": "12719 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12719-geronimo-place",
+      "id": "12719",
+      "address": "12719 GERONIMO PLACE",
+      "price": "$276,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5138-12719-geronimo-place/03main.jpg?iar=1&sc=1&thn=1&w=425&rev=6eb427f5292447a686a9b1248451ecc3&hash=591A585EB91EFD998053F1BF99A06103",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5009-12720-geronimo-place/03main.jpg?iar=1&sc=1&thn=1&w=425&rev=357c51a6555e4f66956d12b75b3d80ee&hash=F338A857AF6A01F0BB27D3CC0F73BCF3"
+      ],
+      "name": "12720 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12720-geronimo-place",
+      "id": "12720",
+      "address": "12720 GERONIMO PLACE",
+      "price": "$269,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5009-12720-geronimo-place/03main.jpg?iar=1&sc=1&thn=1&w=425&rev=357c51a6555e4f66956d12b75b3d80ee&hash=F338A857AF6A01F0BB27D3CC0F73BCF3",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5137-12721-geronimo-place/02main.jpg?iar=1&sc=1&thn=1&w=425&rev=67863b2711234b318dade5b23af19fa9&hash=5D7395BE562DFBD46B74410B8AFB87AF"
+      ],
+      "name": "12721 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12721-geronimo-place",
+      "id": "12721",
+      "address": "12721 GERONIMO PLACE",
+      "price": "$276,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5137-12721-geronimo-place/02main.jpg?iar=1&sc=1&thn=1&w=425&rev=67863b2711234b318dade5b23af19fa9&hash=5D7395BE562DFBD46B74410B8AFB87AF",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5010-12722-geronimo-place/05main.jpg?iar=1&sc=1&thn=1&w=425&rev=43b84b617f8d43fc887ca805eb14f746&hash=FA6423F6926F92D6DDF22C4651399D2F"
+      ],
+      "name": "12722 GERONIMO PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/jacksonville/hansen-creek/qmis/12722-geronimo-place",
+      "id": "12722",
+      "address": "12722 GERONIMO PLACE",
+      "price": "$270,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1395",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville-north/33870-hansen-creek/338700000-hansen-creek/1395/5010-12722-geronimo-place/05main.jpg?iar=1&sc=1&thn=1&w=425&rev=43b84b617f8d43fc887ca805eb14f746&hash=FA6423F6926F92D6DDF22C4651399D2F",
+      "latitude": 30.46308,
+      "longitude": -81.7096,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Garden City Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Highlands Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Jean Ribault High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

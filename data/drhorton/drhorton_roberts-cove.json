@@ -1,6 +1,7 @@
 {
-  "timestamp": "2025-05-29T15:02:18.664395",
+  "timestamp": "2025-05-30T03:07:36.906415",
   "name": "Robert's Cove",
+  "url": "https://www.drhorton.com/alabama/baldwin-county/foley/roberts-cove",
   "status": null,
   "price_from": "$299,900",
   "address": "22202 Aleutian Avenue,Foley, AL 36535",
@@ -249,10 +250,8 @@
       "sqft": "1611",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567920000-roberts-cove-50s/jemi/0377-21952-seabrooke-avenue/21952_seabrooke_avenue.jpg?iar=1&sc=1&thn=1&w=425&rev=aad469de791f4da69f4bca2a25aa0f4f&hash=E5D87543AEBCE036872FFECD5E41537A",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -300,10 +299,8 @@
       "sqft": "1272",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567920000-roberts-cove-50s/aldr/0066-22019-aleutian-avenue/22019_aleutian_avenue.jpg?iar=1&sc=1&thn=1&w=425&rev=b3d3dff4002b412b9c0ac861e6dd281d&hash=F5CB90481DF474600B3A19E92F7FF459",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -354,10 +351,8 @@
       "sqft": "2031",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567920000-roberts-cove-50s/ryde/0201-22029-seabrooke-avenue/22029_seabrooke_avenue.jpg?iar=1&sc=1&thn=1&w=425&rev=abfdc2f20a1a4b02bee9b4c00c8cc072&hash=46AEE7388670A5B2720B0E64CF2CDBD4",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -407,10 +402,8 @@
       "sqft": "2047",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567930000-roberts-cove-60s/5ecf/0156-22060-aleutian-avenue/22060_aleutian_avenue_roberts_cove_cairn_j8.png?iar=1&sc=1&thn=1&w=425&rev=68360a9a345441909e6ae8748ea313bc&hash=811A74E6AB8F9207149DE815B113C164",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -460,10 +453,8 @@
       "sqft": "2047",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567930000-roberts-cove-60s/5ecf/0153-22096-aleutian-avenue/22096_aleutian_avenue_roberts_cove_cairn_k8.png?iar=1&sc=1&thn=1&w=425&rev=fbb652f603934245baa661ce1f4c4d2e&hash=921AACA41CA5D87B0AAE035DFF0EB621",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -513,10 +504,8 @@
       "sqft": "2047",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567930000-roberts-cove-60s/5ecf/0206-22115-seabrooke-avenue/cairn_k8_fe.jpg?iar=1&sc=1&thn=1&w=425&rev=29c6afaf946c46818d8708ee39213c8e&hash=2C8404B4B73438AADE1D2EC69A6AA63F",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     },
     {
@@ -566,10 +555,8 @@
       "sqft": "2047",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56792-roberts-cove/567930000-roberts-cove-60s/5ecf/0218-22277-seabrooke-avenue/lot_218_cairn_k8_front_exterior.png?iar=1&sc=1&thn=1&w=425&rev=9bf2881ad23f472db538671cf314404f&hash=4288F4D5315AC604A4B15345314BA581",
-      "location": {
-        "latitude": 30.35533,
-        "longitude": -87.6476
-      },
+      "latitude": 30.35533,
+      "longitude": -87.6476,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
     }
   ],

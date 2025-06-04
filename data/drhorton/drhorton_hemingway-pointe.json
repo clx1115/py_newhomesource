@@ -1,0 +1,187 @@
+{
+  "timestamp": "2025-05-31T16:43:39.651685",
+  "name": "Hemingway Pointe",
+  "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe",
+  "status": null,
+  "price_from": "$299,999",
+  "address": "14128 Hemingway Oaks Trail,Fort Myers, FL 33905",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Fort Myers, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/02_cali_hemingway_pointe.jpg"
+  ],
+  "location": {
+    "latitude": 26.70027,
+    "longitude": -81.72509,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$299,999 - $311,999",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe/floor-plans/4eab",
+      "details": {
+        "price": "From $315s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/aria-c-shingle_transom_web.jpg?as=1&w=425&rev=9736ceb8af05492aa25ef4afa674ed96&hash=4B3A424F34F0576BCB163CE49B0BCA24"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=25934d541f054d0999f8135625f1ad01&hash=D05E1231CD8368C04E6CF2DF1C8D55B5"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe/floor-plans/4ebb",
+      "details": {
+        "price": "From $330s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4ebb/l1_southwest-florida_hemingway-pointe_exterior.jpg?as=1&w=425&rev=543b865f7b704e779f37a6c40f374757&hash=3EA858C2B125DBE78D8B02AED7BEE95C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4ebb/1828__-_cali_cd_floorplan_web.jpg?rev=1f273a3539a8471d93783e510d025efd&hash=B2C44EDCD1C4D527A91BFAA6D68B4F9E"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe/floor-plans/2077",
+      "details": {
+        "price": "From $345s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/2077/2077_lakeside_ele_a_revised_web.jpg?as=1&w=425&rev=18634e00928045da9490b010b83e051a&hash=7F2AEA28181CEFB3519BCEB70706C55D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/2077/2077_lakeside_floor_plan_web.jpg?rev=d3de01a1904a4ccd9253e2c5682481be&hash=E77DB2FCD5115ACB8A0106730AFD3CCB"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/aria-c-shingle_transom_web.jpg?as=1&w=494&rev=2b08c115ec914fe484bb3e67f9d698e7&hash=515779B2085BC813EB31305A7E37666D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/bath_main_16x9.jpg?as=1&w=494&rev=25e1142f62ef45f5bdef966a70e91478&hash=416249DB20B8AC5EF5CED67661576E59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=8330333a9f0e46dda66b38bdb414c0aa&hash=7E31B0ED500EDC39C351AB8999A8620E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=eb166728699840bf920cc4c044fce42a&hash=59ADF301FC28184F44CE755B391BE085",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=49381768a74942398a7fc91a4c9b5bfa&hash=C3370730A1EBC43CEA9D3DD0649BD53F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=0b4966659d5d4bf58bc371ee0b148b4b&hash=57A912952458E3B6D34ECB69DD42865E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/living1_hamptons_16x9.jpg?as=1&w=494&rev=df4e19ab5c4042b192b8436988cf5527&hash=46B7DDA9C6FA76BCA4EAEC01DD45E4FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=d9004adda5664ff4842ea15d2a3b145c&hash=D686DBE6CD796447FFAE4627DB0291AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=b7aa77bcf2d04e69b777914e74d78100&hash=2987F176BB3D8D5EBFF6F2E83EF21BA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=25934d541f054d0999f8135625f1ad01&hash=D05E1231CD8368C04E6CF2DF1C8D55B5"
+      ],
+      "name": "14136 HEMINGWAY OAKS TRL",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe/qmis/14136-hemingway-oaks-trail",
+      "id": "14136",
+      "address": "14136 HEMINGWAY OAKS TRL",
+      "price": "$311,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0003-14136-hemingway-oaks-trail/aria-c-shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=2b08c115ec914fe484bb3e67f9d698e7&hash=FA6B4558050E986123E96414D4478F7F",
+      "latitude": 26.70027,
+      "longitude": -81.72509,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/aria-d_shingle_transom_web.jpg?as=1&w=494&rev=17030ff5e5de4267bf7203e15ab53976&hash=01E0F27B79043C71415F8D308CD32C63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/bath_main_16x9.jpg?as=1&w=494&rev=792e299decb24882b993527aed33bf0a&hash=4C5F2FF89E65180C69FEC45452E8996C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=3d3cd6b318c243d39d890b3c285c9ce8&hash=532719D511BA5A8E2AE98B27391C2CEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=2fed817903124267b2b57c48d447bac4&hash=5F1416D427C9C42773F5FA04231E772A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=35f0e60269be47a7b34d5e944d20b4e8&hash=3DBAEC87C3742CEF1DA464CDAE49962A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=dc9cb0bd2bb643b7ad9bb341f73b08bf&hash=A3CD7E183C47474F474F60394501BD76",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/living1_hamptons_16x9.jpg?as=1&w=494&rev=c206153c55b347febab50db3e95d19b7&hash=6516254907D51A72A77897AF3CFAA891",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=21321190c24f47d3a3835729809dc110&hash=D51AD5A7DF2C1B10EA61D4DA16F5CA2D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=fc135c0569dd4cd0875223ec9f4a1768&hash=6A8B04B1F4ED5FDD3815EEC48DF07F36",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/1672_-_aria_cd_floorplan_web.jpg?rev=25934d541f054d0999f8135625f1ad01&hash=D05E1231CD8368C04E6CF2DF1C8D55B5"
+      ],
+      "name": "2973 ERNEST WAY",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe/qmis/2973-ernest-way",
+      "id": "2973",
+      "address": "2973 ERNEST WAY",
+      "price": "$311,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0026-2973-ernest-way/aria-d_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=17030ff5e5de4267bf7203e15ab53976&hash=6FAFE271EC9D2EDE51A5A0816116209E",
+      "latitude": 26.70027,
+      "longitude": -81.72509,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0029-2997-ernest-way/aria-d_shingle_transom_web.ashx?iar=1&sc=1&thn=1&w=425&rev=-1&hash=E13956E167F217B321A51557D331191C"
+      ],
+      "name": "2997 ERNEST WAY",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/hemingway-pointe/qmis/2997-ernest-way",
+      "id": "2997",
+      "address": "2997 ERNEST WAY",
+      "price": "$299,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54777-hemingway-pointe/547770000-hemingway-pointe/4eab/0029-2997-ernest-way/aria-d_shingle_transom_web.ashx?iar=1&sc=1&thn=1&w=425&rev=-1&hash=E13956E167F217B321A51557D331191C",
+      "latitude": 26.70027,
+      "longitude": -81.72509,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

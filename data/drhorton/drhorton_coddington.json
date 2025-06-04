@@ -1,0 +1,1061 @@
+{
+  "timestamp": "2025-06-01T09:52:14.847966",
+  "name": "Coddington",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington",
+  "status": null,
+  "price_from": "$327,990",
+  "address": "308 158th Street E,Bradenton, FL 34212",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Bradenton, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/02.jpg"
+  ],
+  "location": {
+    "latitude": 27.49674,
+    "longitude": -82.38365,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$327,990 - $574,000",
+    "sqft_range": "From 1,565 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 4.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Flex Lawn",
+      "description": "Flex Lawn",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/1565",
+      "details": {
+        "price": "From $328s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,565 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/front.jpg?as=1&w=425&rev=67a872d1bb9347328d807ad4792419f0&hash=ED27F40A0DC6DD384E5B8D619B4963B9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/393100000-coddington-villas/1565/fl_west-florida_dr-horton_multifamily_siesta-floorplan.jpg?rev=cf7afaf95905468588014256f2a665b4&hash=AED7E168BD27021B7521D7E9CA6AF242"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/2045",
+      "details": {
+        "price": "From $402s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2045/front.jpg?as=1&w=425&rev=4cd91fe9bea4490fa38a27afd62c9f02&hash=65CB667879E0A9A06FD5140A3D629E5D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/2045/fl_west-florida_dr-horton_lantana-bdf-black-lines.jpg?rev=7c732a80e0b3490a97cc031e9b6815c6&hash=9681B3F7840D7F203F8703C5D7DD016F"
+        }
+      ]
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/2368",
+      "details": {
+        "price": "From $454s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,372 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/2368/front_ext_destin.jpg?as=1&w=425&rev=8ed8235d3cf54f39aebe66e934cbfaf1&hash=525CD81B4AB2C69F380FA52FCCC2332D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/2368/fl_west-florida_dr-horton_destin-bd-new_layout.jpg?rev=f8f5c16247bf4b7ab3af3289a6fb0fce&hash=1529D35514A26A88B2B422E09E4684C3"
+        }
+      ]
+    },
+    {
+      "name": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/2558",
+      "details": {
+        "price": "From $469s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/2558/front_hawthorne.jpg?as=1&w=425&rev=b68e6c8aedfb4a66bbc4c79737636072&hash=E7F1F2D538233003F80C527A64EE2624"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/2558/resizedforweb_premium_hawthorne_blacklines.jpg?rev=2e91b44bb1ab41b1818054ab80eea968&hash=72264CFB7EE0C5C1E84A5A7AABC718AE"
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/2767",
+      "details": {
+        "price": "From $455s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,756 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/fl_west_florida_dr_horton_coral_g_haven_estates.jpg?as=1&w=425&rev=0e13b522e3424c09808dd3aeb2208e42&hash=FFAE20EC1779B2475458D65BE64C561F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=eb7f18c1a264424798eac6bb4c1c9280&hash=272E9D1F4B1F6A914A575FC8BA2160DE"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=eb7f18c1a264424798eac6bb4c1c9280&hash=272E9D1F4B1F6A914A575FC8BA2160DE"
+        }
+      ]
+    },
+    {
+      "name": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/2795",
+      "details": {
+        "price": "From $499s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/front.jpg?as=1&w=425&rev=1fbd81bbec5b44958b42c075f2e0227b&hash=B7ADE8C0EEC6C3E2691F2A1B2776177E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/2795/resizedforweb_premium_camden_blacklines.jpg?rev=0513601e560940f1b940d30a91ab498e&hash=059EC348219415BF74221E87AEC58A9E"
+        }
+      ]
+    },
+    {
+      "name": "Hemingway",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/2924",
+      "details": {
+        "price": "From $480s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,934 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/front1.jpg?as=1&w=425&rev=4cb37207095043c582ca023ce0b663e6&hash=C4CC2A3D56C3606E1446A0BB8C8246B0"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/2924/fl_west_florida_dr_horton__hemingway_g_h_floorplan.jpg?rev=973ecaabfbef47108c78866b2367f574&hash=5FD552913139FF4F3789B95D9A5434AE"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/2924/fl_west_florida_dr_horton__hemingway_g_h_floorplan.jpg?rev=973ecaabfbef47108c78866b2367f574&hash=5FD552913139FF4F3789B95D9A5434AE"
+        }
+      ]
+    },
+    {
+      "name": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/3278",
+      "details": {
+        "price": "From $539s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,278 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/3278/jordyn_ii_front.jpg?as=1&w=425&rev=6f4bb7ede3fd4548b135878c1670fd8f&hash=FFAF0510BC163404461CBB6381FF7291"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/3278/resizedforweb_premium_jordynii_blacklines.jpg?rev=2e097d8c6edc4d66b126e558b2b9bfb9&hash=EA5502DD4B158326F40C3B9AD7E34FBA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/3278/resizedforweb_premium_jordynii_blacklines.jpg?rev=2e097d8c6edc4d66b126e558b2b9bfb9&hash=EA5502DD4B158326F40C3B9AD7E34FBA"
+        }
+      ]
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/3129",
+      "details": {
+        "price": "From $496s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,313 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/front.jpg?as=1&w=425&rev=e6ec144e9fdf44f39aa43434e9f9460b&hash=A157F6AE2061CF54DB1BEBC901898EA5"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=6a0d965ae4374fc5b40351c824e43764&hash=83E6426C55B9577017BF993F62E4C49D"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397110000-coddington-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=6a0d965ae4374fc5b40351c824e43764&hash=83E6426C55B9577017BF993F62E4C49D"
+        }
+      ]
+    },
+    {
+      "name": "Torino",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/floor-plans/3975",
+      "details": {
+        "price": "From $606s",
+        "beds": "5 bd",
+        "baths": "4.5 ba",
+        "half_baths": null,
+        "sqft": "3,975 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/3975/fl_tampasouth_sarasotamanatee_torino_g_shingle_cls_nogrids.jpg?as=1&w=425&rev=207ff0cd9f2b4f5eabe465e0b032ca72&hash=7BB94F795FC16FEEB1E1318277AFEABD"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/3975/resizedforweb_premium_torino_blacklines.jpg?rev=43952ae37626449a9d183b422f5d4755&hash=E67332C6774C7932F5BF1D6527A9B09F"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39310-coddington/397120000-coddington-60s-drh/3975/resizedforweb_premium_torino_blacklines.jpg?rev=43952ae37626449a9d183b422f5d4755&hash=E67332C6774C7932F5BF1D6527A9B09F"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?as=1&w=494&rev=09f3cf999fd04bb7b4c23aa7094bd3fd&hash=D7E84CE1BC0B0E27C59D2B3EE65FE26B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=5574df749d6f43c0bd41773535a23ea3&hash=BEE4335BC4A05238182EE180D7E96D54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=1f2e35c1085b4470ab2d6b8db42581da&hash=5E11A0BEAFC52A447B88D221EADDDEC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=4dc75649a11b4cf9a4c7f77b0706e2aa&hash=330B4DF957715F18E1598D20AC8E7815",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=e35e512fbea642388057692ef10748ed&hash=099CA29118C40C44783ADDC556B11554",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=bf466054083c4cdba97b3f94a46b7adf&hash=06DFF4C312BABD65DCD4AF52743254A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=d547a7b2309e46c48c5191763dc74cd9&hash=4FF6CE7576EA12BB8E0BD011C3816117",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=91743b9cff3d4a1c86e99338cc30f5da&hash=EB4F6B91A80BF47C459D4FB9C1D49AC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=a100a9a554974193ba4698527c81879b&hash=D1A0B037D6F8C2B502E546FB02B3F969",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=019b94bffcd342aeaea5705b1706cabb&hash=DF40AA69AA311D02731F0573B1C368E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=10dcdd02d7bc4323bfca7b8026de6e31&hash=74A7F60217AB2921136BAB27E55F6567",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=dd1eb25a2abb47318705539fb5082228&hash=9939762443211B58C1EF7BE889C66C89"
+      ],
+      "name": "642 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/642-157th-ct-e",
+      "id": "642",
+      "address": "642 157th Ct. E",
+      "price": "$352,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0475-642-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=09f3cf999fd04bb7b4c23aa7094bd3fd&hash=5C818D281C7A8D07C4E2AAE689617C42",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?as=1&w=494&rev=50cfdb73683844cd8d0b2dd20a751c85&hash=EEEEE00C26738A732BB5B07AEC0B6B19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=be03b435bc6b4526b9769eea8bcfa7b2&hash=3DC2F6873FB4C44917A15E31DCBCF9BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=2f733d7fb96f451ea1a12d76c9e639de&hash=0F858CCF9F8976450B5D14EA11BB0535",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=566aa69e58724452989de7858164cb38&hash=2267E821A5777B6359413805EB521F9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=228558aa2ed34c108fbbb41001f26b25&hash=37184B845CE5DB6B26B7B65143ACAAE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=8e7ef9196d3541cfa3f2e6572675fa5d&hash=D28DFF4FBBB3B751EBFB036BEFDABC1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=30c10f79983147d8869dc32e933695de&hash=32F5561D0673AFD8AE7A87C9A1D13412",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=f2918d42819d411a91e9a974aac8d8a2&hash=6FF8AE4A84FA215012733DC973E2BF72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=80b1372e15ad4221bbdb023a17e03bd5&hash=4B8FB3877BCC916139E626C385F26244",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=22838e9dcc034112870efe85cbef189a&hash=3FBAFDDEBABBC101E7446BB0D5705E64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=15a1de6329044a0a811384c5c10cf7af&hash=000F477B943BFBC1E32AAFEC29B866C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=0c6efa7be0124075a45b1246f488ad20&hash=F55751E7D2DC29C72668376BAFF9C72E"
+      ],
+      "name": "646 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/646-157th-ct-e",
+      "id": "646",
+      "address": "646 157th Ct. E",
+      "price": "$352,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0476-646-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=50cfdb73683844cd8d0b2dd20a751c85&hash=E38A3EE3E9235C0F4C032CDD870580F6",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?as=1&w=494&rev=c53619d4c001415393f8fab9361adec2&hash=24034BA806887B9E3A641B64FAB6ACCA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=ca27196546464394a7f934e4847945e8&hash=59F9A2B2741ABDE57A4E8923B9C55A92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=3c10ca723c3f40bf9049e9efa8127856&hash=994319879586700A7D22D69900D069AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=a8a414b4c0034919830cdaa773dd8eff&hash=D13AA5239953BC2B776C7B57B7D61BB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=c1610ec7b65f40e5910e4cce5ce0a949&hash=8742597469C0ECE0BC7618C890F0BA8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=e16c9ee2d4ce4d7f9606178353fe782a&hash=828DD1C576CD78FD6471D2547B343C4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=98dcff4c6704455a95f7d0171cd7d4b7&hash=F70D95A4C8CD3F04670D9521F05DAACD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=e78e3afe0227488a954f24e7a384eb19&hash=38395949FD9BBC6FDB256C64B91DB160",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=58285fe9548244d6ad3022d88e14fa74&hash=EC41C717DB8774C646E6F7BCCF958E41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=893b46b4ab7643f7a56522ff8c302697&hash=39EDBECF3A2870E41988849492C60B0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=4119c529063d400d9c61b090ed2c3b3c&hash=6BE0BDF6280AA6E9271330DCDBFBA497",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=168843b2eb594dbf93c915e2a1ccad92&hash=DD835DAF66E1099B40B525082599DC28"
+      ],
+      "name": "732 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/732-157th-ct-e",
+      "id": "732",
+      "address": "732 157th Ct. E",
+      "price": "$352,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0490-732-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=c53619d4c001415393f8fab9361adec2&hash=11EC8660574622943133E92ED0BD0E64",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_b_shingle_cls_nogrids.jpg?as=1&w=494&rev=7e6f3f624df44ad19b49d415295c5714&hash=9C7E7ADBC903604EB9819ABEF5FE1EBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=b14e42d043484656a4914f1c7fc527e2&hash=62DDB0E4DB4D51D98D1156719EF07029",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=e089a72041df4dea8d67afcf11a742c6&hash=1C47FC87E802922B2503F7B3CA6E5204",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=eaf85d6356d843bfa2eb2bb0dfc0958d&hash=288C5A10A68C203B32E79E919C9806D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=b67a479c69ec4f8982899a1dbb357dd3&hash=4264C2F2AF20BEF107ADD2A63147551C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=cefed41162e14b8fad323193be1779ac&hash=9994DA6527C76540AF81374DF4E085EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=474b8aa9bd8d48a984b979ddfbf4da5d&hash=2C1A6E738DFA216B6F5EEEAB10D9D860",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=b00a87452a944149b2f8d384814eb62d&hash=CC91173B32FEDF36FF93D7488F894F72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=915f75b0b1544e42b8a5ea065d2efe6a&hash=6263896261D292A760C8569E36F2C224",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=308354cf463b452686fbb9d0bc9f6539&hash=335FF07864CFB2686C80F02119BD0978",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=d6028780a99a45acb6617decd80eeebc&hash=3DF8A13D56413CE07F6ED5085871F456",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=841ecd3e881a41c8b2ceca1f124a0ecc&hash=29EBB16AED37FB6DFC582EB280C454B5"
+      ],
+      "name": "804 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/804-157th-ct-e",
+      "id": "804",
+      "address": "804 157th Ct. E",
+      "price": "$363,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0491-804-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_b_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=7e6f3f624df44ad19b49d415295c5714&hash=BC2647246485DFDB21249F58730C51BE",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_b_shingle_cls_nogrids.jpg?as=1&w=494&rev=e4c3f41419d64fd9baeee5e31c23d5be&hash=D4A6083AC3C1EB11158A351F299BB3DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=dfaa0e4d91514a069513526f3d2eca60&hash=A6FD92FC82FC2E99FE494E59516D0918",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=12ca31e137de402c8bc1bf696bb40cde&hash=9C06378181340E3CA24807F2F389FE11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=9a1dd73b7bd24eeaaf774b9bbc2d2350&hash=586112F2638F95445FF8511757A1F0AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=ec3ecbbe41004de38b00679c44221533&hash=3DBC50D60F8A9DC0B569CD68D88D45B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=798e7afd02d4418ca07a664673342126&hash=B9DEEC9F458C8B49259653F9EF2FB017",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=5d715cba0f1947c686216571059339ea&hash=AFD6251578F604235C661FF1DE637497",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=8f490e489e8a4368a113db453968117d&hash=E01AF114A7AD01709C9309D6398EA9C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=0eb1cfe4cf2e488884bbb6509c67a032&hash=B6D7C3D000B3CD1CB61A3F2EFE2C7CF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=379340aafd314d70b2852adb3f8d166b&hash=A8B118BD186C0D525B7BC0BA4081863C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=6d95fbf77bb84ed594060a33bb649fde&hash=FC183EEAFF3B58F107A15F039E12BFA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=5d7bb731946f444d9044e67da66017c4&hash=D43FB7FA5D4471E55058A47233B24782"
+      ],
+      "name": "805 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/805-157th-ct-e",
+      "id": "805",
+      "address": "805 157th Ct. E",
+      "price": "$334,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0520-805-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_b_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=e4c3f41419d64fd9baeee5e31c23d5be&hash=8741454095563A773DC2F8A494D9B3C7",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_c_shingle_cls_nogrids.jpg?as=1&w=494&rev=cbbd46dd074c403b8f9f3e1d6cfe8d99&hash=3DE57E6A26CCC10F9C6DA1E674CBFA34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=5af8fd6525b04931b8916919c10308bf&hash=CE5F1D55A8E08E7044CDC1219F66E5EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=7be2118b80a14fa4964be1e50535c51d&hash=EE5EE9D4FF95A308BD1ADFD66B2223F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=0286c4620c1948deb88debc1aa10a26a&hash=CC5F9BD77C6F82FD6F957BF4D938104E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=aa3b011004d141b48bf8520fe715b7d8&hash=B78894CEB430C47B2D2B5D8B08F1FA56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=4536963b48e94ee9aa01bf6990eb6c3e&hash=7511422FF0CF11C48CCD788EF2137EF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=5ba615ad3c484bcb9e9d7afbf273fd34&hash=6984CE47EE4B61C3C6BF110A67C8B293",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=c438e6a55e554e3f85b1c3f67c2a2237&hash=AB4BB7B25B351CBCFF8AD2CD1A01D322",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=1587950959d84d2896ec99a270fd6ad6&hash=4BD43430ADAE032803DE9D7B19838D96",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=de472d1886dc4ff399a6e9e972828431&hash=AE6B01E25828A53EA39AD3759CE650CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=69580e7e98a845359e949beac2548b42&hash=5858E33DBF6F629940DAB0E0A8900171",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=bf8db9cd5e3a4067a6bd43e018989ef6&hash=C3159BFD141142AC06A76D977BFA4EDB"
+      ],
+      "name": "809 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/809-157th-ct-e",
+      "id": "809",
+      "address": "809 157th Ct. E",
+      "price": "$334,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0519-809-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_c_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=cbbd46dd074c403b8f9f3e1d6cfe8d99&hash=5BA536AD5C19BCD960C89EF5598E6A4A",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?as=1&w=494&rev=a328378c67f448d8af9ce712f01546ef&hash=5BD7D6C11ABE6BBC95AE16FDCA663320",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=ffc51b0d4b744c3f914f59e95d0fd71c&hash=CA0EAE92C1B8DA40B374476A5E5FD79D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=6a2b79963d59455e95360bb4d75790a1&hash=FF09AF76DE063F8340F3D4292FEF3EBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=73062895943143c788ea9bc9147fc017&hash=678F2FB530E58F333BB574AE486405A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=32790f6889254ad5aeb85716874e5f4d&hash=34A87EA97FE63CE512B7B4D08E8310F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=f038753fe83b4492a4be962b75cee442&hash=ED7AA15367C838AA62372C2BFE993FF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=1611f9f164c9460088a67c3db4b606ff&hash=C3B3B9FF4F2EF6110A69B439544FD819",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=8b149feea73c446bbbed3ea8d59e5bff&hash=18F92082BD93215CA6CF8E3ECBD0CE7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=9e983901c1774161970b254e8be463e0&hash=D02F6B6584EA13F2655AF747EA0074B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=b0d72fa815b849b28e7e182481146d54&hash=D54370185F15BA3C38F5FBA6C300E5E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=13223e4efd38482097d842bdca2ca351&hash=CFB12AD48E352E8B2CC910C3C99BCAE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=ac0b9b34347f4c378a4636e1d4e3271c&hash=6F8F6C853E68100A84B268D045FEFA60"
+      ],
+      "name": "813 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/813-157th-ct-e",
+      "id": "813",
+      "address": "813 157th Ct. E",
+      "price": "$347,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0518-813-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_a_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=a328378c67f448d8af9ce712f01546ef&hash=1CFDFFC47EBEDA85B3516617FEA905CC",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_b_shingle_cls_nogrids.jpg?as=1&w=494&rev=a672762c0756471dab9fe4b7fed103c1&hash=386273D00DA7F15EFD50C098ECDB7C0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=e028e7559b334bd7a6b1dcf4d7de23d7&hash=EE3FE43A56C51F2B6C7AB858D78C4BDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=882e979d3cb742ad857ee069ff02c6f3&hash=D387CAF0B4D353D31B503C0AA71C94B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=15054ec906e3492d9374ac6c5e664981&hash=6EE634E2F1FAF736856243EB672E83DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=37b3c0d600c647d49afcfa9a2c0f26eb&hash=8CEF8A53B381EDCB0EC5DD4AAE131040",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=10b07ced78f244c4a77442bb332d9af8&hash=FC79894A5353C23739934AE6EAE232B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=74b3d7b6240a41888bd2417b401fe709&hash=44BED2110295F90F73928989DF5AC63B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=29ee51e8ec854dafb1bc34aaad39560d&hash=649C1914AE9DBF1B1D69A1833A53B5A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=588269b4a67d4a1e97702adc53d7b1cd&hash=48E43EE9D55A5BFD3384DCFE998DA79A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=ed93db6076bd4efb8211a4ad00daaf42&hash=0AEC589F22BCCC3AC6A6F8FCB2250C29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=130ebded28534b5e848ce48b91f7434c&hash=B8325461323AA048873BA4FDD00CF885",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=febe56ab34664985aa7635e39ce391e2&hash=3EB6E461D47EA400F772A1F3C496C013"
+      ],
+      "name": "821 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/821-157th-ct-e",
+      "id": "821",
+      "address": "821 157th Ct. E",
+      "price": "$348,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0516-821-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_b_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=a672762c0756471dab9fe4b7fed103c1&hash=9EA707AC95A8DF16F06966D14E8D3E7C",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_c_shingle_cls_nogrids.jpg?as=1&w=494&rev=aa82fd64d31b4d7d807dc255133d2b39&hash=DB85FF0F9C7D0B348267F4C709C78ABD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=caa1bacb0c4b4d6c8b4e9c4eeafc4957&hash=D20C76CA71AF313AC8DB84F061A5CA26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=49c6d75f15cb4f2babf91e276b0039f1&hash=4E6A6BFA94A4668F05F3DF30800C1F73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=c6bdc2352f1840939d08afffad47c9c9&hash=5B33E82B57C6EAD812F982E245200087",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=5a6e2f145bff48e69b478dfbececd752&hash=0623EE726A9428901728BE7E709B12C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=f24e4310156249459033f7c933caeb7e&hash=932FC14D6CCF8FA6EA30D220AE0862B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=4c734d2294214a309291bd57924692d4&hash=DE49A52A7616F7EF1AD71FEFDF8F5E80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=4b1c71174d0940c58c57192d133aa49b&hash=E5C53BFC4284DB255B7A4E6550B0AE6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=f8ac91c3edc64b2ba725aaaf4428412e&hash=7C884AFF6395C3CB9F463325FC8908F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=ef3bcd132283406bb8471ad0edbd2178&hash=932DDD3629528E042B5FCC98420FE5D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=97bf476d92a24385b160ff82f3914aee&hash=21556A0AFD264E3B4533872CF99DB393",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=0a833dbcc1924c50b39c6eacce8b4e4b&hash=7C7C3D95F97A222340FA30321361DA85"
+      ],
+      "name": "829 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/829-157th-ct-e",
+      "id": "829",
+      "address": "829 157th Ct. E",
+      "price": "$344,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0514-829-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_c_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=aa82fd64d31b4d7d807dc255133d2b39&hash=9D322581EC1084A554E2ABEEC0EFA76F",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_c_shingle_cls_nogrids.jpg?as=1&w=494&rev=9c7606c2c6984096bf0a2730b0815225&hash=6E19791AB5802661C9698EFFBC64F943",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/05_kitchen.jpg?as=1&w=494&rev=fd220865c0bb410d97d83d8e9ed08cf5&hash=2F79047D2400A625990DA2422F9587EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/03_kitchen_dining_room.jpg?as=1&w=494&rev=571efaaacede45adb3f009e634884999&hash=366F18D320D3C585FF26C6497934EB37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/06_kitchen_dining_room.jpg?as=1&w=494&rev=a76de8634fd041d2b6ac7a24957bca58&hash=AA8B8B62FD20FB982EE0CB8DB23CA3A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/04_dining_great_room.jpg?as=1&w=494&rev=9797fb82c09c4d62a58efb3196bda70a&hash=0E3621D64A936C78F2A24A1B10E92829",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/09_great_room_entry.jpg?as=1&w=494&rev=7679cf6c7e914d9cb37d1e3f8e38c131&hash=57752389DDB10AF5D8D890B3F79CEC23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/07_great_room.jpg?as=1&w=494&rev=3223a4a582414747b545cea5fb0767d8&hash=FF051944665C2846997AD8F20FF11EA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/08_bedroom.jpg?as=1&w=494&rev=12d50d002a13415593d83aebbd3d5b45&hash=960C2D3123316570320E204C3011065B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/10_master_bedroom.jpg?as=1&w=494&rev=e065438f55864dc99930930ceadfa309&hash=96702DF875323F18E79A622E26BB6D17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/11_master_bathroom.jpg?as=1&w=494&rev=a17c53e48e4c4667ac7e2dafd2785333&hash=C60A03876C8816F82D4995ADCB5CE210",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/13_bedroom.jpg?as=1&w=494&rev=3ec00e4912dc481fbe9239cfa5c008ff&hash=27831A9FD41AFA1DB74A18089EB4ADC9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/12_bathroom.jpg?as=1&w=494&rev=5190e49c84054691a5d1b6e36211c7a0&hash=C78D0401C1379061CF10A7D399FC9DC4"
+      ],
+      "name": "833 157th Ct. E",
+      "plan": "Siesta",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/833-157th-ct-e",
+      "id": "833",
+      "address": "833 157th Ct. E",
+      "price": "$341,990",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1565",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/393100000-coddington-vil/1565/0513-833-157th-ct-e/00fl_tampasouth_sarasotamanatee_siesta_c_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=9c7606c2c6984096bf0a2730b0815225&hash=BF6D15DEC219CC1CB09E23C5612D8B36",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/16044_7th_ave_web.jpg?as=1&w=494&rev=aebe17bef87a4466bc56bc622256e164&hash=2C49F69B6A48D7399D3A874E311FD2EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/01-fl_west-florida_drhorton_destin_great-roomdining.jpg?as=1&w=494&rev=9a0e8723792b4003aa831733d11885cd&hash=962CD70FAE9EE886763101247A591A12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/02-fl_west-florida_drhorton_destin_great-roomkitchen.jpg?as=1&w=494&rev=e4f96207292442bda54030a763c8aab1&hash=89D9C7D16246053B43861A8A1ADC1219",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/03-fl_west-florida_drhorton_destin_diningentry.jpg?as=1&w=494&rev=7295fb9e4f4f428aae872c8f7b11331a&hash=D6D810A03ECCF71DC8667C43F0C57E75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/04-fl_west-florida_drhorton_destin-_front-bedroom.jpg?as=1&w=494&rev=885c9057868048da85f895c552ba890d&hash=341E1F455346685C80F78A1ACF464E00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/09-fl_west-florida_drhorton_destin_09-bedrom-1.jpg?as=1&w=494&rev=a4cd1727a3d74259a9052899dda0b986&hash=A65C45D1BD310BD40EA4C9498B5469D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/11-fl_west-florida_drhorton_destin_bath1-shower.jpg?as=1&w=494&rev=fe67f96751214964ac4179f4a0049ab4&hash=AA5DA9F105F30DEB66ADECBD36DC1404",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/10-fl_west-florida_drhorton_destin_bath-1.jpg?as=1&w=494&rev=f336bd78297a47dd9137bd0f578fd43f&hash=3914765310EC550A4EB547E66CC0ABBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/08-fl_west-florida_drhorton_destin_brookhaven-ensuite.jpg?as=1&w=494&rev=d108cc7015aa416489fd22ab46eefc5b&hash=1AC145C8E30FB485FC6F5B8CD703F83B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/05-fl_west-florida_drhorton_destin_2nd-front-bedroom.jpg?as=1&w=494&rev=bd65b7b440a540f3a983a7e28285d437&hash=C4E3B450B12569AB8C9738D637A8DAF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/07-fl_west-florida_drhorton_destin_3rd-bedroom.jpg?as=1&w=494&rev=51ef63f9ebcc456385729edb26198fe7&hash=16A9C631C998F0120EF491AE0BCF70B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/06-fl_west-florida_drhorton_destin_front-bathroom.jpg?as=1&w=494&rev=e23e018f893441da80b2cdbc0e5f0375&hash=041A84BB98E13CFA26510D9BD6B97C5C"
+      ],
+      "name": "16044 7th Avenue E.",
+      "plan": "Destin",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16044-7th-avenue-e",
+      "id": "16044",
+      "address": "16044 7th Avenue E.",
+      "price": "$449,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2372",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2368/0089-16044-7th-avenue-e/16044_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=aebe17bef87a4466bc56bc622256e164&hash=110A7D2AAF6A959BE6D348D679D57B75",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/00fl_drh_tampasouth_manateesarasota_hawthorne_b_shingle_cls_nogrids.jpg?as=1&w=494&rev=f38f274a41fd4584ab3992f1e0a78f6f&hash=DF08C95BA7B5FD1025127709EF0BCC22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/02-fl_west-florida_drhorton_destin_great-roomkitchen.jpg?as=1&w=494&rev=f0786b2c89c44717a1b2c6956d37331f&hash=4BF80ACBFFA2AA371B4A927A80940E59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/01-fl_west-florida_drhorton_destin_great-roomdining.jpg?as=1&w=494&rev=4b4abb7a5e004e5c8dd5a491b445259d&hash=1BD4523B4A5B9663C4DFB98954EAD7B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/03-fl_west-florida_drhorton_destin_diningentry.jpg?as=1&w=494&rev=15a0f21ef9724fb88e880decb1ac8f57&hash=F17283DCE887C121E91E53D0DDE6CE90",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/05-fl_west-florida_drhorton_destin_2nd-front-bedroom.jpg?as=1&w=494&rev=905afd02760946e7a459531d016ce70e&hash=547A9D603A476268A68BA6108CB6C472",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/04-fl_west-florida_drhorton_destin-_front-bedroom.jpg?as=1&w=494&rev=e40b02283f62482aa4f1ad338c528d4d&hash=0560560973A3ADF170C90CA70AAEE656",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/11-fl_west-florida_drhorton_destin_bath1-shower.jpg?as=1&w=494&rev=ea37241eadb24b03a56a590e5ca6505c&hash=385847FED1433BCD8943D5481DF65682",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/10-fl_west-florida_drhorton_destin_bath-1.jpg?as=1&w=494&rev=0e7fed1f658a4e568b0658a051cac50e&hash=01DF25697FC4FB55A58649F1C6C1E852",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/07-fl_west-florida_drhorton_destin_3rd-bedroom.jpg?as=1&w=494&rev=400ac7176acc473ab41e5bad09dd5c53&hash=BA576C4C55432D8F625C169F9DB3766F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/09-fl_west-florida_drhorton_destin_09-bedrom-1.jpg?as=1&w=494&rev=b771abef9e6949b1975ff68b5738b907&hash=28DCBFFE43792D1F0D46B04EC05D96DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/06-fl_west-florida_drhorton_destin_front-bathroom.jpg?as=1&w=494&rev=494e8693a6ca48c880b24e9f5a958de5&hash=B9FFC0BBDEA11EAE016513636E41CBE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/08-fl_west-florida_drhorton_destin_brookhaven-ensuite.jpg?as=1&w=494&rev=a3d78976b3b149a781fdfccd8deceb7c&hash=D71D02D250073E7CBFE485C500431255"
+      ],
+      "name": "913 160th Lane E.",
+      "plan": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/913-160th-lane-e",
+      "id": "913",
+      "address": "913 160th Lane E.",
+      "price": "$484,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2558/0079-913-160th-lane-e/00fl_drh_tampasouth_manateesarasota_hawthorne_b_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=f38f274a41fd4584ab3992f1e0a78f6f&hash=3AA5A8C4F56B1D4A7DC6D4E00E8DA0F5",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/16013_7th_ave_web.jpg?as=1&w=494&rev=31d006edb76b4a13a13049b834a53979&hash=A2BF5C961A842ECAD1539053AEF38C1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_01-den.jpg?as=1&w=494&rev=5db517999779422eba5f169bbfded993&hash=EDDD49D44EA0CF4D2D0D7F32D50672CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_02-kitchen-living-room.jpg?as=1&w=494&rev=2c103425751e4659b75de075734f31f1&hash=E9A8D006B90D833AF50BC17789F56107",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_03-kitchen.jpg?as=1&w=494&rev=0aa8e2c1217b4ccb8467f5cd6978e48b&hash=ACB4872DED04E7F1D3941BD26AD3583A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_04-kitchen.jpg?as=1&w=494&rev=78868685af054c659758cd34200d2356&hash=D2D9881C9BF0DAB597CBAAD2B6E50F81",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_05-kitchen-dining.jpg?as=1&w=494&rev=ab3f2bd5f9ef40ca8317caa3790d34f3&hash=6821BFF6D528ED603D9E5D169838B1A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_06-dining.jpg?as=1&w=494&rev=a2f36c88af6f41afb93dfaacf7607a87&hash=E608F5E185673B3E34503AD773B867AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_07-living-room.jpg?as=1&w=494&rev=b2a820a1da664752bf7a6fad01c927b0&hash=1305A60DDA21EF213CB04E1B00C9516B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_08-living-room-2.jpg?as=1&w=494&rev=599f93f702dc499cb0e00f2ea15328c1&hash=AFD55ECFA78E908BC2B06A9736EEF1F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_09-living-room-3.jpg?as=1&w=494&rev=7295df110113429e8638571cbc9ba2e5&hash=B666C0F48F56F553F65516C82F1EBE05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_14-master-bedroom-2.jpg?as=1&w=494&rev=f66b48fb07314beb99e1a9629c4e808d&hash=9FD52597878E064AD595BA6782B543F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_15-master-bedroom.jpg?as=1&w=494&rev=0033676b47ed4691bc631e29e41eccd8&hash=7EFA9B783ACC1BF81BE3299EA9BD0BD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_16-master-bathroom.jpg?as=1&w=494&rev=e159fde22e4146a69ff4e9a459051cfc&hash=7D2B385C0430C0A83B167B33E9C202D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_12-loft.jpg?as=1&w=494&rev=75578b5a4e8447c8827af34c2a23db4f&hash=2F0A6374D392ED0CEB03775D1B5A6B11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_13-loft-2.jpg?as=1&w=494&rev=65182e16d1034cbcb080a2f9d0e221bf&hash=2E75637FF7DA80DD1EF324305E1CB2B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_11-3dr-bathroom.jpg?as=1&w=494&rev=a50518746e104994a9fc26efef3ddc50&hash=D4E4E2FA3FAF1015124D164CF6B1FA7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_10-4th-bedroom.jpg?as=1&w=494&rev=8d49ad6b9a5e45ca9cf6adbe2263c002&hash=2ADE4FFE7F78E1EFCE0F98D465D6BF05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_17-3rd-bedroom.jpg?as=1&w=494&rev=f112c659f8084c86a087e24712b588a2&hash=88B1BB9D68FAE82A05EDD1300492BCE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_19-2nd-bedroom.jpg?as=1&w=494&rev=eb0aabc3fbb749dd8864b95bbed10a77&hash=5BE3DCE20D78992781112F8BB41F1296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_18-2nd-bathroom.jpg?as=1&w=494&rev=14446a99d2e84fcca3b8cf790c1875f3&hash=232AA0FA2ADD42BE6D9794308EDE2151",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_20-laundry-room.jpg?as=1&w=494&rev=9548addc3040407d9fb224bfc869fb40&hash=57379D6A6818A3AF94105EA5B9CD4BBD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/fl_west-florida_drhorton_coral_21-lanai.jpg?as=1&w=494&rev=8212a2e397724bd29cf4f23eb5804167&hash=73069E47F90AFA37B9F0DF5C08D0D00D"
+      ],
+      "name": "16013 7th Avenue E.",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16013-7th-avenue-e",
+      "id": "16013",
+      "address": "16013 7th Avenue E.",
+      "price": "$468,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0070-16013-7th-avenue-e/16013_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=31d006edb76b4a13a13049b834a53979&hash=A1A1EB5E488FDD423A5EA86714234426",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/16029_7th_ave_web.jpg?as=1&w=494&rev=2b01ab572de1423f976ff44305124858&hash=75EB30E1747E9AF4F5448725CA3AB1B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_01-den.jpg?as=1&w=494&rev=464002985beb47888927ac91252bc370&hash=8FE87081E2B8CD84ECF8DEE6EB2B0C86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_02-kitchen-living-room.jpg?as=1&w=494&rev=006b88a7918140ff843f756365d4d5fb&hash=A6B8443A09CF6721A69F902BE56AC869",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_03-kitchen.jpg?as=1&w=494&rev=2f204fee6bd54872b167d19f4a1cecfc&hash=56FAB4770E57E83525DA6A35FE87BF4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_04-kitchen.jpg?as=1&w=494&rev=09785403bad947b692ba0aa3b4f0b1f1&hash=77005B5EF74A956949F7773CBE807093",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_05-kitchen-dining.jpg?as=1&w=494&rev=9e66619df4bc4cd8a615e98a258c6938&hash=6240724E6A6AFFC5587B48E2F6CFA59D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_06-dining.jpg?as=1&w=494&rev=244094a3442b434fba3a4f6679ac3687&hash=AAB685EE09512BA27C8353B2269CB688",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_07-living-room.jpg?as=1&w=494&rev=15c85e9efe1d4c388bcb9365ccaa35db&hash=02A94A9D4940C8C6DC19E41DDC4F11A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_08-living-room-2.jpg?as=1&w=494&rev=093e6f631818442090953b6c4b572fc6&hash=73B9C57F645F9A9001C445E707F830E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_09-living-room-3.jpg?as=1&w=494&rev=81b190fccd07465fa37bfc612deeaa32&hash=E810EC359B62194CB5DC31CE224BF5F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_15-master-bedroom.jpg?as=1&w=494&rev=17e0fcaf825e489bbac1a60118ae13c5&hash=B55BC14A0A3D17735B9504004AE29FA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_14-master-bedroom-2.jpg?as=1&w=494&rev=516cbe1a38d34a0ba530d8484f9bef53&hash=FCE2E0B41999E0F87C79BDFA614D84AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_16-master-bathroom.jpg?as=1&w=494&rev=60b0642e11b44fa883b3f26da66bda07&hash=6D50B6BF729B26030913B94E03E6B818",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_12-loft.jpg?as=1&w=494&rev=c4363513f045454790c96c5c52875883&hash=701DD25820C7062D12617B690660F242",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_13-loft-2.jpg?as=1&w=494&rev=18aca569e98c4bd8bc1f8d3586d0e065&hash=9D7D33F6C54502CA463B15E920DF25D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_11-3dr-bathroom.jpg?as=1&w=494&rev=a9241b6d73fc4a90a186a88677aa5493&hash=0BF57A9FEA786CE71A7A7BCC11E7C817",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_17-3rd-bedroom.jpg?as=1&w=494&rev=3f91b5f2edda4533a6fe5cd920cc79d1&hash=2FA1F998E8C4C7B471F81952A953437D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_10-4th-bedroom.jpg?as=1&w=494&rev=cea660e535f54a888a6ab85bae8d590d&hash=50DD3E11BA090521624AF41BA62ABD26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_18-2nd-bathroom.jpg?as=1&w=494&rev=e9dfbf1c4f604a5eacdd1aaf03432077&hash=8D5B510B09D50569EEB77A1179EBA723",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_19-2nd-bedroom.jpg?as=1&w=494&rev=41ee047004bd455aa346dc3efaca7528&hash=617380E8FB8BE8F452A456EA9328DB00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_20-laundry-room.jpg?as=1&w=494&rev=e6d429f5c61140bc91f0059e6c27fd35&hash=B205B1527D51E869C49EB178387076F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/fl_west-florida_drhorton_coral_21-lanai.jpg?as=1&w=494&rev=52c6a95c67814d0b9f2b16c8aa931176&hash=F3AF8836988E8A30328C41DBA85E9871"
+      ],
+      "name": "16029 7th Avenue E.",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16029-7th-avenue-e",
+      "id": "16029",
+      "address": "16029 7th Avenue E.",
+      "price": "$449,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0066-16029-7th-avenue-e/16029_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=2b01ab572de1423f976ff44305124858&hash=41D9CA62BEA383CDE03272710A6BE45D",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/708_160th_lane_e_web.jpg?as=1&w=494&rev=ca2755b77cb74d3cac8f650fc8729d4a&hash=68D17CDAFE5B708048DA518B4E7D507E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_01-den.jpg?as=1&w=494&rev=8b58a94b203c487cb046322babdc4fb5&hash=F486B8EC6F1C17CD4516F35E8663E60D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_02-kitchen-living-room.jpg?as=1&w=494&rev=30d750de9fa04852be3140b64c3e6702&hash=05CE14C0715B69E3EADA3B8E77363DF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_03-kitchen.jpg?as=1&w=494&rev=372f0efa973448d9963a955d6351c08b&hash=206995014FB8C85E9A3ACC983249EBFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_04-kitchen.jpg?as=1&w=494&rev=259c749ca09f42dd9cec469a7a58edcd&hash=27727A0DB9F22DA81FCA40E2AAAD968C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_05-kitchen-dining.jpg?as=1&w=494&rev=6f87bac3ec084be29cb183c102a18ab8&hash=51896BBF370BA40BC7B8F0CFA330267A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_06-dining.jpg?as=1&w=494&rev=0f8d459e1da54ba68ab38425e632498e&hash=85BCC927FC8D2CA0F572999685234BDD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_07-living-room.jpg?as=1&w=494&rev=401aaa7419e44816bb1ea4bb075792ea&hash=AF02FB55BEDC900BFC28D73380A53F89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_08-living-room-2.jpg?as=1&w=494&rev=9aee379e273447598291ba2a96844677&hash=D63F30BE7E409EB079F641E95AE14F99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_09-living-room-3.jpg?as=1&w=494&rev=c84d30c065544ab98effdea66a0fdef6&hash=7A945384959DF575A72A8B6419BDE315",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_14-master-bedroom-2.jpg?as=1&w=494&rev=78479e9ecee74e59896c38dde55c771b&hash=0B04FD2838B440F7BFB94C4A74E76739",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_15-master-bedroom.jpg?as=1&w=494&rev=0911a881936548deb09755d152f0eb20&hash=674DBFD34BECD3475933D8B0925FF81E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_16-master-bathroom.jpg?as=1&w=494&rev=cae55459343a4c34ba45cdd2eb33d7af&hash=BD6ACC86ED5763D7E52F0A0F2D5F4B83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_17-3rd-bedroom.jpg?as=1&w=494&rev=d78fd0ba902f4fed9fd6487c1c3861f9&hash=C212DF1BFAB6C9842EE2D08C654FE6B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_10-4th-bedroom.jpg?as=1&w=494&rev=accf99977401497b878f6c8229964943&hash=C3F582B13E8D7DCCD6AB10B0EDF0425D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_19-2nd-bedroom.jpg?as=1&w=494&rev=d471fbaeb0074fbdb3194eb6eee77c16&hash=76EFA0589BB780A01B00F2DABBE677D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_11-3dr-bathroom.jpg?as=1&w=494&rev=5043205880f443a7ac2f6867c7ead365&hash=759E233BEED7195B51C824AC6D5D6DC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_12-loft.jpg?as=1&w=494&rev=b99d1e9e3c5b4ffebe47cca92a76d958&hash=FA3936AA25905A2E60DE4B06F1C85186",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_13-loft-2.jpg?as=1&w=494&rev=72ad24aa66f54108b5e8773167243f7e&hash=ADAB74D96AC02DC7CEB7572F60F7A0EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_18-2nd-bathroom.jpg?as=1&w=494&rev=00279237ba2f4c4091525ebf4bfd4963&hash=029E5CDE8202ADAB712E0C65EF01ADA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_20-laundry-room.jpg?as=1&w=494&rev=b9a43920b2304a87a5843e148982ab2e&hash=975BD6E3B42BAA0AA6520F0928C5C721",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/fl_west-florida_drhorton_coral_21-lanai.jpg?as=1&w=494&rev=117bd01ef1494e758310c95ca2890ca8&hash=D1049AE90EC182157009B0FC535A925C"
+      ],
+      "name": "708 160th Lane E.",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/708-160th-lane-e",
+      "id": "708",
+      "address": "708 160th Lane E.",
+      "price": "$490,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2767/0059-708-160th-lane-e/708_160th_lane_e_web.jpg?iar=1&sc=1&thn=1&w=425&rev=ca2755b77cb74d3cac8f650fc8729d4a&hash=0EB6CCABA600A37F8CF67E6176552C4E",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/01-fl_drh_tampasouth_manateesarasota_camden_d_shingle_cls_nogrids_00.jpg?as=1&w=494&rev=871b2a799b6c4e76b5d571cc0df8a898&hash=D3BA5F33350AC2427E532C9E23766311",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/03_entry_2.jpg?as=1&w=494&rev=f18894b8ae304e31acae78a35e45908d&hash=9E32E8D5019258F353DD8015815D5E09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/05_dining_living_2.jpg?as=1&w=494&rev=59497ad734f64fe0ac9e6d7cb52afa06&hash=13B6BB30FCCD71BC6972A55DECF81066",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/16_dining_2.jpg?as=1&w=494&rev=17d68e7fe05e4b1dab719706e00e54f1&hash=78C9F04CDD8B3838EE787580C00EEB8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/07_living_2.jpg?as=1&w=494&rev=62aa0c963dbb4ba8b269aafa8c13942c&hash=193EF8812CFA9F8A1194D2C4EE62E69A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/10_kitchen_2.jpg?as=1&w=494&rev=9347f86b8b594d909a594d9278a0fd30&hash=24152FBAC996C137EF25871B93927DF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/13_bed_1_2.jpg?as=1&w=494&rev=286f8b99ed244c2da7c69ed25aefc859&hash=DF96C1C72EAA2BE731EECE9E4769E5FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/14_bed_2_2.jpg?as=1&w=494&rev=bcb381aa1b254b2ba54e0663a445715d&hash=6E49620FDE821DD9296267DB21B35A02",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/17_bath_1_2.jpg?as=1&w=494&rev=9254f948e94f4256a901216e36632bf4&hash=25891284F618E3680B561911DB4C2D17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/11_bed_3_2.jpg?as=1&w=494&rev=1b4775cee51246c7a287b9454604b497&hash=E7B8FAF9E83ACDA27A4EBF81DA1E3EB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/20_bath_3_2.jpg?as=1&w=494&rev=b89c37c4cf5b44b79946d884682a0d26&hash=A454F626CB600DC8CDA287755B98FDF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/23_bed_3_2.jpg?as=1&w=494&rev=fe2a75112aea4540af8aab8284faa22b&hash=E9907D865E20AA0B00865CF01CF6F5C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/19_laundry_2.jpg?as=1&w=494&rev=5b31ba031d7643bb8ce4bda1125a1fa0&hash=E40C5D535ADCBC81A431EB0A2E180318"
+      ],
+      "name": "16018 10th Avenue E.",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16018-10th-avenue-e",
+      "id": "16018",
+      "address": "16018 10th Avenue E.",
+      "price": "$524,000",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0042-16018-10th-avenue-e/01-fl_drh_tampasouth_manateesarasota_camden_d_shingle_cls_nogrids_00.jpg?iar=1&sc=1&thn=1&w=425&rev=871b2a799b6c4e76b5d571cc0df8a898&hash=85821A49F65A1157FD4B37D60F50F9BD",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/16026_10th_ave_web.jpg?as=1&w=494&rev=64c63985726d4f58aee0c09d26555778&hash=ABDDA586E950EAC3EFC9D6067366E202",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/03_entry_2.jpg?as=1&w=494&rev=218e1baf658447b6b2acad2f19c9fc01&hash=922515A10B54B88F5AEF640CD2AFE3D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/05_dining_living_2.jpg?as=1&w=494&rev=a6348e56dbe44e88bf32f3f92a013b2d&hash=7F70C5E0A40727BE658A6281E83F94F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/16_dining_2.jpg?as=1&w=494&rev=c51702e308014d3e9f537569afe80817&hash=9800AD5536DB48FE240406BEAF89D0EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/07_living_2.jpg?as=1&w=494&rev=7009a9cd91804f83997447dc5c76ec9d&hash=18A20BFED4EFFDFDA197695350D0033E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/10_kitchen_2.jpg?as=1&w=494&rev=beab48ee22834723863f49342821942b&hash=B42D88078EE9EBE625A094731C0F534C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/13_bed_1_2.jpg?as=1&w=494&rev=3a14c7c86d62498cae109608bf2ce3f0&hash=FAB474936538FE3020D63C05FD33AFE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/14_bed_2_2.jpg?as=1&w=494&rev=67130d7dec1040f8a0d114785112f221&hash=EC1AEFCCD86D52A07635AD63110CD6B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/17_bath_1_2.jpg?as=1&w=494&rev=f323d37d5cbc4d5ab4a087f44c225013&hash=90DA84C33BE18A5DD91C7165E46F445B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/11_bed_3_2.jpg?as=1&w=494&rev=7f22f31a70f24e9891fe3671681f061a&hash=7FE101ABA18BCAD82DEF1C30CA164ECE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/20_bath_3_2.jpg?as=1&w=494&rev=b9e8d2ca24cd4b80b1109a4ab2962795&hash=9CDFE8BF3EBE47EA16519E1156F7FE97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/23_bed_3_2.jpg?as=1&w=494&rev=d28fc8943e0c4e2ebc686d51f8c6600e&hash=10F5290719B0E79DD34E7A15B46C47F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/19_laundry_2.jpg?as=1&w=494&rev=c9a56ee2661940df9ecfc1b071e19c79&hash=6DCEDBD1149FFF97FEF9D5F67D43BBBE"
+      ],
+      "name": "16026 10th Avenue E.",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16026-10th-avenue-e",
+      "id": "16026",
+      "address": "16026 10th Avenue E.",
+      "price": "$499,000",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0040-16026-10th-avenue-e/16026_10th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=64c63985726d4f58aee0c09d26555778&hash=BC1618F682A0D4A46913B904B2D39809",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/16030_10th_ave_web.jpg?as=1&w=494&rev=0ee2e6c4312342f28a635e841c3c029d&hash=203C6670211B3A03ED805F8582E9AFF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/03_entry_2.jpg?as=1&w=494&rev=db841db9a854426d880f4fd6fa62ac53&hash=906E1B8AF9AF695243F0A0CEB948A1A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/07_living_2.jpg?as=1&w=494&rev=02b36e02a140494d9d9e890179be6699&hash=A37790A2BA57822492454A95BFA85C41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/05_dining_living_2.jpg?as=1&w=494&rev=579944e61f25434581ff0d35b83f6ae6&hash=6EEDECD7ED74D27CFCED65D79A6889B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/16_dining_2.jpg?as=1&w=494&rev=04fe1217d86b49b794258503b0a6407c&hash=76E66078606BB74F4A7DD41611219657",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/10_kitchen_2.jpg?as=1&w=494&rev=52c280852a804ea3a64efcdf295e4e43&hash=00549B1C8F0E06FE5A259C2F864ED38C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/13_bed_1_2.jpg?as=1&w=494&rev=6c4708dc72cb4eea99cdc24f9db545bc&hash=56D2AFAE719797579A4B0CCFF721DD96",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/14_bed_2_2.jpg?as=1&w=494&rev=5510840b038443de81258c426676c6f3&hash=87A1D1393D8B0572A144A3E20DF8C91A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/17_bath_1_2.jpg?as=1&w=494&rev=60ac0948f5d849f3b43d72c0b5f0f87a&hash=70155BA80A952C9417F86377EE1F23BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/11_bed_3_2.jpg?as=1&w=494&rev=e5925bc415d443b69b4c2369586b857e&hash=705C66A9B521B0BFECEEB2E02E53DF0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/20_bath_3_2.jpg?as=1&w=494&rev=288928952e3649a68eef27f9aa5ec7e2&hash=2197E6D9A3380E4F52A60B004E682BF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/23_bed_3_2.jpg?as=1&w=494&rev=8366e5aa928a499d89709b95eb9a8b91&hash=ED1D7EE406D925DD39ABF63A98A025CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/19_laundry_2.jpg?as=1&w=494&rev=211d7a273dda418b8bbde4c80ba4f416&hash=54549FEC17CD6AB3B7C8FBC0B228287F"
+      ],
+      "name": "16030 10th Avenue E.",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16030-10th-avenue-e",
+      "id": "16030",
+      "address": "16030 10th Avenue E.",
+      "price": "$539,000",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/2795/0039-16030-10th-avenue-e/16030_10th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=0ee2e6c4312342f28a635e841c3c029d&hash=D0B213BE7913F516A3F33C3B6180CA6E",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/16025_7th_ave_web.jpg?as=1&w=494&rev=116ac5f242944525b7884462d9b0550b&hash=10ACE044C7966A547D0F4E9DCE413EBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_01-flex-room.jpg?as=1&w=494&rev=c23ace10794c40088bb05485b868c1e5&hash=24847EA43BD1C21FB980415B82725246",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_02-kitchen.jpg?as=1&w=494&rev=cd67751f47e5428fa40df5313dcb82e4&hash=FD3E3C9D5243964E802084DFF29A0027",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_03-dining-area.jpg?as=1&w=494&rev=45c17e26a1434be09e356c4084b77145&hash=C6891EB8DD663AB32FBCB9219FCF2551",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_04-kitchen-dining-living-area.jpg?as=1&w=494&rev=e0bebc5392ad4d17aa840e9dc98b2116&hash=79A292F97EF874674B4D0EDB715F5445",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_05-living-dining-area.jpg?as=1&w=494&rev=d9fcc29b91064f61b7d78366b4e43645&hash=EBC2599DDEA74197F4BC87BF3F46B86F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_09-master-suite.jpg?as=1&w=494&rev=8008e0083bb945f788a3cff010b8e54a&hash=8F0B92FE50EE06A701808D775B5D636F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_10-master-ensuite.jpg?as=1&w=494&rev=a1d52118ea584c5a8824b7d541d4cd02&hash=5AD8A1174FDFB26B3E13DC0D2EB972C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_06-bedroom_1.jpg?as=1&w=494&rev=5b3e81063f914d8985b8c07248e9a662&hash=DE08A7BF9755682950ECAC6C1EF37A6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_07-guestbathroom.jpg?as=1&w=494&rev=c83e352929524ffea8a1d2c14be138a2&hash=8BE6D303DA6F3A797192DADC54F6AC7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_08-loft-area.jpg?as=1&w=494&rev=ce3f9da764b74df9a171749dd2e8ba76&hash=3EF0F0444070B5CB23CE09DAC151D8A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_11-bedroom-2.jpg?as=1&w=494&rev=f03f10b41e764f8a8402718eaf066d31&hash=4618C85FB82FD266368B13B36953C382",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_12-bedroom-4.jpg?as=1&w=494&rev=e934d8f6249c4c0687906a1190dbe40a&hash=7C98A1EEAD24C2EA35441C5F99C52E59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_13-bedroom-3.jpg?as=1&w=494&rev=9ef85c30baf14c7a842a5bdfdde74e76&hash=0E679E583FA157B5A0B42C839CF0C67F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/fl_west-florida_dr-horton_hemingway_14-guest-bathroom-2.jpg?as=1&w=494&rev=ad70d526913e4a8e992e1da3c15ec8c0&hash=52A8408C635D5B850D234D19A1EA9E72"
+      ],
+      "name": "16025 7th Avenue E.",
+      "plan": "Hemingway",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16025-7th-avenue-e",
+      "id": "16025",
+      "address": "16025 7th Avenue E.",
+      "price": "$474,000",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2934",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/2924/0067-16025-7th-avenue-e/16025_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=116ac5f242944525b7884462d9b0550b&hash=283A20C8DCE1CE9BE5B0334E3CB7F0AD",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/3278/0070-912-160th-lane-e/00fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=845269afbd024cfab6196bcf00e412ca&hash=D8EBF6C58E34879ADAA28D8675B18A45"
+      ],
+      "name": "912 160th Lane E.",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/912-160th-lane-e",
+      "id": "912",
+      "address": "912 160th Lane E.",
+      "price": "$574,000",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397120000-coddington-60-drh/3278/0070-912-160th-lane-e/00fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=845269afbd024cfab6196bcf00e412ca&hash=D8EBF6C58E34879ADAA28D8675B18A45",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/16017_7th_ave_web.jpg?as=1&w=494&rev=98a207020dfd48c685e9c2acb3e46ba7&hash=C62D747B63B9DB1EDBCD36CF82A1BED8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/01-fl_tampasouth_drhorton_holden_flex_room.jpg?as=1&w=494&rev=79bf9f33ebd14d1f94b330ef4cfcc3d7&hash=F102E05280A795AE879351CFBF918CB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/02-fl_tampasouth_drhorton_holden_kitchen_dining.jpg?as=1&w=494&rev=76aae79b97bc4423893486b85f502a46&hash=8D9D68CD8B13518DF02F6B3B60EFF34A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/03-fl_tampasouth_drhorton_holden_kitchen.jpg?as=1&w=494&rev=17431928c6b54ad9bb6cc9751cac6175&hash=E4CBDF41FC6958AD9699D4DF6B89E04E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/04-fl_tampasouth_drhorton_holden_butler-s_pantry.jpg?as=1&w=494&rev=b9fc491555894a789a93ada6f5dd7088&hash=09C0A3902D665D3DACFDC990D0F325D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/05-fl_tampasouth_drhorton_holden_great_room_kitchen_dining.jpg?as=1&w=494&rev=da3add7bcffc467595147f4a963faeb4&hash=9C729D2A546AC65D89B798CB7CA5F890",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/06-fl_tampasouth_drhorton_holden_great_room_dining.jpg?as=1&w=494&rev=45403d7f76ae4e28a98395b9694d0ee6&hash=9A2F58C11F2D80B89365017BEA3706B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/07-fl_tampasouth_drhorton_holden_bed_4_-_1st_floor.jpg?as=1&w=494&rev=69d58f7e3ff6414fbbce9fb6433b0bf1&hash=B4AA6F50B26AF0AA8EE70080B3F35057",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/11-fl_tampasouth_drhorton_holden-master-closet.jpg?as=1&w=494&rev=a55969ddd5d2414fb936e9c745035e04&hash=53951DDE5B543157ED61B36688B3C747",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/08-fl_tampasouth_drhorton_holden_bath_2_-_first_floor.jpg?as=1&w=494&rev=715172937c404c6cbc9758a16bab9387&hash=DF0636930AD30A1F976F243721783419",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/09-fl_tampasouth_drhorton_holden_bonus_room_3.jpg?as=1&w=494&rev=e60b4b2febac42d29110924e31487bac&hash=B7E999C8FE67D2A6D4A24913FCF3C5F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/10-fl_tampasouth_drhorton_holden_bedroom_1_sitting.jpg?as=1&w=494&rev=a71c425068e2490fb421a9bf8a0295f7&hash=0AF388E256ABBEE2B7F7967099157AE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/12-fl_tampasouth_drhorton_holden_bath_1.jpg?as=1&w=494&rev=b505cecec17b413fa3f815b71f16e0cb&hash=EB0BE31A8878D37B0A81B820E9EF6B04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/13-fl_tampasouth_drhorton_holden_bedroom_2.jpg?as=1&w=494&rev=48d37228c18948b2baf2bb515f27607f&hash=4B9FCD54B0065C8E8268EF5175BC170D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/14-fl_tampasouth_drhorton_holden_bedroom_3.jpg?as=1&w=494&rev=83760d73246248a6af58d4f32752e293&hash=A9D4E216CF3A60F7BBB798A4B7CB78D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/15-fl_tampasouth_drhorton_holden_bath_3.jpg?as=1&w=494&rev=cc61e64c79734a4abe9d1a27ce19e8fd&hash=F12CDEBB15ADB41ED56CA4287D61423F"
+      ],
+      "name": "16017 7th Avenue E.",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16017-7th-avenue-e",
+      "id": "16017",
+      "address": "16017 7th Avenue E.",
+      "price": "$514,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0069-16017-7th-avenue-e/16017_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=98a207020dfd48c685e9c2acb3e46ba7&hash=7F04EBD55282246AB6DEB883263D79CC",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/16021_7th_ave_web.jpg?as=1&w=494&rev=a18dd973682d457a9561a8db0f1fd947&hash=EB1CAB14E34C10C7FC3BCC5CC6D1F036",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/01-fl_tampasouth_drhorton_holden_flex_room.jpg?as=1&w=494&rev=fb0cc5ee7fb14443bfd76d151aea1699&hash=FF6FAC3C388341CDF1E99A8E9AF9231B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/02-fl_tampasouth_drhorton_holden_kitchen_dining.jpg?as=1&w=494&rev=38b37ca68290472bbb581f0b6e840041&hash=DB6832F2D96513844D8F862C6B85E639",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/03-fl_tampasouth_drhorton_holden_kitchen.jpg?as=1&w=494&rev=34d23fb06fb148929fa987731d19b6d6&hash=4DAE5879DC571CB2B278CDB9C54CB608",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/04-fl_tampasouth_drhorton_holden_butler-s_pantry.jpg?as=1&w=494&rev=c3cb7160e1d740538c849975d3b822d5&hash=162B96807CE3200526DC6994FBB1EACB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/05-fl_tampasouth_drhorton_holden_great_room_kitchen_dining.jpg?as=1&w=494&rev=b53601e7c9e745cca234136cecf0dfca&hash=D33A657479699DA562E2B3EB40EBD28D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/06-fl_tampasouth_drhorton_holden_great_room_dining.jpg?as=1&w=494&rev=080fed2251ed4d09a35de65440191dc2&hash=619DEC104F1494A2ED5E076C94ED85F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/07-fl_tampasouth_drhorton_holden_bed_4_-_1st_floor.jpg?as=1&w=494&rev=33047d886e2a48b4a2121d57cd21c8be&hash=1D1D53260C2F50766AF52CF9FAF7B9B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/11-fl_tampasouth_drhorton_holden-master-closet.jpg?as=1&w=494&rev=f2b26ceea8334fbc8ec070dc5f0f741f&hash=8C406EF312381DABFBABA2C60DE4288B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/08-fl_tampasouth_drhorton_holden_bath_2_-_first_floor.jpg?as=1&w=494&rev=fa778ac278a0420ea3a735945d3a472b&hash=884C4453ED28BCE9C1FF8D69FD7BA53F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/09-fl_tampasouth_drhorton_holden_bonus_room_3.jpg?as=1&w=494&rev=aa36521fcd35476bb31644437d1dd358&hash=6A3EC9987BA8349E7D8F51C609E2BD62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/10-fl_tampasouth_drhorton_holden_bedroom_1_sitting.jpg?as=1&w=494&rev=48dd6715bb7e4f8db65f7e32ab93d534&hash=26E0933C12BF7BB4F45266AEC489219B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/12-fl_tampasouth_drhorton_holden_bath_1.jpg?as=1&w=494&rev=fa777bb9dbab454f975d89ed500efe10&hash=46560472EEBBB184A641C4407231B16B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/13-fl_tampasouth_drhorton_holden_bedroom_2.jpg?as=1&w=494&rev=4adc38f021f34f438fa98f811f46fd34&hash=677F86EE49B33F53EA2E79093C6928EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/14-fl_tampasouth_drhorton_holden_bedroom_3.jpg?as=1&w=494&rev=2a0c457c3deb4837ab7a47a3bb5d3d07&hash=7A2353939B6A8172CEC30B1F70452AFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/15-fl_tampasouth_drhorton_holden_bath_3.jpg?as=1&w=494&rev=9b46af87bd5b46f7aa7afde2a67fa7b3&hash=8AFFD0B9DC0A77C00D91BD68359D88D7"
+      ],
+      "name": "16021 7th Avenue E.",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16021-7th-avenue-e",
+      "id": "16021",
+      "address": "16021 7th Avenue E.",
+      "price": "$499,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0068-16021-7th-avenue-e/16021_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=a18dd973682d457a9561a8db0f1fd947&hash=642CDEC88CECFFFECE2B967B4EAA3F68",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/16033_7th_ave_web.jpg?as=1&w=494&rev=7f6e946547c940d68d33b38bfa2896df&hash=13E6D3C6784C720898DC3B543F7F95DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/01-fl_tampasouth_drhorton_holden_flex_room.jpg?as=1&w=494&rev=a630bc4233c5415d91bd483bf595b8ec&hash=262178ACC62B4C9E03D424CABDF3387A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/03-fl_tampasouth_drhorton_holden_kitchen.jpg?as=1&w=494&rev=c601296fc6974e07904ef2169425576b&hash=F4DA63A01409A617475ACB18312A136A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/04-fl_tampasouth_drhorton_holden_butler-s_pantry.jpg?as=1&w=494&rev=cf75c2c7b207452f842952f0584f6bb3&hash=5A791CAA9E071884A38F9294893BD2EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/02-fl_tampasouth_drhorton_holden_kitchen_dining.jpg?as=1&w=494&rev=b307ebcfcf5c4b4ea999624232637def&hash=9DAD1B75D4156204D9DBD2FF6D82DBC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/05-fl_tampasouth_drhorton_holden_great_room_kitchen_dining.jpg?as=1&w=494&rev=e3df2147bd1043c0852fa7dc9a3135af&hash=BAB9C6D9061A921B6BE85D93255DBDBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/06-fl_tampasouth_drhorton_holden_great_room_dining.jpg?as=1&w=494&rev=71a1c66e036a45f7af81bbe532084776&hash=091A646BA85B80F9782CD228DFBF3298",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/09-fl_tampasouth_drhorton_holden_bonus_room_3.jpg?as=1&w=494&rev=84478a66f693459c89f41242c50b7800&hash=A9BDA26921C36B424817B72165052348",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/10-fl_tampasouth_drhorton_holden_bedroom_1_sitting.jpg?as=1&w=494&rev=344105884b2b42c38aec456fbf430062&hash=CEDB6F765683A9C9B926B1C848AE1B56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/11-fl_tampasouth_drhorton_holden-master-closet.jpg?as=1&w=494&rev=bb40078e9bb64fc98008fe3d9b28a59c&hash=E14CCC33F8537223D6A267B1DFEFEB4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/12-fl_tampasouth_drhorton_holden_bath_1.jpg?as=1&w=494&rev=c97ab390a694433ba7d2a83c5adbb43b&hash=3BDDE28B02A97D014F487232AE3960BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/07-fl_tampasouth_drhorton_holden_bed_4_-_1st_floor.jpg?as=1&w=494&rev=3bbdcd5423c14d1ea853fb14f9b7ad60&hash=5E0C3C54D2AB121944158FF7C6CA3929",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/13-fl_tampasouth_drhorton_holden_bedroom_2.jpg?as=1&w=494&rev=05cbb4684ce24fb0a6c91609ede75c86&hash=F188E1678D78F90836AB59D456004093",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/14-fl_tampasouth_drhorton_holden_bedroom_3.jpg?as=1&w=494&rev=633f1ff8c8364c5ea878f9982692cc67&hash=6874A69ABF5E2E492CAE450549723339",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/08-fl_tampasouth_drhorton_holden_bath_2_-_first_floor.jpg?as=1&w=494&rev=8cc16fb19a954e84b517ef66c6289add&hash=C9BBD3AB501B86486274F479CEFB7492",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/15-fl_tampasouth_drhorton_holden_bath_3.jpg?as=1&w=494&rev=a7a2c9bc186b471fa21dd9fd7905b075&hash=33A33B74580DA7A245C1A6024800F08C"
+      ],
+      "name": "16033 7th Avenue E.",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/16033-7th-avenue-e",
+      "id": "16033",
+      "address": "16033 7th Avenue E.",
+      "price": "$514,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0065-16033-7th-avenue-e/16033_7th_ave_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7f6e946547c940d68d33b38bfa2896df&hash=875352ECB18E7F03507E6016A8788236",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/02-holden_h_cls_nogrids.jpg?as=1&w=494&rev=2602b3b955824a3d9534d50cde4000a7&hash=46216810F364C887F9641C02410B2FE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/01-fl_tampasouth_drhorton_holden_flex_room.jpg?as=1&w=494&rev=61cbe08edf414c23afb3bdb74f2809f3&hash=A6112469974B6FAD3A0C2515B0326B8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/02-fl_tampasouth_drhorton_holden_kitchen_dining.jpg?as=1&w=494&rev=1784ada3a0e84185a9206f41989bc24a&hash=8DD2601DEEC02E742EBF7575D47E4DD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/03-fl_tampasouth_drhorton_holden_kitchen.jpg?as=1&w=494&rev=6456f970913c4081a234ed5d526bce9a&hash=0E5B1F0B718A05B6ECC157DD6CB99B08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/04-fl_tampasouth_drhorton_holden_butler-s_pantry.jpg?as=1&w=494&rev=e681ba93c1684ac3bf33f10c78ae2076&hash=A7E15780674BCF0D96CD8FCBB427FCEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/05-fl_tampasouth_drhorton_holden_great_room_kitchen_dining.jpg?as=1&w=494&rev=db0eb8072f43422f8352fdc7ada0d76f&hash=3C52AB82D2E5C7343C7FEC423122A5F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/06-fl_tampasouth_drhorton_holden_great_room_dining.jpg?as=1&w=494&rev=fd33af2f335e4d44b5c8a36379abc21d&hash=105106A64AFE7C2933E8CD937049F433",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/10-fl_tampasouth_drhorton_holden_bedroom_1_sitting.jpg?as=1&w=494&rev=d128f685fa4646a3af6830b91de3259d&hash=85BC9C38984D05C9A443ABA95ECAB352",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/11-fl_tampasouth_drhorton_holden-master-closet.jpg?as=1&w=494&rev=8cf8b2d0176d4894bacff5826b59b38f&hash=10D21BD35F724E881E9BC71F93FF0319",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/12-fl_tampasouth_drhorton_holden_bath_1.jpg?as=1&w=494&rev=8645ed70fe4747149d9ded0b11830ec9&hash=8BEAE230F254EA4476145728FB54C033",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/07-fl_tampasouth_drhorton_holden_bed_4_-_1st_floor.jpg?as=1&w=494&rev=da2cfb81c5eb4c4fb9af0892d035c527&hash=EF62213E973490FFDF9AB4815F0E3A3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/08-fl_tampasouth_drhorton_holden_bath_2_-_first_floor.jpg?as=1&w=494&rev=d22f15b59f834bbd8b1b07331178d285&hash=43249C1584417A2487CBF281A1BE1499",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/09-fl_tampasouth_drhorton_holden_bonus_room_3.jpg?as=1&w=494&rev=f606d7fcb03c432693018283ef1c3a90&hash=1AD0EACCA5B4BFD7FFEFACB4D72017A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/13-fl_tampasouth_drhorton_holden_bedroom_2.jpg?as=1&w=494&rev=8dff6fbbd80647c999a4abfd9e04789b&hash=A4261BCA32C481FD89EC22F6C7C16583",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/14-fl_tampasouth_drhorton_holden_bedroom_3.jpg?as=1&w=494&rev=b4518b5f5fd24ac182742316be61e63f&hash=A9E9FB7EAD702DAF6D6111065080080F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/15-fl_tampasouth_drhorton_holden_bath_3.jpg?as=1&w=494&rev=b11ae13561a04c1fa3388328e0853029&hash=1A4F6893B566AA4993CFA8A198A3D37F"
+      ],
+      "name": "704 160th Lane E.",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/bradenton/coddington/qmis/704-160th-lane-e",
+      "id": "704",
+      "address": "704 160th Lane E.",
+      "price": "$515,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39310-coddington/397110000-coddington-50-drh/3129/0060-704-160th-lane-e/02-holden_h_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=2602b3b955824a3d9534d50cde4000a7&hash=1DA9CF79851F6C24835A8275C8C6C27C",
+      "latitude": 27.49674,
+      "longitude": -82.38365,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Gene Witt Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Carlos E. Haile Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Parrish Community High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

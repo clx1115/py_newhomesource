@@ -1,0 +1,538 @@
+{
+  "timestamp": "2025-06-02T23:52:36.881248",
+  "name": "Asher Park",
+  "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park",
+  "status": null,
+  "price_from": "$279,990",
+  "address": "11228 Sunset Preserve Dr,Lehigh Acres, FL 33971",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Fort Myers, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/l1_southwest-florida_asher-park_exterior_2.jpg"
+  ],
+  "location": {
+    "latitude": 26.62597,
+    "longitude": -81.77236,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$279,990 - $407,575",
+    "sqft_range": "From 1,302 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/3eab",
+      "details": {
+        "price": "From $325s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/allex_ele_c_web.jpg?as=1&w=425&rev=bf8ff6ed442248b99af03ede3fcbfffc&hash=D06BE952C1FBAF9C30D4E0CFCB0410CC"
+      }
+    },
+    {
+      "name": "Bayside Unit 1/b",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/1582",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,582 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/asher_park_townhomes.jpg?as=1&w=425&rev=8e3cdf32790b427a944bbd1c5003692a&hash=461F2DF8BEB8E1F2804DDAB48BC15C3E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/bayside_unitb_asherpark.png?rev=3e0afeead085450f9f6ee4dc79da17d2&hash=6A6A29D593A5FBC9A7545DD30E7F5CE4"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/bayside_unitb_asherpark.png?rev=3e0afeead085450f9f6ee4dc79da17d2&hash=6A6A29D593A5FBC9A7545DD30E7F5CE4"
+        }
+      ]
+    },
+    {
+      "name": "Downing",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/e305",
+      "details": {
+        "price": "From $315s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,302 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/e305/downing__ele_a_cs1_revised_web.jpg?as=1&w=425&rev=21d432e12c29455eb7b37855e0d05e1d&hash=A9506C997B6F020222C20B7CC157E342"
+      }
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/3eeb",
+      "details": {
+        "price": "From $390s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eeb/2260-elston-g-gen3-elev_web.jpg?as=1&w=425&rev=cfa0632326a346ba94652fe16c983b38&hash=5BB8FFEFE1041BB56AAE634BBBB9AA37"
+      }
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/3emb",
+      "details": {
+        "price": "From $350s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/01_harper_asher_park.jpg?as=1&w=425&rev=243be5e3de414c839ecb2298766a957c&hash=0F4A2854E6285D6271C3254B4E5D9CEE"
+      }
+    },
+    {
+      "name": "Jemison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/3ejb",
+      "details": {
+        "price": "From $340s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,614 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3ejb/l1_southwest-florida_asher-park_exterior_2.jpg?as=1&w=425&rev=5384516c2f864a1c96002de63cb02bc6&hash=596DB633D4C72C29F3494D65C846703E"
+      }
+    },
+    {
+      "name": "Pearson Unit A",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/1463",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,463 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1463/pearson_6plex_web.jpg?as=1&w=425&rev=622fb3ecbac44670b046a8687230f439&hash=2FA0B6955C1929E7F8B51AB7B7156864"
+      }
+    },
+    {
+      "name": "Pearson Unit B",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/1464",
+      "details": {
+        "price": "From $280s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,464 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/pearson_6plex_web.jpg?as=1&w=425&rev=6572c006b1e949558c6f4ad9fce38f96&hash=D1C21E516CAA9A06F34D3E93F8CA3B10"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/pearson_b_floorplan.jpg?rev=9dcc1625bc144b1f9677807c9a8a3119&hash=6FA5190098A752231BC94D4D7D44D5A1"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/pearson_b_floorplan.jpg?rev=9dcc1625bc144b1f9677807c9a8a3119&hash=6FA5190098A752231BC94D4D7D44D5A1"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/3efb",
+      "details": {
+        "price": "From $410s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3efb/robie_ii-2247-g-stucco-8ft8-elev_revised.jpg?as=1&w=425&rev=b9eef04c6eac477695a5f96c3e15d196&hash=14724378E6E71D8189111392DC564B8E"
+      }
+    },
+    {
+      "name": "Surfside Unit 2/a",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/floor-plans/1680",
+      "details": {
+        "price": "From $310s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,680 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/asher_park_townhomes.jpg?as=1&w=425&rev=d4d038dd8c3e4f0ea428115c5886357a&hash=10BD9103CE3FB61E5BE9029450229B22"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3ejb/0021-11114-sunset-preserve-drive/jemison-elevation-d-nostone-csh2-alt-wtransom_new_web.jpg?iar=1&sc=1&thn=1&w=425&rev=38374271c7524ede8fc761c2d7ad7fb5&hash=ACE7346ED04273B693BD565EC8829179"
+      ],
+      "name": "1114 SUNSET PRESERVE DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/11114-sunset-preserve-drive",
+      "id": "11114",
+      "address": "1114 SUNSET PRESERVE DR",
+      "price": "$352,455",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1614",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3ejb/0021-11114-sunset-preserve-drive/jemison-elevation-d-nostone-csh2-alt-wtransom_new_web.jpg?iar=1&sc=1&thn=1&w=425&rev=38374271c7524ede8fc761c2d7ad7fb5&hash=ACE7346ED04273B693BD565EC8829179",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com"
+      ],
+      "name": "11121 SUNSET PRESERVE DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/11121-sunset-preserve-drive",
+      "id": "11121",
+      "address": "11121 SUNSET PRESERVE DR",
+      "price": "$359,455",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1614",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3ejb/0023-11126-sunset-preserve-drive/jemison-elevation-c-nostone-csh1-alt-wtransom_new_web.jpg?iar=1&sc=1&thn=1&w=425&rev=03313c0a0efb4d7991537bf3e245e696&hash=53BC31138454BD94B294076D7540E5E0"
+      ],
+      "name": "11126 SUNSET PRESERVE DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/11126-sunset-preserve-drive",
+      "id": "11126",
+      "address": "11126 SUNSET PRESERVE DR",
+      "price": "$324,999",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1614",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3ejb/0023-11126-sunset-preserve-drive/jemison-elevation-c-nostone-csh1-alt-wtransom_new_web.jpg?iar=1&sc=1&thn=1&w=425&rev=03313c0a0efb4d7991537bf3e245e696&hash=53BC31138454BD94B294076D7540E5E0",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/allex_ele_d_web.jpg?as=1&w=494&rev=1ff7d36880d04a83926d75b44c1b1961&hash=C8D8125E739C96DD433DA47BB767B8FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/02_allex_asher_park.jpg?as=1&w=494&rev=1a4cebaac3ab48fbb23606486e628f73&hash=3EE68A7E5C338684994E277B9D139BB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/03_allex_asher_park.jpg?as=1&w=494&rev=44b88aebe9834f6592c773eb0831cc99&hash=02DAF7A844F46C216212C520FCE93336",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/04_allex_asher_park.jpg?as=1&w=494&rev=9c15ea0e97ed4817ab74bfbbd9ce866a&hash=C7F30A955E91A7F55DE2C1421249E3EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/05_allex_asher_park.jpg?as=1&w=494&rev=33a893e79f234d308f5c0de37619e7a7&hash=6C2BD180E460D3030D5A9DCFFEDB4AC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/06_allex_asher_park.jpg?as=1&w=494&rev=8d527604c6744f39a6f6b263ea3180b7&hash=6E8A8DBEFAD30AE98DA602836E321342",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/07_allex_asher_park.jpg?as=1&w=494&rev=c465ba91226846b7ba2bc125339b22e5&hash=D1DC63FEC6E544CF4811D20811BC1B91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/allex_cd_asherpark.jpg?rev=2a4466c16e6f4d55b41fdfdab0d3d67a&hash=4DCA9977D149978F3327627C9E471403"
+      ],
+      "name": "11132 SUNSET PRESERVE DR",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/11132-sunset-preserve-drive",
+      "id": "11132",
+      "address": "11132 SUNSET PRESERVE DR",
+      "price": "$314,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eab/0024-11132-sunset-preserve-drive/allex_ele_d_web.jpg?iar=1&sc=1&thn=1&w=425&rev=1ff7d36880d04a83926d75b44c1b1961&hash=EF933CA7929616A21FA2F6B163663173",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/harper_ele_c_web.jpg?as=1&w=494&rev=7478dc39b6864492969a5925e88ea8f4&hash=7C58D228EE94A117F956B2FA9D47A875",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/02_harper_asher_park.jpg?as=1&w=494&rev=ed99cd0c3b3b494b8be7c593ff89139e&hash=978132096F49FFC83E40B3CACE925E74",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/03_harper_asher_park.jpg?as=1&w=494&rev=cf081d79aed947cda7f1c588b306673e&hash=BD083D7FB7972946BABE4AF2AF3745DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/04_harper_asher_park.jpg?as=1&w=494&rev=cd4320323d8e456d88aaa732aabd6d65&hash=6371D7259CF7BADA75F64859538D88F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/05_harper_asher_park.jpg?as=1&w=494&rev=bb2885dddd654b5d83133fb5fb56fad5&hash=BE793F48005A3F6E08BBC09B6C929C4A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/06_harper_asher_park.jpg?as=1&w=494&rev=344d3def18c34dee8aef3bb4d1eccb9a&hash=0E18D4CB887473AF0B8B2C2AF24487EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/07_harper_asher_park.jpg?as=1&w=494&rev=2278308d450f42e28bd0d98fb04e6ba5&hash=F6BE57A80CA9170829B17DD3DD24041C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/1665_harper_asherpark_web.jpg?rev=73aad295e0aa42779ed0da49dc65a2ab&hash=AB5B4E6BDE6BCD41B2BA6ADF2E6FB412"
+      ],
+      "name": "11145 SUNSET PRESERVE DR",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/11145-sunset-preserve-drive",
+      "id": "11145",
+      "address": "11145 SUNSET PRESERVE DR",
+      "price": "$343,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3emb/0011-11145-sunset-preserve-drive/harper_ele_c_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7478dc39b6864492969a5925e88ea8f4&hash=7A378AD0B57D23F1605FF6B1ED876A44",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eeb/0049-11282-sunset-preserve-drive/2260-elston-g-gen3-elev_web.jpg?iar=1&sc=1&thn=1&w=425&rev=9a30b0024bab4f1db6ed845a2953d426&hash=C7807C147263933FEBD738C513630C55"
+      ],
+      "name": "11282 SUNSET PRESERVE DR",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/11282-sunset-preserve-drive",
+      "id": "11282",
+      "address": "11282 SUNSET PRESERVE DR",
+      "price": "$407,575",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/3eeb/0049-11282-sunset-preserve-drive/2260-elston-g-gen3-elev_web.jpg?iar=1&sc=1&thn=1&w=425&rev=9a30b0024bab4f1db6ed845a2953d426&hash=C7807C147263933FEBD738C513630C55",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0012-8013-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=4fe8e04aaed940ce9178b9f39bee0aca&hash=50AB314EF5D01ADD4CF2D0B2CA520891"
+      ],
+      "name": "8013 HALEY CREEK WAY #2-A",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8013-haley-creek-way",
+      "id": "8013",
+      "address": "8013 HALEY CREEK WAY #2-A",
+      "price": "$279,999",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1680",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0012-8013-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=4fe8e04aaed940ce9178b9f39bee0aca&hash=50AB314EF5D01ADD4CF2D0B2CA520891",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/e305/0187-8052-cedar-key-way/downing__ele_a_cs1_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=90f4d69bc5cd492987404d2f50ced2cf&hash=3906D94547068101EE91FAE4DF4688EA"
+      ],
+      "name": "8052 CEDAR KEY WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8052-cedar-key-way",
+      "id": "8052",
+      "address": "8052 CEDAR KEY WAY",
+      "price": "$321,240",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1302",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547680000-asher-park-40s/e305/0187-8052-cedar-key-way/downing__ele_a_cs1_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=90f4d69bc5cd492987404d2f50ced2cf&hash=3906D94547068101EE91FAE4DF4688EA",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0018-8054-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=be0bf21edac44f0da1c168cc44cdf848&hash=3D8F4C208965F0B804E4AD17123DB55C"
+      ],
+      "name": "8054 HALEY CREEK WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8054-haley-creek-way",
+      "id": "8054",
+      "address": "8054 HALEY CREEK WAY",
+      "price": "$284,999",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1680",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0018-8054-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=be0bf21edac44f0da1c168cc44cdf848&hash=3D8F4C208965F0B804E4AD17123DB55C",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/0038-8113-haley-creek-way/pearson_6plex_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7c8358ffc7034e8bbe43bd48f4007060&hash=9BCBABD8A38A07DF0D2163256159BEFD"
+      ],
+      "name": "8113 HALEY CREEK WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8113-haley-creek-way",
+      "id": "8113",
+      "address": "8113 HALEY CREEK WAY",
+      "price": "$284,315",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/0038-8113-haley-creek-way/pearson_6plex_web.jpg?iar=1&sc=1&thn=1&w=425&rev=7c8358ffc7034e8bbe43bd48f4007060&hash=9BCBABD8A38A07DF0D2163256159BEFD",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0025-8120-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=24238547e9b84fc1816f350b50489851&hash=61C10D23298F64E62D0C0524D31995E8"
+      ],
+      "name": "8120 HALEY CREEK WAY, #2-A",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8120-haley-creek-way",
+      "id": "8120",
+      "address": "8120 HALEY CREEK WAY, #2-A",
+      "price": "$289,999",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1680",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0025-8120-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=24238547e9b84fc1816f350b50489851&hash=61C10D23298F64E62D0C0524D31995E8",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/0036-8125-haley-creek-way/pearson_6plex_web.jpg?iar=1&sc=1&thn=1&w=425&rev=1a0c3857ff934db28f2f886a586501bb&hash=43618D4B98C017859CD885E25DA52D74"
+      ],
+      "name": "8125 HALEY CREEK WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8125-haley-creek-way",
+      "id": "8125",
+      "address": "8125 HALEY CREEK WAY",
+      "price": "$284,315",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/0036-8125-haley-creek-way/pearson_6plex_web.jpg?iar=1&sc=1&thn=1&w=425&rev=1a0c3857ff934db28f2f886a586501bb&hash=43618D4B98C017859CD885E25DA52D74",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/0028-8138-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=cc49780cd8d147dc9537d667c1eccada&hash=3020BD1777A85696FFD79A19B58E8C32"
+      ],
+      "name": "8138 HALEY CREEK WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8138-haley-creek-way",
+      "id": "8138",
+      "address": "8138 HALEY CREEK WAY",
+      "price": "$289,999",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1582",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/0028-8138-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=cc49780cd8d147dc9537d667c1eccada&hash=3020BD1777A85696FFD79A19B58E8C32",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/0029-8144-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=e706bd2c9fd04834819e0000796ff6a9&hash=9F8F69E3E0B30AB82EAD57BEADBC6E6C"
+      ],
+      "name": "8144 HALEY CREEK WAY, #1-B",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8144-haley-creek-way",
+      "id": "8144",
+      "address": "8144 HALEY CREEK WAY, #1-B",
+      "price": "$289,999",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1582",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1582/0029-8144-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=e706bd2c9fd04834819e0000796ff6a9&hash=9F8F69E3E0B30AB82EAD57BEADBC6E6C",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/0032-8149-haley-creek-way/pearson_6plex_web.jpg?iar=1&sc=1&thn=1&w=425&rev=8d14abf8bd1f4ac1b3a4f2e806e4239c&hash=4FC9012770773DA6340A1A33BD9F9F7A"
+      ],
+      "name": "8149 HALEY CREEK WAY",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8149-haley-creek-way",
+      "id": "8149",
+      "address": "8149 HALEY CREEK WAY",
+      "price": "$289,575",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1464/0032-8149-haley-creek-way/pearson_6plex_web.jpg?iar=1&sc=1&thn=1&w=425&rev=8d14abf8bd1f4ac1b3a4f2e806e4239c&hash=4FC9012770773DA6340A1A33BD9F9F7A",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0030-8150-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=bc8b1b26927048ecb08bc6fe38ad3a5b&hash=7E555162562189E3C7D566EF116FB37E"
+      ],
+      "name": "8150 HALEY CREEWK WAY, #2-A",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/fort-myers/asher-park/qmis/8150-haley-creek-way",
+      "id": "8150",
+      "address": "8150 HALEY CREEWK WAY, #2-A",
+      "price": "$289,999",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1680",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/54767-asher-park/547670000-asher-park-ths/1680/0030-8150-haley-creek-way/asher_park_townhomes_bayside_surfside.jpg?iar=1&sc=1&thn=1&w=425&rev=bc8b1b26927048ecb08bc6fe38ad3a5b&hash=7E555162562189E3C7D566EF116FB37E",
+      "latitude": 26.62597,
+      "longitude": -81.77236,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

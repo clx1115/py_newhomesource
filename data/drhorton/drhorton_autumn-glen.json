@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-03T15:25:57.796726",
+  "timestamp": "2025-05-30T08:19:42.126250",
   "name": "Autumn Glen",
   "url": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen",
   "status": null,
@@ -307,35 +307,6 @@
     },
     {
       "images": [
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/atg_old_cali_model_web.jpg?as=1&w=494&rev=77fb9221c4864f69b662088419332844&hash=9D7CD226505A38B15BA7E53A26D120F8",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/02-fl_west-florida_dr-horton_cali_8_kitchen.jpg?as=1&w=494&rev=013a52a92fec482cb55a2422a0db9578&hash=72673294E42C9F002608A007008C8664",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/03-fl_west-florida_dr-horton_cali_8_dining.jpg?as=1&w=494&rev=11c9da05d72e4ea99adfb999e8b39000&hash=4330F41AFECA474838C7D431AEAC6562",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/04-fl_west-florida_dr-horton_cali_8_great-room.jpg?as=1&w=494&rev=cc80100eb3a943179d239e16c0649bca&hash=AD09F30912552ED7DBBC8D437573FA60",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/06-fl_west-florida_dr-horton_cali_8_bedroom2.jpg?as=1&w=494&rev=e96969aab56d449ca89e31dc8e46aaa5&hash=893FE5CBD71D9177EAB8909E6908B035",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/07-fl_west-florida_dr-horton_cali_8_bedroom3.jpg?as=1&w=494&rev=858eb8aacf6947979fb5dfcdb91375aa&hash=11C19D3B19BE8952F3ACFB358072DFAA",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/08-fl_west-florida_dr-horton_cali_8_bath2.jpg?as=1&w=494&rev=f686064dd6f84b5c9913c59151506eba&hash=E3C18CA4B5FC95B704505619833CA922",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/09-fl_west-florida_dr-horton_cali_8_flex_room.jpg?as=1&w=494&rev=b8f4189bc03749a08f050c1cba8a08b8&hash=DEAE4B7B38E2B8130A859F4E27633524",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/10-fl_west-florida_dr-horton_cali_8_main-bed.jpg?as=1&w=494&rev=5c717f1d719c4a4f8ed45d9cfc83f51e&hash=2FB4F3737C71E2F9DACBF64A9A09FD74",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/11-fl_west-florida_dr-horton_cali_8_main-bath.jpg?as=1&w=494&rev=eaea7ca7a54b422b9e740fc3838782f0&hash=E9C32DEDFA67537859DBF1CCBC394683",
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/12-fl_west-florida_dr-horton_cali_8_laundry.jpg?as=1&w=494&rev=8117fbd00c9a4a3083b993042c3e07a0&hash=0B41C6E94553998EACBD42B877D85E1B"
-      ],
-      "name": "11152 SE 68TH CT",
-      "plan": "Cali",
-      "url": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/11152-se-68th-ct",
-      "id": "11152",
-      "address": "11152 SE 68TH CT",
-      "price": "$279,990",
-      "beds": "4",
-      "baths": "2",
-      "sqft": "1828",
-      "status": "Available",
-      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0002-11152-se-68th-ct/atg_old_cali_model_web.jpg?iar=1&sc=1&thn=1&w=425&rev=77fb9221c4864f69b662088419332844&hash=A4AFC94D6A61D265782ADB32B3633B8B",
-      "latitude": 29.0555,
-      "longitude": -82.03405,
-      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
-    },
-    {
-      "images": [
         "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0175-7084-se-113th-lane/cali-d-gen3-elev_ind.jpg?as=1&w=494&rev=6adf85d84ee74f4eb5332fb9233ee227&hash=386FBCA5F11F9D853B6E8903E67948D8",
         "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0175-7084-se-113th-lane/3_cali_tos_kitchen_3.png?as=1&w=494&rev=76578246768448ec97b0f8b9c8599f6a&hash=7DFBEC67A6D6B51B727BFE91D01AFF08",
         "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0175-7084-se-113th-lane/1_cali_tos_kitchen.png?as=1&w=494&rev=facf167961fa4b3ba4e85b87881febeb&hash=C4650600E6866FAFFA7EF82AA4FFE395",
@@ -590,6 +561,35 @@
       "sqft": "1828",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0302-7129-se-113th-lane/cali-d-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=d6d562ba81e44dbb84af39c0a7e7471f&hash=219FEFCABBD489FF5811B6CCC60378E8",
+      "latitude": 29.0555,
+      "longitude": -82.03405,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/cali-d-siding-gen3-elev_ind.jpg?as=1&w=494&rev=7fd7aba9dfe949e9b8c149269b38c51b&hash=9D42368BF7720A72C6C6BC926A557B9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/02-fl_west-florida_dr-horton_cali_8_kitchen.jpg?as=1&w=494&rev=abb5e71ea0f24bd294888adbe80705e9&hash=B8028603C7A7F52C8B29109A816137D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/03-fl_west-florida_dr-horton_cali_8_dining.jpg?as=1&w=494&rev=2ceab8a17fea4638b8bfb318f3de5a02&hash=EF8CBDFFC874EB58855065CC5F2604CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/04-fl_west-florida_dr-horton_cali_8_great-room.jpg?as=1&w=494&rev=b25a22fc01e54f97bd17a68d46f20ae0&hash=882D1C04A7056C495997C6F5616AA367",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/06-fl_west-florida_dr-horton_cali_8_bedroom2.jpg?as=1&w=494&rev=4f8df6c6018440f9b98d518b8c22706b&hash=A195B2AAD9CD4B5968F8B4F0C27EE9EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/07-fl_west-florida_dr-horton_cali_8_bedroom3.jpg?as=1&w=494&rev=cfd2b303ae384509a27ab66c0188edf2&hash=FD564EACB2A33DE3DF61303CA58A4324",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/08-fl_west-florida_dr-horton_cali_8_bath2.jpg?as=1&w=494&rev=4d3d4081783640a3b00def96756c9934&hash=4F5B01AEB5655A10928CD00BA27E450C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/09-fl_west-florida_dr-horton_cali_8_flex_room.jpg?as=1&w=494&rev=03b85f46f5934017aa758d4870603b13&hash=EBE0BAAE587C6E6BBF333F65572EB563",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/10-fl_west-florida_dr-horton_cali_8_main-bed.jpg?as=1&w=494&rev=3f565214e2f4407687b62387344bc0e3&hash=028D6E85AD3F0EDBF4952E4ADDB13E6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/11-fl_west-florida_dr-horton_cali_8_main-bath.jpg?as=1&w=494&rev=d2007b6da2224b01aeb63c601b214154&hash=1401784E10358BEC5253D1194F7C7AFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/12-fl_west-florida_dr-horton_cali_8_laundry.jpg?as=1&w=494&rev=e5f6dd74d1614970b175f4c30f50265a&hash=F54EDACAA084385B6FBDB34B028C2F36"
+      ],
+      "name": "7136 SE 113th Lane",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/belleview/autumn-glen/qmis/7136-se-113th-lane",
+      "id": "7136",
+      "address": "7136 SE 113th Lane",
+      "price": "$279,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34738-autumn-glen-40s-exp/347380000-autumn-glen-40s-exp/4ebb/0181-7136-se-113th-lane/cali-d-siding-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=7fd7aba9dfe949e9b8c149269b38c51b&hash=88B83B32307975E2546CB5D997EE3FEB",
       "latitude": 29.0555,
       "longitude": -82.03405,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."

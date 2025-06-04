@@ -1,0 +1,500 @@
+{
+  "timestamp": "2025-05-31T06:37:24.260262",
+  "name": "Raley Farms",
+  "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms",
+  "status": null,
+  "price_from": "$365,900",
+  "address": "450 Raley Farms Drive,Gulf Shores, AL 36542",
+  "phone": "(251) 501-4006",
+  "description": "Find a new home in Gulf Shores, Alabama! See all the home floor plans, houses under construction, & move-in ready homes available in the Baldwin County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasmine_d11_front_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 30.32683,
+    "longitude": -87.67327,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$365,900 - $484,908",
+    "sqft_range": "From 1,510 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Lake",
+      "description": "Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Bristol",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/bris",
+      "details": {
+        "price": "From $373s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/150_preston_way.jpg?as=1&w=425&rev=e0f2b0159c124200ac71ce1297241020&hash=F12502057C7A7476037720BCBE48FE50"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/bristol_ab_marketing_brick_plan.jpg?rev=c363a4f0f86a43109f228d478e71f9ed&hash=7126F578514EA205467E3D5630CCA4D8"
+        }
+      ]
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/dest",
+      "details": {
+        "price": "From $476s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,304 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/dest/destin_exterior.png?as=1&w=425&rev=49092286682845ffa42322a37190d49e&hash=12F76153255918B5A05D283EDAF06D95"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/dest/destin_d_fe_floor_plan.jpg?rev=40e75cee748f40b0bee1e19aa9ee485d&hash=8298F5B1EF8613B60EE4EC2B8ACB2A63"
+        }
+      ]
+    },
+    {
+      "name": "Jasmine",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/jasm",
+      "details": {
+        "price": "From $451s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,091 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/jasmine_d5_exterior.png?as=1&w=425&rev=742ec3018d754e3b8a2e52e8f4da82ef&hash=4A87407F0D07D0CFF6395BE7762C625E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/jasmine_c_fe_floor_plan_2.jpg?rev=064e2c4fc68f460c8642c48c05bc4d80&hash=A7595762D3848DEA19CFF5CC39334A62"
+        }
+      ]
+    },
+    {
+      "name": "Kaden",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/kade",
+      "details": {
+        "price": "From $486s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,409 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/kade/1the_kaden_-_front_view.jpg?as=1&w=425&rev=73b5739615374c7bb4b15116a2f98539&hash=07E249B8D262BBF5BBDCB657F784C92E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/kade/kaden_a_c_fe_floor_plan.jpg?rev=0d5ab3bec9cf4681aa970ef208235187&hash=48F367D3567C68C0543B1AC6E4EBF5AB"
+        }
+      ]
+    },
+    {
+      "name": "Kinsley",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/kins",
+      "details": {
+        "price": "From $366s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,510 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/kinsley_p11_fe.png?as=1&w=425&rev=267b87b007de4baa9b645f9e7b71b915&hash=15593E847DB184FBBB2D512356A97DBA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/kinsley_c_p_fe_floor_plan.jpg?rev=af6a713017634552a0a35702229225aa&hash=1AB11C227DCCD1854AD579B1DFF845B5"
+        }
+      ]
+    },
+    {
+      "name": "Ozark",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/ozar",
+      "details": {
+        "price": "From $490s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,489 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/ozar/1ozark_b48_front_exterior.png?as=1&w=425&rev=1c49dd5548dd48bca7773139426876ba&hash=2FFA5BB8337AAB0BD92FD58AADC203C5"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/ozar/ozark_a48_floor_plan.jpg?rev=2a85e2563c824d0a89c883296f2aa499&hash=086FFD0835CC834CE0530CE655542C4F"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/ozar/ozark_b48_c48_floor_plan.jpg?rev=0b8869a1bf4e4f30bbb49805080e85ff&hash=579EC0C7E50B6E0614F50FB8C6A08E02"
+        }
+      ]
+    },
+    {
+      "name": "Rhett",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/rhet",
+      "details": {
+        "price": "From $382s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,835 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/rhett_d4_fe.jpg?as=1&w=425&rev=2688fb3549bd43fea59dd55a4a9e8f80&hash=19CA75AC778FAB9DCC39401E5589EA8A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/rhett_d_fe_floor_plan.jpg?rev=4a946a509b924ea39bfb7156fd0e6a63&hash=5F97804E216FCCB344253DFBC8D718F1"
+        }
+      ]
+    },
+    {
+      "name": "The Cairn",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/5ecf",
+      "details": {
+        "price": "From $380s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,047 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/5ecf/lot_218_cairn_k8_front_exterior.png?as=1&w=425&rev=c247de0647124cb79b7c5dd13b9c881e&hash=E91BC1FB3B7837AE4F8FFCF083044D91"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/5ecf/cairn_j_fe_floor_plan.jpg?rev=2e6789f9911a4f12a1b851af5e35cf4e&hash=AD653CF112162F4CDD552165FC25CFDC"
+        }
+      ]
+    },
+    {
+      "name": "Victoria",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/floor-plans/vict",
+      "details": {
+        "price": "From $466s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,250 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/victoria_exterior.jpg?as=1&w=425&rev=1d91a2f6f8164bb281e76a6170be1b8b&hash=CFD0ED395AE4A4683B386E80039D15E4"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/victoria_g_fe_floor_plan.jpg?rev=2f0e48c46d4743118f28b7e707170af7&hash=6097B1EBB868DE683FAD10DAC8D44DB5"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/bristol_a11_fe.png?as=1&w=494&rev=d09e82ed3e524eddb15d42ea67932326&hash=C71906897655E7F0552C5BEE36DB7C2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/1_bristol_entry.jpg?as=1&w=494&rev=6e50bf3e571e412aa7f774dfe86d1460&hash=0351ED9BEA2E95C2422EEB1D32FE25D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/2_bristol_open-view.jpg?as=1&w=494&rev=56f0f0db9bce4885bd1e8df7976525f5&hash=B925B01BCE8A3A42D84E71045DE79146",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/3_bristol_kitchen.jpg?as=1&w=494&rev=84df2d58d8e64b06b35a65e00ef873cf&hash=2ACC8C9F07A41D5E88F252B9116F935E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/4_bristol_kitchen.jpg?as=1&w=494&rev=16dbef3662a9459ba6b03d6faf4d82f0&hash=2D977ED937F7A1BB158FDAC4480EAB9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/5_bristol_kitchen.jpg?as=1&w=494&rev=42c888dfe04d4c27877f3ee72cfa2c74&hash=EBE7105474DE959597B153C217B3B9B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/6_bristol_kitchen-dining.jpg?as=1&w=494&rev=f6a671834a1647b4b5aaff6f45384ee6&hash=AEF3CEDB3A4CE6D80462D231074DD90F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/7_bristol_dining.jpg?as=1&w=494&rev=bebe7f9d1943402a9bc57bec08f105ce&hash=3A124315CA58A3C8F091F942DB27D817",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/9_bristol_living-room.jpg?as=1&w=494&rev=6e0f66a8d4414fb8b99579e19f25e63b&hash=B1803E09D9005BC814FE75AA61B85DFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/10_bristol_living-room.jpg?as=1&w=494&rev=1186339af7c149c9a29cdefbc76b92ae&hash=B35AF6D6AEC9C562E3A361DECB58AC71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/11_bristol_living-room.jpg?as=1&w=494&rev=c5b1cf614d634e908ac413b6a925a9c1&hash=740BA8762FCA97ADD3AC42D4F6772955",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/12_bristol_open-view.jpg?as=1&w=494&rev=23e8fa34615f4763b54ee4ce6d8779a5&hash=412B444326DD5B08BA8A45F4C20E9539",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/13_bristol_primary-bedroom.jpg?as=1&w=494&rev=95599947b02441d18d28d6d5485f0bbc&hash=96C6E17A5B3EB8498B0F448B793D8730",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/14_bristol_primary-bedroom.jpg?as=1&w=494&rev=a2bbe3a7f6ad4197b7121febc0c745a9&hash=33803169372D5281802581A86BACE656",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/15_bristol_primary-bedroom.jpg?as=1&w=494&rev=43037b002f374ed8b721e633e08b4f48&hash=0C66D3F629BA50054CF804E9418C127E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/16_bristol_primary-bathroom.jpg?as=1&w=494&rev=0f64487e31994e728c8da7fc65bdd445&hash=A7B9D37FD59107613C2DE984A43D37B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/17_bristol_primary-bathroom.jpg?as=1&w=494&rev=01e6fe6c4e464d16a308be232ad32c70&hash=EDFD04592FCCB87EC09FF5CA807F564A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/18_bristol_laundry-room.jpg?as=1&w=494&rev=3da0c20aeec648619f40c09c514f7901&hash=BE7E10F4507EF9E39180F49D998A40F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/19_bristol_drop-zone.jpg?as=1&w=494&rev=4bd710ffa37243b88c762570dec64673&hash=660E1CA45F444DCD4D76FCC1A212CDA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/20_bristol_bedroom2.jpg?as=1&w=494&rev=dc0429034662491982ab2044b763751c&hash=7A9AE93509EEE81F56AB507E526982B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/21_bristol_bathroom2.jpg?as=1&w=494&rev=fc30f86a74ae4b2893c4a1c5e54e4547&hash=B2997439CCFFBF9B79F8415F4A1F3F01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/22_bristol_flex-bedroom3.jpg?as=1&w=494&rev=c5455dd732454b688282ab503e31f076&hash=915E17870490FF9102E6BFEFB8956024",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/23_bristol_covered-patio.jpg?as=1&w=494&rev=6c0364d8a74f4021a2ebab1e7c60c9de&hash=BE12B984C97D28043118074DA51AE9F6"
+      ],
+      "name": "138 PRESTON WAY",
+      "plan": "Bristol",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/qmis/138-preston-way",
+      "id": "138",
+      "address": "138 PRESTON WAY",
+      "price": "$378,000",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/bris/0211-138-preston-way/bristol_a11_fe.png?iar=1&sc=1&thn=1&w=425&rev=d09e82ed3e524eddb15d42ea67932326&hash=DC08D92A8E63EC7E814268446F23C0B3",
+      "latitude": 30.32683,
+      "longitude": -87.67327,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/146_preston_way.jpg?as=1&w=494&rev=c3f25b1a07cc4836b61fef7373bd54b0&hash=9E6E1A9B6EE67EB35196DB86F6831C8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/1the_rhett_front_guest_bedroom.jpg?as=1&w=494&rev=94fa0d3ede8e4020be0dc593ee7fcb29&hash=51B1A33C2F82190DF112CCAB409F57BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/2the_rhett_front_guest_bedroom_window_view.jpg?as=1&w=494&rev=54251a681eb54635bde2f7719a48c2d0&hash=BDFF2A09950750F9E41D0E55CEA5C8EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/3the_rhett_front_guest_bedroom_left_side_view.jpg?as=1&w=494&rev=d09be9b259b34b5ca657843a50c219ac&hash=95EC586623F4EE9AE9628A190AE5541B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/4the_rhett_guest_bathroom.jpg?as=1&w=494&rev=f0b7d7c9df884945a17681dfcdbf217a&hash=437F7EDB321BF311A938350B47EC9FDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/5the_rhett_guest_bathroom_second_view.jpg?as=1&w=494&rev=78a1289dba924763b3e911a81023c8b7&hash=CB6373832F7B61849891290CF56E641A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/6the_rhett_second_guest_bedroom.jpg?as=1&w=494&rev=12e0810a108d40f4a64f08b571a15752&hash=3D524FB55746F8F6C0D13A8505EC9757",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/7the_rhett_second_guest_room_closet_view.jpg?as=1&w=494&rev=6e54df454e4d4329a6004d5c3e838f36&hash=74727E3D5DE30853F5099E00CBFEB4D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/8the_rhett_laundry_room_door.jpg?as=1&w=494&rev=2cdb58da6f624f25b07749c8e3468f20&hash=ECAAAFFACEF6B1311E2037CBB8F85C91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/9the_rhett_laundry_room.jpg?as=1&w=494&rev=d7a531ceafc24100b32cb16febb829cc&hash=52A8A34AC06C7CC62174E80D3547DF2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/10the_rhett_laundry_room_second_view.jpg?as=1&w=494&rev=aab5eb78fe7b460fac81c61d936e027e&hash=DC6BF1618AC65FCF47AD86CAFFFBB994",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/11the_rhett_third_guest_bedroom_with_window_view.jpg?as=1&w=494&rev=1b72946d49b7449a8a70ff8a20d86975&hash=80F50D95112CA3B9A554FB01AB60FBF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/12the_rhett_third_guest_bedroom.jpg?as=1&w=494&rev=b0fa68d168704c53b15604d481ab9048&hash=BE4E9083DB387FBF503D35EAD9788B64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/13the_rhett_third_guest_bedroom_door_view.jpg?as=1&w=494&rev=ede1a7b681ef4832bd7ae1a1a3036cee&hash=7A217E08E8F301174E7D7F5591F4060C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/14the_rhett_kitchen_entrance.jpg?as=1&w=494&rev=e445d99d7955457ab96d1a3416cb705d&hash=70B90455E89478A786E1C27C50614B26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/15the_rhett_kitchen.jpg?as=1&w=494&rev=15b7f314bd7f4763b093e00be931b155&hash=4EEB3A95FAD46F06966BBCE4BE818518",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/16the_rhett_kitchen_island.jpg?as=1&w=494&rev=09caf618930a403f9b0946d41aa1eae5&hash=73E7412EA568345E3D562434ABE81700",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/17the_rhett_kitchen_island_with_window_view.jpg?as=1&w=494&rev=ab59903189c84b0da934169c808ffbb1&hash=A1F86122659EB19D5531F6D68655D807",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/18the_rhett_dinning_room.jpg?as=1&w=494&rev=eb5120bbbd69443c8ba801523ed7cd81&hash=4726FA3125E520CDB899E38E6F330190",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/19the_rhett_dinning_room_and_kitchen.jpg?as=1&w=494&rev=ec1f4f0d7c26464aac6b1e15fa6601d4&hash=9153B8BCD72D220DB606B9A200587494",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/20the_rhett_living_room.jpg?as=1&w=494&rev=f97e84b6f84c4f89bdd4a7121bd97a6d&hash=345B38D8A651C366BFB059A71C521A5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/21the_rhett_living_room_and_primary_bedroom_entrance.jpg?as=1&w=494&rev=206eb25b9334470db493d0d5eb8f81f6&hash=D488658EDB288786882767BD989C7DED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/22the_rhett_living_room_and_kitchen_view.jpg?as=1&w=494&rev=6126be8bfd0c44ccbf4e673bdc063041&hash=A57AD177D18538631EC4D52B9CBAA28B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/23the_rhett_primary_bedroom.jpg?as=1&w=494&rev=bca7c2b0ee224870bd295102598dadb1&hash=B02D038468218D348449B329AC43E086",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/24the_rhett_primary_bedroom_with_bathroom_entrance_view.jpg?as=1&w=494&rev=4febd20c9eb6477bbf09f456caa865bc&hash=E0951AD161EE76EEFE2286E5F5801DB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/25the_rhett_primary_bedroom_with_window_view.jpg?as=1&w=494&rev=85defeb8a0ec489b918b8fe2c93c8504&hash=C046114A884DC46BDD265A75820E8DAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/26the_rhett_primary_bathroom_dual_vanities.jpg?as=1&w=494&rev=5752412ed961424ca23860540ae8ba9e&hash=518E871C25DB7A656361B2D7C5E9C956",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/27the_rhett_primary_bathroom.jpg?as=1&w=494&rev=5b785a282cc34db98736f74b00d7802f&hash=04FB701EA1474C69EE168BDB91EF178B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/28the_rhett_primary_closet_entry.jpg?as=1&w=494&rev=ebc2380ebb4b459ebef0eb22d71787e3&hash=318155D9F6B9457617EAFBB8DDDFC473",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/29the_rhett_primary_closet.jpg?as=1&w=494&rev=ce79db4241bd4f2cbf503c18a91cc505&hash=B12250C3D3603D013ECD89255866D8BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/rhett_e_fe_floor_plan.jpg?rev=6ba7f122c6ab420b99ec61b82cb2f6d9&hash=CAF484E8583DD9C0AEE12E99A1079B62"
+      ],
+      "name": "146 PRESTON WAY",
+      "plan": "Rhett",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/qmis/146-preston-way",
+      "id": "146",
+      "address": "146 PRESTON WAY",
+      "price": "$387,400",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1835",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/rhet/0209-146-preston-way/146_preston_way.jpg?iar=1&sc=1&thn=1&w=425&rev=c3f25b1a07cc4836b61fef7373bd54b0&hash=C086F6C0A6EA5124DA7E32DBFD577DEF",
+      "latitude": 30.32683,
+      "longitude": -87.67327,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/jasmine_c11_fe.jpg?as=1&w=494&rev=bc9332d15b8f4521b5539ba542f68814&hash=A01BF416AA550D864F26C170B0CB1919",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/1jasmine_foyer.jpg?as=1&w=494&rev=686ac4d934df435e821efd6d8dfac42a&hash=CE36B3065D013C119EFA75615BE68FF3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/2jasmine_living_room_1.jpg?as=1&w=494&rev=5de8848594b54f31be1e7b6704fb62d6&hash=A6E02A08EE31B88BF86040D63ED01497",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/3jasmine_living_room_2.jpg?as=1&w=494&rev=6c1e0e548c624c9faf64cea6c3cbe949&hash=5AA54C607670C425CC2C877B608C1F03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/4jasmine_living_room_3.jpg?as=1&w=494&rev=5385fbea942e495eb8a201629e2fc386&hash=93A74746A88B86DC4F4124E979EDE8FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/5jasmine_living_room_4.jpg?as=1&w=494&rev=0bf978585ef84710bc97234f73341c21&hash=381A8A966E126458AC00D191EB522E73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/6jasmine_living_room_5.jpg?as=1&w=494&rev=19989bdaaec04041a18b30bc772f8d85&hash=68161721038A36173DDBE6EF93158637",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/7jasmine_kitchen_1.jpg?as=1&w=494&rev=20c16974dde649d98319d87623fa0be6&hash=D4D22497D3A387FE4CBA6BE68A1BC2E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/8jasmine_kitchen_2.jpg?as=1&w=494&rev=d75ab1a85ffb4353b4d3fccfd3e9cac0&hash=B43CCFFF798F8E7A4ADC5DD70F08A534",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/9jasmine_kitchen_and_dining.jpg?as=1&w=494&rev=f30eaa83b1f14544b3171b35092e372a&hash=6DD026DD72F89DE16EC40337660203A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/10jasmine_dining.jpg?as=1&w=494&rev=867e099560b44036bfe7299054215f1a&hash=E87DA6FB3794E3A43267ECFA319F908B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/11jasmine_kitchen_dining_living.jpg?as=1&w=494&rev=42d386d29ff94aaaa52b4c665bba0848&hash=6FDF3C2BA9AFD9AD2073E714E58EFB21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/12jasmine_primary_bedroom_1.jpg?as=1&w=494&rev=3400b13ee550449ca4129a7e1275b63b&hash=8A53EA392BD10DF7EC03C5A9737B298E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/13jasmine_primary_bedroom_2.jpg?as=1&w=494&rev=44229aa4d2a44925a7b414b44f2a1af0&hash=97FC4DBD73DFF8B2FC6218BA36C6C579",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/14jasmine_primary_bedroom_3.jpg?as=1&w=494&rev=89b6cc49813f40f0ad4c113b7e94a9c3&hash=0A561B5DAD905D01AF9401C86D46B0F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/15jasmine_primary_bedroom_4.jpg?as=1&w=494&rev=1fd4d8c9ec614e149ab86db2f07227f9&hash=2A48C37D1898B8B9600283B252853438",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/16jasmine_primary_bathroom_1.jpg?as=1&w=494&rev=6ab6ef132e2546f8b2875870af8ea9af&hash=84EC7F869BDA08D86CA5D9B68C5C1177",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/17jasmine_primary_bathroom_2.jpg?as=1&w=494&rev=95d2c018450640089027c0015f525101&hash=9D411D989EC5F6029C14D34A48134F4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/18jasmine_primary_bathroom_3.jpg?as=1&w=494&rev=e64f4feaadd24d678fa856b249f66e60&hash=A80AB67D5562659DE37DFB975EE66889",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/19jasmine_primary_closet.jpg?as=1&w=494&rev=9d1cda6abdae45c1818813bba2afb852&hash=66EBBC7F43C30BD24AB9A6444D41B3AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/20jasmine_second_bedroom_1.jpg?as=1&w=494&rev=f002b3e7a8c5425ca7f6dd097b60293c&hash=2645301E8507DA09B09211E10138AC75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/21jasmine_second_bedroom_2.jpg?as=1&w=494&rev=4d10c5a8bf53451ea22574fb620ad8b8&hash=96B0012C44EDE71088B904F2FFFE3861",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/22jasmine_third_bedroom_1.jpg?as=1&w=494&rev=69684cd118fd4247b6b064119da2c2f0&hash=C5AF099A05F1E6D0FB1BDFF903A267F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/23jasmine_third_bedroom_2.jpg?as=1&w=494&rev=ce574bd679d14d948576cacf808c8421&hash=BA0C4DD49C12AC1F16AA5E359A460FC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/24jasmine_second_bathroom_1.jpg?as=1&w=494&rev=d8ba1f988a1c405e8240ec2cea1dffff&hash=2DE88022690C843E6BE2AECD9B790428",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/25jasmine_second_bathroom_2.jpg?as=1&w=494&rev=e0743c51261644c68e47da6c11822395&hash=D1A1929DDCD91BF32B24874BBD6110B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/26jasmine_fourth_bedroom_1.jpg?as=1&w=494&rev=201ac0c298a84d219aa987bc3db38dee&hash=7C7F003C21360BBA18554C8423361906",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/27jasmine_fourth_bedroom_2.jpg?as=1&w=494&rev=8c383c24862b48a08724727257dd8fd2&hash=BA3B063A2BA7B314D176F2E9E512E86B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/28jasmine_back_porch_1.jpg?as=1&w=494&rev=bee4e3d76fa74f71b609054fd67a6048&hash=28DF767DDBAB1486E323C94E67295BFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/29jasmine_back_porch_2.jpg?as=1&w=494&rev=d9195104ccce45d8b65b610a0e7b74e5&hash=6A9A6B7B2881DCC5C7F21148EA0139E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/jasmine_c_fe_floor_plan_2.jpg?rev=064e2c4fc68f460c8642c48c05bc4d80&hash=A7595762D3848DEA19CFF5CC39334A62"
+      ],
+      "name": "149 PRESTON WAY",
+      "plan": "Jasmine",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/qmis/149-preston-way",
+      "id": "149",
+      "address": "149 PRESTON WAY",
+      "price": "$466,588",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2025",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/jasm/0280-149-preston-way/jasmine_c11_fe.jpg?iar=1&sc=1&thn=1&w=425&rev=bc9332d15b8f4521b5539ba542f68814&hash=0450B5FB9270DFD5ADD40B4FEC212887",
+      "latitude": 30.32683,
+      "longitude": -87.67327,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/kinsley_p11_fe.png?as=1&w=494&rev=e3cc493d4e784fe7a2a4a630bfa4eb85&hash=394806E1F08BFAC8B9A689B6192D8919",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/1the_rhett_front_guest_bedroom.jpg?as=1&w=494&rev=b9409eba51f34b9d811e5d5b4ebc0133&hash=5037C93A8FEA58AD1F8D14B62B6D8172",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/2the_rhett_front_guest_bedroom_window_view.jpg?as=1&w=494&rev=80f107ca153e475aa82fccf94782e9e1&hash=FCFB2E41E72D39A31883B9CA2A1D1159",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/3the_rhett_front_guest_bedroom_left_side_view.jpg?as=1&w=494&rev=b48ea2d18080429d98cf90c8ef8435ea&hash=CB703A17A7BFA4A8AF0A52B06CD519AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/4the_rhett_guest_bathroom.jpg?as=1&w=494&rev=2fb0c19b8e5b43f5917bb45eeddb476e&hash=71A415C7E83CA8B5BEE159106A804D6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/5the_rhett_guest_bathroom_second_view.jpg?as=1&w=494&rev=e9d5d42fcf2f440e995ce6ee51ebca43&hash=3F23B4479E89075A8EABF63C51174CF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/6the_rhett_second_guest_bedroom.jpg?as=1&w=494&rev=cea35dd11ff04e0b98eb34f230122463&hash=801A59D82202CE16F22E20879CB33764",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/7the_rhett_second_guest_room_closet_view.jpg?as=1&w=494&rev=50007c8eb84d4d88bf76c1768b49a478&hash=7A52B8B35FF5853468D9B691931D05A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/8the_rhett_laundry_room_door.jpg?as=1&w=494&rev=09293cb100374a9f8fd05ddd52d231be&hash=F37B6DAB6004D48244D174B495BBCC80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/9the_rhett_laundry_room.jpg?as=1&w=494&rev=f814a51aaeef41c085fcfddebdb0cc7d&hash=28AC447669F42F75D16A961B03E54C67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/10the_rhett_laundry_room_second_view.jpg?as=1&w=494&rev=7c4df118032f43a1ad4755f5d454e0d8&hash=982808E30BA11EB08E9986C4EDE7D7A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/14the_rhett_kitchen_entrance.jpg?as=1&w=494&rev=2be34f059ba24644bb07c2d60881d9d2&hash=3E0306CFA5FF2CEB311C7AED16DA77BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/15the_rhett_kitchen.jpg?as=1&w=494&rev=938c11a18cf84b5e8ce027bac26181c2&hash=9470B966D52EA51AD9FF3F7A1740D236",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/16the_rhett_kitchen_island.jpg?as=1&w=494&rev=7edad3c200154e2aaacbfd60bb100323&hash=E391D92C3948D6288BF177AB32A8B2E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/17the_rhett_kitchen_island_with_window_view.jpg?as=1&w=494&rev=2bebbae408b142528327b972736ae574&hash=3D6FD4192A4299266A73B7E74E0AB731",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/18the_rhett_dinning_room.jpg?as=1&w=494&rev=5401ff7cca7c452cb51d51e7fe5ed8a9&hash=78ACA4E6E8AF627FAF3AFCD57E66F52E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/19the_rhett_dinning_room_and_kitchen.jpg?as=1&w=494&rev=18cb8c40a30d4c5aa850033a5d686e1c&hash=CA3A8197ED854F8A8BB3AAB5C964BEF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/20the_rhett_living_room.jpg?as=1&w=494&rev=c8f39ac6fdaf4b4ba4eb5b51301cd10d&hash=7C526C001B789BCDE34445A0C7EB8A64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/21the_rhett_living_room_and_primary_bedroom_entrance.jpg?as=1&w=494&rev=033e1f45ebe84cea83a30d3d7d244a5f&hash=EDEC11DC653AB7DC01C315BEFB590914",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/22the_rhett_living_room_and_kitchen_view.jpg?as=1&w=494&rev=98a4889955c24225826652a6090fc908&hash=95167E8758C79B4E2E9EF3BDC730A6A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/23the_rhett_primary_bedroom.jpg?as=1&w=494&rev=83a1e78e39a4432db2e857a117253a80&hash=AD34F929BAFD16368FCE01BFF399B975",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/24the_rhett_primary_bedroom_with_bathroom_entrance_view.jpg?as=1&w=494&rev=11c4f61e285842ff8356525450259e37&hash=50C14AA3061F7783B827E4BC28FB059A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/25the_rhett_primary_bedroom_with_window_view.jpg?as=1&w=494&rev=48ca87da319048818dca146add01c0a5&hash=7B35792EA57EDDE290074AD069F53DB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/26the_rhett_primary_bathroom_dual_vanities.jpg?as=1&w=494&rev=30de1d614d794918b93b99cea05dbf6b&hash=956A97068A429A668BD271D5CBDEA357",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/27the_rhett_primary_bathroom.jpg?as=1&w=494&rev=ef1a8d6b1d2c444489a8c0cfe7936da2&hash=0D08E8DC2044699715AE1BF16E615303",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/28the_rhett_primary_closet_entry.jpg?as=1&w=494&rev=8340010ce1434a479b4e2fa0083dc443&hash=E3F40E36B639C5E9A6BC33512E094339",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/29the_rhett_primary_closet.jpg?as=1&w=494&rev=a423d7df34d74eeda34f4693add62379&hash=359ED81A84861D205CE398D33E04104A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/kinsley_c_p_fe_floor_plan.jpg?rev=af6a713017634552a0a35702229225aa&hash=1AB11C227DCCD1854AD579B1DFF845B5"
+      ],
+      "name": "154 PRESTON WAY",
+      "plan": "Kinsley",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/qmis/154-preston-way",
+      "id": "154",
+      "address": "154 PRESTON WAY",
+      "price": "$378,132",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1510",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225650000-raley-farm-60s/kins/0207-154-preston-way/kinsley_p11_fe.png?iar=1&sc=1&thn=1&w=425&rev=e3cc493d4e784fe7a2a4a630bfa4eb85&hash=868C09FC8121204B8DF5C8ABD4129234",
+      "latitude": 30.32683,
+      "longitude": -87.67327,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/409_raley_farms_drive.jpg?as=1&w=494&rev=240e09a5b35243d48b2010c0847b42b5&hash=BCD773B448B4A8D9B65DC2A7590834E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/1victoria_front_porch.jpg?as=1&w=494&rev=e823a734079d4077ac89ece4f6c8c166&hash=41675D13F4905963DDFCAC7F71C4C4C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/2victoria_living_room_1.jpg?as=1&w=494&rev=d420c2af34824f7486e8b428b7b3a776&hash=7D993E5614F9029C495362097D352042",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/3victoria_living_room_2.jpg?as=1&w=494&rev=ba3146dd524d43ceaf80d6bec31ccb72&hash=E7EEFA224006FB762AB186AC9F6EEEDD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/4victoria_living_room_3.jpg?as=1&w=494&rev=e23945bd2a834bf8b99da7ff837d6c6a&hash=2FB7B5F5DD59327FF2E6CAECF43E4878",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/5victoria_living_room_4.jpg?as=1&w=494&rev=99ae171746fe47d59fdb26404d73a9cb&hash=49DD3E78F220E18087C0809663E4D860",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/6victoria_kitchen_1.jpg?as=1&w=494&rev=06a94eec5bff41e3a77ee0913167532b&hash=9EDCC950BC9A1BF4E43501D5E612C237",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/7victoria_kitchen_2.jpg?as=1&w=494&rev=bd828f53f2e94589b9258b0c2c4eb470&hash=4AC0334A8B058F5AD10B87EB07D71476",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/8victoria_kitchen_3.jpg?as=1&w=494&rev=25c8aef670924705bc673a1c0fc12cc0&hash=7F4C639227BBDD22CEA7997DE9C96ED0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/9victoria_kitchen_and_dining.jpg?as=1&w=494&rev=534157c25a194250906d8aaded9a9098&hash=F1D9237B4D77C53E610B717F53F0E25B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/10victoria_dining_1.jpg?as=1&w=494&rev=bbd18331286246fb9a7984c53e01b7d2&hash=B67B55DA588CA06D3C33DE815A09EC11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/11victoria_dining_2.jpg?as=1&w=494&rev=ccd27cf44a8147e2aa75930c9832e188&hash=3BF2EF6858901B7D3F95A7507E01876C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/12victoria_primary_bedroom.jpg?as=1&w=494&rev=bf2ff581987849719ac9c67cabd9fc2f&hash=47AB0CFC0B1D8700E78D1A6A9F0F6161",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/13victoria_primary_bathroom_1.jpg?as=1&w=494&rev=80f0ffb1450440aa8640c60f38429e77&hash=545559B78F9043D20695C5842121537D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/14victoria_primary_bathroom_2.jpg?as=1&w=494&rev=776a5146ba674a6790c48e1b3ed5b668&hash=81727CFFCE192A226FE507A901257D59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/15victoria_primary_bathroom_3.jpg?as=1&w=494&rev=592cad9fbeb849d7af997974efb0bbea&hash=F41DF4D8B6AC53BE0BD93004DBF4F061",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/16victoria_second_bedroom_1.jpg?as=1&w=494&rev=7cfd5ab1d2b64cb0a302a2bc8cec7a85&hash=501164CDF332BD297C28B0AF39FCD965",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/17victoria_second_bedroom_2.jpg?as=1&w=494&rev=de3d0b8e619f474097ebf350cec2123e&hash=D394620F690B597F2413B01C449D4EB7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/18victoria_second_bathroom.jpg?as=1&w=494&rev=11683cc979c548e7b95a0d17e49d1ec5&hash=7AC547D1FCF7D29CF850AA465D075E54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/19victoria_third_bedroom_1.jpg?as=1&w=494&rev=f3638f952e0942edb26228701288a71e&hash=B937B6EEAD78E2E76B06F5D3C53DFDC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/20victoria_third_bedroom_2.jpg?as=1&w=494&rev=dfe25b3b8ac84b30abd6fd9adda7e663&hash=FD40ECA4BCFAF34CB12296929337B4C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/21victoria_fourth_bedroom.jpg?as=1&w=494&rev=94cba83951ad4f14b3144c6ada455c9f&hash=C9C717EDB39E7F1E05F34433AA41E8D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/22victoria_back_porch_1.jpg?as=1&w=494&rev=06c12c2d80e14c31a7fdcc8fd32b0e90&hash=16132A9B4964F9D463F6EF4087B928E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/23victoria_back_porch_2.jpg?as=1&w=494&rev=f4c3f8b465b5461cbc5709d92f1d4b13&hash=1DB5613750E04BBE49E3B8BC8F508EB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/24victoria_back_porch_3.jpg?as=1&w=494&rev=0877490a467d4b7e8b41b46d36685e45&hash=E70CCF04753216CBFE44D5E01CD74625",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/25victoria_back_porch_4.jpg?as=1&w=494&rev=08d3702548494dcfbe7963398f96952a&hash=9F0814D9DA7278F67EEDF7EF3EA6572B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/1raley_pool.jpg?as=1&w=494&rev=4892d75e19bf4f6f9d594837d40769f2&hash=99E207C0CC14092C24BE6E6C2674E899",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/3raley_pool_3.jpg?as=1&w=494&rev=f536ec6e05ee4a8aa43df5ade97ce9e4&hash=B55A61DED9D05075A5F5B4405045AFE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/4raley_club_house.jpg?as=1&w=494&rev=fef3aab9698445afafee78bd3568cd73&hash=0439362F155CA74143DAEDDD5517B5D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/6raley_club_house_3.jpg?as=1&w=494&rev=4d90fd1a72eb47299e893d4035f7fccd&hash=3422310D7678B41CEEAAE5D36E43C4B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/9raley_entrance_monument.jpg?as=1&w=494&rev=ab7f71e0058040b69ad6c3950aabbaa4&hash=C08F710DBA775BA4EA0F41335DA52EC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/victoria_g_fe_floor_plan.jpg?rev=2f0e48c46d4743118f28b7e707170af7&hash=6097B1EBB868DE683FAD10DAC8D44DB5"
+      ],
+      "name": "409 RALEY FARMS DRIVE",
+      "plan": "Victoria",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/gulf-shores/raley-farms/qmis/409-raley-farms-drive",
+      "id": "409",
+      "address": "409 RALEY FARMS DRIVE",
+      "price": "$484,908",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2250",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/22566-raley-farms/225660000-raley-farm-70s/vict/0283-409-raley-farms-drive/409_raley_farms_drive.jpg?iar=1&sc=1&thn=1&w=425&rev=240e09a5b35243d48b2010c0847b42b5&hash=E714149287D49256BB7110A2A2BD261C",
+      "latitude": 30.32683,
+      "longitude": -87.67327,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Gulf Shores Elementary School",
+          "type_and_grades": "K-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Gulf Shores Middle School",
+          "type_and_grades": "7-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Gulf Shores High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

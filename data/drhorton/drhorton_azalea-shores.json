@@ -1,0 +1,494 @@
+{
+  "timestamp": "2025-06-01T19:53:29.296439",
+  "name": "Azalea Shores",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores",
+  "status": null,
+  "price_from": "$399,000",
+  "address": "11973 Hamilton Avenue,Largo, FL 33774",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Largo, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/6.jpg"
+  ],
+  "location": {
+    "latitude": 27.88315,
+    "longitude": -82.81187,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$399,000 - $450,340",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction on Both the First and Second Floor",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from Beach",
+      "description": "Minutes from the Beach",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/floor-plans/1674",
+      "details": {
+        "price": "From $407s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/6.jpg?as=1&w=425&rev=72b3ce4fb04649f5993eabf245da9877&hash=521445D0BE05826F79495E7EE1986A7B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=ebb7238bd41446f7ac53258976966a44&hash=86758580BD45FF84A38870AF8B284518"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=ebb7238bd41446f7ac53258976966a44&hash=86758580BD45FF84A38870AF8B284518"
+        }
+      ]
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/floor-plans/1759",
+      "details": {
+        "price": "From $441s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/10.jpg?as=1&w=425&rev=82c4d06664ca400da0e4c89667c3048e&hash=A31F73C3E66CD48EBF538A523A60ED23"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=da160e567d914c62918d76ab981b8862&hash=EE4A369B5E4E19FBB40CE38834B25A72"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=da160e567d914c62918d76ab981b8862&hash=EE4A369B5E4E19FBB40CE38834B25A72"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/10.jpg?as=1&w=494&rev=0a152c3779024a07b8ca388762d1b43d&hash=72FF16BD36E9730332B92D0BCD7310DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/12.jpg?as=1&w=494&rev=407fa09c5bdc4adda1ad6e12266b17ac&hash=C74941072B36F423A73EECDC97110073",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/11.jpg?as=1&w=494&rev=fc3de86a76fd47f8ba3bf7f6a4c532e1&hash=3813E0FFEE8C9082F567CABBA8B4F24E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/2.jpg?as=1&w=494&rev=5ad1304fffc04e6b9fbf7d71d0bd5ad2&hash=C99CABD6B88D2906FF15FC58A0DD1798",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/3.jpg?as=1&w=494&rev=08f8461406444db7a8b87ef45a652117&hash=DACE86B7FABC6C7C6C1708624264EF45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/4.jpg?as=1&w=494&rev=31135f410bd74451b566a47b5c0f6b14&hash=BD43D86431CFDEBEFAEC1ABFD2F6AD8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/5.jpg?as=1&w=494&rev=8de1a78f430b49c6bc54003ddf1bfb89&hash=84E58A082999F1459B0594B9A6619465",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/6.jpg?as=1&w=494&rev=831ca9c92ee040c4a7958ca201f41497&hash=3FCA444EF604E66489BFF70A16DC8F1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/7.jpg?as=1&w=494&rev=6a2e107381da476aa27d67b89bd6bf9d&hash=D244EB783BC9F8A8B5B48D30D5865A33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/8.jpg?as=1&w=494&rev=dbab09033ae94a1fb0684d7f59120bf6&hash=1ECEE272CAB471BC0C7441D2A709259C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/9.jpg?as=1&w=494&rev=3a8d06beb326494f9dd6f613bf3c6eff&hash=7CC26BA1A64A6E0C3D1AA8175AC75DD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/13.jpg?as=1&w=494&rev=78cb6c1afc114ebc96469a14e86a4a9a&hash=65C4D51375B07FA24EF50E3F92DEC674",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/14.jpg?as=1&w=494&rev=c03666ca445e4377ba2f648c3c5f2cb6&hash=F26F3C9097076C886D4DBF18E9B38C53",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/15.jpg?as=1&w=494&rev=2bc8f6cf54944c268f677fb34b71355d&hash=6A993A79D45AD35C0A7474C7D1C8E7A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/16.jpg?as=1&w=494&rev=5b782c6d099d4d8aaa7305294139fa5c&hash=2E7A0DA00EB6899D93887802FE1A3EA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/17.jpg?as=1&w=494&rev=67429561554a43de8de9e9c99aa75a73&hash=774BA4FD21BA9E52660DE44B6AC6CB18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/18.jpg?as=1&w=494&rev=a4e8b6c5fd3d425fad2f1c38aaa925b1&hash=C4448CA19E791D2CF0251DA8B30BC052",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/19.jpg?as=1&w=494&rev=97727ea2a1d3428c9f0957c207b1c81b&hash=2CAB95815925A222D3E98057519467E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/00-b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=944c9b67598f433495dae92e680cfdaa&hash=BFB51BB32EADB1BA25B6E851E3511616",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/00.jpg?as=1&w=494&rev=35a4a09bda084d888e742d1dfeaa3e3f&hash=DDBBAAB07D96D15475F57CDAA219D9D2"
+      ],
+      "name": "11810 Davis Drive",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11810-davis-drive",
+      "id": "11810",
+      "address": "11810 Davis Drive",
+      "price": "$450,340",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0047-11810-davis-drive/10.jpg?iar=1&sc=1&thn=1&w=425&rev=0a152c3779024a07b8ca388762d1b43d&hash=A00185C8101AB9B64AE997E9286C6BB3",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/10livingkitchen.jpg?as=1&w=494&rev=b05a8835f2bf4d47b571be78de854baf&hash=76E5A6CABD354BB4DA364C1ED4DBBBF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/9.jpg?as=1&w=494&rev=9ead58488d6a423f9f21ac8640210ade&hash=EE544F5919E6315E8C6BBAD068C3C1FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/2.jpg?as=1&w=494&rev=2afffaf826db4355aa6f6886c9de3efe&hash=CC0EBC01215A5F781042132998587C3A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/3.jpg?as=1&w=494&rev=25d9d96851e740a79132832786dedb78&hash=BC365C13195B471493CD0D7F3272184A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/4.jpg?as=1&w=494&rev=bfc6888123ea40b9b0a90688547873db&hash=0C9154DDCD93B51E1DA2B8B8C36CEFC3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/5.jpg?as=1&w=494&rev=613650ceb66f4b3dbc9a05236c9aecb3&hash=413B1413665394AD1C3F3E9C2C50EA77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/6.jpg?as=1&w=494&rev=1a1f63c0ac104c71a4d0c2afd53ef950&hash=C5A5B2A1F5839A2E257984E74429BBD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/7.jpg?as=1&w=494&rev=cc384b3980a54a87a929141c5095d0e9&hash=BDE63C3A52760EAEB01BC5F3217F6903",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/8.jpg?as=1&w=494&rev=2e3848a3dfb84cb595394a07f07bc547&hash=8C45985DA06F7476116025E936793044",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/15.jpg?as=1&w=494&rev=ef0c5fc83fe8440d876d5d4e12d8bf06&hash=7D9F460C2DF94D3789F02BF9EF65D95F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/17.jpg?as=1&w=494&rev=aded44ae85464b478cafe7413d0a3f24&hash=BAEE146F815034BC86B0BDFE47858482",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/13.jpg?as=1&w=494&rev=cc8b9665f1f541db8f69045f93640d30&hash=F7A2939AC073A82D5A45F486A07CD4DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/12.jpg?as=1&w=494&rev=517db961c4544d33b8349d7d4108fded&hash=14B8EBBC8A905CA781C2BAD9280B214B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/14.jpg?as=1&w=494&rev=0c0996138103437b888ed2276ae209b2&hash=3E7C902ECE898F518AA6760431BABFA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/18.jpg?as=1&w=494&rev=04e53b7247d74a3d82b5a3c2781cd71c&hash=9D49DABE4ADC5FEF31450FBEA1F9B649",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/19.jpg?as=1&w=494&rev=7aaf0ca3e40e4cada0f27bada891ae50&hash=F5FDC0721C820456F5DF0F68B8CBF510",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/20.jpg?as=1&w=494&rev=1c3b2d06a094439bb72fcf215601d49f&hash=F9EE2F6C74465AB4AA0411F679FCC0DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/01_-_b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=67923f4feab94694b68196fa49c3db20&hash=53ABB415C6C7CE3D16C0EF323CDFC11F"
+      ],
+      "name": "11814 Davis Drive",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11814-davis-drive",
+      "id": "11814",
+      "address": "11814 Davis Drive",
+      "price": "$413,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0048-11814-davis-drive/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=b05a8835f2bf4d47b571be78de854baf&hash=7182CA0FAA47FA964EBE27B03BEFD260",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0049-11818-davis-drive/9.jpg?iar=1&sc=1&thn=1&w=425&rev=4e23c2aeff49464ba5211dfb10202077&hash=2C7FC52861E1C1C72F089714A654D592"
+      ],
+      "name": "11818 Davis Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11818-davis-drive",
+      "id": "11818",
+      "address": "11818 Davis Drive",
+      "price": "$413,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0049-11818-davis-drive/9.jpg?iar=1&sc=1&thn=1&w=425&rev=4e23c2aeff49464ba5211dfb10202077&hash=2C7FC52861E1C1C72F089714A654D592",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0050-11822-davis-drive/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=5291df1344494087821eb4e33fba1b4b&hash=E081FB0F19E582C8802CC80E94DC2980"
+      ],
+      "name": "11822 Davis Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11822-davis-drive",
+      "id": "11822",
+      "address": "11822 Davis Drive",
+      "price": "$413,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0050-11822-davis-drive/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=5291df1344494087821eb4e33fba1b4b&hash=E081FB0F19E582C8802CC80E94DC2980",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/9.jpg?as=1&w=494&rev=206573ed3e3d4b84959aa39c1b54d3bb&hash=9729A938FF0BFCCCD17D4D073F572FD5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/10livingkitchen.jpg?as=1&w=494&rev=79087709171a44f28d7ef9081c4eb20c&hash=5249CF582491290134055AB54C76D9D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/2.jpg?as=1&w=494&rev=830312bd65ff4bacb51ae52212de341d&hash=205A8AACF165C43761ECD73A07B6937F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/3.jpg?as=1&w=494&rev=739523af8f294a1c8e2d41890743804e&hash=2D1EC74A79F4711B5C74F46021097CC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/4.jpg?as=1&w=494&rev=f6177082a00a4d72a009a09f19e38b0b&hash=84DD8B34A6F0E137C5028A054AFF66A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/5.jpg?as=1&w=494&rev=a8b4532155ac4a7caad66c594820c553&hash=65BC0EE3948E2B2E5363C4F91971CD04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/6.jpg?as=1&w=494&rev=33e510dc61944ac79228dda18b3e5179&hash=C66087E284F37B75A7635E334194683E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/7.jpg?as=1&w=494&rev=21d17c4ce4f9420f8b8d2fc5df2a5a56&hash=2AC12316518A577C76F8CF7E9A8740BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/8.jpg?as=1&w=494&rev=6bf9e3362029429c884271fed9ddc194&hash=D10136336C895D53E51AAB13D9313CF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/15.jpg?as=1&w=494&rev=c75f123587c34d2ba6d4dc07587d6fa1&hash=C7AE7B78948AB6F9F60B04426E496614",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/17.jpg?as=1&w=494&rev=fb0303a676a14c309936d07c5ef6786d&hash=3C5690A06D971892F4282A58947F9EE6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/13.jpg?as=1&w=494&rev=5f913994dc004023b15209ed56e05a1c&hash=9E3E45665B8F64C63583DDF6D0796558",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/12.jpg?as=1&w=494&rev=c8b7010a8f2e41f4bca9512e7be5e6db&hash=9442BF242E1CAE2597082E106AC7ED8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/14.jpg?as=1&w=494&rev=b24b30fbfabc4b4485678db20cf46380&hash=A6487512E2A0130DB97363A5E266DCFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/18.jpg?as=1&w=494&rev=62d0ff7d9ada442880565ce541d47266&hash=51A3D57AFA71777341188F359E2C2C34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/19.jpg?as=1&w=494&rev=6bea1dda4659484ab62e3ef6d5d6a75a&hash=5F9D3C712ECDE2DEEEEDD2671D7F16F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/20.jpg?as=1&w=494&rev=6a5ff009724a441dbce792c183a988b4&hash=8ECCE4792A4F4ADCA4317D19B017A6DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/01_-_b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=a7295c3709994121a310cde6c112a275&hash=7E572C4FE356751297CBCBB9FB4000A4"
+      ],
+      "name": "11826 Davis Drive",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11826-davis-drive",
+      "id": "11826",
+      "address": "11826 Davis Drive",
+      "price": "$413,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0051-11826-davis-drive/9.jpg?iar=1&sc=1&thn=1&w=425&rev=206573ed3e3d4b84959aa39c1b54d3bb&hash=8A1EE168D0F0DF1A26BB0C24F512B59B",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/10.jpg?as=1&w=494&rev=7d5975ae85744c64b403c53bc7b5ef84&hash=6A54C715353F9C24CA4DF6741787DD50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/11.jpg?as=1&w=494&rev=981a883f0cc446459a7799852a2b2c15&hash=A48FBB6170AB9596E1044CD774EC76DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/12.jpg?as=1&w=494&rev=c9d339bb229e4ef4a203307b98922624&hash=C4F0E939408BBD969A826F6B6D642479",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/2.jpg?as=1&w=494&rev=5e7e6e18abdf4d4bbd6725c6ea722801&hash=D6257C135B73A1A078314C5AF2246CB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/3.jpg?as=1&w=494&rev=aedd6d0c7ad54dfd860053169c24be58&hash=8022A3C1E49CFD03203490C5FDBD7F29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/4.jpg?as=1&w=494&rev=b56c00f65b41482eb9c47ca18c6abe12&hash=9A6407539BD944B00322115FF1A881C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/5.jpg?as=1&w=494&rev=2c7da8bef1a147f893056defe5f29b91&hash=F506D546434B2D7C1288A186A6D33491",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/6.jpg?as=1&w=494&rev=f9c8cc56da1c4ff6afcad00904f9e68f&hash=FC14D6ABF5B53CAFB16D5F10A94AEFA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/7.jpg?as=1&w=494&rev=339964723710494296d9d149e52016ef&hash=482BA01B19CF0E413F4136927590312B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/8.jpg?as=1&w=494&rev=7078be6a1d9046a7874149e24c147c93&hash=DC6C6568EF2DE0AE870B46D26B39EC29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/9.jpg?as=1&w=494&rev=91c7d2003dcc4df89871fccf9b694b1e&hash=0EB6A3EB0FB05D4C3E79F082FE67DAB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/13.jpg?as=1&w=494&rev=74d42a77a9b74f798751773f49456df0&hash=670BB5D1999C049B092D6E19865DE6B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/14.jpg?as=1&w=494&rev=ac40355f1c914f16bbb8a9524bb8291c&hash=B95437AFE2B276D0BAF228C9156E772F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/15.jpg?as=1&w=494&rev=f99b30fd59a34e42b77c483b40d126d6&hash=A66CB8C927DF58F260988569BF18EC10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/16.jpg?as=1&w=494&rev=4b9fd8d4c53747cea8c2464bf14a2a47&hash=E00330DF655A507FA5C2D76087B93D97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/17.jpg?as=1&w=494&rev=335d263b14254f239d66b16d87d829cc&hash=292A9CA7A7010CBD5C8DE8359F1A2C5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/18.jpg?as=1&w=494&rev=b24598f5d04341b783e90954438a7d47&hash=08CAE5069078BF76BE099E829DBADB14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/19.jpg?as=1&w=494&rev=c40e278db6dd41e98a29eb280a11474c&hash=F562724663DFB7A43011D99AAD36ECB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/00-b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=5c63e9f2d7864eb9b1bd04a040fd45b9&hash=289EF97DF85D01635B6FF11820A0053D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/00.jpg?as=1&w=494&rev=ab3d19d3176641159124efa7d005da0e&hash=F077C8413C26C2B5721B1AF00E4B3760"
+      ],
+      "name": "11830 Davis Drive",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11830-davis-drive",
+      "id": "11830",
+      "address": "11830 Davis Drive",
+      "price": "$450,340",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0052-11830-davis-drive/10.jpg?iar=1&sc=1&thn=1&w=425&rev=7d5975ae85744c64b403c53bc7b5ef84&hash=297B3007C1C0CF44A4B8CA1CE9D07C0D",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/10.jpg?as=1&w=494&rev=3962c1303f99468a85d15e837524cc93&hash=1A40E9AD1BBE78B03BF27C586C08A155",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/11.jpg?as=1&w=494&rev=44392756a8774b1690a2d2b8c6bd21ae&hash=55019B429123E7EC28DFCCD8812335E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/12.jpg?as=1&w=494&rev=0b6fcd2879b744098ad368f6a52a0626&hash=A495EB5A2F903747E5E8262480D9C3E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/2.jpg?as=1&w=494&rev=4902fbf047ec4a09acd55cdaf566587e&hash=02573F2042455A736DCEBFC9A8C9AFE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/3.jpg?as=1&w=494&rev=b269c8493d0a4c8aadcee4b24b5ba309&hash=83947F5E199F1361E44754178E3DFD9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/4.jpg?as=1&w=494&rev=4b01aaac8ea24b068c4101e32e741247&hash=594101E9C3DC77D830E6EA9C91B6EAB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/5.jpg?as=1&w=494&rev=b6f84915b58a4b718d01168ba1a51de7&hash=5BEAC163E5C06CE39061B3207F745584",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/6.jpg?as=1&w=494&rev=87f6e444d05a4802b2ac23f64f42e0cd&hash=2EBB63B72FDCF9E0977B294A4CE2AADA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/7.jpg?as=1&w=494&rev=192ee379e4bc484b9810cd5e38f948a5&hash=5A8E7403CAE0CDE2E521D6FD3798050B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/8.jpg?as=1&w=494&rev=fde9bc4dee4f4266b7b8e8c918e069e5&hash=E20C1AF2F13D82D108D3EAB9E5D4CF27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/9.jpg?as=1&w=494&rev=0af1ae5a851641fab95bf39248ae585d&hash=3760D9B4C9E3C93C4EA045ACB20D5B08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/13.jpg?as=1&w=494&rev=3cdd28f260e8449d8a72807e5e080ab7&hash=B9B81B37986BD5B173622DE664568F89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/14.jpg?as=1&w=494&rev=ea72fd1cf15742bc989207f9d22a6437&hash=CF3E573DE7FFC91DEF8DB6B5BA67E5A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/15.jpg?as=1&w=494&rev=f264a6ea5f7641b883d5de137c2779ff&hash=0C32002921E2C2CECE6253E09736C3E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/16.jpg?as=1&w=494&rev=62bf71491a6442e4aab7b9a5ea78977f&hash=51892CA8553975A74905CDF91A8EB15A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/17.jpg?as=1&w=494&rev=ead45f98f9cc4f38a6970ccd7a2fc30b&hash=93AEC3292FB695C89F0D6A70DF8CC98F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/18.jpg?as=1&w=494&rev=1f3bc5fde93548d8ad41a5c417b246f2&hash=D7F96F0DB5E85CBE307378E24ED83D30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/19.jpg?as=1&w=494&rev=4b33aee3b5b14021b8212312a4a7f174&hash=13B0846B525D5FC324EFDEAB27A893E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/00-b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=d4d98ffa37f842cdb322cb7e9a24f055&hash=4BB2E87FE471CCA90EEC26FC7F3AC1E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/00.jpg?as=1&w=494&rev=4f1b642f010845f982c1cfa20074e9e7&hash=C9085511DBD9AB67AF3D86986485018A"
+      ],
+      "name": "11838 Davis Drive",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11838-davis-drive",
+      "id": "11838",
+      "address": "11838 Davis Drive",
+      "price": "$445,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0053-11838-davis-drive/10.jpg?iar=1&sc=1&thn=1&w=425&rev=3962c1303f99468a85d15e837524cc93&hash=80C02B0AB63D65F04D7384A2DD88F37C",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/10livingkitchen.jpg?as=1&w=494&rev=8b3471c241734b1984ad20cf5c39e0f2&hash=B9696E0AFBAC5960914D59F3A25989A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/9.jpg?as=1&w=494&rev=89a4e03e42a143b3a6a34e41c6e13af5&hash=17D17CD5A7E26D1695BF6D414E15AD29",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/2.jpg?as=1&w=494&rev=2dba63fff7e7423794018a422a12ec5a&hash=F66B9A57C13C6E837DAAF54729671054",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/3.jpg?as=1&w=494&rev=11da40b835cb49f5a53681ebad48a5a0&hash=C7B20091209394EB1BCE78BCC25FBB34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/4.jpg?as=1&w=494&rev=40547f9742f64b948bd76a08db37bfe8&hash=DD80A90D454E2D74DC7F8C465686B156",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/5.jpg?as=1&w=494&rev=2a70b014fe7c4b148a9630c215c89b2e&hash=A86F2122C3E9905BEFF3DC1D5EE96B98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/6.jpg?as=1&w=494&rev=a446e3c213464afc9736c12fd09095d2&hash=BFF601131DD70349F572ADB26243C045",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/7.jpg?as=1&w=494&rev=cbb591172ac04d2496566ff6d8691de1&hash=937A5A9E510761446A1D7D5096FB08FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/8.jpg?as=1&w=494&rev=95042d96ab6b4ee0bcf78dd0082eaca1&hash=44C84B50ED7A8C71D157260CC4AAB3E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/15.jpg?as=1&w=494&rev=9c47e0ef788a4fdbb5aabe5cbf5239a8&hash=138DC6E59A868784C5C5B6A36938C251",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/17.jpg?as=1&w=494&rev=478452341cce49b597a8c3e6c8105d7c&hash=1F4AF0888558CDD068AE44CC5502982B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/13.jpg?as=1&w=494&rev=bb27d38682f44bfbae1549617bfd6513&hash=EF92E517CA1675D4ECF915047C726993",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/12.jpg?as=1&w=494&rev=0f33d482f3f44f1f8a3d876cf18d65a2&hash=ACC1AB927EA23761DFFE4CED7B5405B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/14.jpg?as=1&w=494&rev=ba7d16239b1d4bc2a3d177080cf5cf8d&hash=4227370A6AEBCB328943F0350BEA43B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/18.jpg?as=1&w=494&rev=bc8db73f828a4396a368f8d09a934983&hash=AECD7A4E8B5DE3EF21138200DB32C437",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/19.jpg?as=1&w=494&rev=2e511b37085d47b9a2a0466057065bba&hash=F1021ED74380B632310D33AB0BE5293F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/20.jpg?as=1&w=494&rev=36ba76bb1d7a42adada433ccd7073d20&hash=65A01DEF47FD0C690837D4EC5B37C20F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/01_-_b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=e5ccf7e28c6d4848853f928cc9a5dbf9&hash=FFB51420CB3BCB3A5B60F46E440170D5"
+      ],
+      "name": "11846 Davis Drive",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11846-davis-drive",
+      "id": "11846",
+      "address": "11846 Davis Drive",
+      "price": "$399,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0055-11846-davis-drive/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=8b3471c241734b1984ad20cf5c39e0f2&hash=DA653885C27EE9E874C7CB160B25ED3D",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/9.jpg?as=1&w=494&rev=0245623d6b694dbf8d87b0fe6249e8be&hash=566B7708E8727FB7735D54B914FC7871",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/10livingkitchen.jpg?as=1&w=494&rev=9fcda68bdae64b15b27ab414bb86da6d&hash=AD918BC40F83AF83266B0F0F68E78E83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/2.jpg?as=1&w=494&rev=346685b60e224e7ca3a3f824e075d7f7&hash=27F0F0DD1E08AA7F05D4967ED96178BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/3.jpg?as=1&w=494&rev=a688897662494f0fa90757b50ddf740a&hash=1ABA1894E5AA03E91AEFDAB20244D3B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/4.jpg?as=1&w=494&rev=cf0db1d54c5644aca982d7c72b7a51cb&hash=ABA9D06C7B7D421220746F19CA1E7D49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/5.jpg?as=1&w=494&rev=62097162bf8d4d649bc2ee2d75f74e10&hash=69B84E5CD712619335289175D36FD483",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/6.jpg?as=1&w=494&rev=a98174fde68147c4a7a7fae0baec3154&hash=84F2B47DC8E6930121DE4A6B51460613",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/7.jpg?as=1&w=494&rev=0ee7db45d4e74ca4926262a175359302&hash=9D34B0DF400AA57EBD61441E0ECBA80E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/8.jpg?as=1&w=494&rev=ab9785b1e9fc40e6a5d0514f3dce517c&hash=10283CEDF2342C24A1402FF983F31E77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/15.jpg?as=1&w=494&rev=ae9d1c599c894347bfa945471715df75&hash=C4E126223F784C6A7506196FC4F79532",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/17.jpg?as=1&w=494&rev=66f427cd984345c19d32aa7ae7e171e9&hash=D059CF4BF82548F10802E8A14FCC4E3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/13.jpg?as=1&w=494&rev=a4a3777f621146f6b6e5a5d509072f48&hash=C0B41A2A4C7B21D1CFC1A25C844CCFFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/12.jpg?as=1&w=494&rev=98daaa05b302442bbd584fe0d0026b52&hash=0452859BCBFAC3CCA33C3FFB527487A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/14.jpg?as=1&w=494&rev=56c2c01efe734f8facf5b934d812a3dd&hash=F315180C8B5262B29F7FA6453E918C7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/18.jpg?as=1&w=494&rev=4993432affb542a5babc0980df3ea0ef&hash=20D0A42977F087EE77D1390D1539E5EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/19.jpg?as=1&w=494&rev=d8c0fa08bbcb4d7f80f54cd9fa4d0421&hash=663D02827EAC765F2EAEE028085BC624",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/20.jpg?as=1&w=494&rev=a2655cd37de7455caca70f4f560b5213&hash=7D09420D46C060AE41F184C9777CD2B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/01_-_b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=e01023554339445e904370d8410204c5&hash=EC7F924F4994349570267C4D1D27A547"
+      ],
+      "name": "11850 Davis Drive",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11850-davis-drive",
+      "id": "11850",
+      "address": "11850 Davis Drive",
+      "price": "$409,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1674/0056-11850-davis-drive/9.jpg?iar=1&sc=1&thn=1&w=425&rev=0245623d6b694dbf8d87b0fe6249e8be&hash=54F4A58B4EC876FBDCE53E005B3095FE",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/12.jpg?as=1&w=494&rev=35bb789b89284fefa287818dfd6b3486&hash=11815C9DBB939D7DF2FF473C6614D89D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/11.jpg?as=1&w=494&rev=a7f9d118d3824734b72894d2f32d860f&hash=E2A2B61213D003AE046480B08688285A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/10.jpg?as=1&w=494&rev=d161d1228553494d8c683d23ae53ed94&hash=4C765945B5A37484E5C1A3F2C5D2C82A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/2.jpg?as=1&w=494&rev=c9c907d18a6d472dbb1d875e19b1c0b4&hash=E189E43B0C7CA7A9A3687E7D9B3C2DC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/3.jpg?as=1&w=494&rev=a6461cfcb5584e398c5d89f86a2d4cf5&hash=5BCBB4147E425058541423DDDB3B5955",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/4.jpg?as=1&w=494&rev=91f1120f1b2349debfad1a8f455a0c0d&hash=7CD05B67C426AEF4CE4C3CE7B206D379",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/5.jpg?as=1&w=494&rev=37e57d5da80144cb9777c8236718ccec&hash=F0D9210BBE33345B5C14E6F8D6C45EEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/6.jpg?as=1&w=494&rev=889668b61f894a328191ba3ed8d0d7bd&hash=A9BB44D923CC907F38ACFA94B4515B75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/7.jpg?as=1&w=494&rev=1a72555ea1d64c8da5f82fdff2e1b242&hash=3F32728F35EBC07A8969EDFC20419DB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/8.jpg?as=1&w=494&rev=6bcca70d263f47a79c9c70ba0d64f52c&hash=6EE713238105AFD394C53AC6959FF002",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/9.jpg?as=1&w=494&rev=3f67245810a94f4a9b768765afc4f783&hash=BE07E02EB9BFC0A543B3F3AAA6AF7980",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/13.jpg?as=1&w=494&rev=5fd93add926d490cae383c07ae297830&hash=FA77D5FDDFAFDCA40567F14F49A540C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/14.jpg?as=1&w=494&rev=8d85e9f212654653a482489669491883&hash=F9B3C9A5D0B3B9ED54A3523D3F23B06B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/15.jpg?as=1&w=494&rev=052385292e2d4dbc908bfff3734af5ee&hash=412D68FF414892109BDC67B1E48E3F99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/16.jpg?as=1&w=494&rev=19ad257a94e04d649309b323866c569e&hash=967F7915E4F6ACED7C9FACBC4AF23758",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/17.jpg?as=1&w=494&rev=479314807c694a40a2a5308fc90bc91b&hash=B6449503F572863DEF0ABCA736274D40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/18.jpg?as=1&w=494&rev=b320cad6f52a4068af567319b290d17b&hash=F7127967980A8B674E5B2B1389E35E05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/19.jpg?as=1&w=494&rev=5a949928d1764bfc8f257f7fd3749820&hash=163A89C9D1540463A30FB8BDC3FA8EBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/00-b1_fl_manatee_sarasota_bradenton_braden-pointe_glen-vale-townhomes-scheme-b1.jpg?as=1&w=494&rev=7b8b2bae5126424d8308b0f2363936fe&hash=928B94A2ECA1CC88339FA3A2B0CA6D10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/00.jpg?as=1&w=494&rev=4a3682c471c544019d8e0f6bc9a85080&hash=BC98E591F0D3EFE6E7D7D4A105B0E9CB"
+      ],
+      "name": "11851 Davis Drive",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11851-davis-drive",
+      "id": "11851",
+      "address": "11851 Davis Drive",
+      "price": "$429,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0034-11851-davis-drive/12.jpg?iar=1&sc=1&thn=1&w=425&rev=35bb789b89284fefa287818dfd6b3486&hash=88E1E85FDB3526751AF402BB2C170DDA",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0058-11858-davis-drive/10.jpg?iar=1&sc=1&thn=1&w=425&rev=efe1d925eea445cabc1bbf1e3713af8f&hash=1C5A8C968447B2476B187AD3BDB9B28E"
+      ],
+      "name": "11858 Davis Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/azalea-shores/qmis/11858-davis-drive",
+      "id": "11858",
+      "address": "11858 Davis Drive",
+      "price": "$445,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39410-azalea-shores-th/394100000-azalea-shores-th/1759/0058-11858-davis-drive/10.jpg?iar=1&sc=1&thn=1&w=425&rev=efe1d925eea445cabc1bbf1e3713af8f&hash=1C5A8C968447B2476B187AD3BDB9B28E",
+      "latitude": 27.88315,
+      "longitude": -82.81187,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Fuguitt Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Seminole Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Seminole High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

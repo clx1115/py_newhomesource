@@ -1,0 +1,364 @@
+{
+  "timestamp": "2025-06-01T06:31:54.598330",
+  "name": "Cape Coral South",
+  "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south",
+  "status": null,
+  "price_from": "$354,990",
+  "address": "3621 Chiquita Blvd,Cape Coral, FL 33914",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Cape Coral, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/1.jpg"
+  ],
+  "location": {
+    "latitude": 26.58511,
+    "longitude": -82.00674,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$354,990 - $418,555",
+    "sqft_range": "From 1,499 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Freeport",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/floor-plans/1499",
+      "details": {
+        "price": "From $355s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,499 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548230000-cape-coral-well-septic/1499/1499a-web.jpg?as=1&w=425&rev=13894c7eaecd4893827f737545677197&hash=7B721585A534BAB0A006749D90ED3C60"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548230000-cape-coral-well-septic/1499/1499_freeport_coveredlanai.png?rev=76ee292a7db04e4a862e5c05c488a7b1&hash=326075DE2D32691C0EA326AE93AC945E"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/floor-plans/4eab",
+      "details": {
+        "price": "From $370s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/aria-c-shingle_transom_web.jpg?as=1&w=425&rev=94a7a4dae9b24f5499923a35af53c232&hash=4E3D08D68EC326B438C131C5401C38A6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/4eab/1672_aria_fp.jpg?rev=b54535f100c341ccb90fcc8e66d2bd55&hash=038862848C8F06CE738DD5016EB3DBE4"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/floor-plans/4ebb",
+      "details": {
+        "price": "From $380s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4ebb/cali_c4.jpg?as=1&w=425&rev=1a4671feb67347ceb11afa0598707d6e&hash=FD6F8FB863740B72D3E6FE4FDBFF6B4B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/4ebb/1828_cali_fp.jpg?rev=61cbb31dde044c819e408d0867828fa1&hash=2F4BAD401C7DCAFF4472973633F1DDE7"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/floor-plans/5emb",
+      "details": {
+        "price": "From $395s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/5emb/2768_madison_3s_g.jpg?as=1&w=425&rev=dd037a5efe794eb896075aad0bff30b3&hash=3AAA1637B399695322E4632A4A2609E4"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/5emb/2020_madison_fp.jpg?rev=9e782b26e8864a1f8397eefe40062f20&hash=6760EE90E03604F2A274CE99A5C98BBB"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/floor-plans/4ehb",
+      "details": {
+        "price": "From $425s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/4ehb/2601-hayden_g_2s_exp.jpg?as=1&w=425&rev=a1d87342bf1f4ab58f17afd0a9e23be1&hash=3EAC98B3C8D7A3E1F3C7F192BC7CE4A8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/4ehb/2601_hayden_fp.jpg?rev=0fb66924a986453da91e333018496356&hash=08D28C081428A79ECDC9ACDCD08E6FC4"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/4ehb/2601_hayden_fp.jpg?rev=0fb66924a986453da91e333018496356&hash=08D28C081428A79ECDC9ACDCD08E6FC4"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/2077_lakeside_ele_a_revised_web.jpg?as=1&w=494&rev=b1b0671a1ffe4e81925b61914e2d53bd&hash=7FFFE77CD089F8F980A3FE3AC44C6DEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/02_lakeside.jpg?as=1&w=494&rev=3dea5b8689264e13893479cf6e827f6c&hash=63116405D1FEDA2339644E614886E05B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/03_lakeside.jpg?as=1&w=494&rev=4b9d491f37ee4d619204a68d9ba1f20b&hash=3C241E919FA22FDCFE99ECDFE24C616A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/04_lakeside.jpg?as=1&w=494&rev=2a106f8ab0ca49aba9c67174af67a0ae&hash=99648C5B9350DE580CA26951B583061B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/07_lakeside.jpg?as=1&w=494&rev=737b25abd1cc49eea76c021d30e28884&hash=2BE6DE49C95A7AE6D7DC0C85D93E298E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/09_lakeside.jpg?as=1&w=494&rev=78a010d4e14a46dbb64cc6bbc0d9e485&hash=9D7A2503CDC1EF3B567F638C0064D475",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/11_lakeside.jpg?as=1&w=494&rev=32275fac41924f2995e2ad4d4e097be1&hash=E1C65C0EB98FAF4D26E30DA25BB809DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/13.jpg?as=1&w=494&rev=26233649cdbb427aa052d1bc1ef15abe&hash=7E9E35B0FB31962FEECE3D5ABBCE434E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/14.jpg?as=1&w=494&rev=8a931f8eb0e94b58b011f58f83db7732&hash=A221808242C6424305E3481C0D988DBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/15.jpg?as=1&w=494&rev=e31f27671906497abee665f867428625&hash=AB4A7DBE0AE53783F7051B8624F2F8C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/16.jpg?as=1&w=494&rev=33285719aa574730a32c04d95ce59898&hash=DE167BF01C41493B97A13427EF01EFE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/17.jpg?as=1&w=494&rev=47fc36c4a34047358e4bf37f93217b44&hash=C283CA8BCDABCD5F37E35FA3B8C3F306",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/18.jpg?as=1&w=494&rev=1337c291c18447448fff967c93e45793&hash=13BEED8172B4B0D6CB6E90E2111654E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/19.jpg?as=1&w=494&rev=ae1681068ee242c89b176b0aae0cd360&hash=B1C70610DF0C3C596365039A8522172F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/2077_lakeside_floor_plan.jpg?rev=6792bc1a86ff4f85883e57f980c2e7ba&hash=EC299DD60DE53E4A1174680B9A6EE153"
+      ],
+      "name": "116 NELSON RD N",
+      "plan": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/116-nelson-road-n",
+      "id": "116",
+      "address": "116 NELSON RD N",
+      "price": "$409,470",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2078",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/2077/0131-116-nelson-road-n/2077_lakeside_ele_a_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b1b0671a1ffe4e81925b61914e2d53bd&hash=9D4B33EA0C39EC6E839C454096228E9F",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/e501/0129-130-nw-6th-ter/denham_ele_g_3car_revised_web.jpg?as=1&w=1280&rev=23fe5b0af618408cb4b2f6e53b5e6a35&hash=6A010B3483467F53F17BBB23D0E093DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/e501/denham_blackline_revised_02.jpg?as=1&w=1280&rev=da6b9693f4194415b15b88765a09621d&hash=C54272FE0C37BAB6A177E0C8E6032D70"
+      ],
+      "name": "130 NW 6TH TER",
+      "plan": "Denham",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/130-nw-6th-ter",
+      "id": "130",
+      "address": "130 NW 6TH TER",
+      "price": "$418,555",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/e501/0129-130-nw-6th-ter/denham_ele_g_3car_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=23fe5b0af618408cb4b2f6e53b5e6a35&hash=FD1E81159F2DABD4B03F5CC955130A5D",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/2768_madison_3s_g.jpg?as=1&w=494&rev=994ea7cb53ed40fd85249b5ffad93e4e&hash=2EF92C45FA91BE87759C9D3B4604E954",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bath1.jpg?as=1&w=494&rev=4514bae5bdd14b079bf2c05d0f71312b&hash=D0FCE65201AF7470D5000C2CA3140954",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bath2.jpg?as=1&w=494&rev=b063cd709f2d46d1b77cd1f0e3142c7d&hash=312710621FCE48BD86C211B3111E67C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bedroom1.jpg?as=1&w=494&rev=3a14133875094c819b0732290ffa0588&hash=0A5EC934639094B4AA88BD6A3FF50264",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bedroom1_2.jpg?as=1&w=494&rev=5282c1439a2a4849967e42bd81056473&hash=CF06F899FB3C5EE2E7A2FC4A69B0C547",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bedroom2.jpg?as=1&w=494&rev=88a4dc479fae4f1b8e9c79a8f52a73bf&hash=875386CB2DABBA27687BEA26D4590837",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bedroom3.jpg?as=1&w=494&rev=2312caeaeef64ad5b0af8afb8f6a9be4&hash=3FC13B3872A67B42B88E17BE01C6E4E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/bedroom4.jpg?as=1&w=494&rev=e6ef9715a8dd4b2188966e8d1789e496&hash=F0C6BB3DD7CC52CB47293B8CB2A02FB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/living.jpg?as=1&w=494&rev=89e2b0a5bf444a25ae9e3d980c37fcb2&hash=DC42E206AE01CC1556331564A180A235",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/living2.jpg?as=1&w=494&rev=1c19cd21ca8b4e7cabebcb72ded37ef9&hash=EA730B5F069679C3FFFC80D5C344E0FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/living3.jpg?as=1&w=494&rev=790e81f20b1e4d6ab7a8633960594b3c&hash=F0B68C97E20A8CA63AF25CF2EC160ED1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/5emb/2020_madison_fp.jpg?rev=9e782b26e8864a1f8397eefe40062f20&hash=6760EE90E03604F2A274CE99A5C98BBB"
+      ],
+      "name": "1600 BEACH PKWY W",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/1600-beach-pkwy-w",
+      "id": "1600",
+      "address": "1600 BEACH PKWY W",
+      "price": "$417,425",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0116-1600-beach-pkwy-w/2768_madison_3s_g.jpg?iar=1&sc=1&thn=1&w=425&rev=994ea7cb53ed40fd85249b5ffad93e4e&hash=EFB75F27DB66DD281A89E5FF9AD89DEF",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/aria-c4_shingle_transom_web.jpg?as=1&w=494&rev=394150de8f344ce2ab2ec09c3e9f44f2&hash=BEB1EA3D25ECA185AB30F9C91ACFF958",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/bath_main_16x9.jpg?as=1&w=494&rev=ac8473eb6b7545d8b851bd0b0ae48d2e&hash=FC18DF6A807FD3D6E91B26272E63E08E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=b91fc06cfeed45fc83423384058938f4&hash=A485E2906E1323C02FD390A6EEAE7458",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=75a54fbb3fdf48fa81c26cba8867b068&hash=588C4F11EC70EC1330C301491E919578",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=8f9338b113a04090b26501a4fae03945&hash=995700DDF1A256BBB77697F529EA577E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=66e7349bfba4453c8d6f4b0f31403bc4&hash=C69762713C09456F5CE3CCDE8BB4AEC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/living1_hamptons_16x9.jpg?as=1&w=494&rev=d4346ed0f76149e197d84a3544da514d&hash=FF10E835CA857C640EE9D3AB13C13482",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=ff40d03889dc4196a502bed35bef253f&hash=93FA866016A5EF5706EF8AD3B543CC32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=04a2cecbf4514505ab314b807a255001&hash=3282186D1070B6C7C00190A3E8898236",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/4eab/1672_aria_fp.jpg?rev=b54535f100c341ccb90fcc8e66d2bd55&hash=038862848C8F06CE738DD5016EB3DBE4"
+      ],
+      "name": "1807 VISCAYA PKWY",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/1807-viscaya-parkway",
+      "id": "1807",
+      "address": "1807 VISCAYA PKWY",
+      "price": "$391,370",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/4eab/0127-1807-viscaya-parkway/aria-c4_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=394150de8f344ce2ab2ec09c3e9f44f2&hash=9F0DC9ECCAEB22CF7773BFF6103116AE",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/2768_madison_3s_g.jpg?as=1&w=494&rev=a87df3962f05451e84133e90a60ede6b&hash=2CC58284BB241D01F47C5AFC04ED440A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bath1.jpg?as=1&w=494&rev=44726fc984754ba88626ac63cf4bae4a&hash=DDFA1276BF27758EFD5424DFE0CF154F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bath2.jpg?as=1&w=494&rev=56d0d1e84b254bd8b59c5de46cf585fe&hash=938C03F01D86A19BC9FAEC2525923FC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bedroom1.jpg?as=1&w=494&rev=e87d2eb004d847e18652bd7fe456f8e4&hash=5B3B789E7154E4EA71E9BAE0E32E566A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bedroom1_2.jpg?as=1&w=494&rev=f4db19b6a2b4442d8c38f357dcfd2398&hash=8FED251D16C283089C62E988494BD3DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bedroom2.jpg?as=1&w=494&rev=11b592b3d56649dcbfb8c946c1a74c8d&hash=8CF04F6165AB6CCE3F1755D2DBA43B83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bedroom3.jpg?as=1&w=494&rev=592301b1a7d34bbfbe84f62978eefab0&hash=27427F2932C031BF14D3B6E957A6834B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/bedroom4.jpg?as=1&w=494&rev=2648838ae5b74d8f87ad0a9b6afb31b5&hash=A55A8D456731AD71D30874CFE59026F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/living.jpg?as=1&w=494&rev=a25936aab9694dec9decc29083a22e7d&hash=AC0CEC21A49046C8084535FBC0ED0436",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/living2.jpg?as=1&w=494&rev=96e6fa5c49ce4c7f9f19a870d38204d3&hash=A05CBC194B4097EED963C88A9FC63275",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/living3.jpg?as=1&w=494&rev=5e17ac7e69284f7281339af4f34b2ce1&hash=C273FD195577A7883284C4E1E64880B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/5emb/2020_madison_fp.jpg?rev=9e782b26e8864a1f8397eefe40062f20&hash=6760EE90E03604F2A274CE99A5C98BBB"
+      ],
+      "name": "503 NW 4TH ST",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/503-nw-4th-st",
+      "id": "503",
+      "address": "503 NW 4TH ST",
+      "price": "$417,725",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0111-503-nw-4th-st/2768_madison_3s_g.jpg?iar=1&sc=1&thn=1&w=425&rev=a87df3962f05451e84133e90a60ede6b&hash=9445F9B8E8D8796E833B510886BD3F64",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/2768_madison_3s_g.jpg?as=1&w=494&rev=0a1a33d79eb24469bffda7684583c06c&hash=75E6DC65B870407069D0706371736DF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/bedroom1.jpg?as=1&w=494&rev=61435b5066ac4d029696c4c12d02c9c4&hash=3C73E6E6EAFA0DDA3EEF3CC9672C0AD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/bedroom1_2.jpg?as=1&w=494&rev=31c00ef1dc994514985131202860dbdf&hash=7DD841A6E8494CB1653D79BCFAA76296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/bedroom2.jpg?as=1&w=494&rev=5a45084cdcf649b48324b763a6717f77&hash=89CB582A852D51AC45FD862ED84F5DCB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/bedroom3.jpg?as=1&w=494&rev=ef17bdae89284297af8e551db8374d00&hash=1B7477FD416A254CF36EE9DAA6FF96C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/bedroom4.jpg?as=1&w=494&rev=4d8ae6c21d8d46f58ba76c059380d40f&hash=C4092FA6D8B635378CCDABA6306987A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/living.jpg?as=1&w=494&rev=d11d01ec83c24d23aa8f0ae38a792eba&hash=F152737AB80D962E7A644FB4FC7D160E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/living2.jpg?as=1&w=494&rev=5f37b87528c24ba0b086c1851f708af0&hash=C87C5CF65E82E15CDE1C2EDB8BE3ECA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/living3.jpg?as=1&w=494&rev=dc32394bfb4140f0a87d60cffed0cef6&hash=0897E3ABC0F66DFF8D43886D5CED6CA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/579950000-cape-coral-northwest/5emb/2020_madison_fp.jpg?rev=9e782b26e8864a1f8397eefe40062f20&hash=6760EE90E03604F2A274CE99A5C98BBB"
+      ],
+      "name": "527 NW 7TH ST",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/527-nw-7th-st",
+      "id": "527",
+      "address": "527 NW 7TH ST",
+      "price": "$417,725",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/5emb/0110-527-nw-7th-st/2768_madison_3s_g.jpg?iar=1&sc=1&thn=1&w=425&rev=0a1a33d79eb24469bffda7684583c06c&hash=901A1BFE11E7C52E33F839B193ED4707",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/freeport_2s_a.jpg?as=1&w=494&rev=e60cc249a4a949b39af4870138474114&hash=2C7F1451704DC79723710EE294DCB22A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/bedroommain_web.jpg?as=1&w=494&rev=ab78bce0eb6040a78fb7dac1fca3b512&hash=25DB066BFA4BA32D79084AE902C86907",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/dining_web.jpg?as=1&w=494&rev=0330eb01125d413187e137e86e565134&hash=FD4766DCAE4F6EDFBCA0151F18B9D586",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/kitchendining_web.jpg?as=1&w=494&rev=7401cdfed92747a9a150198ecc59fd46&hash=A96A0885FA9DEFAE9B4365A7205AFAC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/kitchendining2_web.jpg?as=1&w=494&rev=55df5be99cb64a4db363c30800fa4f1c&hash=898AEA1EE44B275169A349081BB4208E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/labelle_freeport_bedroom2_lr_web.jpg?as=1&w=494&rev=bdbecf0aa1a747bb8b2e97b73939da5f&hash=3C4A89B4C350459D7F002273851D8C46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/labelle_freeport_bedroom3_lr_web.jpg?as=1&w=494&rev=530f89041a7e4f55a13f8e9594d11fd8&hash=9100FAF1CE05E13F10B7E9F294FFDACE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/livingroom_web.jpg?as=1&w=494&rev=0d72db756eb646ab91e47733ed3a1083&hash=F5742BBA2F3CC62EAC8869DD5019A37E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548230000-cape-coral-well-septic/1499/1499_freeport_coveredlanai.png?rev=76ee292a7db04e4a862e5c05c488a7b1&hash=326075DE2D32691C0EA326AE93AC945E"
+      ],
+      "name": "712 NE 3RD AVE",
+      "plan": "Freeport",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-south/qmis/712-ne-3rd-ave",
+      "id": "712",
+      "address": "712 NE 3RD AVE",
+      "price": "$369,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57842-cape-coral-south/548220000-cape-coral-water-sewer/1499/0117-712-ne-3rd-ave/freeport_2s_a.jpg?iar=1&sc=1&thn=1&w=425&rev=e60cc249a4a949b39af4870138474114&hash=2F42BC821507D7E391EE1B4039374BBA",
+      "latitude": 26.58511,
+      "longitude": -82.00674,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Lee County West School Zone",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lee County West School Zone",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lee County West School Zone",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "timestamp": "2025-06-03T10:26:51.556324",
+  "name": "Highland Oaks",
+  "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/highland-oaks",
+  "status": null,
+  "price_from": "$469,990",
+  "address": "921 NW 3rd Avenue,Pompano Beach, FL 33060",
+  "phone": "(954) 513-4322",
+  "description": "Find a new home in Pompano Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57545-highland-oaks-th/575450000-highland-oaks-th/998_nw_3rd_terrace_-_web_quality_-_004_-_06_living_room.jpg"
+  ],
+  "location": {
+    "latitude": 26.24082,
+    "longitude": -80.12729,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$469,990",
+    "sqft_range": "From 1,646 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Multi",
+      "description": "Multi-Purpose Court",
+      "icon_url": null
+    },
+    {
+      "name": "Seating Area",
+      "description": "Seating Area",
+      "icon_url": null
+    },
+    {
+      "name": "Walking Path Around Community",
+      "description": "Walking Path Around Community Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Community features",
+      "description": "Community features",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Seminole",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/highland-oaks/floor-plans/1646",
+      "details": {
+        "price": "From $470s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,646 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57545-highland-oaks-th/575450000-highland-oaks-th/1646/998_nw_3rd_terrace_-_web_quality_-_032_-_46_exterior_front_building_block-2-2.jpg?as=1&w=425&rev=8c96b0c5b7e14d8f94d0df44aeae066f&hash=7D8ECF0AEAFC703D8097D84675B90413"
+      }
+    },
+    {
+      "name": "Waterway",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/highland-oaks/floor-plans/1719",
+      "details": {
+        "price": "From $478s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,719 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57545-highland-oaks-th/575450000-highland-oaks-th/1719/998_nw_3rd_terrace_-_web_quality_-_032_-_46_exterior_front_building_block-2-2.jpg?as=1&w=425&rev=ea7a0f7e922946029936c5af42e50c64&hash=408870045F8D0EFD182B549F7B14A238"
+      }
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Pompano Beach Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pompano Beach Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Blanche Ely High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

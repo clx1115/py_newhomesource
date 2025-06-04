@@ -1,0 +1,398 @@
+{
+  "timestamp": "2025-06-03T23:34:31.815094",
+  "name": "Campbell Crossing",
+  "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing",
+  "status": null,
+  "price_from": "$351,990",
+  "address": "971 Commons Way,Port Orange, FL 32129",
+  "phone": "(386) 401-5091",
+  "description": "Find a new home in Port Orange, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Volusia County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/cali_c_exterior_front_1.jpg"
+  ],
+  "location": {
+    "latitude": 29.14857,
+    "longitude": -81.00368,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$351,990 - $444,990",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless",
+      "description": "Stainless-Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz Countertops",
+      "description": "Quartz Countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Plank Flooring",
+      "description": "Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Community Walking Paths",
+      "description": "Community Walking Paths",
+      "icon_url": null
+    },
+    {
+      "name": "Shaded Park Benches Throughout",
+      "description": "Shaded Park Benches Throughout",
+      "icon_url": null
+    },
+    {
+      "name": "Walkable Schooling",
+      "description": "Walkable to Schooling",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from Shopping Dining",
+      "description": "Minutes from Shopping and Dining",
+      "icon_url": null
+    },
+    {
+      "name": "Less than 1 Mile",
+      "description": "Less than 1 Mile to Riverwalk Park",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/3eab",
+      "details": {
+        "price": "From $352s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/allex_c_resizedweb.jpg?as=1&w=425&rev=3a814fc0111f47bcae344f2725b5406b&hash=4C3E44C5BDD1CDE78ECDFE7A3C20B15E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/allex_no_logo.png?rev=f97cc753644d4c10bb2c735d019ff37f&hash=A71C2E25E8BAF74ECEC21E2E64B95D4B"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/4ebb",
+      "details": {
+        "price": "From $390s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ebb/cali_c_resizedweb.jpg?as=1&w=425&rev=d12f1c7faeb848e2a672cd34ab416c4c&hash=D5705F19AA92286A6266EF6E3CD91849"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ebb/cali_floorplan_only.jpg?rev=badf52f2242d42c3949e6cab8a7e95b1&hash=40E511A403295B13F2A16AB9EA28D3A2"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/3emb",
+      "details": {
+        "price": "From $365s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/harper_c.jpg?as=1&w=425&rev=8cc7cc1ac12340959e32b6ec7b1caaed&hash=BD927B9C1FD6070173AF61825CF1113E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/harper_cg_drh_floorplan_no_logo.jpg?rev=280e6fc2697e4e7e8df91aadc62d3fd7&hash=94146E04611B99C7390F57F2F33A96DD"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/4ehb",
+      "details": {
+        "price": "From $449s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ehb/hayden_g_resizedweb.jpg?as=1&w=425&rev=e19203ba9bf44393b376f2d98feda318&hash=28DABFDF0CBED8D4FCBC08443E89CDB8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345460000-campbell-crossing-50s/4ehb/hayden_floorplan.jpg?rev=c67d1ff667cd403fb402326f8c88f9c6&hash=EF2A26CCF1F26F124D9A6E6B9E861BB5"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34545-campbell-crossing/345460000-campbell-crossing-50s/4ehb/hayden_g_hires.jpg?rev=8e6e03103bb24659af2105b85a5f17da&hash=1F6A2D262925CCE784A8E837D51373AB"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/floor-plans/3efb",
+      "details": {
+        "price": "From $428s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/robie_h_web.jpg?as=1&w=425&rev=9b6d19322577427f8a2b04f51e62b73a&hash=69C66CFF485764794A8C7F34F2CB41AD"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/robie_no_logo.jpg?rev=0dac8716d6c24b7494c3e4a4dcabe4d4&hash=4BD8A854D55CF40FC4C3151CCBA4D392"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/robie_g_web.jpg?rev=78ff4d73b90b4e9dadd137e83ebc6a64&hash=4AD93FE5A22EAB4B6B8121B45E95EEA5"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0044-974-commons-way/harper-harmonywest-st-1.jpg?iar=1&sc=1&thn=1&w=425&rev=348faae99bde4b59b1cb3157097ca3da&hash=E1A81222CCF155F6F93D6EA17AE227DF"
+      ],
+      "name": "974 Commons Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/974-commons-way",
+      "id": "974",
+      "address": "974 Commons Way",
+      "price": "$381,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0044-974-commons-way/harper-harmonywest-st-1.jpg?iar=1&sc=1&thn=1&w=425&rev=348faae99bde4b59b1cb3157097ca3da&hash=E1A81222CCF155F6F93D6EA17AE227DF",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1-1-allexexterior-elevationd.jpg?as=1&w=494&rev=3b6e4fdc3fe84c99a8b8cb9c8e3bd37b&hash=C63F3516ADAE00F61F00B44E3C8E305B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---04.jpg?as=1&w=494&rev=761ca393654b4ca4ac03720de7be77a5&hash=35C49FF3C226A9663CCC030D1567CFD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---07.jpg?as=1&w=494&rev=9cc634d026934174993e20e90aae5ddc&hash=E7AEE3A1DA3CC4E3DB035AF338C4F860",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---08.jpg?as=1&w=494&rev=8a774b5282584e59bf5ae5292f1d070f&hash=98DF8E2D27ECEB6930BBE5C5C33A3888",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---10.jpg?as=1&w=494&rev=6544eeb923e34eae9db86757dbc122a3&hash=A7916355D4E6A404DA01AD81BA1ADE55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---11.jpg?as=1&w=494&rev=00c12f61014749e1a04c703be296c4fa&hash=9B747630E6C16F8F8FDD06AE35E9D9AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---13.jpg?as=1&w=494&rev=529562b02031461b91aea2488a05f88a&hash=BD4CAA68D6380AA800CAF3F5378EE3D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---15.jpg?as=1&w=494&rev=983d446d8e194576a63ca2d5a5245073&hash=067E8DDAA62B476C476C8CE7930031C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---16.jpg?as=1&w=494&rev=bac16db524514b41a5c19500f5e9dfbe&hash=CFBEE2670E799E44B9FA37A33CD4112A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---19.jpg?as=1&w=494&rev=458e384a0bb9440a9166a385405ef498&hash=82CA1A326A42F07C168251790CF648CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---21.jpg?as=1&w=494&rev=9d43f726877d485d8b4fc7f0c82a0907&hash=E8A37FEE88A232BCA0B84BF256509A18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---22.jpg?as=1&w=494&rev=580b6fd631774eeea726925872bb4daa&hash=20E9DE2F795782B0D79625C8B284936D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---23.jpg?as=1&w=494&rev=ac043199ef3d49d1b663b5f282329077&hash=B922EE49C2019A1567AB004637754FAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---24.jpg?as=1&w=494&rev=b069fa48f3bf4cd18b31a72a19d6ef4a&hash=E4DCF45BC65741EA140F10F58CA86E18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---25.jpg?as=1&w=494&rev=0a8057ad9fa045eb99ec0c1c13b43628&hash=982D3D413742834C5740358D8D76A627",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---26.jpg?as=1&w=494&rev=31717fb366e24062955b6a71d7e34aab&hash=E91E55FB304964129C7D1904DA5B3D27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---28.jpg?as=1&w=494&rev=c0d276ec1f6240e0af890f57c2291678&hash=703EBFAABA8CDF5628D094162A10C83D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/allex_no_logo.png?rev=f97cc753644d4c10bb2c735d019ff37f&hash=A71C2E25E8BAF74ECEC21E2E64B95D4B",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "976 Commons Way",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/976-commons-way",
+      "id": "976",
+      "address": "976 Commons Way",
+      "price": "$368,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0045-976-commons-way/1-1-allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=3b6e4fdc3fe84c99a8b8cb9c8e3bd37b&hash=78D86299CD5D493B9A0470FCE854A08D",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/0046-978-commons-way/1_1_robieexterior_elevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1a051a99328140eb81330231f0dfb8d0&hash=963F7A79653CC9A70925CADABF05DE25"
+      ],
+      "name": "978 Commons Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/978-commons-way",
+      "id": "978",
+      "address": "978 Commons Way",
+      "price": "$444,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2447",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3efb/0046-978-commons-way/1_1_robieexterior_elevation_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1a051a99328140eb81330231f0dfb8d0&hash=963F7A79653CC9A70925CADABF05DE25",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0047-980-commons-way/9-harper_lvp.jpg?iar=1&sc=1&thn=1&w=425&rev=58db6016e2414fe38ac53c142b62c391&hash=B4474EE80242E98B719503321AABB861"
+      ],
+      "name": "980 Commons Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/980-commons-way",
+      "id": "980",
+      "address": "980 Commons Way",
+      "price": "$379,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3emb/0047-980-commons-way/9-harper_lvp.jpg?iar=1&sc=1&thn=1&w=425&rev=58db6016e2414fe38ac53c142b62c391&hash=B4474EE80242E98B719503321AABB861",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0048-982-commons-way/1-1-allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=3fc06a4d891c45ceadb48a2d4a0f84b2&hash=FFDCD18793327998A4D0C4E0B34EC3FA"
+      ],
+      "name": "982 Commons Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/982-commons-way",
+      "id": "982",
+      "address": "982 Commons Way",
+      "price": "$366,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0048-982-commons-way/1-1-allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=3fc06a4d891c45ceadb48a2d4a0f84b2&hash=FFDCD18793327998A4D0C4E0B34EC3FA",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/project/drhorton/common/776-myrtle-beach-south/home-ph.jpg?iar=1&sc=1&thn=1&w=425&rev=18d5f4635341467da94bd8968012a6b4&hash=FA6041A70C39E579C6B0BB2467AFF5EE"
+      ],
+      "name": "986 Commons Way",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/986-commons-way",
+      "id": "986",
+      "address": "986 Commons Way",
+      "price": "$381,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/project/drhorton/common/776-myrtle-beach-south/home-ph.jpg?iar=1&sc=1&thn=1&w=425&rev=18d5f4635341467da94bd8968012a6b4&hash=FA6041A70C39E579C6B0BB2467AFF5EE",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1-1-allexexterior-elevationd.jpg?as=1&w=494&rev=f82a76055d7447de929e1c28998ac4fe&hash=50F4C5B74C221B6BDBFD58BBAC0E4A3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---03.jpg?as=1&w=494&rev=1e66bd556c00473295506c8901bd1089&hash=DC637A3F5EA5FCA79768EBA6E2030935",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---04.jpg?as=1&w=494&rev=8e4303d1566846ee9949d033bad5b5ec&hash=19D9F179BFC79FC35BA1BF68F4DB1E46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---05.jpg?as=1&w=494&rev=f745a0b0a52c4d6cb41e751707668ec8&hash=C73F7F08D0ECF8B4D950B5FDA46BF041",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---06.jpg?as=1&w=494&rev=01123afe989c47ba91172d0c628b0535&hash=8C6733738B6A074DD2F89784CD9237EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---07.jpg?as=1&w=494&rev=95b4a1ac8462416aa89f52e129ebd84e&hash=0B28F36AC39625DF50357395085FD45A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---08.jpg?as=1&w=494&rev=07e8fbcabbc044d480b756ccaf3e6d76&hash=1AEBC3346B03FF61CF9CE30E64C40ED5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---09.jpg?as=1&w=494&rev=e03902f6ca14410c8ddc209471d8c7ec&hash=7723DC3A75717BFF3EA77DF83D1BFA6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---10.jpg?as=1&w=494&rev=6133d87256a34d64955ed82d04c31c3d&hash=AE4999F6C66F51F9BA45E4CFBDCCAA25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---11.jpg?as=1&w=494&rev=5e5bbeba300248a8b3411c01e583fdf8&hash=2525FEC41A425A710043FF50B74224D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---12.jpg?as=1&w=494&rev=9bfe78e0f0e54c87bf779039ce507e12&hash=07A444128B0F1377624DEC808F88BFF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---13.jpg?as=1&w=494&rev=92b22ae3515347e59bf71e33e7962b62&hash=F0DCE058497552E70FE96DC61AA7F09A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---14.jpg?as=1&w=494&rev=42e9e05a7c694308aaa738328f4ce27b&hash=1A467B31E2472268132595509FE00411",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---15.jpg?as=1&w=494&rev=55236944faa649bd9f46da96451a4de3&hash=583B99E99D70C1FDFB3C151C3DBD96CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---16.jpg?as=1&w=494&rev=53b2ccc4796f469aaea03be39adc22fe&hash=42E87B7688C692A8009B34D876FAD0C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---17.jpg?as=1&w=494&rev=0473dafc9d004ec388771c7fb05f5792&hash=6DA50145ED589ADF904FB3EA735B6DEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---18.jpg?as=1&w=494&rev=738b6bbbb7794dadbff244a8a0a24e8e&hash=2339D0F7977BF74404F0954007CE387C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---19.jpg?as=1&w=494&rev=d5571e59bca547acb6765392dfb8af72&hash=15BAC146D1ABC2B926FF3FA8225AB210",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---20.jpg?as=1&w=494&rev=171f102dc72b459fa9e8141f59dbc67e&hash=43EBD42C87496F06B6109B34E2DD98D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---21.jpg?as=1&w=494&rev=1ac37de02f42430e8ffe12ff5cc58f99&hash=87054EF77D481FB26F2F436EBE281296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---23.jpg?as=1&w=494&rev=2e181ef1bbab461bb9cf7ba3c769f3ad&hash=0BABC604720EC4FEB2A610834FA77242",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---26.jpg?as=1&w=494&rev=05d2ee64324b4acf9c8f08ac3071adac&hash=5B70D8DD3BCFAEA82DDDCF82140EE648",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1508-park-side-avenue--kissimmee--fl-34744-allex---28.jpg?as=1&w=494&rev=61c8bd7eb4514c7f8485c3d312078b9d&hash=AC6C5CB8506A443A88569DE71739040A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/allex_d_resizedweb.jpg?rev=c21298b9415649439efae971758e2549&hash=941084C2015B84184B44017A4916CFE4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "988 Commons Way",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/volusia-county/port-orange/campbell-crossing/qmis/988-commons-way",
+      "id": "988",
+      "address": "988 Commons Way",
+      "price": "$368,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34545-campbell-crossing/345450000-campbell-crossing-40s/3eab/0051-988-commons-way/1-1-allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=f82a76055d7447de929e1c28998ac4fe&hash=B09200E463C864A2E780950D5CE614B4",
+      "latitude": 29.14857,
+      "longitude": -81.00368,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sugar Mill Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Silver Sands Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Spruce Creek High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

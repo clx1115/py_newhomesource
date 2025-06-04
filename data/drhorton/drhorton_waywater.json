@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-06-03T09:35:05.428861",
+  "name": "Waywater",
+  "url": "https://www.drhorton.com/florida/volusia-county/new-smyrna-beach/waywater",
+  "status": null,
+  "price_from": "$0",
+  "address": "Findley St,New Smyrna Beach, FL 32168",
+  "phone": "(877) 415-0030",
+  "description": "Find a new home in New Smyrna Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Volusia County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34570-st-james-estates-townhomes/345700000-st-james-estates-townhomes/pearson_web.jpg"
+  ],
+  "location": {
+    "latitude": 29.01489,
+    "longitude": -80.93831,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Convenient Townhome Living",
+      "description": "Convenient Townhome Living",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz Countertops",
+      "description": "Quartz Countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Plank Flooring",
+      "description": "Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "6 Mins Beach",
+      "description": "6 Mins to Beach",
+      "icon_url": null
+    },
+    {
+      "name": "2 Mins Intercoastal",
+      "description": "2 Mins to the Intercoastal",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Read-Pattillo Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "New Smyrna Beach Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "New Smyrna Beach High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

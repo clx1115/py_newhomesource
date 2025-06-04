@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-03T16:45:37.495268",
+  "timestamp": "2025-05-30T10:51:57.841375",
   "name": "Harmony at Lake Eloise",
   "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise",
   "status": null,
@@ -22,7 +22,7 @@
   "details": {
     "price_range": "$274,990 - $401,105",
     "sqft_range": "From 1,504 Sq. Ft.",
-    "bed_range": "3 - 4",
+    "bed_range": "3 - 5",
     "bath_range": "2 - 3",
     "stories_range": "1 - 2",
     "community_count": 1
@@ -300,13 +300,7 @@
         "sqft": "1,665 ft²",
         "status": "Actively selling",
         "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise/389670000-harmony-at-lake-eloise-ph1-40s/3emb/harper_c_mls.jpg?as=1&w=425&rev=40984ff777d146e9be0787867f70cbe4&hash=D9E67A45CFA234AC5CFA5B7C64AAF8CE"
-      },
-      "floorplan_images": [
-        {
-          "name": "1st Floor Floorplan",
-          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38967-harmony-at-lake-eloise/389670000-harmony-at-lake-eloise-ph1-40s/3emb/harper_c_mls.jpg?rev=40984ff777d146e9be0787867f70cbe4&hash=77BC05E94ED3F15ACAA683888DC27D90"
-        }
-      ]
+      }
     },
     {
       "name": "Hayden",
@@ -361,13 +355,7 @@
         "sqft": "2,020 ft²",
         "status": "Actively selling",
         "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/5emb/cropped_0003_madison_nwg_l.jpg?as=1&w=425&rev=4f480668776e4186973e572f40754bc9&hash=B6BB2679C9243D00B1B8B4A23B09F163"
-      },
-      "floorplan_images": [
-        {
-          "name": "1st Floor Floorplan",
-          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388050000-lake-eloise-ph2-60s-fl/5emb/cropped_0003_madison_nwg_l.jpg?rev=4f480668776e4186973e572f40754bc9&hash=F156EF1EFE76A01BA9A654A651FADDA3"
-        }
-      ]
+      }
     },
     {
       "name": "Robie",
@@ -519,6 +507,25 @@
       "sqft": "2308",
       "status": "Available",
       "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38967-harmony-on-lake-eloise/388030000-lake-eloise-ph2-40s-rl/3rcb/0008-1668-hummingbird-road/cropped_0000_2282_-_campbell_ele_b.jpg?iar=1&sc=1&thn=1&w=425&rev=5f583ea99d3c406abb4039e2da5e39a0&hash=76738B4D778C0B5641BD2658E7F81200",
+      "latitude": 27.98068,
+      "longitude": -81.72115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/project/drhorton/common/776-myrtle-beach-south/home-ph.jpg?iar=1&sc=1&thn=1&w=425&rev=18d5f4635341467da94bd8968012a6b4&hash=FA6041A70C39E579C6B0BB2467AFF5EE"
+      ],
+      "name": "2563 Sage Valley Way",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/polk-county/winter-haven/harmony-at-lake-eloise/qmis/2563-sage-valley-way",
+      "id": "2563",
+      "address": "2563 Sage Valley Way",
+      "price": "$327,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/project/drhorton/common/776-myrtle-beach-south/home-ph.jpg?iar=1&sc=1&thn=1&w=425&rev=18d5f4635341467da94bd8968012a6b4&hash=FA6041A70C39E579C6B0BB2467AFF5EE",
       "latitude": 27.98068,
       "longitude": -81.72115,
       "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."

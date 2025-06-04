@@ -1,0 +1,349 @@
+{
+  "timestamp": "2025-05-30T20:17:29.337875",
+  "name": "Halls Creek",
+  "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek",
+  "status": null,
+  "price_from": "$262,900",
+  "address": "100 Oliver Drive,Dothan, AL 36301",
+  "phone": "(334) 597-5321",
+  "description": "Find a new home in Dothan, Alabama! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Alabama area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/_0001_100oliverdrive002.jpg"
+  ],
+  "location": {
+    "latitude": 31.17628,
+    "longitude": -85.41176,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$262,900 - $282,900",
+    "sqft_range": "From 1,497 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/floor-plans/1618",
+      "details": {
+        "price": "From $271s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,618 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/01_zv_-_dr_horton_al_montgomery_ht_aria_a13_cs_a_hr.jpg?as=1&w=425&rev=29499d3fcdb942bc9884a1d94f47e1f3&hash=15FBA849C2BE3134D4E7B7AA698768C6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/untitled-1_0005_aria.jpg?rev=d59e8e824a97456c87371f1cf2341be2&hash=08C27DCDC640483721AAA738A3ED0A91"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/floor-plans/4ebf",
+      "details": {
+        "price": "From $281s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/06_zv_-_dr_horton_al_montgomery_ht_cali_a16_cs_e_hr.jpg?as=1&w=425&rev=6f97873a19e449b08719478e3b7ba15e&hash=9C27B2837F0D5BB13D2F5B689323C8B0"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/untitled-1_0004_cali.jpg?rev=4f95d00ed0944368894518ef02656955&hash=E3F51BEBC9DB92B4114079E8FB3A9C5D"
+        }
+      ]
+    },
+    {
+      "name": "Freeport",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/floor-plans/free",
+      "details": {
+        "price": "From $263s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,497 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/15_zv_-_dr_horton_al_montgomery_ht_freeport_a4_cs_e_hr.jpg?as=1&w=425&rev=7561a19fda2b432d9ed0f82bac3f5b80&hash=34F59526D4A0E0CDA1DFF22F584E87A2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/untitled-1_0000_freeport.jpg?rev=9d249d8e5aca4c3ba26611c04ca57d45&hash=18914297D12170F2366EECDA194CC3EE"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/floor-plans/lake",
+      "details": {
+        "price": "From $304s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,019 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/lake/22_zv_-_dr_horton_al_montgomery_ht_lakeside_c13_cs_g_hr.jpg?as=1&w=425&rev=683dc514282c45e5a9c873aa649201bd&hash=FB1129740986A33234B3FFF895F472A9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/lake/untitled-1_0011_lakeside.jpg?rev=e091d8eee8f44b07beb887b8e9eea5e3&hash=1CDEF08DB9C182854E2A93E6770EB50B"
+        }
+      ]
+    },
+    {
+      "name": "Penwell",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/floor-plans/4epf",
+      "details": {
+        "price": "From $319s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,175 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4epf/the_penwell_a46.jpg?as=1&w=425&rev=908680a4bad54f60b376dcf1c7ecc263&hash=87258CB8BF71CDD67918A97C8CC3CA97"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4epf/penwell_floorplanhandout-2.jpg?rev=b41a8d1e21e648d4acd08c9998fe51f8&hash=9AF6F4BEDD059CD2FC63DBBF97D31958"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4epf/penwell_floorplanhandout-2.jpg?rev=b41a8d1e21e648d4acd08c9998fe51f8&hash=9AF6F4BEDD059CD2FC63DBBF97D31958"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/_0003_104kieran002.jpg?as=1&w=494&rev=8558d812c137421595668dbe4243018d&hash=495000EEB5BA6462035D7A29C99763EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/_0000_104kieran001.jpg?as=1&w=494&rev=16a06941235d4df7835be7bd7d99b18c&hash=337B6712CDEA9E75149CC0AEC53E44E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_1.jpg?as=1&w=494&rev=0d93d95bba514bd79def03e2e427bbf7&hash=BB5FC604E758508DF5E721599A0F4319",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_2.jpg?as=1&w=494&rev=3c305445782b4ddaa36f7339e5f57cea&hash=AF7C355C034631845040F2444F2F4C17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_3.jpg?as=1&w=494&rev=49405ce7d8e24650af3cbc0d6e6361ca&hash=435E5DB2018718FC59FB1050A76CAD44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_4.jpg?as=1&w=494&rev=35baa5f709a141759ff6c027a626516b&hash=7675791400972A52D53110EA87F7DD81",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_5.jpg?as=1&w=494&rev=589712244040462a8e6aec28da9d39cf&hash=DC2FB3911FFD72D63D6374FFA86C39B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_6.jpg?as=1&w=494&rev=eb6d60f645654c9093a0d52897737fe5&hash=97B7A62D1E1681B14F31E0DF2A29B62B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_7.jpg?as=1&w=494&rev=912be5faaa674db585fbc0205f562806&hash=E1D1DC2B6C05B970CBFCC1B2274495F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_8.jpg?as=1&w=494&rev=8c9670cdbfa44bfab083e58d04f31c6a&hash=F6872C6F4EF9B63D04399E8D5CA58E21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_9.jpg?as=1&w=494&rev=1a4698a3ff48475db143e8093b3e4d53&hash=81C7ED3ED8A8C5D75130413F1016E321",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_10.jpg?as=1&w=494&rev=e3406000f71f485cb5b3f0adf08ea9a9&hash=1187132CBA08D3A79CEB6962AC624EF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_11.jpg?as=1&w=494&rev=181d85d524a8486c92878a7f17e04235&hash=4F65E7611B21CA54A191FEC354CC1EF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_12.jpg?as=1&w=494&rev=ff2c27098a0e46b6a518d8d9aaf7ed62&hash=8C854FEFB44647FB7BFF4F678144D76D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_13.jpg?as=1&w=494&rev=9732d35c3ac1445081dca16a1b219f2a&hash=0D98849093C9A32A5124D875CD557054",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_15.jpg?as=1&w=494&rev=8e13ad5b883641908778f0f06632709b&hash=8DE36E5DCEFFE8B232309F897659C24D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_16.jpg?as=1&w=494&rev=a8aa7840d69a42039b54a750a87b311a&hash=41D13356835D26AC08016ED15E336238",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_17.jpg?as=1&w=494&rev=9bc911926d834826a329bd923466ea1b&hash=4624B8A1064340A817623CDA643FAE2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_19.jpg?as=1&w=494&rev=481e273f45b64a6b8ff83f44eae37bf6&hash=3A16CABE1A71AAC9D4761D1A0953E97D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_20.jpg?as=1&w=494&rev=313b5504ceec41a89385fdc971e1b65e&hash=25FFE654D107CB50E8C221C1D1E9B16B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_21.jpg?as=1&w=494&rev=b2941181c3284c30ad14806cb199961d&hash=36B0533F41B23C7D9833EEEB292FB290",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_22.jpg?as=1&w=494&rev=6322d701b9aa4cc5b02f1ab4e24541a0&hash=434CA20E60D76692796D733B21A1B587",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_23.jpg?as=1&w=494&rev=a643e618312348a8a62f3f8d9eae0a4a&hash=DED69C31D3F498FBE6420D485152C8AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_24.jpg?as=1&w=494&rev=432c21b12c0349f3a20a04954f0fe9e8&hash=E83EE666F1A5B5A8D78CE06E1B73FEB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_25.jpg?as=1&w=494&rev=dbf6694e26fa4b359709480023b9cb23&hash=A7013683559082BDC99BC9815278053E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_26.jpg?as=1&w=494&rev=6e6fa495e49e49909dc13758812337f9&hash=FF7D5B7D260829601A85AAA39759CA71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_27.jpg?as=1&w=494&rev=1f10a79ec0a54baf8e56df20cf86e8a4&hash=94BA9925A922D5587C193591781709FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_28.jpg?as=1&w=494&rev=d6ca61b355534c6e870d2a25b594529b&hash=35117C91CDE17836C88A60B77450AC5F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_29.jpg?as=1&w=494&rev=0327247fdf4b41d88ca5231e212c982b&hash=23563EE149DE8B96392293D1D2BC2404",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria_30.jpg?as=1&w=494&rev=79b4ff5eb3c749789df8133093bac1b8&hash=8F4C53D1B19AFD1DAE9A218B8A95BFC2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria14.jpg?as=1&w=494&rev=5b5dd498e8364b0ab79532d953f575a3&hash=631419A2D98ADF49E017095F29C30475",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/aria18.jpg?as=1&w=494&rev=05d72bcf3b30444aa740968674a392f3&hash=416C34800E3F1F13E93F2760D99F0BA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/_0001_104kieran004.jpg?as=1&w=494&rev=4efa66166b654c3eae280abf4b1204f1&hash=73BB533B38075FBA34ED175C685D8E07",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/_0002_104kieran003.jpg?as=1&w=494&rev=1dd41dba1d8945199e3a1c20c675a2e8&hash=2BF62ADAB19740F00671503E7F39ABE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/untitled-1_0005_aria.jpg?rev=d59e8e824a97456c87371f1cf2341be2&hash=08C27DCDC640483721AAA738A3ED0A91"
+      ],
+      "name": "114 KIERAN TRACE",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/qmis/114-kieran-trace",
+      "id": "114",
+      "address": "114 KIERAN TRACE",
+      "price": "$270,900",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1618",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/1618/2014-114-kieran-trace/_0003_104kieran002.jpg?iar=1&sc=1&thn=1&w=425&rev=8558d812c137421595668dbe4243018d&hash=D1BDDA2E9DC9C8651A05077678E9F241",
+      "latitude": 31.17628,
+      "longitude": -85.41176,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/_0000_116kierantrace004.jpg?as=1&w=494&rev=491dcb9216224244b351f49d51859050&hash=48E43FC7F4822D50CB50C80904398FBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/_0002_116kierantrace003.jpg?as=1&w=494&rev=281acc3af2794c05b455d809314bea97&hash=D9809E993C44A3C66CE287D67C1AD997",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-3.jpg?as=1&w=494&rev=8f989c07dc8d4081adb3b018591ab041&hash=937AC06771AD246ABDEA7C0DA82F8D5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-2.jpg?as=1&w=494&rev=e66e5c5376cf49f29d54e20d3386db6c&hash=99A3034E59A66883C8B35B3C3E2CE9E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-24.jpg?as=1&w=494&rev=d4b4b2fba86c437388c2ca4a9c878cd5&hash=EA9F72BF0FB53D218519EB8E54B7F173",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-23.jpg?as=1&w=494&rev=0d411b47c03d49b596093442e97456fa&hash=5573E63F4BD2FB23E2398758A62C7B1C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-22.jpg?as=1&w=494&rev=b45f57750aa74beebe394d96e134f41c&hash=F62E38F67386EE95BE90BD338BCC49F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-22_-_copy.jpg?as=1&w=494&rev=454b3e4d02694928b19e5cd8db781525&hash=DD4F9050E5B03FF3CBEDF8BC660988AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-21.jpg?as=1&w=494&rev=1f53102144474730bdb146e8709d400c&hash=15D3C3CBCC22D59B9CDC48505088B3DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-20.jpg?as=1&w=494&rev=d1d5fc1c548e4d758cb922113e5ea7cc&hash=A73C61C663900EEFAFAA5F77C2A86B80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-20_-_copy.jpg?as=1&w=494&rev=0a3a516d8c9d4ad49200efe0c3831b88&hash=C0E19590F64784D41A453B21D20A6DF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-19.jpg?as=1&w=494&rev=720b30fa6b6b47348ac17970f27f1575&hash=B0AA7B730E6D05DDE1E84945F05384B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-19_-_copy.jpg?as=1&w=494&rev=6b25918adf5345b18a7d85892ee8764c&hash=0BBC489509C73C4648ECD9D3E9D11CF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-18.jpg?as=1&w=494&rev=95372cfc162d4276b533fb58cf7db58b&hash=A747BE274C209D33B72B437E72E5E4BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-18_-_copy.jpg?as=1&w=494&rev=63737d1f3de5464e9035ac07fb77159f&hash=EE728932962C6396421F0FB4C8648FD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-17.jpg?as=1&w=494&rev=847e8ca1e82e49e19679d4e385514808&hash=C3717ABD9E7073E7FA7E64DF07AC6450",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-16.jpg?as=1&w=494&rev=074e0b1e27534f06a0830ecd8b7391a5&hash=F2663A24434CF9CB63D9C682C71C4C43",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-15.jpg?as=1&w=494&rev=42bfdabef6024f709b3b54d7624af131&hash=9AA81926FB50B98AFE9D2FC1B68ECF1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-14.jpg?as=1&w=494&rev=d30ea9dca94e40adbb663115c02154f7&hash=087A4E4CE1536EC91D7A486CE9D84B60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-13.jpg?as=1&w=494&rev=5682a002cb394435a4c62fd825455e13&hash=C2B1D097EF161B70EAE77DD8E9FD27B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-12.jpg?as=1&w=494&rev=0d33be467c034d8da8bdb47621dcb10b&hash=5FAD268F0A3317F0B32B34155D9183BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-11.jpg?as=1&w=494&rev=8071e3fdc4ad4a189536ad14a4576a35&hash=6F73606A3F45589B22732F05D7DF8E4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-10.jpg?as=1&w=494&rev=862cf8c256cc4276a3395e74aeb5aeb1&hash=8ABBBE539F91F80BBC1BE89D152FCA8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-9.jpg?as=1&w=494&rev=0482c06a75a44f5f96fa075f852429cf&hash=258D1E321722328A18157F185C85FF40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-8.jpg?as=1&w=494&rev=854fb63acd5b4f668290452a4416f891&hash=A65F83CEB9AFCF9902077F53538F896B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-7.jpg?as=1&w=494&rev=4434b75fafd441a498dcff88b4a34a3d&hash=21F65211D3580AB3C4C221EBB0783647",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-6.jpg?as=1&w=494&rev=0a60f0d8dbc24a589431a7b5696cf70c&hash=1216AD5842600F50B3AD6C76E754FA68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-5.jpg?as=1&w=494&rev=d7093476951f4d859b929109c7afbc84&hash=3E29CA8AEA4CC7E191717F2D1821B058",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/cali-4-4.jpg?as=1&w=494&rev=9708a17c807a4f4ab972ded133bdc630&hash=4F30B6BCEABBF66AD37E56D1D4C8404C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/_0001_116kierantrace001.jpg?as=1&w=494&rev=a842c188da404c7d8eb1c53c58c64c98&hash=730C7AB726F0CC871051DC82520CE78F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/_0003_116kierantrace002.jpg?as=1&w=494&rev=deafd8f8dc7a48e0abacc45288e82055&hash=A7584F29F5BEF3216CD4B86AA88670DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/untitled-1_0004_cali.jpg?rev=4f95d00ed0944368894518ef02656955&hash=E3F51BEBC9DB92B4114079E8FB3A9C5D",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "116 KIERAN TRACE",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/qmis/116-kieran-trace",
+      "id": "116",
+      "address": "116 KIERAN TRACE",
+      "price": "$282,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/4ebf/2013-116-kieran-trace/_0000_116kierantrace004.jpg?iar=1&sc=1&thn=1&w=425&rev=491dcb9216224244b351f49d51859050&hash=5E8811289F4DF81F8CE5749E33D6CCD8",
+      "latitude": 31.17628,
+      "longitude": -85.41176,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/16_zv_-_dr_horton_al_montgomery_ht_freeport_b1_cs_g_hr.jpg?as=1&w=494&rev=3ef5d0b5423b4e04ac8210232c12c661&hash=DD1CCB61A791DA422E21A12FC6B898EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0001_111sawtoothridge013.jpg?as=1&w=494&rev=08f67718469b45919cc763903624421c&hash=6A909FA4F1B879AD3A3F55E83AAE74E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0000_111sawtoothridge014.jpg?as=1&w=494&rev=ccb80169e62649729a8609ca84805ae2&hash=02F86597B4151068A606F95F60385689",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0022_111sawtoothridge021.jpg?as=1&w=494&rev=c6225793648843b0a9b6395c51373443&hash=9A183FC11743B6A809BDA9C58BEE094C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0026_111sawtoothridge017.jpg?as=1&w=494&rev=9618c530794c43faac30ea2c32a7d76a&hash=0CF0D204462CF978EF0FF021FDA848E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0002_111sawtoothridge012.jpg?as=1&w=494&rev=ca8094f876e34603b2418cd2cc972012&hash=2CB9770F0DC2098BE835BB48FF58FFF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0025_111sawtoothridge018.jpg?as=1&w=494&rev=e12e5b6d237943918b89ca520fea1e9b&hash=DC9C7C20DBD5CC3CF451E3DCFFF18E5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0021_111sawtoothridge022.jpg?as=1&w=494&rev=a30714bcb26647eaa932526aef578fd9&hash=CC8600FECDE85F4EB93C9CDA76AADF64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0020_111sawtoothridge023.jpg?as=1&w=494&rev=104a8845bc81457c85897937bf8a17cc&hash=28D7F8E0901D0ED9B47331DB7378C9FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0018_111sawtoothridge025.jpg?as=1&w=494&rev=c509fb9f2ba74892818919f9cb4e59d2&hash=63171D86300F1A572520248191463A57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0017_111sawtoothridge026.jpg?as=1&w=494&rev=3ec836bc306449c3ab6f0ab7872f57ce&hash=C09BD6364854B6C346750D3C1E2BEB6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0003_111sawtoothridge011.jpg?as=1&w=494&rev=c97c02e57c814795817f577497b15ad8&hash=731AA8D70F49F0B89E3F7A7FB41F8198",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0004_111sawtoothridge010.jpg?as=1&w=494&rev=1a426a627aea447695edffe541cbdba6&hash=556133F4557366083646F95044FE002D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0006_111sawtoothridge008.jpg?as=1&w=494&rev=9b0e321b760649788f50d0717c9f5733&hash=875191C6179586A2D612FA44AFA88150",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0007_111sawtoothridge007.jpg?as=1&w=494&rev=3dd39e2fcb8c4b34910ae53d0ec96bc8&hash=B7136DFD47E14139315D1070E2A3B3EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0008_111sawtoothridge006.jpg?as=1&w=494&rev=1e369bbdce9149b58ecf94ad234b6798&hash=BFCA88ED58BB8A482287369165F52933",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0009_111sawtoothridge005.jpg?as=1&w=494&rev=65905700a32d423a92265992f313e4b3&hash=B2F90D9E568E008D1FCD54E32D87071B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/_0010_111sawtoothridge004.jpg?as=1&w=494&rev=287cd463a1ea46f3b9223deffb21fee9&hash=152DFF23FEAADE3AF7DAB5FCE5D67EFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-4.jpg?as=1&w=494&rev=d17e961fe30a443e91e58d62bd0e0f22&hash=7140831FA0D01A963409CECB4793404F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-5.jpg?as=1&w=494&rev=55cab6edf2ce41348e517caa6942a4d2&hash=551679DA69BB89D627E3B071D7821201",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-6.jpg?as=1&w=494&rev=2b6a04437892413ea48fcd218c14d6e3&hash=031E2166229904C5E0574BC99C050C32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-7.jpg?as=1&w=494&rev=098a82f1651f48bbb8165dcf0e282cc5&hash=B6B52AEE83FC4822CDF0CCF1E8CF2167",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-8.jpg?as=1&w=494&rev=c075ffcb5af548adbdc8f1173d624281&hash=342B2D08DEB91C6225503081A7397C5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-9.jpg?as=1&w=494&rev=96c0644be2dc44c498edbb41bfc7d2df&hash=0AE270EA3041F2B7069814E8DD813E6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-10.jpg?as=1&w=494&rev=41bde90dc0cc4d999ea0db140f36a23d&hash=8215456FE314DFEE0CEF582E6C3EEF8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-11.jpg?as=1&w=494&rev=6522c02f3abb428ab3d1b06baa44f522&hash=395DB59C83CB6E4DCD607A8D837EC1B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-12.jpg?as=1&w=494&rev=b857df7611e746b4b32d070a6123bb51&hash=022A63A8540DC1B9D71E6EFB652D0390",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-13.jpg?as=1&w=494&rev=17ab8493cddb4e418aed935e440df633&hash=F8F856ED579844753EE621F2D44D62BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-14.jpg?as=1&w=494&rev=d90b3af9d7874d5c9d0bfa93cceadd0c&hash=E6CFD830B3DA394E899BD5DD773FEBCC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-15.jpg?as=1&w=494&rev=204e89039966421495de9267f97dea8f&hash=6D325C353A973AAAB8806178C75317F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-16.jpg?as=1&w=494&rev=0be1152544974813bc5dacc0cd63ffd6&hash=BBC7A9CD15C45CF132486B81A7A0AC78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-17.jpg?as=1&w=494&rev=33911d03c7b642a9aa0b36fefcd0196f&hash=8341215EB1895B6F4C48622689F53AB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-18.jpg?as=1&w=494&rev=00a9c6b09d0b4d1398f4573872fcc419&hash=2427643F059B61E6015F91A40F820881",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-19.jpg?as=1&w=494&rev=480ae8b7caaa444fb374f966f95ae11b&hash=1B4E764FAB667260138B8A54419A75FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-20.jpg?as=1&w=494&rev=fbd40169fe4943fda1a5f8ea8e620f35&hash=8F1F0C004C8328EFAE4176B254D4717B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-21.jpg?as=1&w=494&rev=b97f3fc6640146eea7f21d11c5f6428c&hash=16E652D43A5510E1FB47C39FACC36288",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-22.jpg?as=1&w=494&rev=619f1813555548cdbbc726f699755a0d&hash=8C8D8DD4F6E6D5169914FF43C44B6545",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-23.jpg?as=1&w=494&rev=fea95ed63ec24f93847584290d1198fe&hash=8854909EA5882263378FE9D17F247419",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-24.jpg?as=1&w=494&rev=dadc68e25a2e48b6b2673b2a0bed1f23&hash=7DAD4843CF5FCE326E0798E52B59A7A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-25.jpg?as=1&w=494&rev=452705340ae64d2fb7c7b33a0b1c59f4&hash=7C26EB3D4CE3D58475A379FBF1717EDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/freeport-5-26.jpg?as=1&w=494&rev=e8473392ae6f45c6ad6401ceb5742295&hash=FBEF2FA7F316E5A9B8C5EA95C6EBEDDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/untitled-1_0000_freeport.jpg?rev=9d249d8e5aca4c3ba26611c04ca57d45&hash=18914297D12170F2366EECDA194CC3EE",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "123 HALLS CREEK LANE",
+      "plan": "Freeport",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/halls-creek/qmis/123-halls-creek-lane",
+      "id": "123",
+      "address": "123 HALLS CREEK LANE",
+      "price": "$266,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1497",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26821-halls-creek/268210000-halls-creek/free/5022-123-halls-creek-lane/16_zv_-_dr_horton_al_montgomery_ht_freeport_b1_cs_g_hr.jpg?iar=1&sc=1&thn=1&w=425&rev=3ef5d0b5423b4e04ac8210232c12c661&hash=D2125D6EFAD11A2627F2B21E69D618AA",
+      "latitude": 31.17628,
+      "longitude": -85.41176,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Hidden Lake Primary School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Beverlye Intermediate School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Dothan Preparatory Academy",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Dothan High School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Carver 9th Grade Academy",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

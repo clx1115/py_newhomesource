@@ -1,0 +1,1015 @@
+{
+  "timestamp": "2025-06-02T22:16:34.666132",
+  "name": "Mirada",
+  "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada",
+  "status": null,
+  "price_from": "$339,990",
+  "address": "11105 Cotton Vale Place,San Antonio, FL 33576",
+  "phone": "(813) 501-6796",
+  "description": "Find a new home in San Antonio, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/fl_west-florida_drhorton_camden-b_mirada_no_coach.jpg"
+  ],
+  "location": {
+    "latitude": 28.31863,
+    "longitude": -82.27714,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$339,990 - $619,990",
+    "sqft_range": "From 1,560 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 4.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "15",
+      "description": "15-Acre Crystal Lagoon",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete Block Construction",
+      "description": "Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Connected City Community by",
+      "description": "Connected City Community by Metro Places",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Golf Cart Paths",
+      "description": "Golf Cart Paths",
+      "icon_url": null
+    },
+    {
+      "name": "MultiGen",
+      "description": "MultiGen",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "ULTRAFi",
+      "description": "ULTRAFi",
+      "icon_url": null
+    },
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/e302",
+      "details": {
+        "price": "From $341s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,560 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/fl_tampanorth_drhorton_allexii_c_stone.jpg?as=1&w=425&rev=440af5408eeb42698942012ae2fd7dcb&hash=514B4414AA8283D91D6719E312669CB2"
+      }
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/4eab",
+      "details": {
+        "price": "From $368s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4eab/fl_tampanorth_drhorton_ariac_stoneandsiding.jpg?as=1&w=425&rev=7e916407e4a14ac4b503e869fb6b3ee3&hash=A1289CA875595E593D2517582C9988DB"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/4ebb",
+      "details": {
+        "price": "From $386s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/fl_tampanorth_drhorton_cali_c_stoneandsiding.jpg?as=1&w=425&rev=072ebbd5d8c64fb99c930cd7418532e5&hash=464D2CBBEF78A07488F054358158EF89"
+      }
+    },
+    {
+      "name": "Darwin",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/e301",
+      "details": {
+        "price": "From $366s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,961 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e301/fl_tampanorth_darwin_g_stone.jpg?as=1&w=425&rev=35f13ed78df746a4b5cc60a5e72c0aa8&hash=6423F2B3D92363BFE7D124E9C811D79E"
+      }
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/2045",
+      "details": {
+        "price": "From $430s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2045/fl_tampanorth_drhorton_lantanab_shinglenocl.jpg?as=1&w=425&rev=fea87ceb6fbd43c9af487e15d8351f26&hash=0936DBFA3B727B7116B1ED0891BBA908"
+      }
+    },
+    {
+      "name": "Elston II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/e303",
+      "details": {
+        "price": "From $391s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,305 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/fl_tampanorth_drhorton_elstonii_g_stone.jpg?as=1&w=425&rev=e9b3d6e08c624becacd4ec4a4355e865&hash=9036FF55BF780C7ED21362CF7685C348"
+      }
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/e401",
+      "details": {
+        "price": "From $411s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,371 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/e401/fl_tampanorth_drhorton_ensleyg_stone.jpg?as=1&w=425&rev=2e95d1aa7ddd487cb4042576c3aa0fe5&hash=86EDE133A5FFFE9D8E80FB03FBAC5722"
+      }
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/2368",
+      "details": {
+        "price": "From $476s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,372 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2368/fl_tampanorth_drhorton_destinb_nocl.jpg?as=1&w=425&rev=c5260507c0f842f399e7b8fc092a22ab&hash=AE512040544C902F83D81F73BFF8EFAE"
+      }
+    },
+    {
+      "name": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/e304",
+      "details": {
+        "price": "From $406s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,453 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/fl_tampanorth_drhorton_robieii_g_stone.jpg?as=1&w=425&rev=436b0574204b4ab884dc82615f4e74e6&hash=DB4BB0EF7C19DACE1A891AC4BDB59391"
+      }
+    },
+    {
+      "name": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/2558",
+      "details": {
+        "price": "From $498s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2558/fl_tampanorth_drhorton_hawthorneb_nocl.jpg?as=1&w=425&rev=85086d82e2e34bd3b1876b87427ceb47&hash=0761487786E1477B46C219DCBF962E90"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/4ehb",
+      "details": {
+        "price": "From $431s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ehb/fl_tampanorth_drhorton_hayden_j_stone.jpg?as=1&w=425&rev=0153ff1af36240afb238340067c462d5&hash=28DE2FB78FC3DE4778AB5D5C709FA77D"
+      }
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/2767",
+      "details": {
+        "price": "From $462s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,756 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2767/fl_tampanorth_drhorton_coral_g_nocl.jpg?as=1&w=425&rev=82afba363582408f8c52507532e06f4c&hash=D5F2CCE678D529983A023651696F8B86"
+      }
+    },
+    {
+      "name": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/2795",
+      "details": {
+        "price": "From $523s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?as=1&w=425&rev=82abbbb454eb48d9bc1ac7dafd5170c8&hash=B9794170C327E5596C3469FCD6276FB3"
+      }
+    },
+    {
+      "name": "Hemingway",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/2924",
+      "details": {
+        "price": "From $475s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,934 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2924/fl_tampanorth_drhorton_hemingwayg_nocl.jpg?as=1&w=425&rev=da91d856b62b461f864e32556b7c422f&hash=4BF4CAAD88477A8C23091035E4707CE8"
+      }
+    },
+    {
+      "name": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/3278",
+      "details": {
+        "price": "From $551s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,278 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3278/fl_tampanorth_drhorton_jordynii_g_shinglenocl.jpg?as=1&w=425&rev=226f1e91206144dc89307513fb6000be&hash=8D6CC1064459F70C2B3CB14CEDCCB8C3"
+      }
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/3129",
+      "details": {
+        "price": "From $493s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,313 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/3129/fl_tampanorth_drhorton_holdeng_nocl.jpg?as=1&w=425&rev=95da81c6a65447cfad8acb7e693cd6db&hash=4ADBBF38F49E0414C016F19CDEF4813A"
+      }
+    },
+    {
+      "name": "Torino",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/floor-plans/3975",
+      "details": {
+        "price": "From $580s",
+        "beds": "5 bd",
+        "baths": "4.5 ba",
+        "half_baths": null,
+        "sqft": "3,975 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/fl_tampanorth_drhorton_torinoj_nocl.jpg?as=1&w=425&rev=37af8da6cbaa46a6b4804aae3afa7862&hash=031BF674522067AEDB6587A6AA85B679"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0137-33019-osprey-peak-way/fl_tampanorth_allexii_8-8_elevd.jpg?iar=1&sc=1&thn=1&w=425&rev=d55bab7fe0374ae69fccec6fe0c56609&hash=A46B7844B5F2FA35C344EAD8041E7195"
+      ],
+      "name": "33019 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33019-osprey-peak-way",
+      "id": "33019",
+      "address": "33019 Osprey Peak Way",
+      "price": "$357,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1560",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0137-33019-osprey-peak-way/fl_tampanorth_allexii_8-8_elevd.jpg?iar=1&sc=1&thn=1&w=425&rev=d55bab7fe0374ae69fccec6fe0c56609&hash=A46B7844B5F2FA35C344EAD8041E7195",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/fl_tampanorth_allexii_8-8_elevc.jpg?as=1&w=494&rev=7806f2e043b94c80bc0ea265f356bcec&hash=0689B09A93408EC6FABE65D152C0895F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/1_tpa_allexii_quartz_tile_0006_broad_river_ave-004.jpg?as=1&w=494&rev=463b5276d9b44fdc8935e9568eb36212&hash=F01D0711D2DB31A075E722CDAAD187F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/2_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=ba9f00724df3410bb1adfb1210b7a268&hash=CF5FD4743741BD2831D44A038745EDA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/3_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=865689b190df460bb6ae311bbf307c8a&hash=0D6B77A93B6CAE12FE0D59C699A0914E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/4_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=37da3bac5b2b4435b66f7a6efb29760a&hash=99FA2A42F8B81F59E825C07E22561BE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/5_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=3cc9bd3b343f431b9a5b8b7fa9d1e494&hash=5E771B70B3B60094ADC3E0A61B82312C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/6_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=e2eb33ce7b684132a4eea8b352cab3d9&hash=1C53D1B81EDCB401432D6E8E6C87F3CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/7_tpa_allexii_quartz_tile_dining.jpg?as=1&w=494&rev=92b2ee44a793465db28d6995883313c8&hash=EF23966F03DFD92510BE37739875577B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/8_tpa_allexii_quartz_tile_dining.jpg?as=1&w=494&rev=3e7f9d68410c47b6920e2ef923e3a344&hash=756DB78803472EE503A09652CB315756",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/9_tpa_allexii_quartz_tile_living.jpg?as=1&w=494&rev=07d3a7c0af724238afb04c9e1ec338f0&hash=F6A0F5A8E6C57B1DB46CBAEEEF825468",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/10_tpa_allexii_quartz_tile_living.jpg?as=1&w=494&rev=77137e467a66427abe7eb5c8e9f9278b&hash=124A9F065E463EAB9C20618C4C41A283",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/11_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=516638948bc642b3ab8ea6cc2a4dcee2&hash=86DE16325C88A4AF459C8A7CB3ED0394",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/12_tpa_allexii_quartz_tile_bath.jpg?as=1&w=494&rev=9d03d10d044c4b7181098417d820453e&hash=43CA53B99ED98227115F780E2DAA1162",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/13_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=d62b80aaff1e45ed92848589c08af909&hash=823999AB955AEBD5AF3E8229255D2F30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/14_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=dcdb86d593824dd789d7f026a1bab7b0&hash=13081868B195DEC8DF0BB6912C687797",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/15_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=373d8affe6984d53b39be831dc2e1c85&hash=6763644BB63C48E8673407D4CA066750",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/16_tpa_allexii_quartz_tile_bath.jpg?as=1&w=494&rev=795afbe9b9eb40a9b9709f70b5963260&hash=AA8DA83359BA2D799F77CBB763D97AB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/17_tpa_allexii_quartz_tile_bath.jpg?as=1&w=494&rev=4f9dc3142eee41a6aced5b8f06c79c4f&hash=3FE4350F7B24CEDF0197CA32478533E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/18_tpa_allexii_quartz_tile_closet.jpg?as=1&w=494&rev=2d7e0b84ffef484e8f0f4529e1b25df4&hash=CB6211683BE69A7E37262358198D1FA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/19_tpa_allexii_quartz_tile_wash_dry.jpg?as=1&w=494&rev=a830e26f26984a1191bf21ece08951c6&hash=0BA93D741893E6728E105969BF08E5CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/fl_tampanorth_dr-horton_allex-ii-blacklines.jpg?rev=9b95dc05cc784bf690317709d6442a82&hash=2F1764BBCEF22A4204AC6C94885620A3"
+      ],
+      "name": "33035 Osprey Peak Way",
+      "plan": "Allex II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33035-osprey-peak-way",
+      "id": "33035",
+      "address": "33035 Osprey Peak Way",
+      "price": "$365,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1560",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0139-33035-osprey-peak-way/fl_tampanorth_allexii_8-8_elevc.jpg?iar=1&sc=1&thn=1&w=425&rev=7806f2e043b94c80bc0ea265f356bcec&hash=FDA73507198AE1178BE37F87753A9BC0",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0174-33050-osprey-peak-way/fl_tampanorth_allexii_8-8_elevd.jpg?iar=1&sc=1&thn=1&w=425&rev=ed040d0e9b544512aea4901793cdc785&hash=BBBE4D192B980335B9E9DA5AE95B1B25"
+      ],
+      "name": "33050 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33050-osprey-peak-way",
+      "id": "33050",
+      "address": "33050 Osprey Peak Way",
+      "price": "$347,290",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1560",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0174-33050-osprey-peak-way/fl_tampanorth_allexii_8-8_elevd.jpg?iar=1&sc=1&thn=1&w=425&rev=ed040d0e9b544512aea4901793cdc785&hash=BBBE4D192B980335B9E9DA5AE95B1B25",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0169-33088-osprey-peak-way/fl_tampanorth_drhorton_allexii_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1fa38da42fe24536bacd7eccd462f0b4&hash=4C48D097BA16E92A4011129FAE651B0D"
+      ],
+      "name": "33088 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33088-osprey-peak-way",
+      "id": "33088",
+      "address": "33088 Osprey Peak Way",
+      "price": "$344,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1560",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0169-33088-osprey-peak-way/fl_tampanorth_drhorton_allexii_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1fa38da42fe24536bacd7eccd462f0b4&hash=4C48D097BA16E92A4011129FAE651B0D",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0168-33096-osprey-peak-way/fl_tampanorth_drhorton_allexii_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6c2a4595a04940889cbdc2381b5b20b3&hash=E2EEC684610809FA6AB1F42307F13676"
+      ],
+      "name": "33096 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33096-osprey-peak-way",
+      "id": "33096",
+      "address": "33096 Osprey Peak Way",
+      "price": "$339,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1560",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0168-33096-osprey-peak-way/fl_tampanorth_drhorton_allexii_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=6c2a4595a04940889cbdc2381b5b20b3&hash=E2EEC684610809FA6AB1F42307F13676",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/fl_tampanorth_drhorton_allexii_c_stone.jpg?as=1&w=494&rev=dc79d35bc8464b79a32f0ac9edba6599&hash=320C4804F36AE5FDE6C88A93AADA87CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/1_tpa_allexii_quartz_tile_0006_broad_river_ave-004.jpg?as=1&w=494&rev=c89f5d874f9643c79ee9fee86edfb95f&hash=BD675D0E5FF55BEB7022EBD0E3EF437E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/2_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=5d0fba4fc3514cc8bedbdd4f08b87eb0&hash=481FF3C307890741DCC47D394B236C6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/3_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=3742ab791f75461cbc15d26e3f3aa8be&hash=826038BD761A39B48F9B6632B22BB11A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/4_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=527ef224ea6749f7940ec2b145b0e6bf&hash=F5E26986B2385381768B013C5E3C1E57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/5_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=0a95aeb829104fb8aad337353316db5d&hash=B9A6B96D1D0A4E96CE5EFE2514563E10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/6_tpa_allexii_quartz_tile_kitchen.jpg?as=1&w=494&rev=cc89e23ca7c64f7ab091dfdf37f64abc&hash=5EC930D2DF24E704D7436368097BB89B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/7_tpa_allexii_quartz_tile_dining.jpg?as=1&w=494&rev=e8c3d33efb3e4cdc97d996700091dbda&hash=65F7427127917222D0CA86A18BAAC318",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/8_tpa_allexii_quartz_tile_dining.jpg?as=1&w=494&rev=0bef449f49e04c5589134ac2a0eac835&hash=6D4704F4A360ED44FFB3ADC9A6F71CFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/9_tpa_allexii_quartz_tile_living.jpg?as=1&w=494&rev=5b08db2a12e64d02b1299a320d9cf3df&hash=A0945EC2217EFBB39CAECF2E724BA74F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/10_tpa_allexii_quartz_tile_living.jpg?as=1&w=494&rev=8d7a73d0c14c438c8b9c6d05d3fbe550&hash=6D5D2DB6E07AB57DE9DA4C7C9A049FE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/11_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=87547c1b87f94b8e9d779a51217fb303&hash=BEDEDC4D21731A05FB6CB8CDCF183861",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/12_tpa_allexii_quartz_tile_bath.jpg?as=1&w=494&rev=52fb952a82a8431da4b123128b40f689&hash=5432D3598F56F8A1AA319C764FA9D921",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/13_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=b9d60f134405436ba797e33d3e92eb7d&hash=19D34AD2B8E581FB196C407B2472804B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/14_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=82a12b94163647df87ee3e5e0c5bfc3d&hash=B9991AEC0DB285681E209A44CD4599E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/15_tpa_allexii_quartz_tile_bed.jpg?as=1&w=494&rev=51bb8e722df14f21a7d960ade972f411&hash=59322CBEEEA79A8062790C74B3FCB6FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/16_tpa_allexii_quartz_tile_bath.jpg?as=1&w=494&rev=7c5d6082300e453daf0f325c4ddace93&hash=783E28C43D60E4B45D99362E7182410F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/17_tpa_allexii_quartz_tile_bath.jpg?as=1&w=494&rev=b7fd8e291be74768af3dde8ff381ee2f&hash=980AE80EDD6E4D105681124B25A45DA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/18_tpa_allexii_quartz_tile_closet.jpg?as=1&w=494&rev=67f609e9a19d4291b2b637bf48e81286&hash=20363D9C4EEC8A856E70711018A40C75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/19_tpa_allexii_quartz_tile_wash_dry.jpg?as=1&w=494&rev=578f5271300b40a38e37cc3fbc24d8cf&hash=EA25C93BF4F7AFA69C9C537652AAD90E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/fl_tampanorth_dr-horton_allex-ii-blacklines.jpg?rev=9b95dc05cc784bf690317709d6442a82&hash=2F1764BBCEF22A4204AC6C94885620A3"
+      ],
+      "name": "33126 Osprey Peak Way",
+      "plan": "Allex II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33126-osprey-peak-way",
+      "id": "33126",
+      "address": "33126 Osprey Peak Way",
+      "price": "$339,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1560",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e302/0164-33126-osprey-peak-way/fl_tampanorth_drhorton_allexii_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=dc79d35bc8464b79a32f0ac9edba6599&hash=7E9B8A08E1B76DE12E3004028330E15E",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4eab/0094-32661-osprey-peak-way/aria_d_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=d3ed40d861fa488ab6d11b7c2c123633&hash=74C41014EB938200E048FA95ADA327D2"
+      ],
+      "name": "32661 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32661-osprey-peak-way",
+      "id": "32661",
+      "address": "32661 Osprey Peak Way",
+      "price": "$384,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4eab/0094-32661-osprey-peak-way/aria_d_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=d3ed40d861fa488ab6d11b7c2c123633&hash=74C41014EB938200E048FA95ADA327D2",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4eab/0127-32662-osprey-peak-way/fl_tampanorth_drhorton_ariac_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ff6b6a0157d946b8bc0b37517a5e5b38&hash=617D8D5B3F11308F7D9FE7E4D7C754F1"
+      ],
+      "name": "32662 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32662-osprey-peak-way",
+      "id": "32662",
+      "address": "32662 Osprey Peak Way",
+      "price": "$359,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4eab/0127-32662-osprey-peak-way/fl_tampanorth_drhorton_ariac_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ff6b6a0157d946b8bc0b37517a5e5b38&hash=617D8D5B3F11308F7D9FE7E4D7C754F1",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/0092-32643-osprey-peak-way/fl_tampanorth_drhorton_cali_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1e62c23e072f4aa2ba77837a17b73ebc&hash=BE6B85D8E3097A86AB7B21E722619696"
+      ],
+      "name": "32643 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32643-osprey-peak-way",
+      "id": "32643",
+      "address": "32643 Osprey Peak Way",
+      "price": "$393,240",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/0092-32643-osprey-peak-way/fl_tampanorth_drhorton_cali_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1e62c23e072f4aa2ba77837a17b73ebc&hash=BE6B85D8E3097A86AB7B21E722619696",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/0128-32650-osprey-peak-way/fl_tampanorth_drhorton_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=d6b6a67c99da4ac1a779fe3a90c8b2b4&hash=5FD1F12569A4E9E6044BA01FFE714B10"
+      ],
+      "name": "32650 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32650-osprey-peak-way",
+      "id": "32650",
+      "address": "32650 Osprey Peak Way",
+      "price": "$390,965",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/0128-32650-osprey-peak-way/fl_tampanorth_drhorton_cali_d_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=d6b6a67c99da4ac1a779fe3a90c8b2b4&hash=5FD1F12569A4E9E6044BA01FFE714B10",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/0124-32692-osprey-peak-way/fl_tampanorth_drhorton_cali_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ceb9d14b47294ad799fd7982967c9ae4&hash=D4251208536CD9CC85320CC0C8E3D678"
+      ],
+      "name": "32692 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32692-osprey-peak-way",
+      "id": "32692",
+      "address": "32692 Osprey Peak Way",
+      "price": "$389,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/4ebb/0124-32692-osprey-peak-way/fl_tampanorth_drhorton_cali_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=ceb9d14b47294ad799fd7982967c9ae4&hash=D4251208536CD9CC85320CC0C8E3D678",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e301/0173-33058-osprey-peak-way/fl_tampanorth_drhorton_darwing_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=84f0192cc5be4755a74e5eca9ac65cfc&hash=A9DFF7AAE41A6605ADEF40C43CEA4CE2"
+      ],
+      "name": "33058 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33058-osprey-peak-way",
+      "id": "33058",
+      "address": "33058 Osprey Peak Way",
+      "price": "$370,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1961",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e301/0173-33058-osprey-peak-way/fl_tampanorth_drhorton_darwing_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=84f0192cc5be4755a74e5eca9ac65cfc&hash=A9DFF7AAE41A6605ADEF40C43CEA4CE2",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e301/0170-33080-osprey-peak-way/fl_tampanorth_darwin_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3fec80ac4d6e4e49a2ae4c3679ff2bc5&hash=5919BBF55D5CA983E1C0129D8214E4A9"
+      ],
+      "name": "33080 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33080-osprey-peak-way",
+      "id": "33080",
+      "address": "33080 Osprey Peak Way",
+      "price": "$370,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1961",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e301/0170-33080-osprey-peak-way/fl_tampanorth_darwin_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3fec80ac4d6e4e49a2ae4c3679ff2bc5&hash=5919BBF55D5CA983E1C0129D8214E4A9",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2045/0148-32434-osprey-peak-way/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=beb859563d4c4a6eb3e77320e4523012&hash=98014E2426AE3EFD0C49F1267EA41854"
+      ],
+      "name": "32434 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32434-osprey-peak-way",
+      "id": "32434",
+      "address": "32434 Osprey Peak Way",
+      "price": "$469,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2045",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2045/0148-32434-osprey-peak-way/fl_tampanorth_drhorton_lantanaf_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=beb859563d4c4a6eb3e77320e4523012&hash=98014E2426AE3EFD0C49F1267EA41854",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0175-33042-osprey-peak-way/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=b58bacb67b7e4949ae141a15505cc2f0&hash=8D224EB462C3B7E3B0FD1542EF24F730"
+      ],
+      "name": "33042 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33042-osprey-peak-way",
+      "id": "33042",
+      "address": "33042 Osprey Peak Way",
+      "price": "$395,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2305",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0175-33042-osprey-peak-way/fl_tampanorth_drhortonelstoniig.jpg?iar=1&sc=1&thn=1&w=425&rev=b58bacb67b7e4949ae141a15505cc2f0&hash=8D224EB462C3B7E3B0FD1542EF24F730",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0171-33072-osprey-peak-way/fl_tampanorth_drhorton_elstonii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=df68fa5d95ef4ef394aaa1905ea83656&hash=589F04242626E3B181714964CB30E629"
+      ],
+      "name": "33072 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33072-osprey-peak-way",
+      "id": "33072",
+      "address": "33072 Osprey Peak Way",
+      "price": "$395,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2305",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0171-33072-osprey-peak-way/fl_tampanorth_drhorton_elstonii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=df68fa5d95ef4ef394aaa1905ea83656&hash=589F04242626E3B181714964CB30E629",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0167-33104-osprey-peak-way/fl_tampanorth_drhorton_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=dec578ab26ad49aaba286e3499effe70&hash=377D9BAA7CAA7821FEEA9238AC347F06"
+      ],
+      "name": "33104 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33104-osprey-peak-way",
+      "id": "33104",
+      "address": "33104 Osprey Peak Way",
+      "price": "$389,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2305",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0167-33104-osprey-peak-way/fl_tampanorth_drhorton_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=dec578ab26ad49aaba286e3499effe70&hash=377D9BAA7CAA7821FEEA9238AC347F06",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0165-33118-osprey-peak-way/fl_tampanorth_drhorton_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1fcf56cb07af462fadaa47cad46ea170&hash=E965D83DD4AA4908B05F99244D6CA445"
+      ],
+      "name": "33118 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33118-osprey-peak-way",
+      "id": "33118",
+      "address": "33118 Osprey Peak Way",
+      "price": "$394,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2305",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e303/0165-33118-osprey-peak-way/fl_tampanorth_drhorton_elstonii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=1fcf56cb07af462fadaa47cad46ea170&hash=E965D83DD4AA4908B05F99244D6CA445",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/e401/0129-32638-osprey-peak-way/ensley_g_angeline_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=82a17f3297f740d99a68aba652b808cd&hash=6518E6097EE38FEC69780089555CFF42"
+      ],
+      "name": "32638 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32638-osprey-peak-way",
+      "id": "32638",
+      "address": "32638 Osprey Peak Way",
+      "price": "$413,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2371",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393600000-mirada---50s-exp/e401/0129-32638-osprey-peak-way/ensley_g_angeline_stone_garage_hardware.jpg?iar=1&sc=1&thn=1&w=425&rev=82a17f3297f740d99a68aba652b808cd&hash=6518E6097EE38FEC69780089555CFF42",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2368/0111-10621-bridgegate-heights-loop/fl_tampanorth_drhorton_destind_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=2d1c611743eb4f56abc3dbaafb3f44df&hash=39BAFB0BB54B7183921E8EE7BF58A3FF"
+      ],
+      "name": "10621 Bridgegate Heights Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10621-bridgegate-heights-loop",
+      "id": "10621",
+      "address": "10621 Bridgegate Heights Loop",
+      "price": "$484,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2372",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2368/0111-10621-bridgegate-heights-loop/fl_tampanorth_drhorton_destind_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=2d1c611743eb4f56abc3dbaafb3f44df&hash=39BAFB0BB54B7183921E8EE7BF58A3FF",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2368/0107-10657-bridgegate-heights-loop/fl_tampanorth_drhorton_destind_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a586757166d7420aaac568c7e2dc8798&hash=10890028C379D011CC6E5263311760AE"
+      ],
+      "name": "10657 Bridgegate Heights Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10657-bridgegate-heights-loop",
+      "id": "10657",
+      "address": "10657 Bridgegate Heights Loop",
+      "price": "$499,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2372",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2368/0107-10657-bridgegate-heights-loop/fl_tampanorth_drhorton_destind_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a586757166d7420aaac568c7e2dc8798&hash=10890028C379D011CC6E5263311760AE",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0172-33066-osprey-peak-way/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3223a07148174398ab4c590268b7507d&hash=9F6513E7E43408763DFC9597EB775D81"
+      ],
+      "name": "33066 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33066-osprey-peak-way",
+      "id": "33066",
+      "address": "33066 Osprey Peak Way",
+      "price": "$409,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0172-33066-osprey-peak-way/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=3223a07148174398ab4c590268b7507d&hash=9F6513E7E43408763DFC9597EB775D81",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/fl_tampanorth_drhorton_robieii_g_stone.jpg?as=1&w=494&rev=966c996459784da2aa45ac5624755ade&hash=1356FDF29353500790E08BF3532CE78F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/1fl_tampanorth_drhorton_robie_foyer.jpg?as=1&w=494&rev=ca6bdf7f0a83456f96caf6e4afee11db&hash=8104C77D4705C5F68434A19E966981F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/2fl_tampanorth_drhorton_robie_kitchenanddining.jpg?as=1&w=494&rev=e4c4089fcc5542b9b2d41f27f03dd99b&hash=1CBF37EBA6EF5C84DB751457C1AF00BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/3fl_tampanorth_drhorton_robie_kitchen.jpg?as=1&w=494&rev=229d0f3f453446eba9cb3ef8811e9321&hash=6A432EF881F1E40E9115F7FC73F2257A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/4fl_tampanorth_drhorton_robie_living.jpg?as=1&w=494&rev=3a1eb6cb172046b6a123d73062c23e6e&hash=7C99C0F75EC7C6B9521396DF8166207C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/5fl_tampanorth_drhorton_robie_living2.jpg?as=1&w=494&rev=7addb04e14954c1892ceb11cc9e4c39e&hash=0E06B25665BE3FE9C1494B7C002690C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/6fl_tampanorth_drhort6on_robie_dining.jpg?as=1&w=494&rev=3e48183dc3614cb183405f0329624201&hash=CAF7A7CC3DF321B97B8AAD70F5F78728",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/7fl_tampanorth_drhorton_robie_downstairsbedroom.jpg?as=1&w=494&rev=a92a597bafd64d52b8d6876262e8f286&hash=EE735828BFF14BC1332B0725E9F02715",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/8fl_tampanorth_drhorton_robie_downstairsbath.jpg?as=1&w=494&rev=7d99feaf9f3240da931d81b7dfef796c&hash=634604F04A69765B584D37149E24B4C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/9fl_tampanorth_drhorton_robie_loft.jpg?as=1&w=494&rev=a37ab275cf4a46ccafa01ae55b827b41&hash=C81A45701EBF1BF389A8330D03B97437",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/10fl_tampanorth_drhorton_robie_bedroom1.jpg?as=1&w=494&rev=6dcc198c47514228bb9190afb0098c45&hash=884A6E3FE29B77C9149D7FBCCADF25A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/11fl_tampanorth_drhorton_robie_bath1.jpg?as=1&w=494&rev=f09d8616a47a47b2b17fc59632cb1de6&hash=DF604C17F0FCF42551C098A5E831C5B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/12fl_tampanorth_drhorton_robie_bedroom3.jpg?as=1&w=494&rev=b4cccd5570154416a883b43d8e4be537&hash=8046B37D1FF1903ADB166FA47BBD204E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/13fl_tampanorth_drhorton_robie_bedroom4.jpg?as=1&w=494&rev=f67e041c98214c90837cb374bdb7c8ab&hash=5828E7964694AE30F34CB52A043AE428",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/14fl_tampanorth_drhorton_robie_bath3.jpg?as=1&w=494&rev=8f3a9f2dfcd4440fb3d0372755730473&hash=2E506FEADA1BEDDC3BFE0DA00ACE52F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/15fl_tampanorth_drhorton_robie_bedroom5.jpg?as=1&w=494&rev=47ea7ca789a94f26af44f848dc244982&hash=C9D2A6FC4913B2EC19CE877AC28D3209"
+      ],
+      "name": "33110 Osprey Peak Way",
+      "plan": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/33110-osprey-peak-way",
+      "id": "33110",
+      "address": "33110 Osprey Peak Way",
+      "price": "$399,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393140000-mirada---40s-express/e304/0166-33110-osprey-peak-way/fl_tampanorth_drhorton_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=966c996459784da2aa45ac5624755ade&hash=A3EAB9163CC8CC7FE49CF08533B52779",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2558/0159-10652-bridgegate-heights-loop/fl_tampanorth_drhorton_hawthorned_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=c45b9b838d40413f9db09f70e9759659&hash=EDF0E7B93730E4680EDCF4D2F4521DE6"
+      ],
+      "name": "10652 Bridgegate Heights Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10652-bridgegate-heights-loop",
+      "id": "10652",
+      "address": "10652 Bridgegate Heights Loop",
+      "price": "$509,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2558/0159-10652-bridgegate-heights-loop/fl_tampanorth_drhorton_hawthorned_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=c45b9b838d40413f9db09f70e9759659&hash=EDF0E7B93730E4680EDCF4D2F4521DE6",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2767/0149-32430-osprey-peak-way/fl_tampanorth_drhorton_coral_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fb7c0730864d41be8b476584bf91227b&hash=63118E85D2BD64345E6E30CFF2B29C02"
+      ],
+      "name": "32430 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32430-osprey-peak-way",
+      "id": "32430",
+      "address": "32430 Osprey Peak Way",
+      "price": "$503,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2767/0149-32430-osprey-peak-way/fl_tampanorth_drhorton_coral_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fb7c0730864d41be8b476584bf91227b&hash=63118E85D2BD64345E6E30CFF2B29C02",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2767/0157-32527-osprey-peak-way/fl_tampanorth_drhorton_coral_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b12de5c4f194457cb5f2a49c02c00073&hash=820C62C949E65B5CBC9D63321548D172"
+      ],
+      "name": "32527 Osprey Peak Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/32527-osprey-peak-way",
+      "id": "32527",
+      "address": "32527 Osprey Peak Way",
+      "price": "$454,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393150000-mirada---50s-drh/2767/0157-32527-osprey-peak-way/fl_tampanorth_drhorton_coral_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b12de5c4f194457cb5f2a49c02c00073&hash=820C62C949E65B5CBC9D63321548D172",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?as=1&w=494&rev=cc5a1fdd7fa54e5a9e02e68d7a54ba5e&hash=6608ED2AF344DBECF3F3C2B5482EF82E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?as=1&w=494&rev=dea247a5d49f43d0bd14d2cc6203d8d2&hash=DDBD6BA9312FD1D7D6D1373F2BD317D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?as=1&w=494&rev=d1410f5ffa264db3bbb7e51945f57c41&hash=9C312DA1BC83BE17BB21989317C6FF5F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/01-_camden_quartz_foyer.jpg?as=1&w=494&rev=edff9434d40c4feea8eb98719f3bdcf9&hash=07D27F1EEE5AD9A48D5F99CA4505CC9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/02-_camden_quartz_guest_1.jpg?as=1&w=494&rev=11eb7b294091425989d6af1f91b4b205&hash=A8CF45F9FFBDEC19D7F3DF16EC76D5C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/03-_camden_quartz_guest_2.jpg?as=1&w=494&rev=ef40c191f74540c697e27d5caa792597&hash=0B0EF6725F71FF5847CCAF3AC1466331",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/04-_camden_quartz_bed_1.jpg?as=1&w=494&rev=a6bfd6c320b248749d66c5880b4b85ed&hash=257C90178B374BAB90A3176844A6228B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/05-_camden_quartz_bath_1.jpg?as=1&w=494&rev=ee243e3c050a4fa0880692d8c2cd085e&hash=A55D74CBE0DF69E5922F66BD6A866C50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/06-_camden_quartz_bed_2.jpg?as=1&w=494&rev=012341e887d04230953b5c64cd1afbf4&hash=B0C83046E0743891151A914F8CF28260",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/07-_camden_quartz_bath_2.jpg?as=1&w=494&rev=79b5ff9e18e54f5a8ff433af10bd0f4b&hash=E37ED51DA17744C221446657922D1EC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/08-_camden_quartz_bed_3.jpg?as=1&w=494&rev=24b17f4c4b4f459e9bfd88282a1e4e6a&hash=B46E0A4F26AF0DB80AC01BA381F88AFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/09-_camden_quartz_bath_3.jpg?as=1&w=494&rev=dca9ed76ee2c48ada9c775892afe1566&hash=0222390D2AC4A3D79F34BB358E04B0DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/10-_camden_quartz_living-dine.jpg?as=1&w=494&rev=0c7c9f68b9854716a74a326bfd14297f&hash=AD43019E612633BFC393BBEECD930DD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/11-_camden_quartz_living.jpg?as=1&w=494&rev=c560bd18cc5f4f13986ae740e0d075bc&hash=21D458819EA612ADE1F9AC370B89519B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/12-_camden_quartz_dine.jpg?as=1&w=494&rev=25603d45503a493885b34ef7a589a4a2&hash=772B62C80DDDC178FFA4822346606CD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/13-_camden_quartz_kitchen_1.jpg?as=1&w=494&rev=3dd7fe11ab94499a99ba67c89afd25b3&hash=FEDC5A8E085D516F6ACE0533EDD958F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/14-_camden_quartz_kitchen_2.jpg?as=1&w=494&rev=0c9bff51675f4dceae4bde71c4a50ee8&hash=AF9505A37BC3892CC83F47DC92E6D5DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/15-_camden_quartz_kitchen_3.jpg?as=1&w=494&rev=ca681f59591d4d9f95bcc626109bb867&hash=72CE1C6950A2B1F520671959D3837564",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/16-_camden_quartz_kitchen_4.jpg?as=1&w=494&rev=fbf9f14d9b024c488c7d780472380224&hash=05FA5F79486A5E589B3C5A7BD8499A33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/17-_camden_quartz_kitchen_table.jpg?as=1&w=494&rev=c3e4361b67e44fd6a971bef23c9ae466&hash=D4B1A8B4FD18FF7AE985A61AD2A2ADE5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/18-_camden_quartz_master_1.jpg?as=1&w=494&rev=6e9d57b4144b43b3b3a24490322c71d3&hash=14E19CA849B7F40AFE24E8A8BB1CF877",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/19-_camden_quartz_master_2.jpg?as=1&w=494&rev=ac10d3bd562e4036a24d010b6626f257&hash=92478AF15D808DA289F3E419FAFA9D6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/20-_camden_quartz_master_bath_1.jpg?as=1&w=494&rev=6a7fcb036cf04a37ab82e5fc044f5c1c&hash=2E26BCB826305C286F779254C0511B45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/21-_camden_quartz_master_bath_2.jpg?as=1&w=494&rev=d2ad27fc978a485896449628ffb59cf3&hash=EF1131CA337BF7684C95AC27A82F9750",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/22-_camden_quartz_laundry.jpg?as=1&w=494&rev=0ee64593e0f44f239b2458b6080ae86a&hash=6B6FDA634714DE02EBC26B2CCDC9F8B4"
+      ],
+      "name": "10609 Bridgegate Heights Loop",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10609-bridgegate-heights-loop",
+      "id": "10609",
+      "address": "10609 Bridgegate Heights Loop",
+      "price": "$564,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2794",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0112-10609-bridgegate-heights-loop/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=cc5a1fdd7fa54e5a9e02e68d7a54ba5e&hash=5749CE15EB7C26F70310FD3CE7107432",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0108-10645-bridgegate-heights-loop/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=940be79a3092491b8bf5552180090a43&hash=645D4D70D8846234103321E26EC0F9ED"
+      ],
+      "name": "10645 Bridgegate Heights Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10645-bridgegate-heights-loop",
+      "id": "10645",
+      "address": "10645 Bridgegate Heights Loop",
+      "price": "$574,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2794",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/2795/0108-10645-bridgegate-heights-loop/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=940be79a3092491b8bf5552180090a43&hash=645D4D70D8846234103321E26EC0F9ED",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3278/0158-10668-bridgegate-heights-loop/fl_tampanorth_drhorton_jordynii_g_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=27ba37dd63344f02a51d3761881bbd5d&hash=54612FADDA5278DED14D436466A4A551"
+      ],
+      "name": "10668 Bridgegate Heights Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10668-bridgegate-heights-loop",
+      "id": "10668",
+      "address": "10668 Bridgegate Heights Loop",
+      "price": "$566,515",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3278/0158-10668-bridgegate-heights-loop/fl_tampanorth_drhorton_jordynii_g_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=27ba37dd63344f02a51d3761881bbd5d&hash=54612FADDA5278DED14D436466A4A551",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/fl_tampanorth_drhorton_torinoh_nocl.jpg?as=1&w=494&rev=b25676c121614e7594e1495bdf7c9e66&hash=4E6D75CFDB5945001C4B8C3D43CB4F33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/1-fl_tampanorth_drhorton_torino_flexroom.jpg?as=1&w=494&rev=14b381c12181434784afd078c10622af&hash=0127DE22F3729B2E54401530A695A369",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/2-fl_tampanorth_drhorton_torino_formaldining.jpg?as=1&w=494&rev=6a15103f49b94c76831b0a0f53b441bc&hash=7B6FCE0D6F1FE7BCE922A8FC36A81820",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/6-fl_tampanorth_drhorton_torino_diningkitchen.jpg?as=1&w=494&rev=0121d23575d347fb89c15dbc36f2c635&hash=CB380CD70FB79298BF7CF5889C5B0EF3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/7-fl_tampanorth_drhorton_torino_livingdiningkitchen.jpg?as=1&w=494&rev=5300f22cb04d4ade83c807ae9add6703&hash=235C518E334F200298020D45FA6C532B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/8-fl_tampanorth_drhorton_torino_livingroom.jpg?as=1&w=494&rev=866452ea8be84ea393ba5ba27952e18a&hash=AAB31770D554285868E420F15E500260",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/15-fl_tampanorth_drhorton_torino_bedroom1.jpg?as=1&w=494&rev=6afc4da8b67941f7851b6f41b688b67d&hash=4C01B8C627945D34A744DAC56B35EC32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/3-fl_tampanorth_drhorton_torino_halfbath.jpg?as=1&w=494&rev=a394e2a8fac04f639b30aa24ee9eb7d0&hash=24723B6699A4D761FF4B6014569F8C7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/4-fl_tampanorth_drhorton_torino_bath2.jpg?as=1&w=494&rev=c402cbf41f9c4bdabb63fe961da8aa77&hash=9721C468CA1F6DBCA55736CFA3228A48",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/5-fl_tampanorth_drhorton_torino_bedroom2.jpg?as=1&w=494&rev=4a8b64a58edc4e7ba1c9a9d08008f60a&hash=D230BA7BB789C653013603E8E22C99A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/10-fl_tampanorth_drhorton_torino_bedroom3.jpg?as=1&w=494&rev=2a461d399f104ca7b422b4dd805955d8&hash=FF8D2FB9B18CF5C638456BE62358D95C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/11-fl_tampanorth_drhorton_torino_bedroom4.jpg?as=1&w=494&rev=1c0b36a40ab34786982b397a9c5f55c4&hash=61734FB463DCC5A85BB2EB74DF69AFC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/12-fl_tampanorth_drhorton_torino_bath3.jpg?as=1&w=494&rev=78d368a2e67b4560a9c28109294a394a&hash=D6C6853059244A8DA1E84AE565B192DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/13-fl_tampanorth_drhorton_torino_bedroom5.jpg?as=1&w=494&rev=e67f7b75342445e39887d717cdbe37ef&hash=F002BCD51E6AF130B64A8394336980E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/14-fl_tampanorth_drhorton_torino_bath4.jpg?as=1&w=494&rev=2d85abe73efc4fd396f5bcda104174ce&hash=195306CFFE979E1D39235EE3B88B12EB"
+      ],
+      "name": "10669 Bridgegate Heights Loop",
+      "plan": "Torino",
+      "url": "https://www.drhorton.com/florida/tampa/san-antonio/mirada/qmis/10669-bridgegate-heights-loop",
+      "id": "10669",
+      "address": "10669 Bridgegate Heights Loop",
+      "price": "$619,990",
+      "beds": "5",
+      "baths": "4.5",
+      "sqft": "3975",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39279-mirada/393160000-mirada---60s-drh/3975/0106-10669-bridgegate-heights-loop/fl_tampanorth_drhorton_torinoh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b25676c121614e7594e1495bdf7c9e66&hash=72C72BBC853EB2CE17C250E0520CEEC5",
+      "latitude": 28.31863,
+      "longitude": -82.27714,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "San Antonio Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Innovation Prep",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pasco Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pasco High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Kirkland Ranch Academy of Innovation",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

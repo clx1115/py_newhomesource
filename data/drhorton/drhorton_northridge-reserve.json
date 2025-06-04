@@ -1,0 +1,162 @@
+{
+  "timestamp": "2025-06-03T19:26:20.390918",
+  "name": "Northridge Reserve",
+  "url": "https://www.drhorton.com/florida/seminole-county/longwood/northridge-reserve",
+  "status": null,
+  "price_from": "$0",
+  "address": "1486 Northridge Drive,Longwood, FL 32750",
+  "phone": "(877) 415-0030",
+  "description": "Find a new home in Longwood, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Seminole County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38119-northridge-reserve/381190000-northridge-reserve/madison_ele_l_with_stone_cs4.jpg"
+  ],
+  "location": {
+    "latitude": 28.7195,
+    "longitude": -81.37524,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": "From 2,020 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Quartz Countertops",
+      "description": "Quartz Countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Plank Flooring",
+      "description": "Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Abundance Local Outdoor Recreation",
+      "description": "Abundance of Local Outdoor Recreation",
+      "icon_url": null
+    },
+    {
+      "name": "Close Shopping & Dining",
+      "description": "Close to Shopping & Dining",
+      "icon_url": null
+    },
+    {
+      "name": "Easy Access Highways",
+      "description": "Easy Access to Highways",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/seminole-county/longwood/northridge-reserve/floor-plans/e502",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38119-northridge-reserve/381190000-northridge-reserve/e502/covington_ele_g_3car_cs10.jpg?as=1&w=425&rev=ed4bbba4bf594b5f8f946a7156a90486&hash=85DC35DE2CDEEEBC298FE1BFC2FA5DFC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38119-northridge-reserve/381190000-northridge-reserve/e502/covington_ghl-3_unbranded.jpg?rev=02e7032c2a3145d886e62211d286022c&hash=868FC94275E8755804E51899BBB01887"
+        }
+      ]
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/seminole-county/longwood/northridge-reserve/floor-plans/e501",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38119-northridge-reserve/381190000-northridge-reserve/e501/denham_ele_l_3car_cs10.jpg?as=1&w=425&rev=a7139e0dd35b42b09f851d134f6c8ce3&hash=C974F0FEB7110DCE96EEC52364B14200"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/seminole-county/longwood/northridge-reserve/floor-plans/4ehb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38119-northridge-reserve/381190000-northridge-reserve/4ehb/hayden_h_hires.jpg?as=1&w=425&rev=8291b5168f784102af66e9826431183c&hash=A2EA4579454630F6D6F7F0DF20CC4B7B"
+      }
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/seminole-county/longwood/northridge-reserve/floor-plans/5emb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/38119-northridge-reserve/381190000-northridge-reserve/5emb/madison_ele_l_cs11.jpg?as=1&w=425&rev=7ed7480345be476aacc967437ecbd8dc&hash=C85F82502EC45C4A4B05D051C1035F7F"
+      }
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Woodlands Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rock Lake Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Lake Mary High",
+          "type_and_grades": "8-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

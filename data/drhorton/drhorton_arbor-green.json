@@ -1,0 +1,178 @@
+{
+  "timestamp": "2025-05-30T20:06:14.882334",
+  "name": "Arbor Greens",
+  "url": "https://www.drhorton.com/florida/west-central-florida/newberry/arbor-green",
+  "status": null,
+  "price_from": "$400,900",
+  "address": "1560 NW 136th Blvd,Newberry, FL 32669",
+  "phone": "(352) 660-1134",
+  "description": "Find a new home in Newberry, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34756-arbor-green/347560000-arbor-green/fl_west-florida_dr-horton_newberry_arbor-greens-monument.jpg"
+  ],
+  "location": {
+    "latitude": 29.66638,
+    "longitude": -82.48375,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$400,900",
+    "sqft_range": "From 1,787 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Walking Trails",
+      "description": "Walking Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Basic Lawn Maintenance Front",
+      "description": "Basic Lawn Maintenance on the Front of the Home",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Laurel",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/arbor-green/floor-plans/1844",
+      "details": {
+        "price": "From $401s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34756-arbor-green/347560000-arbor-green/1844/laurel-ks-gen3-elev_ind.jpg?as=1&w=425&rev=5f3aa37cf5b749e2a279ef0bd5c62e3f&hash=12D67864EF7FC4BC02356E9456DA9803"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34756-arbor-green/347560000-arbor-green/1844/fl_west_florida_dr_horton_laurel_js_ks_floor_plan.jpg?rev=8293f8f4b062494aa25b5d3fc95dc627&hash=50643AFAF6C23901CB0B786D3735F3DC"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/arbor-green/floor-plans/2045",
+      "details": {
+        "price": "From $416s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,982 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34756-arbor-green/347560000-arbor-green/2045/24576_nw_13th_blvd_avalonwoods_lantana_ks.png?as=1&w=425&rev=7080d60432b645e4b578dedcbb3fb383&hash=833439398B7A57CB7C43576A304C9C55"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34756-arbor-green/347560000-arbor-green/2045/fl_west_florida_dr_horton_lantana_js_ks_fs_floorplan_no_den_option_web.png?rev=af421a5d2d8f496aac396eb15bd4a9ed&hash=B1CC25182F4DF274033A33EA52D1A26B"
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/arbor-green/floor-plans/2767",
+      "details": {
+        "price": "From $444s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,662 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34756-arbor-green/347560000-arbor-green/2767/fl_west_florida_dr_horton_coral_ks_exterior_photo.jpg?as=1&w=425&rev=a481cb5f5ae6491e8bf85b76b0cb1a8d&hash=7FCA2EFBB2DFAE06B252CFBF03E183FA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34756-arbor-green/347560000-arbor-green/2767/fl_west_florida_dr_horton_coral_js_ks_floorplan_2_story.jpg?rev=daa28ea5f3e74e13af0113454a75658b&hash=060DBFCFF4AD4C413E6AB6A0EE8F6371"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34756-arbor-green/347560000-arbor-green/2767/fl_west_florida_dr_horton_coral_js_ks_floorplan_2_story.jpg?rev=daa28ea5f3e74e13af0113454a75658b&hash=060DBFCFF4AD4C413E6AB6A0EE8F6371"
+        }
+      ]
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/arbor-green/floor-plans/3129",
+      "details": {
+        "price": "From $480s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,209 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34756-arbor-green/347560000-arbor-green/3129/1412_nw_132nd_circle_arborgreens_holden_ks.png?as=1&w=425&rev=24828107634b4225ac293bf04f63dc4b&hash=6161F27A1AC04231879A5F7E6738DB1F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34756-arbor-green/347560000-arbor-green/3129/fl_westflorida_drhorton_holden-js-ks_new-opt.jpg?rev=952e1c97024743d1bbff031ced11dbc4&hash=4EFB9E2EE4220DA4C5EB8E5D4AD825BB"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34756-arbor-green/347560000-arbor-green/3129/01-fl_west_florida_dr_horton_holden_floorplan_05_flex_room.jpg?rev=d3767505a9564a03b87cf7e941a69ee6&hash=F5A0DC73C491D7F8B5799E5D27BA75C6"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Meadowbrook Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Ft. Clarke Middle",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "F.W. Buchholz High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-03T16:21:52.738760",
+  "timestamp": "2025-05-30T10:13:45.554843",
   "name": "Ocala Preserve",
   "url": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve",
   "status": null,
@@ -22,7 +22,7 @@
   "details": {
     "price_range": "$259,990 - $329,990",
     "sqft_range": "From 1,504 Sq. Ft.",
-    "bed_range": "2 - 3",
+    "bed_range": "2 - 4",
     "bath_range": "2 - 3.5",
     "stories_range": "1",
     "community_count": 1
@@ -1351,10 +1351,24 @@
     },
     {
       "images": [
-        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/dr_horton_wcflvilla_c_gen_elev_new_web.jpg?iar=1&sc=1&thn=1&w=425&rev=0c896ac8d5004f21b46cf6b650e8eb08&hash=E62EE8857EF30BA963584637F0B75DC8"
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/dr_horton_wcflvilla_c_gen_elev_new_web.jpg?as=1&w=494&rev=0c896ac8d5004f21b46cf6b650e8eb08&hash=6D22D49687470917C2FAE2EE6B8EFCE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_01-kitchen.jpg?as=1&w=494&rev=d6c93e1c2eff4e599cb77f358ca3f605&hash=28F43A64CBE7AAAD91BA72FA10D57FC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_02-kitchen.jpg?as=1&w=494&rev=dad3d0c9c546494c9d2eab2fbe0a1c53&hash=6F53E5EF62221FF4CEBB0735C59EAD13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_03-kitchen_-_copy.jpg?as=1&w=494&rev=c208e966dc034d91aa8bf11248aecc0d&hash=9CF4BE65D6725D3D87A89920F4FD95D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_05-dining-room1.jpg?as=1&w=494&rev=331c6836cf2445bdad4afe7e4bf95324&hash=BAFE4405B99A23AF3D93685E14136BB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_06-dining-room2_-_copy.jpg?as=1&w=494&rev=72a9617c1fa540c682a19f22cb2cf74f&hash=83ACE2CC301714C34492CD71CB1CFD20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_07-living-room_-_copy.jpg?as=1&w=494&rev=0b9c18c602104042b549fcc3afbf8801&hash=673A2B3F437ECD55BEC876FE286B9066",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_08-living-room.jpg?as=1&w=494&rev=d26ac1a0afcd459291d887e9d98a555c&hash=3599CEB9B1025D96128C7806D21E3473",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_09-living-room.jpg?as=1&w=494&rev=e7f5f35f21bb49fbb061d97761f9605a&hash=C3B804E1A9739ECF8C84F5445CD622DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_10-master-bed_-_copy.jpg?as=1&w=494&rev=26cdc0e370a145c6a485430c2d692d5e&hash=4A52C6096D8E4451ADD4811C2D5A4EB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_12-master-bath.jpg?as=1&w=494&rev=e279d899df93474d914bde5a6ce6f96d&hash=9800DC58CDC88D8D2685EEFE4AEF08E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_13-bedroom.jpg?as=1&w=494&rev=0d9d462554814184947ab4c107ede4f9&hash=7A68717A07869953B0CA182C07C41DE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_14-secondary-bath_-_copy.jpg?as=1&w=494&rev=5795ca077e8f4210b3db22dc4aab4a48&hash=E6495941C1B8B31F6B57ABD1547C0600",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_16-den.jpg?as=1&w=494&rev=7abd99a275a9465f9884e0424e565ed5&hash=0B00343AA3E700E74B518BA24B2E97BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34705-ocala-preserve/347940000-ocala-preserve-villas/1565/0065-5339-nw-46th-lane-rd/fl_west-florida_dr_horton_multi-family_paired-villas_siesta_17-lanai.jpg?as=1&w=494&rev=975639a709dc405fab7d896a8559fb65&hash=79486482AA18EB6D596C5E455FF2C2D2"
       ],
       "name": "5339 NW 46th Lane Rd.",
-      "plan": null,
+      "plan": "Siesta",
       "url": "https://www.drhorton.com/florida/west-central-florida/ocala/ocala-preserve/qmis/5339-nw-46th-lane-rd",
       "id": "5339",
       "address": "5339 NW 46th Lane Rd.",

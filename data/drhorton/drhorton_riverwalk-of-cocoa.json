@@ -1,0 +1,193 @@
+{
+  "timestamp": "2025-05-30T20:59:05.804340",
+  "name": "Riverwalk of Cocoa",
+  "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa",
+  "status": null,
+  "price_from": "$609,990",
+  "address": "295 First Light Circle,Cocoa, FL 32922",
+  "phone": "(321) 461-5833",
+  "description": "Find a new home in Cocoa, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the East Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/riverwalk_web.jpg"
+  ],
+  "location": {
+    "latitude": 28.38447,
+    "longitude": -80.7403,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$609,990 - $765,000",
+    "sqft_range": "From 2,020 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Riverfront Dock",
+      "description": "Riverfront Dock",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa/floor-plans/3278",
+      "details": {
+        "price": "From $780s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,278 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/jordyn_g_rev_web.jpg?as=1&w=425&rev=a3cf12bc4d044229a28e9f280d20ced9&hash=E0917ADD0F777E90DF8DF02B39719EA9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/jordyn_riverwalk_.jpg?rev=fa88798228464b29836339d219ebd3a8&hash=DB444E62248F2A57DEC8249E116078A4"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/jordyn_riverwalk_.jpg?rev=fa88798228464b29836339d219ebd3a8&hash=DB444E62248F2A57DEC8249E116078A4"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa/floor-plans/5emb",
+      "details": {
+        "price": "From $610s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/5emb/madison_g_rev_web.jpg?as=1&w=425&rev=be392d2d2ac047da86c6a2f7f786d630&hash=D69F294EA552ABA54D77F3D33557B257"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/5emb/madison_riverwalk_2.jpg?rev=151b13069689466aa157765889214aeb&hash=334E8C9478C67DFF8E0F907430B23F43"
+        }
+      ]
+    },
+    {
+      "name": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa/floor-plans/2312",
+      "details": {
+        "price": "From $680s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,312 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/2312/redbud_a_rev_web.jpg?as=1&w=425&rev=162f8334422e4f4b8bfead960f61416f&hash=B8107D34EAB784F433F73B96FC877B29"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/2312/redbud_riverwalk_3.jpg?rev=695e39cc0f614c1ba36b59a1139fefe0&hash=58DE0831A5A32AE90F4E0C81C1614563"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_exterior-rw.jpg?as=1&w=494&rev=63ccb55fd43846b081cfc904fa37b412&hash=F55B2E3E92C68F659C9E3AB0B4A02A7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_kitchen_1-rw.jpg?as=1&w=494&rev=ed03b12469c64215981cdce45fe5d4c3&hash=A608F80054D4D7F403998AFBC6D27E21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_first_light_circle_kitchen_2-rw-web.jpg?as=1&w=494&rev=34789a36f193418f8e2de29f740df032&hash=404DFF1B987093553EF94AB4C8E6DC99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_great_room_1-rw.jpg?as=1&w=494&rev=06729c9bf9f6476e9cf98926c382dd73&hash=867CACE40554F9A906EE2C28E5678921",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_kitchen_2-rw.jpg?as=1&w=494&rev=2590e996b33345f7b9a0e54e301e40b4&hash=51511FE05AAD716414865D004E0B5B9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_closet-rw.jpg?as=1&w=494&rev=413314707f734067a6743652b7a48aa8&hash=59998359E4B989F028CD57DBB893FB14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_primary_bath-rw.jpg?as=1&w=494&rev=81f1218f213d4bcd825913a136f8d7f0&hash=816901773A74349A25C37E56BC90D483",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_first_light_circle_primary_bath-rw-web.jpg?as=1&w=494&rev=29e5e57d583f479d9e661af64baaf58d&hash=93430C4D41AAE252D5582EE9A093B9CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_exterior_back-rw.jpg?as=1&w=494&rev=96bdde3f218247d2bc803f463051191d&hash=6BC6919B394D3664AFA7B500013B334A"
+      ],
+      "name": "185 First Light Cir",
+      "plan": "Jordyn",
+      "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa/qmis/185-first-light-cir",
+      "id": "185",
+      "address": "185 First Light Cir",
+      "price": "$765,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0010-185-first-light-cir/185_light_circle_exterior-rw.jpg?iar=1&sc=1&thn=1&w=425&rev=63ccb55fd43846b081cfc904fa37b412&hash=153877472A1DF5C14D1C141543AA9239",
+      "latitude": 28.38447,
+      "longitude": -80.7403,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/2312/0020-200-first-light-cir/200_first_light_front_elevation.jpg?iar=1&sc=1&thn=1&w=425&rev=f603b9e7d43e4483ac07feb28af0d0dd&hash=7D3AE64D98E79D4E2CB8AC01C63A1B18"
+      ],
+      "name": "200 First Light Cir",
+      "plan": "Redbud",
+      "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa/qmis/200-first-light-cir",
+      "id": "200",
+      "address": "200 First Light Cir",
+      "price": "$679,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2312",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/2312/0020-200-first-light-cir/200_first_light_front_elevation.jpg?iar=1&sc=1&thn=1&w=425&rev=f603b9e7d43e4483ac07feb28af0d0dd&hash=7D3AE64D98E79D4E2CB8AC01C63A1B18",
+      "latitude": 28.38447,
+      "longitude": -80.7403,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0019-210-first-light-cir/210_first_light_-_front_elevation-riverwalk.jpg?iar=1&sc=1&thn=1&w=425&rev=6b1d1d7364494ca0a9732e7076a81be0&hash=1BE1A7C94DE269F4D3A560DC5788491C"
+      ],
+      "name": "210 First Light Cir",
+      "plan": "Jordyn",
+      "url": "https://www.drhorton.com/florida/east-florida/cocoa/riverwalk-of-cocoa/qmis/210-first-light-cir",
+      "id": "210",
+      "address": "210 First Light Cir",
+      "price": "$734,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34993-riverwalk/349930000-riverwalk/3278/0019-210-first-light-cir/210_first_light_-_front_elevation-riverwalk.jpg?iar=1&sc=1&thn=1&w=425&rev=6b1d1d7364494ca0a9732e7076a81be0&hash=1BE1A7C94DE269F4D3A560DC5788491C",
+      "latitude": 28.38447,
+      "longitude": -80.7403,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Cambridge Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Cocoa High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

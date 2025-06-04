@@ -1,0 +1,363 @@
+{
+  "timestamp": "2025-06-01T02:38:41.310813",
+  "name": "Lakes at Laurel Highlands",
+  "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands",
+  "status": null,
+  "price_from": "$339,845",
+  "address": "2616 Grandbury Grove Rd.,Lakeland, FL 33811",
+  "phone": "(866) 476-2601",
+  "description": "Find a new home in Lakeland, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Polk County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/lakes-at-laurel-hayden-model--2616-grandbury-grove-road--lakeland--fl-33811---01.jpg"
+  ],
+  "location": {
+    "latitude": 28.01719,
+    "longitude": -82.01467,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$339,845 - $374,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Peaceful Ponds",
+      "description": "Peaceful Ponds",
+      "icon_url": null
+    },
+    {
+      "name": "Conservation Views",
+      "description": "Conservation Views",
+      "icon_url": null
+    },
+    {
+      "name": "Open, Green Spaces",
+      "description": "Open, Green Spaces",
+      "icon_url": null
+    },
+    {
+      "name": "Relaxing, Shaded Cabana",
+      "description": "Relaxing, Shaded Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Children's Splash Pad",
+      "description": "Children's Splash Pad",
+      "icon_url": null
+    },
+    {
+      "name": "Natural Landscape",
+      "description": "Natural Landscape",
+      "icon_url": null
+    },
+    {
+      "name": "Outdoor Open Air Seating",
+      "description": "Outdoor Open Air Seating",
+      "icon_url": null
+    },
+    {
+      "name": "Peaceful Community Fountains",
+      "description": "Peaceful Community Fountains",
+      "icon_url": null
+    },
+    {
+      "name": "Granite Counters",
+      "description": "Granite Counters",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands/floor-plans/aria",
+      "details": {
+        "price": "From $349s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/aria_front_exterior_g.jpg?as=1&w=425&rev=79b07809e9284a74b6ec2fe6c9da71bd&hash=1D140B6C917307086BFD17AB5B42228D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/aria_nwg_c.jpg?rev=07d7fb67b37d4d7899e144f7d94a1986&hash=0C72181A184F26A355FB2919A18B0225"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands/floor-plans/cali",
+      "details": {
+        "price": "From $357s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/lakes-at-laurel-cali-model--2616-grandbury-grove-road--lakeland--fl-33811---02.jpg?as=1&w=425&rev=26b18898004749b1b4bddc129b8ecd29&hash=9E52D12783CBEC6724DFA2BDFB5D5DAB"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/cali-nwg_c.jpg?rev=f577db851dd44aa9af2b6cc9b054bb61&hash=29CDD07FD8AFF6B5E1E21FBE60044BA8"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands/floor-plans/hayden",
+      "details": {
+        "price": "From $402s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ehb/lakes-at-laurel-hayden-model--2616-grandbury-grove-road--lakeland--fl-33811---01.jpg?as=1&w=425&rev=443220d1a4144760bb0fbe46bbeb1ce1&hash=562D0AA78A365277088F837DF50D35E8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ehb/hayden_nwg_g.jpg?rev=5caabf39a34b4d15b24963812dd801d6&hash=83203C67E0EB03594CEAA9941132186A"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ehb/hayden_nwg_h.jpg?rev=169b3ce044c64666a8928748e9f51be6&hash=2E0A743E9EAD7124F0D0856CD45B3E43"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/cropped_0001_cali-nwg_g.jpg?as=1&w=494&rev=feecce93086c40dfbdb21b834c402038&hash=2369B50E72E2BCEE285F6A91F5165F50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/1_entrance.jpg?as=1&w=494&rev=3462a85867534bb99eeb6f7775a92de2&hash=C294CCF5A3DBEFD26E33F19C7748200F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/2_living_room.jpg?as=1&w=494&rev=38d34410892348a29366f29f2b023f68&hash=C96AA7CF536418CA5BAD44BAFF32B2BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/3_kitchen.jpg?as=1&w=494&rev=61795ac71d584517ac41e029c02b346b&hash=0D516547C88FB10BB40A1D25ACF1BB95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/4_kitchen.jpg?as=1&w=494&rev=a55367ae172b415caab8dc20e1577e66&hash=F4EE8332836AE2F03971CDDC55239DCB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/5_kitchen.jpg?as=1&w=494&rev=3b530bf651fd4df9881c3b65917f4c19&hash=B950926055CCC38EDF0F869ED3392991",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/6_kitchen.jpg?as=1&w=494&rev=0ca994076d0c44a0901a6288370cd4d9&hash=0145B8604E2423068BFE3DCB7CA88F7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/7_kitchen.jpg?as=1&w=494&rev=9819d4f2ff6b4ace8a6464733bdf65f4&hash=C49DD0E5FDD38BCF0F12423098E72F52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/8_kitchen.jpg?as=1&w=494&rev=c6c066414d4e4d59b474651be1de0f5d&hash=BC9A4A2AB0A1D163627A89D892D626F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/9_dining_room.jpg?as=1&w=494&rev=d59b48c0030142b789f7033340d16310&hash=090E0F69B8859C79E8F0D5039823799B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/10_living_room.jpg?as=1&w=494&rev=a78d2ae046b3493482b5fcd6bf62f30a&hash=26F220D1CE888D32595522FC5744C2AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/11_primary_bedroom.jpg?as=1&w=494&rev=c57b6a69c6a44dfa902358ee0d919256&hash=66B690BFB8EF2CA5B3D9243ECE0BB088",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/12_primary_bedroom.jpg?as=1&w=494&rev=3942755fa87b428086e86e6a17b5078d&hash=B490DB60B0A275AF73B23B9686112FE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/13_primary_bedroom.jpg?as=1&w=494&rev=cf44837d7b3944c2ac93ed211e7a71db&hash=EE473F6CA929CD89EB1CA52287EA353F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/14_primary_bathroom.jpg?as=1&w=494&rev=c2b2362db0294fec8a920719d9acb865&hash=3BA602E25A1D6BE7B6271B7A572EB475",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/15_primary_bathroom.jpg?as=1&w=494&rev=5e5c5bbf13804d6da724b3dc871b09e7&hash=BBD8F34C4522D35E9C56CE49349D2445",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/16_closet.jpg?as=1&w=494&rev=8847f80ec901491ea29e4139bf9ede18&hash=B78A3C04E0296EBA64FBA8D34F67305F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/17_office.jpg?as=1&w=494&rev=a909da4dfae443feb9504e954a53bb1d&hash=FDA7C88D820887E8A710E5C8D335AC88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/18_office.jpg?as=1&w=494&rev=3b4016c6ce714ac1afcf8c5ef825c4bf&hash=EB06EF28A06DA82D4811DF45173D2D9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/19_guest_bedroom.jpg?as=1&w=494&rev=46ca77284fb342c497925e05e3602fb3&hash=4B380C30A884A40562F366327903AD5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/20_guest_bedroom.jpg?as=1&w=494&rev=43f3dec10f514818b0ccc1018a37836c&hash=4D1A099A8260F953BF953FAB4B04C0D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/21_bathroom.jpg?as=1&w=494&rev=2adb1d5c942e427badce28add565e7fe&hash=EF0F560C128E3EDFEEA74FCA39A18FBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/22_guest_bedroom.jpg?as=1&w=494&rev=04baf31c0a5747c7815ff1a893688eb7&hash=6D915D5232AC1B028A6A718CC4F52F20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/23_laundry_room.jpg?as=1&w=494&rev=18c0fc9cf18944289cfcdebae60bfd64&hash=14950F417C042160B3C8776AC72A2465",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/cali-nwg_g.jpg?rev=c8471ba6330e4cbf8df29afdb4f8f436&hash=37531EA0E064AF3C012CCE8EB5CD159D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/cali_floorplan.jpg?rev=f4696fb9b1e54f93a7f453d8d6355dc1&hash=FDCB45A70D9954A902486B64C54C774D"
+      ],
+      "name": "2604 Grandbury Grove Road",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands/qmis/2604-grandbury-grove-road",
+      "id": "2604",
+      "address": "2604 Grandbury Grove Road",
+      "price": "$345,620",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0215-2604-grandbury-grove-road/cropped_0001_cali-nwg_g.jpg?iar=1&sc=1&thn=1&w=425&rev=feecce93086c40dfbdb21b834c402038&hash=BABAF0F4F3923A9503FE0ADA7AC5A098",
+      "latitude": 28.01719,
+      "longitude": -82.01467,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/cropped_0003_cali-nwg_c.jpg?as=1&w=494&rev=3107a3dce9b64fe89df780431182b4bf&hash=EC1DDA07B7380E91CF7309D542BBE6B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/1_entry.jpg?as=1&w=494&rev=9230489e42df45148b8ffb9fdf3aac2b&hash=C952E83174B6E444CD66D81B936628EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/2_living_room.jpg?as=1&w=494&rev=b98f6fb58ade4645a2d622d98ed33b65&hash=C62001C02BCD332E804893A691AE2F94",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/3_living_room.jpg?as=1&w=494&rev=0003656db383475bbe5030e606830b5a&hash=33F43C7D78C3BBECAAAF3559A8858C43",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/4_living_room.jpg?as=1&w=494&rev=82f0a669abf04e60b6dd7d781993df64&hash=BCADAF9C7E285E1EAD7C925858EF2114",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/5_living_room.jpg?as=1&w=494&rev=a49d1d08e19b4d79b365e0e82f2f509d&hash=ABA9443B1BC970909AB66520DC3ED53C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/6_kitchen_dining.jpg?as=1&w=494&rev=7965170524e3452295fb81054d2d5548&hash=2D602D97D14F24A6E159F9EAC7889585",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/7_kitchen_dining.jpg?as=1&w=494&rev=596d2c0410fa4bc49ff1c74c879bab06&hash=C6F844A02B446A528A152A1ACD8DDDC9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/8_kitchen.jpg?as=1&w=494&rev=9c8f815a734142599bf8f04e3021f62e&hash=189CE57CCAF0B2E97CF533D0EF1AA6D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/9_kitchen.jpg?as=1&w=494&rev=013ec6220c9d429a86d3afa8601d7292&hash=7E702A4B05BBE35DE8B82015A21ED2BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/11_kitchen.jpg?as=1&w=494&rev=9131c17517ce49c59263eebf3ad8f08e&hash=F236A31DD983EA007DF773347312D5DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/12_kitchen.jpg?as=1&w=494&rev=3f2021c4fc5e41debb8a07a6b93754a6&hash=06FA88F2D033E9F61793D0E448A0ECE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/13_kitchen.jpg?as=1&w=494&rev=fe992840eb124a82bcdb68fde49b458e&hash=D717994BB83B8861BC3CD53960672ADA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/14_kitchen.jpg?as=1&w=494&rev=c1a2cdc0cf0a4ed191dfdb0a63af0c61&hash=76DAC3A3A7B9B2B0557557B2E0B0A13D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/15_master_bedroom.jpg?as=1&w=494&rev=9ef9bdd359e34f3d9285dfdf93b0e553&hash=81983A828657034E0819C900D190351E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/16_master_bedroom.jpg?as=1&w=494&rev=978839b166874303ab1dd8a5039e17ae&hash=C482C285F99458349128778EDA295C76",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/17_master_bedroom.jpg?as=1&w=494&rev=0dcdc4699eda408fa44243bb9e0c2308&hash=95FBF9B6CE3D9DAD80FEF737E01489E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/18_master_bathroom.jpg?as=1&w=494&rev=2f242c3c2df2438a94b4691d5b1de0f9&hash=9E8C416DBDA59A2D5E71DB61B3076B55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/19_master_closet.jpg?as=1&w=494&rev=112409b6fdd64e6da1194020fb5ea98b&hash=145D5299DD3C353757475E5F89931CF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/20_master_closet.jpg?as=1&w=494&rev=fa6e732c638447648270cb026026b7a8&hash=12276384B3B045C7D17939FF2E223D8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/21_girls_room.jpg?as=1&w=494&rev=16e9084287f549ff8169a0cecaf8cade&hash=C69619464A141D5BE18893867D139F6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/22_girls_room.jpg?as=1&w=494&rev=ea5397b5d85a4b66ad7e503210f94c8f&hash=2917369BC4A3E3B3CA1CCEB72E7B3D05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/23_girls_room.jpg?as=1&w=494&rev=4475ecdc1fe649ed9dcabd6d4fcfcb5d&hash=2974796B8E24E7CA60D46891FBEDE52F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/24_guest_bathroom.jpg?as=1&w=494&rev=1eb4db1aa96f48e6a6470407ce0cc7c4&hash=789E164E808008A2F191FC2EC087A696",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/25_guest_room.jpg?as=1&w=494&rev=c416f8829eb746cdb7b5cf2d9c3cb96f&hash=69E9A24A323069E4CD668F69B443E240",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/26_guest_room.jpg?as=1&w=494&rev=744227ae2d5846159890f9e4800a3214&hash=A795ED9C05AB7D3A5D90CDBF6F28EAC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/27_guest_room.jpg?as=1&w=494&rev=22509e1df5e2427d96bfacea6fe57500&hash=C76A48C87D24D9229CA843C536256ABD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/28_office.jpg?as=1&w=494&rev=bb0b0c550c6743b6a88c5088d3cfb6d2&hash=5033851562B38057A9CD2793BEFD0283",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/29_office.jpg?as=1&w=494&rev=9f1c0f2e20314546ab7e0f16ba07a331&hash=B65EECE039C12BE9FB6ED83FC70E7428",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/30_laundry_room.jpg?as=1&w=494&rev=90486ec26d3741ebb48fd30e0365951c&hash=EA31E694005A832877D88A89A21BCCF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/cali-nwg_c.jpg?rev=f577db851dd44aa9af2b6cc9b054bb61&hash=29CDD07FD8AFF6B5E1E21FBE60044BA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-south-central-florida/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/cali_floorplan.jpg?rev=f4696fb9b1e54f93a7f453d8d6355dc1&hash=FDCB45A70D9954A902486B64C54C774D"
+      ],
+      "name": "2610 Grandbury Grove Road",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands/qmis/2610-grandbury-grove-road",
+      "id": "2610",
+      "address": "2610 Grandbury Grove Road",
+      "price": "$374,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4ebb/0214-2610-grandbury-grove-road/cropped_0003_cali-nwg_c.jpg?iar=1&sc=1&thn=1&w=425&rev=3107a3dce9b64fe89df780431182b4bf&hash=167F076E1D4C8DFB06A484D40E306B39",
+      "latitude": 28.01719,
+      "longitude": -82.01467,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/aria_nwg_c_cropped.jpg?as=1&w=494&rev=ec831883fa7a40de9230d8ea55efc357&hash=2C59B591B127B2C66A9C7F0CE9967C70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/1_entry.jpg?as=1&w=494&rev=d82a62948ca74af885a693ab01c803cc&hash=3A0664670B1AF85261B2835B7A111FC9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/2_entry.jpg?as=1&w=494&rev=0d1cd022a06549a189954f04150f6272&hash=EE0462AAD01BE41C5DC7DD297D2A9080",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/3_entry.jpg?as=1&w=494&rev=bb24e3103bc14b6c8761411daa1fdde3&hash=576CBB70F52138491CDEEA3251AE121E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/4_entry.jpg?as=1&w=494&rev=db401e120b134525959c0b9a69ac4b97&hash=4A5FA1E1BDA87E6257313449DD3ACDAD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/5_entry.jpg?as=1&w=494&rev=908ba44e5bc44a83a696a7c16f5fa0f9&hash=963353382DDD1C43A6B9C47208AD82DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/6_laundry.jpg?as=1&w=494&rev=fb096be9099143198d7287c54b329377&hash=46D0E08B722D5839D37276AF650C0A90",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/7_laundry.jpg?as=1&w=494&rev=bd6e6a48a21442dea9639461d9dd4dd9&hash=5C1F72B478CC41CCF585F4CEA6F0BD73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/8_hall.jpg?as=1&w=494&rev=1f531ac0425a4d52980702db8110aab1&hash=7C6A7DA3D76357F50CE772A937ABFAFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/9_kitchen.jpg?as=1&w=494&rev=db0371be1a4f433586e73fd86ddbea6d&hash=DEC17A852BB0ABFEF7D0C170089934AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/10_kitchen.jpg?as=1&w=494&rev=bee946ed723d4a8fbceaac349b7d6024&hash=E2AA09E61F43F38FCD65A4504583D019",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/11_kitchen.jpg?as=1&w=494&rev=282f478108444680862b68ef8552c269&hash=F21AE9F44EBAA43E16B4BA487E7F2FC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/12_kitchen.jpg?as=1&w=494&rev=5d9365b3eb5f47b49888d5eb916d5e63&hash=5163E8DB47EFAEEA24061528D9F29D31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/13_dining.jpg?as=1&w=494&rev=7571944ce2434284928d048bf9a4a7f4&hash=E589C9EB89EBF92E6A5E764AD1A86F70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/14_dining.jpg?as=1&w=494&rev=db98bc6b3dff4dcd89ac9bde6124ca0a&hash=E4911A8CEAC8E2D10C7585A03B83CED0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/15_dining.jpg?as=1&w=494&rev=1e115e35330a467e820e8a94da779758&hash=7A1851AF3003AC4577C7EED9EBE93C6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/16_dining.jpg?as=1&w=494&rev=7e87f671fc1548b8955f8f25fd3fa4b1&hash=F0A97DBE497E5C517F253622998AE411",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/17_dining.jpg?as=1&w=494&rev=e62f119ead3245f69377aca72656baf0&hash=7AEC5BD0B9C5BB67B1D97E03064FDAB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/18_living.jpg?as=1&w=494&rev=8cb295c11b5e40678c0728a4341ff12b&hash=AE1F2D752BBDD704FB5FCC19F8822C14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/19_living.jpg?as=1&w=494&rev=9b8ea1e30cbd4b678927e796079933b4&hash=7451AC5BFF2FA6DBA1F8D560938AB2ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/20_living.jpg?as=1&w=494&rev=581daf70922d4b5fa9d61839cb112c0a&hash=D9BA23CFD09F30BAA5CB8E26EB090094",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/21_living.jpg?as=1&w=494&rev=d5feadd92c244ed8838e818b76f69398&hash=7D82EB1C40E897486AFF30A892AFD8D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/22_primary.jpg?as=1&w=494&rev=8a1edcacf4604b31a7b607fb138280a6&hash=27CF67E352731E693272B775C072C5A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/23_primary.jpg?as=1&w=494&rev=055622a395c3418481a13aa43ff3e9e7&hash=B83748146E48845380DDF3006AAE2D15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/24_primary.jpg?as=1&w=494&rev=c75c76f91f044689a66a9c77f621cf79&hash=DF99E3C72B53B8B75DCE2F1FA2B79759",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/25_primary.jpg?as=1&w=494&rev=ed1a3612ea6e43b8b4bfab0911479784&hash=4D5B840F2F8BDB0270BBD9BB02522081",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/26_primary_bathroom.jpg?as=1&w=494&rev=a2fe3d893ca64fc1b68c4bf7bb69f51e&hash=9B4A981606979424A5C314BDEEB69BC2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/27_primary_bathroom.jpg?as=1&w=494&rev=4f576e5080524c1fb0041bd011360f20&hash=F2AB9D90776D29DB920C0E8E98C6396B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/28_primary_bathroom.jpg?as=1&w=494&rev=236f7a5269594edda685eaf9518f7823&hash=A6D7059F07CE7D12ECCC35532D147BEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/29_primary_bathroom.jpg?as=1&w=494&rev=1a9aca3476f24d0c88b05f06ebccfa8e&hash=A2A1F5AA3D3EC30C5C40F5A1FA2F642C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/30_guest_bedroom.jpg?as=1&w=494&rev=d628bc7563f949deb4c86a2f5b9a1466&hash=CBCD038BB12E71234245184CF34FDF22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/31_guest_bedroom.jpg?as=1&w=494&rev=d572d518e4964254849fd338018c60be&hash=0AF5F6D42A57F2310EED8978EDDE3BAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/32_guest_bedroom.jpg?as=1&w=494&rev=f9fe3902d5ca4e118a4aa0b7c9dde69c&hash=13F82FB23D104E7D674FEF6F9186C6B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/33_guest_bedroom2.jpg?as=1&w=494&rev=9d2ed9a7104d42008131641d09af231d&hash=D253A26EEDC44F743D9412064FB8F0A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/34_guest_bedroom2.jpg?as=1&w=494&rev=a651e3a72a1040539866909b4d6c3526&hash=1386348466FC9BED8605042A93A4A630",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/35_guest_bathroom.jpg?as=1&w=494&rev=59c50f150b9d4b66b02d46ea1d21978e&hash=E85BBD8197D58AD9A7B1DEFF2AFEF2F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/36_patio.jpg?as=1&w=494&rev=d19318b68af6400b8dab57cbc57d5e9f&hash=4147CDBC0C1F4BC37F246CFFA5F336BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/37_patio.jpg?as=1&w=494&rev=fb27ebff89e343a4a83f513a32da7ebd&hash=1305FE15BE4B4C7E2FA9660B4DB2425F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/aria_nwg_c.jpg?rev=07d7fb67b37d4d7899e144f7d94a1986&hash=0C72181A184F26A355FB2919A18B0225",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-florida/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/4eab_aria_fp.jpg?rev=f0e578519c3f4bf8ad7bbd12e4ed0fe7&hash=E580AE41B15E21A9D6E57C6D21919F0D"
+      ],
+      "name": "3827 Rory Pond Court",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/lakeland/lakes-at-laurel-highlands/qmis/3827-rory-pond-court",
+      "id": "3827",
+      "address": "3827 Rory Pond Court",
+      "price": "$339,845",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38112-lakes-at-laurel-highlands/388780000-lakes-at-laurel-highlands-dre/4eab/0423-3827-rory-pond-court/aria_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=ec831883fa7a40de9230d8ea55efc357&hash=096C410B18542CD68BF424C6E77D2EA3",
+      "latitude": 28.01719,
+      "longitude": -82.01467,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Jesse Keen Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Sleepy Hill Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Kathleen Senior High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

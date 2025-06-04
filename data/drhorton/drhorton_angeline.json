@@ -1,0 +1,673 @@
+{
+  "timestamp": "2025-05-31T21:58:02.713312",
+  "name": "Angeline",
+  "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline",
+  "status": null,
+  "price_from": "$344,990",
+  "address": "17422 Pleasantview Blvd,Land O Lakes, FL 34638",
+  "phone": "(813) 856-2737",
+  "description": "Find a new home in Land O Lakes, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/broad_river_ave-002.jpg"
+  ],
+  "location": {
+    "latitude": 28.30096,
+    "longitude": -82.52754,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$344,990 - $553,690",
+    "sqft_range": "From 1,560 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Greenspace",
+      "description": "Greenspace",
+      "icon_url": null
+    },
+    {
+      "name": "Future MetroLagoon",
+      "description": "Future MetroLagoon",
+      "icon_url": null
+    },
+    {
+      "name": "Nature Trails",
+      "description": "Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Community Farm",
+      "description": "Community Farm",
+      "icon_url": null
+    },
+    {
+      "name": "Angeline Academy Innovation",
+      "description": "Angeline Academy of Innovation",
+      "icon_url": null
+    },
+    {
+      "name": "Angeline Country Day School (Pre",
+      "description": "Angeline Country Day School (Pre-k - 5th grade)",
+      "icon_url": null
+    },
+    {
+      "name": "Future Downtown",
+      "description": "Future Downtown",
+      "icon_url": null
+    },
+    {
+      "name": "Future Moffitt Cancer Center",
+      "description": "Future Moffitt Cancer Center",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex II",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/e302",
+      "details": {
+        "price": "From $345s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,560 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/allex_ii_c_angeline_siding_stone_garage_hardware.jpg?as=1&w=425&rev=9fe84d54cfd84939a66bc116f89d8cbb&hash=DCE4A7F12E5313AF1904096FCA4D78FD"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e302/fl_tampanorth_dr-horton_allex-ii-blacklines.jpg?rev=503d62a0118446dab6cd4631bfd59d01&hash=EE2F74424BB3AE5A9A50A480BB9BBAAF"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/4eab",
+      "details": {
+        "price": "From $377s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4eab/aria_c_stone_garage_hardware_siding.jpg?as=1&w=425&rev=72696d34841644f8b4f9267c7cc63b81&hash=547DC387607BEF95C64831130FD4A1E7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=bdf99a44fe2e4e7d8d8a1e7ae8cea395&hash=D1C030E6896E493EB95A50E1364DBCE2"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/4ebb",
+      "details": {
+        "price": "From $391s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4ebb/fl_drhorton_tampanorth_cali_c_stone.jpg?as=1&w=425&rev=1a6435d6e9064c819182369dbc39730f&hash=414E25456A2431D42852D94FEF50CC0C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=fe5657b7415547309faacdab6d716361&hash=F38EDF60AAA981DF53729EE1B3492751"
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/2767",
+      "details": {
+        "price": "From $480s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,756 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/fl_drhorton_tampanorth_coral-h.jpg?as=1&w=425&rev=22d8e807a13b43608beb28f6d745f024&hash=CB1F67EF423ED409B0E6A4C632935595"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=5b8c7894d90a40919d529974472bcfc4&hash=1180BB3B1A5657C79365043C554A8232"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=5b8c7894d90a40919d529974472bcfc4&hash=1180BB3B1A5657C79365043C554A8232"
+        }
+      ]
+    },
+    {
+      "name": "Elston II",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/e303",
+      "details": {
+        "price": "From $401s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,305 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e303/elston_ii_g_deebrook.jpg?as=1&w=425&rev=1bacb5f0c07b4507b12b6d7bcd051a36&hash=BDF85BC86BEA86D7CAB9CA7518FE9C81"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e303/elston_iii_blacklines_for_web.jpg?rev=3cd949d3552d4930a0fc9e48842eaa1b&hash=6B23E76EEB2D0EB124E0310614910686"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e303/elston_iii_blacklines_for_web.jpg?rev=3cd949d3552d4930a0fc9e48842eaa1b&hash=6B23E76EEB2D0EB124E0310614910686"
+        }
+      ]
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/e401",
+      "details": {
+        "price": "From $412s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,371 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/e401/ensley_g_angeline_stone_garage_hardware.jpg?as=1&w=425&rev=68345602741e44f0902ff3a61e1ff7bb&hash=C79FF4555479C0512E61078D0B5288E2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/e401/fl_tampa-sarasota_dr-horton_express-series_ensley_gh_patio-block.jpg?rev=f740009c691243f3b8322966d35bcea1&hash=5831B8E97711F2788F9235E7B05D58ED"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/e401/fl_tampa-sarasota_dr-horton_express-series_ensley_gh_patio-block.jpg?rev=f740009c691243f3b8322966d35bcea1&hash=5831B8E97711F2788F9235E7B05D58ED"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/3emb",
+      "details": {
+        "price": "From $353s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/haper_elv_c_angeline_garage_hardware2.jpg?as=1&w=425&rev=723bccdbcd7741adb4ca1bbc720a9d03&hash=2632884D7255F8CCF9D3FEC81B663C4C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/harper_blackline.jpg?rev=7516016b46204c50a082c355a9d92259&hash=380280C9A19D3FD22F44CA0C11162FE1"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/4ehb",
+      "details": {
+        "price": "From $426s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4ehb/fl_drhorton_tampa_hayden_k.jpg?as=1&w=425&rev=c1cfb9bbb64a43fdab61e34c83d9b35e&hash=128515DD29F8127B5296DC3978507C42"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=7ec3a135b58d4d729ac88206ca322da6&hash=D3CB42632B80C51B4E15320FF85D2050"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394620000-angeline-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=7ec3a135b58d4d729ac88206ca322da6&hash=D3CB42632B80C51B4E15320FF85D2050"
+        }
+      ]
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/3129",
+      "details": {
+        "price": "From $512s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,313 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3129/fl_drhorton_tampanorth_holden_g.jpg?as=1&w=425&rev=fa76dd3847214b22bf664e8a86565d1e&hash=2F837EC366CAFE919BA3A874A6EAAD5F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3129/holden_blacklines_for_web.png?rev=3f466f42b9b4452687b1ef23bfab7093&hash=BDB45DA76FFE919C505ACDD0ECEE45E8"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3129/holden_blacklines_for_web.png?rev=3f466f42b9b4452687b1ef23bfab7093&hash=BDB45DA76FFE919C505ACDD0ECEE45E8"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/2045",
+      "details": {
+        "price": "From $438s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2045/lantana_c_angeline_garage_hardware_stone.jpg?as=1&w=425&rev=905798dfcdb245068e7b353e8c3d02e3&hash=D38F05B6A54791FB34513CF518C2E4D0"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2045/fl_tampa-north_dr-horton_lantana-without-den.jpg?rev=205cb92bf3e64544b5ca57dc656c3d90&hash=9439A400A6A7C74CAE748A145A916130"
+        }
+      ]
+    },
+    {
+      "name": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/e304",
+      "details": {
+        "price": "From $414s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,453 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/fl_drhorton_tampanorth_robieii_g_stone.jpg?as=1&w=425&rev=2efd8d9a876645319b5e10fdc97610c1&hash=50092E3B5449B7B23983D33D66FBCB5F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/mostrecent_robieii_blacklines-patio.jpg?rev=09faac9984ec456d9484c3937b427989&hash=F13900E987E8D4010BE4DF1946C80010"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/mostrecent_robieii_blacklines-patio.jpg?rev=09faac9984ec456d9484c3937b427989&hash=F13900E987E8D4010BE4DF1946C80010"
+        }
+      ]
+    },
+    {
+      "name": "Sea Cliff",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/3327",
+      "details": {
+        "price": "From $522s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,334 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3327/cliff_elv_l_-_hw.jpg?as=1&w=425&rev=d302962e20c846f0ba8ee6d09ddcccdc&hash=2DE1CA5314BF826C5CCF7D377807B6BE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3327/sea_cliff_blacklines.png?rev=ad81791674ab48f28a7f8335868d5d12&hash=A697007BB1C50C831371B1C62C756CD4"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3327/sea_cliff_blacklines.png?rev=ad81791674ab48f28a7f8335868d5d12&hash=A697007BB1C50C831371B1C62C756CD4"
+        }
+      ]
+    },
+    {
+      "name": "Talbot",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/floor-plans/3528",
+      "details": {
+        "price": "From $536s",
+        "beds": "5 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,561 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3528/fl_tampanorth_drhorton_talbotg.jpg?as=1&w=425&rev=dae2c998a92e4190a88ff884d89ae1e8&hash=D3AD0583DF47059CA452B25F946BDB42"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3528/fl_west-florida_dr-horton_talbot-gh_new-layout.jpg?rev=99ba1a640e7c41aa99db52dd77291d81&hash=30404F2B9771E984EFC4B03E57482705"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3528/fl_west-florida_dr-horton_talbot-gh_new-layout.jpg?rev=99ba1a640e7c41aa99db52dd77291d81&hash=30404F2B9771E984EFC4B03E57482705"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/fl_tampanorth_drhorton_coral_g_nocl.jpg?as=1&w=494&rev=048b3c35d2cc4976abf2f9e28516074c&hash=0E3B33430C8B8506FC17C8AAEDC91B0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/1fl_drhorton_tampanorth_coral_flexroom.jpg?as=1&w=494&rev=a8c290003106410c80165f0ba2d9a848&hash=ACC831065C9628F6ADCF6463A1CC7AD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/2fl_drhorton_tampanorth_coral_kitchen.jpg?as=1&w=494&rev=c131722c4d1f4680be4c308de533c731&hash=30AC965E66CAC03ABA519AF69714C3C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/3fl_drhorton_tampanorth_coral_dining.jpg?as=1&w=494&rev=d902d47b1525484cab288b86e853f93f&hash=79617963852FCF45C19522BE845CC4A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/3fl_drhorton_tampanorth_coral_diningkitchen.jpg?as=1&w=494&rev=9618f7283a48414983be26aaef0261c3&hash=7E0CAAD81985791377890762DE817863",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/4fl_drhorton_tampanorth_coral_diningliving.jpg?as=1&w=494&rev=fd5432453a98442db22451328e3face3&hash=2C11E1BC183030D26682A67B84124C7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/5fl_drhorton_tampanorth_coral_lliving.jpg?as=1&w=494&rev=0939593fe70741c5aba5732a4cdffced&hash=51491867D96363923E30F73C07F5B9FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/8fl_drhorton_tampanorth_coral_bonusroom.jpg?as=1&w=494&rev=40726cb05fbc4befb22441c0a7437e13&hash=97C4C23A12363F694723EF13E72E77F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/8fl_drhorton_tampanorth_coral_bonusroom2.jpg?as=1&w=494&rev=72affa444d894b6ea1b470c79b398558&hash=72D20D0E0421C5345FAC18686C206EB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/12fl_drhorton_tampanorth_coral_bed1.jpg?as=1&w=494&rev=d5a6036e5de44f91a172b5b99c9e111c&hash=B7C4B74A054EA9DDC1BDBE4B8C10D56A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/12fl_drhorton_tampanorth_coral_bath1.jpg?as=1&w=494&rev=472f8ce91066432a90da0994ff651fbf&hash=BF9618EABE937B8BFD89382003F08994",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/6fl_drhorton_tampanorth_coral_bed2.jpg?as=1&w=494&rev=4b9f193202d7413586ee221fef0ba1b0&hash=AEC2591E78BB693259844FB59D33F20B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/7fl_drhorton_tampanorth_coral_bath2.jpg?as=1&w=494&rev=a7c0c9f5e2b94d15b5de339b3bea15c7&hash=1F25948F3A05B24B9662666B8ACBADDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/9fl_drhorton_tampanorth_coral_bed3.jpg?as=1&w=494&rev=982cc4a7369443efad7e100f612a6803&hash=74BCD989C9BE74FE384374B1BEEC201C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/10fl_drhorton_tampanorth_coral_bath3.jpg?as=1&w=494&rev=4f123dd70b15465f9e799dda9dd23a06&hash=8755BA8C106E8AEE3A8B22E3A2387CFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/11fl_drhorton_tampanorth_coral_bed4.jpg?as=1&w=494&rev=cc00afba0f16458e801d7fa1ed0c0528&hash=0488479FB6935599F9054EFAEBB392DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=5b8c7894d90a40919d529974472bcfc4&hash=1180BB3B1A5657C79365043C554A8232",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "10441 Gentle Rain Dr",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10441-gentle-rain-drive",
+      "id": "10441",
+      "address": "10441 Gentle Rain Dr",
+      "price": "$506,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0028-10441-gentle-rain-drive/fl_tampanorth_drhorton_coral_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=048b3c35d2cc4976abf2f9e28516074c&hash=ABA8B357CDB534DE15CE20398AA62359",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/fl_tampanorth_drhorton_coral_h_nocl.jpg?as=1&w=494&rev=0af47c28ebc540fcae16f22ba4880853&hash=482502EAB812AA04FF6A214B93A64361",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/1fl_drhorton_tampanorth_coral_flexroom.jpg?as=1&w=494&rev=182e992d09284c36ac4706eeb0653dc6&hash=70107145D6F6A83CE75ACBA9C83EF815",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/2fl_drhorton_tampanorth_coral_kitchen.jpg?as=1&w=494&rev=86c9aa0513744b2fad01bbc2dfef38e1&hash=4ADBDF89485FE3DB5DD61FB5BB9C85A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/3fl_drhorton_tampanorth_coral_dining.jpg?as=1&w=494&rev=720ae60264bd431bbc92acfe0995ac83&hash=7CA422800A1C89C0B9D0866AFE8F6BE6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/3fl_drhorton_tampanorth_coral_diningkitchen.jpg?as=1&w=494&rev=22acf60a59cf4bbd867fcdd948f56aad&hash=1B738909E059B26956F361D24C09F544",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/4fl_drhorton_tampanorth_coral_diningliving.jpg?as=1&w=494&rev=d5bd266baca34a0ea2fe31cabea25652&hash=450F93158910347F1EF5DE081388FD1A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/5fl_drhorton_tampanorth_coral_lliving.jpg?as=1&w=494&rev=3c27a962e7a74db1b015f198312f5bc8&hash=BCA9F92665B3848AF68FFA35E5F1F839",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/6fl_drhorton_tampanorth_coral_bed2.jpg?as=1&w=494&rev=6fd4243100354370aebeb5b5e5a0e32e&hash=B06FC42325837A070433325C822C46D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/7fl_drhorton_tampanorth_coral_bath2.jpg?as=1&w=494&rev=5f7885d64f91434d8f5150d324d77964&hash=B97117C4E08ECACF4C6E314BAA10CFDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/8fl_drhorton_tampanorth_coral_bonusroom.jpg?as=1&w=494&rev=4bf678f4efdd4b7c8f06a1a87808c6ab&hash=5706450F324D9490EF0C30FB50857F12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/8fl_drhorton_tampanorth_coral_bonusroom2.jpg?as=1&w=494&rev=b3731ff7f8d74fbfa800384965d7bf60&hash=A559AED024348118C455410FC40744C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/9fl_drhorton_tampanorth_coral_bed3.jpg?as=1&w=494&rev=d2617038eee548909c3a2916942176fa&hash=93E432CE618DF44613A4CCB48B1E65DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/10fl_drhorton_tampanorth_coral_bath3.jpg?as=1&w=494&rev=6588550fc3ad494fa37564319a960ae4&hash=5E9C9E9F4095FFB3224CB4DC29E5F803",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/11fl_drhorton_tampanorth_coral_bed4.jpg?as=1&w=494&rev=68f0008269b04714bd9d17f94b65de93&hash=1A0B00A707C206739EF219E7A452CA9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/12fl_drhorton_tampanorth_coral_bed1.jpg?as=1&w=494&rev=61ce4ddf6b5249ec9b28edf06c4743ed&hash=DEDC27BDD9E6EB8667890F4964AA3246",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/12fl_drhorton_tampanorth_coral_bath1.jpg?as=1&w=494&rev=b53c4dbe9bb1452abc8c2b13575ebb45&hash=4E5ACEA82107B92A7037848C41AB86F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=5b8c7894d90a40919d529974472bcfc4&hash=1180BB3B1A5657C79365043C554A8232",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "10559 Farm Hill Ave",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10559-farm-hill-avenue",
+      "id": "10559",
+      "address": "10559 Farm Hill Ave",
+      "price": "$514,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0008-10559-farm-hill-avenue/fl_tampanorth_drhorton_coral_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=0af47c28ebc540fcae16f22ba4880853&hash=A6EF0530BCECDC555AB84DDA57E3E2C0",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3327/0007-10573-farm-hill-avenue/sea_cliff_elv_k_-_hw.jpg?as=1&w=1280&rev=be48426e7acc446f84de384db562d2b7&hash=E0CA42EF4407E8259F1032D215904B37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3327/sea_cliff_blacklines.png?as=1&w=1280&rev=ad81791674ab48f28a7f8335868d5d12&hash=ED38D6426FF84E0DA183A21E2EF48C8C"
+      ],
+      "name": "10573  Farm Hill Ave",
+      "plan": "Sea Cliff",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10573-farm-hill-avenue",
+      "id": "10573",
+      "address": "10573  Farm Hill Ave",
+      "price": "$553,690",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3334",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/3327/0007-10573-farm-hill-avenue/sea_cliff_elv_k_-_hw.jpg?iar=1&sc=1&thn=1&w=425&rev=be48426e7acc446f84de384db562d2b7&hash=11FF571DA126B2EF24813A319F30CB6F",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/fl_tampanorth_drhorton_coral_g_nocl.jpg?as=1&w=494&rev=57131960197b4a97bf91b28184432c91&hash=E27C7F8E3386E36184FFD79D3BD26BE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/1fl_drhorton_tampanorth_coral_flexroom.jpg?as=1&w=494&rev=15e51dc1b3fc43079e78b0000ab593d0&hash=D069D1A98C0E04DD118C7FA527C471FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/2fl_drhorton_tampanorth_coral_kitchen.jpg?as=1&w=494&rev=9a76d87e88394d5a8e28e65c50dcf6bf&hash=13900DAB65C5E53C747B1FA1B0ABBE1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/3fl_drhorton_tampanorth_coral_dining.jpg?as=1&w=494&rev=4de8e3e66a874487a7146afeb8eea584&hash=2FF49047204D846115558C51BAF5FF26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/3fl_drhorton_tampanorth_coral_diningkitchen.jpg?as=1&w=494&rev=2c7eda73361d4643adbb45f1ad1ae95b&hash=5B904C7C88748550DBA1B686EE3295CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/4fl_drhorton_tampanorth_coral_diningliving.jpg?as=1&w=494&rev=47e93012b1bd4ee7bab79a9c200d712c&hash=8099DCFBDFD2654729FD6CC82EACEDE5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/5fl_drhorton_tampanorth_coral_lliving.jpg?as=1&w=494&rev=a34ed1d418764a4b8009af150cebb733&hash=AE5F5DB622F71F37DD084BCF9EA8DC7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/6fl_drhorton_tampanorth_coral_bed2.jpg?as=1&w=494&rev=fbbc3ef5baa14a06be091aea4a47d5be&hash=34FEC22836029369840AC2CEC4A6A0DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/7fl_drhorton_tampanorth_coral_bath2.jpg?as=1&w=494&rev=a8864af059054ad3b1eefe23e03ac5e8&hash=73A3EE5B1C13324A0DC4E3E6F0E6C466",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/8fl_drhorton_tampanorth_coral_bonusroom.jpg?as=1&w=494&rev=bec3faa237ab4764b31bd1ecfa1ef3f8&hash=F8DA35E7B40A30C99C277715E793371D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/8fl_drhorton_tampanorth_coral_bonusroom2.jpg?as=1&w=494&rev=9099cc0eaaae484085f3919eb1a3d329&hash=7441848929FCC6E8E8D38FDF2E69323C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/9fl_drhorton_tampanorth_coral_bed3.jpg?as=1&w=494&rev=eccde10a33cf48aea56b84871979bb8c&hash=38C804ED396F29BC78F5029FE0E082D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/10fl_drhorton_tampanorth_coral_bath3.jpg?as=1&w=494&rev=39c815714d02422b9339462e45d78708&hash=339BA5D70E90DB1CBAF15C38490A8EAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/11fl_drhorton_tampanorth_coral_bed4.jpg?as=1&w=494&rev=67d79f34a9b64fb7bdbda3754772542f&hash=A874EC5A1472D9242D59413E658D45F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/12fl_drhorton_tampanorth_coral_bed1.jpg?as=1&w=494&rev=a5b3351bfd1e42b8ae76dcf0157f6ac4&hash=7F2CB1E5C292A34AA181588CB3349426",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/12fl_drhorton_tampanorth_coral_bath1.jpg?as=1&w=494&rev=062e65120036487a9e1ad4acf741ee86&hash=96EC146579472E9E66F364FCF51723C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=5b8c7894d90a40919d529974472bcfc4&hash=1180BB3B1A5657C79365043C554A8232",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "10597 Farm Hill Ave",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10597-farm-hill-avenue",
+      "id": "10597",
+      "address": "10597 Farm Hill Ave",
+      "price": "$509,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/394630000-angeline-50s-drh/2767/0004-10597-farm-hill-avenue/fl_tampanorth_drhorton_coral_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=57131960197b4a97bf91b28184432c91&hash=D5FEBD7D8568D53308609F4DFB5BC84E",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0044-10637-dusty-boot-road/haper_elv_c_angeline_garage_hardware2.jpg?iar=1&sc=1&thn=1&w=425&rev=aac0e2643b344d7dbc2dd62de7dba15e&hash=E89B723AB3A8DACDBC80FE128E117DCE"
+      ],
+      "name": "10637 Dusty Boot Road",
+      "plan": "Harper",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10637-dusty-boot-road",
+      "id": "10637",
+      "address": "10637 Dusty Boot Road",
+      "price": "$359,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1665",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/3emb/0044-10637-dusty-boot-road/haper_elv_c_angeline_garage_hardware2.jpg?iar=1&sc=1&thn=1&w=425&rev=aac0e2643b344d7dbc2dd62de7dba15e&hash=E89B723AB3A8DACDBC80FE128E117DCE",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/fl_drhorton_tampanorth_robieii_h_stone.jpg?as=1&w=494&rev=c7c3497eb216476cad47f68768ff6cba&hash=C99B5B66054AD02470D62AC6336AA2EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/1fl_tampanorth_drhorton_robie_foyer.jpg?as=1&w=494&rev=a366da4afccf4324b7343c172a85fa9e&hash=68AB4F97D690212351E48E45AE9C3827",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/2fl_tampanorth_drhorton_robie_kitchenanddining.jpg?as=1&w=494&rev=b6dfdee1ff3c4c15b79341bfb9d76ea7&hash=266100054F8548F33CE06EE3AB4382A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/3fl_tampanorth_drhorton_robie_kitchen.jpg?as=1&w=494&rev=a4f9f7ff9bb94c898802d72e4235b3f3&hash=B11B3257F83FF201B76707E5A7BFC669",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/4fl_tampanorth_drhorton_robie_living.jpg?as=1&w=494&rev=6c5ea3257d7c44808c96f2a03ed6de76&hash=248BCA7587B3BA602A796F82D5450E4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/5fl_tampanorth_drhorton_robie_living2.jpg?as=1&w=494&rev=8e3675a2ddfd4962a07c51284106ad5e&hash=5D045F8FA6017E250EC650B522B9D368",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/6fl_tampanorth_drhort6on_robie_dining.jpg?as=1&w=494&rev=77b44502f03b4d798c67f543f654cf7e&hash=69464AF82F4FFC42100B55A40ED7D44A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/7fl_tampanorth_drhorton_robie_downstairsbedroom.jpg?as=1&w=494&rev=ad317359d3684810ad418ee58f5ad764&hash=5CF8FA47F02DB6ABEE60D4BCB513EF8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/8fl_tampanorth_drhorton_robie_downstairsbath.jpg?as=1&w=494&rev=4e9a362197404deeb4bba1da54848c67&hash=D5261E1063E73E28A1B9ECBF3C4A4C0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/9fl_tampanorth_drhorton_robie_loft.jpg?as=1&w=494&rev=9485f873457a41fdad8c6e7a2818999f&hash=E2B03F6C30B0A6966617D82B104BCC87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/10fl_tampanorth_drhorton_robie_bedroom1.jpg?as=1&w=494&rev=b99e0e878afa4f9db962f32db6d6de47&hash=7F4B176224EA303BB7AA336F5857249B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/11fl_tampanorth_drhorton_robie_bath1.jpg?as=1&w=494&rev=0904982d9fd04d6f8b24b425dcbceab2&hash=4B768EA6B091568C7EC37BAABEA7F780",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/12fl_tampanorth_drhorton_robie_bedroom3.jpg?as=1&w=494&rev=c7bd110037984d7fa7c488985d0afa02&hash=22F34C4D16991BBC14C7B50516705DC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/13fl_tampanorth_drhorton_robie_bedroom4.jpg?as=1&w=494&rev=0ae86eb0a1374e99ac26154b8968aa02&hash=0A76CF5DAD56BF759418161A1ADB1EF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/14fl_tampanorth_drhorton_robie_bath3.jpg?as=1&w=494&rev=a6e5a2c097f84f36aec5dcceac656d7d&hash=8BAA998B4CDFC495DD6F88BEC14FCB7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/15fl_tampanorth_drhorton_robie_bedroom5.jpg?as=1&w=494&rev=8513f262faf94eeab8fba8cdd5eb22bf&hash=FC35593B22DA7053ABB02B4C4F765837"
+      ],
+      "name": "10645 Dusty Boot Road",
+      "plan": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10645-dusty-boot-road",
+      "id": "10645",
+      "address": "10645 Dusty Boot Road",
+      "price": "$416,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0043-10645-dusty-boot-road/fl_drhorton_tampanorth_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=c7c3497eb216476cad47f68768ff6cba&hash=265FCC5ADB6B9E4E8CF74745FE8C5996",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/fl_drhorton_tampanorth_robieii_g_stone.jpg?as=1&w=494&rev=7c524dc109b54439831b6e77fb589740&hash=3D4783295D3AE5B5DB79A83804C482EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/1fl_tampanorth_drhorton_robie_foyer.jpg?as=1&w=494&rev=c933a48201b14fbf9060fd6fa284b406&hash=481FFA833978D0AA5FFFA1631129FED2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/2fl_tampanorth_drhorton_robie_kitchenanddining.jpg?as=1&w=494&rev=75d1bf8ee0e745dd9d2b27c909fe54ef&hash=FC1E4441C184299D2D71CA3A8CAEBF18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/3fl_tampanorth_drhorton_robie_kitchen.jpg?as=1&w=494&rev=5ae37092ebd74f6ea31e11b22ff1d7e5&hash=9BCBE0F7D732044B2CD8BB0D07EDE33B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/4fl_tampanorth_drhorton_robie_living.jpg?as=1&w=494&rev=2b6714743d4a49899228e626b4358043&hash=6D305137A0D24017406EDF00529D2592",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/5fl_tampanorth_drhorton_robie_living2.jpg?as=1&w=494&rev=b3965c8a8e344c0aa2ab92cebb000690&hash=D82549C4D6CB4C7EE34A75B485CB8FF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/6fl_tampanorth_drhort6on_robie_dining.jpg?as=1&w=494&rev=df3d36b7151f4f29a3b5bd5ee68a909f&hash=A960956FA5EE3FF5F1B00E892817AF82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/7fl_tampanorth_drhorton_robie_downstairsbedroom.jpg?as=1&w=494&rev=e4c694d9677d48458fc4cd2c8b0c3954&hash=C8C1CFD11E14758BA4A1482A77FEAFF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/8fl_tampanorth_drhorton_robie_downstairsbath.jpg?as=1&w=494&rev=9ae8f2f80ee94fd08fe127af8e6bdb0d&hash=EE1FCB977919F0977DB59B47B7011B9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/9fl_tampanorth_drhorton_robie_loft.jpg?as=1&w=494&rev=987742f140824f79b3f0b1a0cda2dfb1&hash=2D08D4C17C4B17B1098498769201B86B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/10fl_tampanorth_drhorton_robie_bedroom1.jpg?as=1&w=494&rev=96f268a85aeb42fc9f3aaf5f288f2e9b&hash=F272C40931018F5296D7E530C3C2E359",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/11fl_tampanorth_drhorton_robie_bath1.jpg?as=1&w=494&rev=a66b90643bcf441295a15ac0ec2c5287&hash=CE8D130BAA7F650D92AD045542981E41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/12fl_tampanorth_drhorton_robie_bedroom3.jpg?as=1&w=494&rev=5f84ab9c6fb34f5e9250ba02f21bf610&hash=4CC96BF01F5707B4228432B4E43A4FBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/13fl_tampanorth_drhorton_robie_bedroom4.jpg?as=1&w=494&rev=bcdf67bec8284b15b36057366a0e6a2a&hash=81D66E692A2FE45EA3A0AD15FA390BB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/14fl_tampanorth_drhorton_robie_bath3.jpg?as=1&w=494&rev=de6e2deeff78474883b5a67a1daf63a2&hash=CA7E5D8C9332BFD78FEF0185F83CAF06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/15fl_tampanorth_drhorton_robie_bedroom5.jpg?as=1&w=494&rev=f155be86387f45d88d9d5c87be4ad0f8&hash=7DE8D465A465EC9930B469D23FF36E77"
+      ],
+      "name": "10653 Dusty Boot Road",
+      "plan": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10653-dusty-boot-road",
+      "id": "10653",
+      "address": "10653 Dusty Boot Road",
+      "price": "$417,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0042-10653-dusty-boot-road/fl_drhorton_tampanorth_robieii_g_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=7c524dc109b54439831b6e77fb589740&hash=178C70310D72C814C8ABAB0ABBAAE6FE",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/fl_tampanorth_drhorton_robieii_h_stone.jpg?as=1&w=494&rev=c8bc6d495e884aa891c30a4dac626ddd&hash=62134538282635E612CC72BB3C6F4295",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/1fl_tampanorth_drhorton_robie_foyer.jpg?as=1&w=494&rev=8a4b10bc6ecd4d29b2491591286d44f8&hash=C85655B794F454D5916EED1D79359142",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/2fl_tampanorth_drhorton_robie_kitchenanddining.jpg?as=1&w=494&rev=765e918eef914111a723ae771f4401b3&hash=CFE53E2224560BFF2205E40A2A9ED917",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/3fl_tampanorth_drhorton_robie_kitchen.jpg?as=1&w=494&rev=00646890b1524caa9b856d6a2bb6df4b&hash=E40EE9479B3C17AC4B666B1C99BDF536",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/4fl_tampanorth_drhorton_robie_living.jpg?as=1&w=494&rev=c9f43de14a4144838e86ce788188cb9c&hash=C79BE7B9D813C0206DAEDB30A727074C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/5fl_tampanorth_drhorton_robie_living2.jpg?as=1&w=494&rev=a45578d94308447cb1a006ee53af3785&hash=485CAFE845FFA81AF89903062FD9E542",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/6fl_tampanorth_drhort6on_robie_dining.jpg?as=1&w=494&rev=4cf868b684b14c81b6fc77f5cd3d9218&hash=087D1A5B4D78BEB7140B1CE72B55E672",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/7fl_tampanorth_drhorton_robie_downstairsbedroom.jpg?as=1&w=494&rev=974007d0b7664ad18fe6ee98651c7ef9&hash=293F42CEC77703AB7914F12016A93134",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/8fl_tampanorth_drhorton_robie_downstairsbath.jpg?as=1&w=494&rev=7e33f39d49a34447b29e9b8479106784&hash=CE3B5709C85640C5F7D58E13B473244C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/9fl_tampanorth_drhorton_robie_loft.jpg?as=1&w=494&rev=9f09f6c71cd94f188d94fd6ddb90fa92&hash=62FAD5DA3B73FCD28B73B86B331F1A9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/10fl_tampanorth_drhorton_robie_bedroom1.jpg?as=1&w=494&rev=ca70be571d234526959d73287cf3606d&hash=F8692CA447C2F368270C129054EC2A97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/11fl_tampanorth_drhorton_robie_bath1.jpg?as=1&w=494&rev=b9c108648cc04027aca67da07226b8f5&hash=12FED1C6DBFDC30A4DD57EAD2CDB443E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/12fl_tampanorth_drhorton_robie_bedroom3.jpg?as=1&w=494&rev=89507601b973411abf48895172f6a9a3&hash=114991DEA5D54341AE97E166919F50C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/13fl_tampanorth_drhorton_robie_bedroom4.jpg?as=1&w=494&rev=9837a268e9854aa3a72f16ec4e8c8f73&hash=30990A92EF177D186B5B9B66964F186D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/14fl_tampanorth_drhorton_robie_bath3.jpg?as=1&w=494&rev=e8bf4c72565942ef85eaffacd9f81301&hash=86ECEDC14734A3F26BAB893D3A293D7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/15fl_tampanorth_drhorton_robie_bedroom5.jpg?as=1&w=494&rev=48fa0bd3273c4402a94bf597b03a84db&hash=BC4FEAB403E92C25D1EE0623C0484BB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/mostrecent_robieii_blacklines-patio.jpg?rev=09faac9984ec456d9484c3937b427989&hash=F13900E987E8D4010BE4DF1946C80010"
+      ],
+      "name": "10672 Dusty Boot Road",
+      "plan": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/angeline/qmis/10672-dusty-boot-road",
+      "id": "10672",
+      "address": "10672 Dusty Boot Road",
+      "price": "$421,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39381-angeline/393810000-angeline-40s-exp/e304/0039-10672-dusty-boot-road/fl_tampanorth_drhorton_robieii_h_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=c8bc6d495e884aa891c30a4dac626ddd&hash=271755EA8069DC9B3EC9ACE38D84251F",
+      "latitude": 28.30096,
+      "longitude": -82.52754,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Dr. Mary Giella Elementary",
+          "type_and_grades": "Pre-K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Countryside Montessori Charter School",
+          "type_and_grades": "1-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Angeline Country Day School",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Hudson Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Hudson High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Angeline Academy of Innovation STEM school",
+          "type_and_grades": "6-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

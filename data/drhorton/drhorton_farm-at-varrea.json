@@ -1,0 +1,1430 @@
+{
+  "timestamp": "2025-05-30T15:52:54.852413",
+  "name": "Farm at Varrea",
+  "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea",
+  "status": null,
+  "price_from": "$313,990",
+  "address": "3537 Golden Wheat Ln,Plant City, FL 33565",
+  "phone": "(813) 548-6820",
+  "description": "Find a new home in Plant City, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/fl_west-florida_drhorton_camden-b_mirada_no_coach.jpg"
+  ],
+  "location": {
+    "latitude": 28.06205,
+    "longitude": -82.07832,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$313,990 - $499,990",
+    "sqft_range": "From 1,328 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Resort Style Pool Lap",
+      "description": "Resort Style Pool with Lap Pool and Water Slide",
+      "icon_url": null
+    },
+    {
+      "name": "Sports Courts",
+      "description": "Sports Courts",
+      "icon_url": null
+    },
+    {
+      "name": "Gym",
+      "description": "Gym",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex II",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/e302",
+      "details": {
+        "price": "From $314s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,560 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/fl_drhorton_tampanorth_allexii_c.jpg?as=1&w=425&rev=d6433d5b28234e79887e607875a931d6&hash=11C8104B8C4C4D4B6B9EE6C633CB5BDF"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e302/fl_tampanorth_dr-horton_allex-ii-blacklines.jpg?rev=244c984729644255b1a3e2fe85a20b7c&hash=3A6FBB406A54D3E25FCB6616352B4F3D"
+        }
+      ]
+    },
+    {
+      "name": "Archer",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/e403",
+      "details": {
+        "price": "From $321s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,328 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e403/archer_ele_a_with_stone_8-8.jpg?as=1&w=425&rev=ca463f6de7c64c259de055fc02071678&hash=2ADFB5223F572D11D0FA081C89CFD644"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e403/archer_blacklines_resized.jpg?rev=d2d0d73e2ba145f5b0e754edba4a2f0e&hash=92277C5694EB6D7C4BD6C012DD33AC34"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/4eab",
+      "details": {
+        "price": "From $337s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4eab/fl_drhorton_tampanorth_aria_c_stone.jpg?as=1&w=425&rev=3526d2f3e8a444c2a42e74c9fb215d05&hash=C44E2FD9CB6BF439122378A134EA73A0"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=ea31566226314fa19f478406229613eb&hash=51DD6073703A9EFE749597DBC9E1910D"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/4ebb",
+      "details": {
+        "price": "From $357s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_drhorton_tampanorth_cali_c_stone.jpg?as=1&w=425&rev=803544505a8745769c685b07ead6eb1f&hash=DFF8D8331783B7954EC15FB44505D77D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4"
+        }
+      ]
+    },
+    {
+      "name": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/2795",
+      "details": {
+        "price": "From $453s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,794 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/fl_tampanorth_drhorton_camdenb.jpg?as=1&w=425&rev=cb233860df7448bf90f4184ebbd03f0a&hash=998115125F6DB1E79BFB6FE69ABC6AB2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/fl_westflorida_dr-horton_camden_bdf.jpg?rev=3dd600b96afb44d7b65336e9a9632bce&hash=AC8CE6BC7107C7606B6F717407FAA6AD"
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/2767",
+      "details": {
+        "price": "From $421s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,756 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/fl_drhorton_tampanorth_coral-g.jpg?as=1&w=425&rev=737f67a0b39747a78518ff0100f351a8&hash=BF3F3841243B96FD5990A98DDEDFA980"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/fl_tampanorth_dr-horton_coral_updatedblacklines.jpg?rev=f1246b3540fe4ebc825bf93bc42b0ceb&hash=A9AF26D1CB8B59AA9335162BACDACC56"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/fl_tampanorth_dr-horton_coral_updatedblacklines.jpg?rev=f1246b3540fe4ebc825bf93bc42b0ceb&hash=A9AF26D1CB8B59AA9335162BACDACC56"
+        }
+      ]
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/e401",
+      "details": {
+        "price": "From $371s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,371 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e401/fl_drhorton_tampanorth_ensley_g_stone.jpg?as=1&w=425&rev=7905d93894a1437186ad155bb5cdb023&hash=1971718A521FF87A902FFBBEA16C66C9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e401/fl_tampa-sarasota_dr-horton_express-series_ensley_gh_patio-block.jpg?rev=6cf1c84f2965431b9108fc8c5aa9be19&hash=CA2862D334C7F1BE0A72F0906F637A9F"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e401/fl_tampa-sarasota_dr-horton_express-series_ensley_gh_patio-block.jpg?rev=6cf1c84f2965431b9108fc8c5aa9be19&hash=CA2862D334C7F1BE0A72F0906F637A9F"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/3emb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3emb/haper_elv_c_angeline_garage_hardware2.jpg?as=1&w=425&rev=e276139da0074ac5a6d3316087f25c94&hash=E3E4E1FB67E0555CDF57FB9FAB6E5FC8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/3emb/harper_blacklines_25.jpg?rev=642e302d5be749e9ad7783aeec0eda02&hash=8C64BBF6EF1818BF249C254A0D85AEF4"
+        }
+      ]
+    },
+    {
+      "name": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/2558",
+      "details": {
+        "price": "From $430s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2558/fl_tampanorth_drhorton_hawthorne_b.jpg?as=1&w=425&rev=ff688dd47d4a4a21840c7fd9d20d962f&hash=E5790B199A27111EAE35B01536566AA7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2558/fl_west_florida_dr_horton_hawthorne_b_d_floorplan.jpg?rev=80aa9310690049f7b4ab17084cba9405&hash=150546A9C28F1C8FC24CDE6F1A44B524"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/4ehb",
+      "details": {
+        "price": "From $396s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ehb/fl_drhorton_tampanorth_hayden_g_stone.jpg?as=1&w=425&rev=0828eec2103a48c695e7453f67bfa9de&hash=76DD4CD6D6268772A561DB2E0C70CDB3"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=98e360e118644e789cf32a91515529c0&hash=5FA6FAB5C64E0DF99748BB12AFD33C7F"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=98e360e118644e789cf32a91515529c0&hash=5FA6FAB5C64E0DF99748BB12AFD33C7F"
+        }
+      ]
+    },
+    {
+      "name": "Hemingway",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/2924",
+      "details": {
+        "price": "From $434s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,934 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2924/fl_drhorton_tampanorth_hemmingway-g.jpg?as=1&w=425&rev=3d760d49dc534aef8ec888293bdee9ca&hash=4922272D5A361EBF7FAD81D5E59BD5E4"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2924/fl_tampa-north_dr-horton_hemingway_updatedblackines.jpg?rev=66119298c4e04f09abb99babb1ade8c8&hash=E81B9822E5BEB5D925BB85C52793F43C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2924/fl_tampa-north_dr-horton_hemingway_updatedblackines.jpg?rev=66119298c4e04f09abb99babb1ade8c8&hash=E81B9822E5BEB5D925BB85C52793F43C"
+        }
+      ]
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/3129",
+      "details": {
+        "price": "From $446s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,313 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/fl_drhorton_tampanorth_holden_g.jpg?as=1&w=425&rev=c1695951b5b640f888c6a54b6370da43&hash=8E2943D9A48CB3664E58D66583D24936"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=1426444ddd624c72808ab5b289571c4d&hash=3955EBA201FB9A76DAE8840F58445427"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=1426444ddd624c72808ab5b289571c4d&hash=3955EBA201FB9A76DAE8840F58445427"
+        }
+      ]
+    },
+    {
+      "name": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/3278",
+      "details": {
+        "price": "From $475s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,278 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/fl_tampanorth_drhorton_jordynii_g.jpg?as=1&w=425&rev=69d1adc44a1743bf8a30a6faed4721cf&hash=EAE1ED822CF5CCE3E3C1DFF7F89CBAE4"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/fl_tampanorth_dr-horton_jordyn-ii-blacklines_patio_new.jpg?rev=8307f4f22ecb470cb3881c6763fab401&hash=FEDAE04147C4617A966D84684215F13B"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/fl_tampanorth_dr-horton_jordyn-ii-blacklines_patio_new.jpg?rev=8307f4f22ecb470cb3881c6763fab401&hash=FEDAE04147C4617A966D84684215F13B"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/e402",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/e402/abbott_park_lakeside_blacklines_for_web.png?rev=93cd85a821d0429c816fded80d19ba6d&hash=94C50C24816888A6744331651D6AF3E0"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/2045",
+      "details": {
+        "price": "From $381s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/fl_tampanorth_drhorton_lantana_b.jpg?as=1&w=425&rev=b9408e30e7d94cb2a54815b3fe63b0ae&hash=A007EC8BDD40F5245A3E58BC44E78ADC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/fl_tampa-north_dr-horton_lantana-without-den.jpg?rev=3504238661ae4a6db2129fac6742feda&hash=BA544841A38FDC2D0515CBF2F8FB67C3"
+        }
+      ]
+    },
+    {
+      "name": "Robie II",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/floor-plans/e304",
+      "details": {
+        "price": "From $375s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,453 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e304/fl_drhorton_tampanorth_robieii_g_stone.jpg?as=1&w=425&rev=4a73c4ee85bb4df7ba9b8e041bc5c65b&hash=C263CEE7824DBD57C4F66C4E408F95E6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e304/fl_tampanorth_drhorton_robieii_patio_blacklines.jpg?rev=b662a055962a424eb7f93029f57a3b76&hash=C2726A4D0C62986226F3F147AE2CA27D"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/e304/fl_tampanorth_drhorton_robieii_patio_blacklines.jpg?rev=b662a055962a424eb7f93029f57a3b76&hash=C2726A4D0C62986226F3F147AE2CA27D"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/fl_drhorton_tampanorth_holden_h.jpg?as=1&w=494&rev=5b825ac992f94e1d8ca79e1bab1df2da&hash=B0F9ADF07E7F936B1CF569411440A2E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/1_tpa_holden_quartz_tile_foyer.jpg?as=1&w=494&rev=5ed9383b0d84458fb3f427a1635990b6&hash=15D34FBAEBD09D23515577AF16BFCBD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/2_tpa_holden_quartz_tile_office.jpg?as=1&w=494&rev=ad70f59647ea48cf8ae7a50fab1e6770&hash=BE411B3F8AF8D0569D77A08BE62B34B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/3_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=79f851a2475c42389edaccdecb55771f&hash=C3237536401D835C400EA3855807A728",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/4_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=8d5005aa1e6b4a9693ef307f9f2dfd54&hash=A542AF07DE7E559F01984DCCB1E576DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/5_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=0737713f3c5d4835aa152e89b5343acf&hash=D8E9C77163B85406F28FBAE5FB338CB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/6_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=47fda0b17158418b883e96249a645d1e&hash=D2ABE57C9458864D78ADFEB7076EDCCD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/7_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=05c2bd0e90714ea5995cfccc1eb4d9c9&hash=D220C929204C3F5BC641959603E64C21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/8_tpa_holden_quartz_tile_dining.jpg?as=1&w=494&rev=bb1d9bac00ba446a8af66da1289ebd9a&hash=A48862755A7D699CE97742F9347DF553",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/9_tpa_holden_quartz_tile_living.jpg?as=1&w=494&rev=c30bdb9334904d6b9f8de0b0c89e3417&hash=C9EA1D2F8484A9E144395D34C0E4E8B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/10_tpa_holden_quartz_tile_living.jpg?as=1&w=494&rev=4cf47e462dd541f884a46fb49cd3fbe0&hash=6047D65C02FD9D109CDE3B9310968AF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/11_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=a742f90807d14f52b793afab6507541f&hash=6D501F685E504934733F0BF91808DCAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/12_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=f0cace0e3a754d1282780102ac34a366&hash=1F76B66E92EEA5F7AB5D2F1503494645",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/13_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=6da4dfef824c46049661078b065e87f3&hash=C1EB94F54975C177B0005B52D4F609D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/14_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=9bb0306e9e514f8bb539cbd5cacefab8&hash=5CA29CB2983E666E238ECA77F83A5FC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/15_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=fa5176553ad74ee9ab79279d984dbd93&hash=4152D9431FE9FC7962D054484193A50B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/16_tpa_holden_quartz_tile_loft.jpg?as=1&w=494&rev=4658cf62c2ac4642bb100e04a1c860e1&hash=F436D63699EDC4B92A565E2F822B9A58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/17_tpa_holden_quartz_tile_loft.jpg?as=1&w=494&rev=cf7278f096e14a798f2fde549a70b30b&hash=500E7F5A0EED395AA30C8A5926FA3194",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/21_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=aab9409111644906af01271076165245&hash=024887CD5269FE101149AC3A1F1FAACA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/22_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=9688dc99730447f9955dd36d8ad4e2a7&hash=EB80A2CF0464D267B93A335AAE2FB937",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/23_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=dc57693fa3ba4b6eb13caddc8dbdcf6c&hash=3FA0D08021E3438E5B26B62740E4660D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/24_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=8d544970bff149878c02147310a58abb&hash=F4868028D37B7AB9D4F586E9F0321A3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/18_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=7bc23fb52ab242c895d0d54565157696&hash=C2DEDBC1F2C99F4B863765B6BCDC6943",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/19_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=fb2f3b501dbf4babbbb99b73ed1762ee&hash=6B8A04004BBB149D72CAD7DF670E976C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/20_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=5cf2a7dc4790453aa9f5d9ef2bf26045&hash=1B7AC9A2FF8F3DCD136BE2083834AF06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/25_tpa_holden_quartz_tile_closet.jpg?as=1&w=494&rev=228443a360c3414eb976ccc13908c4f9&hash=4C9C6433B850AE287C3C7E9D7F908738",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/26_tpa_holden_quartz_tile_wash_dry.jpg?as=1&w=494&rev=0f37af450a5041c0bada45fa2016c5c8&hash=4D111EDCF2E0A897C69508EE72411975",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3310 Amber Waves Dr",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3310-amber-waves-dr",
+      "id": "3310",
+      "address": "3310 Amber Waves Dr",
+      "price": "$464,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0081-3310-amber-waves-dr/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=5b825ac992f94e1d8ca79e1bab1df2da&hash=6083385313CE0462D902AD1A22224E0E",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/fl_tampanorth_drhorton_coral_h_nocl.jpg?as=1&w=494&rev=352d1e55709f40de944a1403aa2aa87e&hash=FBAA64825C403A6F6B1D8B10BA33D26B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/1fl_drhorton_tampanorth_coral_flexroom.jpg?as=1&w=494&rev=379d63ede68b447f8c450392f14ad85a&hash=6451BB64EDA264EBCFB56637D61B2129",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/2fl_drhorton_tampanorth_coral_kitchen.jpg?as=1&w=494&rev=7dc0ec84d2f940cdb3f2bee7d14fab2e&hash=B3A89DC947EF08E0B50255C3137BEF4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/3fl_drhorton_tampanorth_coral_dining.jpg?as=1&w=494&rev=97a37bb11ecf4f61888b357e7902b42b&hash=FAA15B116991301F88103A16F984DCD6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/3fl_drhorton_tampanorth_coral_diningkitchen.jpg?as=1&w=494&rev=99793722714840168604dc36526ad0e8&hash=8689959EBD7EFBDD20371D113CADAD62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/4fl_drhorton_tampanorth_coral_diningliving.jpg?as=1&w=494&rev=963b2ef6050247b983ccf5e51e6e52f9&hash=13BE94F19F848C8F7F5FD6A7069F02E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/5fl_drhorton_tampanorth_coral_lliving.jpg?as=1&w=494&rev=913a524f5ce743a9a95df24df938a80d&hash=62E2DFBB878F9324FD104D77767AC094",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/6fl_drhorton_tampanorth_coral_bed2.jpg?as=1&w=494&rev=55da0678b9774f38a071f27a59373c94&hash=5044A4F50F8E2FC7664266B2E84E834C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/7fl_drhorton_tampanorth_coral_bath2.jpg?as=1&w=494&rev=44dda60517214491ab257334ebca853a&hash=13C7D976F808D8CB5CC8E8F8E5129159",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/8fl_drhorton_tampanorth_coral_bonusroom.jpg?as=1&w=494&rev=d8c5039521cf4fec8564c69cc9a699b6&hash=52ED1C96D5F47E59A1178383D54A2C42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/8fl_drhorton_tampanorth_coral_bonusroom2.jpg?as=1&w=494&rev=7aa4874fb9f24928a13c24484f5fd581&hash=266F9A4DABF184A10D8CD609B6EEFDC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/9fl_drhorton_tampanorth_coral_bed3.jpg?as=1&w=494&rev=80d1798a03594b58842992426455be05&hash=CE0EB8888E0C054A41C2457D7671A7E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/10fl_drhorton_tampanorth_coral_bath3.jpg?as=1&w=494&rev=f998013889da453bb1c52c6902907b8b&hash=BB82610B8466C3B954EE8F1AEC26FB4C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/11fl_drhorton_tampanorth_coral_bed4.jpg?as=1&w=494&rev=dbb3c27d10944bde9080df6918f6965d&hash=54255E802C7E3E4152585ACEC57BBC62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/12fl_drhorton_tampanorth_coral_bed1.jpg?as=1&w=494&rev=d7f79d3925f54eb9834faa85bfa3874d&hash=7F95032F1815FA907F35AC423FB940A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/12fl_drhorton_tampanorth_coral_bath1.jpg?as=1&w=494&rev=6f7e931119c04524bf5d215922198464&hash=2111EA487EAE55207F1C6457BB32DCA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/fl_tampanorth_dr-horton_coral_updatedblacklines.jpg?rev=f1246b3540fe4ebc825bf93bc42b0ceb&hash=A9AF26D1CB8B59AA9335162BACDACC56",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3316 Amber Waves Dr",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3316-amber-waves-dr",
+      "id": "3316",
+      "address": "3316 Amber Waves Dr",
+      "price": "$437,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0083-3316-amber-waves-dr/fl_tampanorth_drhorton_coral_h_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=352d1e55709f40de944a1403aa2aa87e&hash=A0BD6BA9536E6A6F28F5B80C76FC8B91",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/fl_drhorton_tampanorth_holden_h.jpg?as=1&w=494&rev=daa8e738fda440c1adad20f3fa938e9d&hash=862C412EA5F989057F41F83D50A1EF9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/1_tpa_holden_quartz_tile_foyer.jpg?as=1&w=494&rev=24f0c0f11fec484cb65d8c575c1af6f9&hash=8CE622C3C545940DD999FBD512381F54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/2_tpa_holden_quartz_tile_office.jpg?as=1&w=494&rev=8a9ad6ea8a544425aebde1972cf99d75&hash=BE6168C71BA5C4DFE0F41B056058E78D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/3_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=20a0641053d142bdb5f97a4eddb13949&hash=3819251689818E667FA9DB4243C3CD5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/4_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=009d438eb8e04c349f8e568d9d4bee09&hash=90D891E53B69A047F8BD8DA8950DC076",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/5_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=374fe3598a2a4bdebfdd89d6d2b708c8&hash=2706482EF4B8C6CC33E0EF123E28C423",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/6_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=588a70b909554718a3d51248102b59e9&hash=264D0443B90F440F07BA9F47A91DFAC2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/7_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=871a25d6cdc84b359ac45c601daad700&hash=48A035835BCF13930528C757883DF6ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/8_tpa_holden_quartz_tile_dining.jpg?as=1&w=494&rev=6b6176fcc43f4436a7803629d7368ca4&hash=692AF204D2A64B58D970F035632A35CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/9_tpa_holden_quartz_tile_living.jpg?as=1&w=494&rev=59e70aae88b244a094144ba5a4b730c5&hash=2C0111E72DAC4727151D3E35E826EAB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/10_tpa_holden_quartz_tile_living.jpg?as=1&w=494&rev=9a9304cab9894cb08dc4a0731cf47ebb&hash=B9B6F5033774C083C1145DB7EB4C604B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/11_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=dddf05aa66154adcbf803a115df91878&hash=48857751753DB90AB3B1E9F54F320C94",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/12_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=e63284ed83e54a60ab1ad574d3221c37&hash=8664770CE6F8DB4AF3AD1B7789F9C225",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/13_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=b54dfd172d7d462abb2e7ed18c7a1462&hash=6550B95602D247E5420A52E3D960BDEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/14_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=2d1c457af7784430af255f5de77dd6a1&hash=CC904E7F4D9E2366914A687CEC672C9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/15_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=97a6670532874a4484aa19c1a4be9b84&hash=EC72F2A92DFAF42E05538308A23A54F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/16_tpa_holden_quartz_tile_loft.jpg?as=1&w=494&rev=008877aa028d49f99a99c37002eae33e&hash=92C2DD66107A6C7B4918540152364A4A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/17_tpa_holden_quartz_tile_loft.jpg?as=1&w=494&rev=e3636de59df24eb3b01292703174e1ed&hash=6130228D101AC45992E7CB2F2533520A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/21_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=138e8d9484984f76ba229360be1cb4c7&hash=4ECFA581904ABBAF8601D04564C7AE17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/22_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=38b8390f6e7a493aa0c81c4f97137a2e&hash=7D54F486C26E212F191B7AFFC6B77733",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/23_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=4b02f46c385b4090bdda4aa793005b45&hash=65946077C60312B65459C0D3E98D52B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/24_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=9adc2c7e96fa45a796c8ee7bc2a192b2&hash=EA4A9713509BAAB4E0CF7AE777B1E0F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/18_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=8f482d312b2d4c589eb57634254fec1f&hash=A6048C6B9BE6D26156B9B8A909048638",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/19_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=b0129c5e838744539f709f89be56016c&hash=D4AEED2392C156AA561A51956790D0B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/20_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=c89826339be14f6faac2a8b8ae772bb8&hash=D77C7EDE4AA998A2CB9F85B9672EE560",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/25_tpa_holden_quartz_tile_closet.jpg?as=1&w=494&rev=3f85cbf1b5904b1e92b27b4d122c0f77&hash=65C025C2C53A8D2D6206B85927E5CD18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/26_tpa_holden_quartz_tile_wash_dry.jpg?as=1&w=494&rev=d249aea195a84609bcce8673285639b2&hash=5DE5F35091FCEB9644025482E3AE346B",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3318 Amber Waves Dr",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3318-amber-waves-dr",
+      "id": "3318",
+      "address": "3318 Amber Waves Dr",
+      "price": "$469,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0084-3318-amber-waves-dr/fl_drhorton_tampanorth_holden_h.jpg?iar=1&sc=1&thn=1&w=425&rev=daa8e738fda440c1adad20f3fa938e9d&hash=19F55C041EFD39D447EB0093CC7731C0",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_d.jpg?as=1&w=494&rev=ee8309549bce4d10a3ab9a6579b5843c&hash=F9DA6BC8A2F4F8FC0DAD0CC1FAA7CA24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_dining.jpg?as=1&w=494&rev=25d394fa31484118834014c3cfc1256e&hash=8C6B1736C3197ECAD8F40E0245B7D384",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_livingdining.jpg?as=1&w=494&rev=7a42b8bb32864dc7b3c16f05f896117d&hash=A0AFFAD56674EDDD8081E2CA12F9DF85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_livingdining2.jpg?as=1&w=494&rev=c9aee1a2b99149048aa1589887a7651e&hash=3195D73EBEE99D4C49E252C70238E89B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_bedroom1.jpg?as=1&w=494&rev=54a99ff3849b4fd3b7c2fde78f2d88e8&hash=BDBEDA1D5219689FA223E0A95D7CCF05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_bath1.jpg?as=1&w=494&rev=b524df98a16d4094ba49cd9593207400&hash=BF8BF7E508F24A239C1C6550173EF24B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_bath1_2.jpg?as=1&w=494&rev=c203a5de130f4844afeed945252f3aec&hash=CC63FEEC2F3774A96ED27AD0172D08C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_bath2.jpg?as=1&w=494&rev=34d24426f76d4b28863a79dd3ed6b629&hash=C1397D552E5027595CA41DF65AA45BD8",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3320 Amber Waves Dr",
+      "plan": "Lantana",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3320-amber-waves-dr",
+      "id": "3320",
+      "address": "3320 Amber Waves Dr",
+      "price": "$399,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2045",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0085-3320-amber-waves-dr/fl_tampanorth_drhorton_lantana_d.jpg?iar=1&sc=1&thn=1&w=425&rev=ee8309549bce4d10a3ab9a6579b5843c&hash=1035CC059665B37F18068C8BFA787567",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_drhorton_holdeng_nocl.jpg?as=1&w=494&rev=05504ba758bb43e694d911dbdf6e8d06&hash=7FB8CA21705B323EA0F87DE7AD7A4B56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/02-kitchen_dining_finalcc1.jpg?as=1&w=494&rev=dd032dbbc4cd460192e67ace2b432415&hash=1FB048C73362D75643F83EED95A56812",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/03-kitchen_final.jpg?as=1&w=494&rev=6ead551def3646cdaff1941a88a2d038&hash=B63982541DC7B340AF134A7281921BD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/05-great_room_dining_finalcc1.jpg?as=1&w=494&rev=f5177a01c3624f3c8cb169464c2e47fb&hash=A3767D044FEFC915E523BBC86900F8B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/04-butler-s_pantry_final.jpg?as=1&w=494&rev=21867df6220549929f65b823c59f6653&hash=1948B0755682B3B5B8E4D1089B1093B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/04-great_room_kitchen_dining_finalcc1.jpg?as=1&w=494&rev=41f882d969b04b6eb0f90bca3566b6c2&hash=5CDB8912F0A394920B62CC32B4BF6227",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bedroom1.jpg?as=1&w=494&rev=c9e874080a5f49ce9bcdae736d10423f&hash=2FA1D73E2912BC88C62A1FC5F4597875",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bath1.jpg?as=1&w=494&rev=98747d021ed64a1f82ac0250de622154&hash=FB2EBB99A410DFE5E77B9FEED3261ED6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bedroom2.jpg?as=1&w=494&rev=84e9816498ac4b41b4076445b28645ee&hash=9A11382575BE5D126813A2F7B867C197",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bedroom.jpg?as=1&w=494&rev=2de155ac5a4c425ca297c967b41757b7&hash=8C3E1031E34BDC6EBB1F06DD67022F23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bonusroom.jpg?as=1&w=494&rev=ccc0f3bc50f640ebaf9cd9f3011e0ff0&hash=9EAB0899C393BC4FAE4F8326CA14D582",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/01-flex_room_finalcc1.jpg?as=1&w=494&rev=66c452b7111a44a59146d272f26fb83c&hash=65D17F342707ADACF255E2F32371922C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bedroom3.jpg?as=1&w=494&rev=dcdf8aab4a4040b18356f2003a87e4af&hash=E9521574ECDAE277464FA5BD27E7F4A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bathroom3.jpg?as=1&w=494&rev=3dc3210e25ea4812b98965263eb08e25&hash=F8C082F8A2AD149ABD79B1692BE4A8F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_dr-horton_holden_bath.jpg?as=1&w=494&rev=3ce8e1f3a83e4f5a812959eb0a3b5bcc&hash=1588A9D0BCE255F08FF42942954385EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=1426444ddd624c72808ab5b289571c4d&hash=3955EBA201FB9A76DAE8840F58445427",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3322 Amber Waves Dr",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3322-amber-waves-dr",
+      "id": "3322",
+      "address": "3322 Amber Waves Dr",
+      "price": "$467,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0086-3322-amber-waves-dr/fl_tampanorth_drhorton_holdeng_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=05504ba758bb43e694d911dbdf6e8d06&hash=0F31DD43052A1B32A51D2C4C13F0E21E",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/fl_tampanorth_drhorton_lantana_f.jpg?as=1&w=494&rev=4816a1cbbf384caabf239f7a9c81fa6c&hash=84F016B7D2D02FE851D006E93C41CADE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/5-custom-pleasantview_blvd-04042025-1-005.jpg?as=1&w=494&rev=55544d5cf2ac44cf903edea8ac0c86ac&hash=7939E5D8D13F054D1F46135C21531283",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/6-custom-pleasantview_blvd-04042025-1-006.jpg?as=1&w=494&rev=9a46208b63d04770838a2a5259563926&hash=6EDBCFAD396163E3330AE39694446777",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/7-custom-pleasantview_blvd-04042025-1-007.jpg?as=1&w=494&rev=6ecd3cbaeec04e4a88bfc5d8fe6668c6&hash=59425AA294A5E7DBC5DA43B3BE922C00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/8-custom-pleasantview_blvd-04042025-1-008.jpg?as=1&w=494&rev=9f09e0cd5b4a4d579b17805fe2530509&hash=BC8AF088BED54AB01D46C26AB7B6FEFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/9-custom-pleasantview_blvd-04042025-1-009.jpg?as=1&w=494&rev=d93097a3335a4174b526b8ee75e3ff8e&hash=AE40E57350081272B8B1CBA0552B997D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/10-custom-pleasantview_blvd-04042025-1-010.jpg?as=1&w=494&rev=8b110d5122cd43ffb1e5d60e107c3033&hash=0C2198B3EBEA0614ED187C11A5605DF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/11-custom-pleasantview_blvd-04042025-1-011.jpg?as=1&w=494&rev=c6acc60960474b38b77e97b6754e5d4c&hash=3CB91EE8C45205746D0E7E0A8CAAF208",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/12-custom-pleasantview_blvd-04042025-1-012.jpg?as=1&w=494&rev=4012b262bbe1445eab6942cf4787c3fb&hash=74F768D85768BE9E1E8AEBBD9F60A5EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/13-custom-pleasantview_blvd-04042025-1-013.jpg?as=1&w=494&rev=546210e86e9c4e5ea08ae0554a61ce92&hash=CB5A00203AA4071C0D8BDCA1566CBC8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/14-custom-pleasantview_blvd-04042025-1-014.jpg?as=1&w=494&rev=fa562b4a0fd74459887068d54ae43f05&hash=E1EFEC4B6277799D73FDB2BBDD34994B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/15-custom-pleasantview_blvd-04042025-1-015.jpg?as=1&w=494&rev=de1cd24c9b234d87af4b4e842c8ff45a&hash=1F5A435DC0D63B39CBA5CB9C5702CC0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/16-custom-pleasantview_blvd-04042025-1-016.jpg?as=1&w=494&rev=d6713f5f4f4e446da8ef575d27993aeb&hash=DE6F92CB0A7C7D4A1C50BB2D2B311FD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/17-custom-pleasantview_blvd-04042025-1-017.jpg?as=1&w=494&rev=417188d33af94ddab4c32e433352dd76&hash=0D514C427C22E08D1540B34C4724E627",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/18-custom-pleasantview_blvd-04042025-1-018.jpg?as=1&w=494&rev=b0bdf8da6936441aad3cc751af5982b8&hash=68ED410B0ECC25EC74566FC503CB0079",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/19-custom-pleasantview_blvd-04042025-1-019.jpg?as=1&w=494&rev=ebe6a22c0287492bb9c27b92397da55f&hash=8B83B1A23BE9EA235FA089F2B94C63D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/20-custom-pleasantview_blvd-04042025-1-020.jpg?as=1&w=494&rev=0a6c9cca6fdf4161af21b432a413314e&hash=B96DD11A32909A40D43216C0068E9832",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/21-custom-pleasantview_blvd-04042025-1-021.jpg?as=1&w=494&rev=c05ecf19d32e4ef9aaceb484d2d31d83&hash=21C86FB785D49E123E6956694973A562",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/22-custom-pleasantview_blvd-04042025-1-022.jpg?as=1&w=494&rev=b0b96fc40080454d8028228f7bc24f04&hash=93AE9F132F8AD95B6F8BB07C546D4911",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/23-custom-pleasantview_blvd-04042025-1-023.jpg?as=1&w=494&rev=34bc10f846f34ac39a1fc75860987409&hash=0B03C678A03FB974ACCE14FD499B7E4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/24-custom-pleasantview_blvd-04042025-1-024.jpg?as=1&w=494&rev=b69f12070b804c84b5320a926517322f&hash=74101DE4AEFE766F2D55B5ABD2340A71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/25-custom-pleasantview_blvd-04042025-1-025.jpg?as=1&w=494&rev=32a97779313c41a58e88cc03e76173ed&hash=4C818AEE6F7AA35563B412A96E1BFD3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/26-custom-pleasantview_blvd-04042025-1-026.jpg?as=1&w=494&rev=e75379613ace441a9d9f3e91a6eeef09&hash=9C5ECA43CDD391FBFFE9CE3F4CE5C507",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/27-custom-pleasantview_blvd-04042025-1-027.jpg?as=1&w=494&rev=dba13f049e5b458b83b32b74c622227a&hash=8FC9F6F23D4DBF7993F7DF985D8AE887",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/28-custom-pleasantview_blvd-04042025-1-028.jpg?as=1&w=494&rev=e5cd13d8598a4cf88be5358e9392f256&hash=848C50DF8B85CEDC0C0620E9EE3D6DAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/29-custom-pleasantview_blvd-04042025-1-029.jpg?as=1&w=494&rev=95e995f1a55944e1bf2abe732795a762&hash=30DEDD27B8E8C9F531C846CC6FBEDE55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/30-custom-pleasantview_blvd-04042025-1-030.jpg?as=1&w=494&rev=dce3102d57e543cc912957a997571073&hash=1E81C5D04171A0F522B1DA2F1526B911",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/31-custom-pleasantview_blvd-04042025-1-031.jpg?as=1&w=494&rev=0bf469673ba44024994335102939365d&hash=B77C360F24792BDA9F9D74C79B269FD6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/32-custom-pleasantview_blvd-04042025-1-032.jpg?as=1&w=494&rev=6a7d6341afbb49d9bbd5a4ce2ccc7b05&hash=BE6CECA172264749F66436BCA36BB586",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/33-custom-pleasantview_blvd-04042025-1-033.jpg?as=1&w=494&rev=87acaca38ea640439aa07e9a9ae256c3&hash=77C44456784D72F50E5B4915798051AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/34-custom-pleasantview_blvd-04042025-1-034.jpg?as=1&w=494&rev=ce5fefbca2784978bd537355708601e3&hash=147B202AEC0E20ABA53E20368ED64062",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/35-custom-pleasantview_blvd-04042025-1-035.jpg?as=1&w=494&rev=e439fb1ea9624314b03bec2b678248fb&hash=629C98863EC6D546C0D5EAD75DF160B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/36-custom-pleasantview_blvd-04042025-1-036.jpg?as=1&w=494&rev=83d0695f4734469f87e5908ffb0473c4&hash=5F4D4E24CEA216913CD1FA9B51B88E89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/fl_tampa-north_dr-horton_lantana-without-den.jpg?rev=3504238661ae4a6db2129fac6742feda&hash=BA544841A38FDC2D0515CBF2F8FB67C3",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3324 Amber Waves Dr",
+      "plan": "Lantana",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3324-amber-waves-dr",
+      "id": "3324",
+      "address": "3324 Amber Waves Dr",
+      "price": "$412,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2045",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2045/0087-3324-amber-waves-dr/fl_tampanorth_drhorton_lantana_f.jpg?iar=1&sc=1&thn=1&w=425&rev=4816a1cbbf384caabf239f7a9c81fa6c&hash=6072679C746A7F6EFB827D1F767894B5",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/fl_tampanorth_drhorton_holdenh_nocl.jpg?as=1&w=494&rev=b753ba3809654837bc91ed2ef0401c68&hash=E50BFD5F0FD9FEF4A6B8441861DE35F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/1_tpa_holden_quartz_tile_foyer.jpg?as=1&w=494&rev=accd9b60604f41e5961f7b0d2098f4c0&hash=8DE6E566FB59F4697050E275CF25B0AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/2_tpa_holden_quartz_tile_office.jpg?as=1&w=494&rev=73ffac372e8c4723a226950130962787&hash=694883D151EEA0643CDE782F78779BB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/3_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=1ecdd84e20b7400abd1e914653267bc1&hash=06FE633F5B15B6658BA2A3DE1320A18A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/4_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=8e12cd40fa6445e9a5849b0b44b09373&hash=7617F46EC01534BA6B4E0714BADD255B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/5_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=73e9a4ccf30d4087afc679925ba3c4f9&hash=5822D2E972DE0F44F24BAC2B02CC58D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/6_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=699a659a532f4c8fa26045f53bef50bc&hash=CEE43223D34ED93532F16F704BA38338",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/7_tpa_holden_quartz_tile_kitchen.jpg?as=1&w=494&rev=f8f06203f1794faebccde816ba45da28&hash=E88F237F67D3B76034C593878C9DE1AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/8_tpa_holden_quartz_tile_dining.jpg?as=1&w=494&rev=393ff34e9667495abfebb6f598abea45&hash=188CD75DA9F95F7E7C686778197FC256",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/9_tpa_holden_quartz_tile_living.jpg?as=1&w=494&rev=cc9e1ec4b86145c5843ad78e14010d3c&hash=4AA7CC5116096B728B56C865AEBC8918",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/10_tpa_holden_quartz_tile_living.jpg?as=1&w=494&rev=3d380229a39a4013bf74534d02329be7&hash=C2D9ED2E4E0CDE499B2FEC9A962B9354",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/11_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=8b01412859f54b43819ec8813c7409f7&hash=1985B51AEF1AD698C14B527E4AFD4581",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/12_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=8fbb6dc216a643ac976d67be955724f5&hash=A40AFE4E763C47C67E7B55F4DFA34900",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/13_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=26e0bca9e3e04de0b4dd479cfa26f87b&hash=5563E235FCDC74BBE0A9DB4C471CB3B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/14_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=e3e65449c9674e69a6236b4913e90080&hash=B6A3642DBA66F20859D73D80791FD59C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/15_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=dd47d8d8e3914406898d64238964aca4&hash=8423ABA13AB157E65A59CB9FB1171536",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/16_tpa_holden_quartz_tile_loft.jpg?as=1&w=494&rev=bafebe9e90fd4bfa99dba7cae40bf60c&hash=B85FCE3F96CC51871DC34BB333867DA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/17_tpa_holden_quartz_tile_loft.jpg?as=1&w=494&rev=a0fcfd50523940bfa2ad72038ed8462e&hash=D9591D93B45BD62F7E2EAFE623DC1C72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/18_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=07989be30b674919838caf92208a0cd4&hash=56F57948D10DC71D9BEB7CC6BDA46FA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/19_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=5a94cc80e803433eab92b3edb31ab94e&hash=31A0DEC03E08405D15FC11C128ABC1F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/20_tpa_holden_quartz_tile_bath.jpg?as=1&w=494&rev=7a54c78b1950498da8bde728d3d1b425&hash=7CA7C92537541428CBB1CD6CF45A0CCE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/21_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=a93cf4f321894627b084267bb86d134a&hash=AAF16B35B242B7BEBA73C46FA775EAF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/22_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=82e3216ebd3940b496afeea5d7fdbac3&hash=5DE371893188537FB82715BEA94E7C5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/23_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=8854e7575d1446b8934c36eb344c84de&hash=175F807E3168915AC9407826B0769D35",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/24_tpa_holden_quartz_tile_bed.jpg?as=1&w=494&rev=6c84605e58524595ab7bc3b76b6361df&hash=CA2F3E44E8B817FFB5DB2F5F66AA15BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/25_tpa_holden_quartz_tile_closet.jpg?as=1&w=494&rev=5d1b8501457d49cc80dbbdb2502bc629&hash=58502F00C5283950665691C33FD788E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/26_tpa_holden_quartz_tile_wash_dry.jpg?as=1&w=494&rev=7516902f191840309114381b1a146a84&hash=0D1A2AA7CB6D31F8386A7EBBA2DEE819",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=1426444ddd624c72808ab5b289571c4d&hash=3955EBA201FB9A76DAE8840F58445427",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3326 Amber Waves Dr",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3326-amber-waves-dr",
+      "id": "3326",
+      "address": "3326 Amber Waves Dr",
+      "price": "$474,740",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/3129/0088-3326-amber-waves-dr/fl_tampanorth_drhorton_holdenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b753ba3809654837bc91ed2ef0401c68&hash=85C7E9834207DA91A9B45E6D1D814090",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/fl_tampanorth_drhorton_coral_g_nocl.jpg?as=1&w=494&rev=27b5218eb44d46d6be26dd38beaf5515&hash=0811F6BAE15524988EED5CBAF0A2CA7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/1fl_drhorton_tampanorth_coral_flexroom.jpg?as=1&w=494&rev=d427ff83da2a489faee2ddbd1ccf956b&hash=ACC3AB5633B45142A5E4D0B9FD37B739",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/2fl_drhorton_tampanorth_coral_kitchen.jpg?as=1&w=494&rev=230490d9e9824e5f93351fc6eff620c6&hash=8B1E373EBDB78362BD8C218B5AB84112",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/3fl_drhorton_tampanorth_coral_dining.jpg?as=1&w=494&rev=29758da7cefe4e43836b616d5ce9c3ae&hash=BDBE78DB56EFB04729606F8530E6E655",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/3fl_drhorton_tampanorth_coral_diningkitchen.jpg?as=1&w=494&rev=bcd2b5b324d44472ab95f598949cc36f&hash=D507DB43CD8DE70984729DABDECD0745",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/4fl_drhorton_tampanorth_coral_diningliving.jpg?as=1&w=494&rev=5a142595c6e04ca99fd16291078030b2&hash=9E8E45309C80A87C05D57AE2978CECEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/5fl_drhorton_tampanorth_coral_lliving.jpg?as=1&w=494&rev=867058d1c6fc41708c4b87be068ac3c1&hash=A12D4E6EABB52DBE92C15140D445862A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/6fl_drhorton_tampanorth_coral_bed2.jpg?as=1&w=494&rev=c52ec8a6f67f4a06a6d192aa182b22e0&hash=ED15C200CAE62EC38D89BA3555E6A790",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/7fl_drhorton_tampanorth_coral_bath2.jpg?as=1&w=494&rev=78a490ec71ba407e9ffad5d103a86ce9&hash=ED25E044C24B073686E1587C10ED4721",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/8fl_drhorton_tampanorth_coral_bonusroom.jpg?as=1&w=494&rev=dc146d6f3cb5428ea3ebf86fd81ff509&hash=9BEDB5EE165CC910D8A9C28E440D7ABE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/8fl_drhorton_tampanorth_coral_bonusroom2.jpg?as=1&w=494&rev=225ab6823b9d45c8a4c12404deef9b31&hash=67ED79E23E3BB3D1B472A972705EFA8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/9fl_drhorton_tampanorth_coral_bed3.jpg?as=1&w=494&rev=300d052b0b924aa1ae5adc66b141b7b7&hash=C28A0CE98331D4FE3FE71883687F081E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/10fl_drhorton_tampanorth_coral_bath3.jpg?as=1&w=494&rev=2cf188b2ffac4406a7816713139a0c1f&hash=2FC36FCC729591E728D5517C1AB835C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/11fl_drhorton_tampanorth_coral_bed4.jpg?as=1&w=494&rev=b1588c9251664534aa751c694d97f978&hash=1FC60DFA4463A7384B2BDDBD1AD87FB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/12fl_drhorton_tampanorth_coral_bath1.jpg?as=1&w=494&rev=e448c19bbfcd4b28a434e95bf954e7a0&hash=FB3B7E0D5C1FE923EEAC1AD2CF9D895D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/12fl_drhorton_tampanorth_coral_bed1.jpg?as=1&w=494&rev=629917a104694ad2aa4f58fe554f6016&hash=6721838B6E635D1050EDAD1746621E6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/fl_tampanorth_dr-horton_coral_updatedblacklines.jpg?rev=f1246b3540fe4ebc825bf93bc42b0ceb&hash=A9AF26D1CB8B59AA9335162BACDACC56",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3328 Amber Waves DR",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3328-amber-waves-dr",
+      "id": "3328",
+      "address": "3328 Amber Waves DR",
+      "price": "$441,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393520000-farm-at-varrea-50s-drh/2767/0089-3328-amber-waves-dr/fl_tampanorth_drhorton_coral_g_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=27b5218eb44d46d6be26dd38beaf5515&hash=FF93AD19DA4E83F3135339714793CD47",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/fl_drhorton_tampanorth_cali_c_stone.jpg?as=1&w=494&rev=0b9168bfaf044e6f8b60d9f0a9b80873&hash=5EC62B8A0F6325DE398B22379556300E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=b490347437be42e6a83fd4b887878a98&hash=9D59B61A34E16CBA2FADB9FAEC9BDD20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=7af287c0b6ce41858479a17dc1cfbe22&hash=BEDEF35C79A8A8ACCE17D2093F8ABC44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=cd89aad9ad0047298c30803eb041f168&hash=EC69F9D231BC5FC32A42658569987CFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=02677543fdba45d59cec76543ecf54a6&hash=73DB93AAABF5EA65C593CA9128ABA87B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=e921476b4cf641eabeee58e1aeaf6f61&hash=DA734AC6B6C83790A1CC093A037AC8AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=29d02bf5ea9945aa81bbb87e4c6e9015&hash=0E96D6C674968E3880E58236883482A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=4f7a310f4c824a55af0aab79abbca4d3&hash=368A061CD012AEA8019100BA28C4A447",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=36aa052040644f0faa7831658efca4c9&hash=1421D2FBBDF239220283E52EC84A3440",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=11e3bcc62d3e4ba6a0756613ea56a9f0&hash=9E7FC9AE192C1C1404EE87453F807BF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=1239087c066e43f6ad9e00822078f784&hash=0CCAD5E09988740BA181861D66CB80D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=77dddf490cff4476bf6a6df1315bdd29&hash=732881F786BECD947B94CF01F211FC77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=6d15ac492a3f4300844cc170d7f09459&hash=3B56554488E1E842418C45886468FFF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=6ee962e92027479fabb3d32213c7e0c9&hash=07BBBDC3D9E10377B667F6A51F4939C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=c1e8348cde35429b947a8acb92fc5a94&hash=85226A9A3A1D782B1D0A05EC2A0DB4FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=7420d6a12eb046b99252e8e019e0ec11&hash=D2B63B67852721CDB095D8A5D188855E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=b9bfe868986c431f82b38ae0b0e43107&hash=FA5E714C5C00C7DA4B586146000C346F",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3329 Ivy Hollow Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3329-ivy-hollow-dr",
+      "id": "3329",
+      "address": "3329 Ivy Hollow Dr",
+      "price": "$358,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0245-3329-ivy-hollow-dr/fl_drhorton_tampanorth_cali_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=0b9168bfaf044e6f8b60d9f0a9b80873&hash=F37A7DFC47F8B1EF531C80E2ACD72518",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/fl_drhorton_tampanorth_hayden_k.jpg?as=1&w=494&rev=e811620a709a4468a379db37686289a9&hash=0BD4B01E7A7CEC281B924F48F02C25F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=db5da843bc49401aa66508e269f16762&hash=890CDB8CD39665A6C1B01D61EDD47B60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=77ecb0dd672f4d1c87aa080e08b8e2f1&hash=1253E39A24B46E7508318C631BEA859B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=af5652a570d441dbaf13e51c62fdc043&hash=A89548955A58A58589ACD0C3597B5335",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=c2f69b4bc31c4a239b451be685d08c45&hash=48541B9DC687331FCECBB88436B170C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=963c41f0a3ff471ab9272d868ada5753&hash=302152F6D593005F15588808AEC25A9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=3606039caf864033a170720aceb25fec&hash=3A2565F77F00C6EA991DD742E74DDA28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=c052ff0473eb4cd58d3f7cf900f8ff7f&hash=26B55D9539999E0C5C612D2B16CCDBC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=669e3d5a9e4547f99dee75840a19971d&hash=434866F224E78733361EDBA44B7654C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=0f64e31d0a4b4c5ca3b9471c8d99e9b2&hash=9ED0E16A691F9290D232C293875226F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=998b8610467c4e0dbad6772bbc46f49f&hash=9D84A7EAB04B46D465ABD3EEE1DA14FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=532df1599a3843efb9fcb02f76668581&hash=901BEB2B7A5C8F1DAB26D6C3490D68A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=aadd07b8f3c745a287509c5964eebdd5&hash=BE35FCC825268DFEBDFC78317032189F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=cf35dfb0e5a94c719a4c6128d7d9cdbf&hash=7830BFC76A01520899AF60046945267B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=257a52ef31554ebdbcbcec181afc1bbd&hash=E543111E8144C93D3707F1008C184730",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=775f4761dec445b5a893495119c0a09a&hash=D0CFB255F026F8A4DE669DC38FF5F5E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=be47502581f04e3890cb379ced0fae59&hash=D9E44B73F931661DFAF5295B885597FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=48a3ad885e7b48c09ee556fe3c5e8fb6&hash=91DEF375069450A88D0C5CAB8D74571F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=7efcbc216d2740059bae7656378a4d8c&hash=D74BC9D2855162FCACB57AF7222E8D6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=c201e06da1b24e87a2164b81126d26af&hash=4F52DD86AA44BE8DB02741A647C738BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=72b1c3981e1d48ce9844d8a6cfa1824e&hash=09365B00409BF0B5F093FC4DB4BFF061",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=e96eab48bfb14e3daa54c02f1bc65395&hash=3BF4C5A54F4D8974570CADEDCBBD9BE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=98e360e118644e789cf32a91515529c0&hash=5FA6FAB5C64E0DF99748BB12AFD33C7F"
+      ],
+      "name": "3332 Ivy Hollow Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3332-ivy-hollow-dr",
+      "id": "3332",
+      "address": "3332 Ivy Hollow Dr",
+      "price": "$418,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0223-3332-ivy-hollow-dr/fl_drhorton_tampanorth_hayden_k.jpg?iar=1&sc=1&thn=1&w=425&rev=e811620a709a4468a379db37686289a9&hash=44C12480D7E4DF2406E45BEAAA83FECF",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/fl_tampanorth_drhorton_aria_c.jpg?as=1&w=494&rev=d6ba2af0321f4fc59bdb779e4600c197&hash=D45BA44DF4C72186F2EEDA881CFE9CB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/02-fl_westflorida-dr-horton_express-series_aria_kitchen-dining.jpg?as=1&w=494&rev=7fc38871db58465887416537a941935e&hash=7FE1E4A57895B8037873F5722CFB5B63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/03-fl_westflorida-dr-horton_express-series_aria_dining.jpg?as=1&w=494&rev=637b65384c404f44bb0b66f3741b75fe&hash=92179AFBD396609DD3E238CFA1169D56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/04-fl_westflorida-dr-horton_express-series_aria_great-room.jpg?as=1&w=494&rev=f7032974a00142999f0600e7d6788ec0&hash=41F2FA2498E104A806B8C7DF45E2B650",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/05-fl_westflorida-dr-horton_express-series_aria_great-room-entry.jpg?as=1&w=494&rev=87fe0ec76c94402790ce342392f0c737&hash=1AF52D28FBC9CE32C721945C13BAD23D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/06-fl_westflorida-dr-horton_express-series_aria_bedroom-1.jpg?as=1&w=494&rev=1e79fd42d2d3469f89181350dbb0c2d2&hash=7A401EB5DB7283DBB2400AD9A2585AE5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/07-fl_westflorida-dr-horton_express-series_aria_bath-1.jpg?as=1&w=494&rev=e387d1826f5745fd84a15f2c6f99bb43&hash=5AD0CDCB8ACF3B98F5C09482D9E26918",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/08-fl_westflorida-dr-horton_express-series_aria_bedroom-2.jpg?as=1&w=494&rev=c34e0d7de2844665816322ed89a102ff&hash=B3C08581F08DB7E49863D4C5C64258DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/09-fl_westflorida-dr-horton_express-series_aria_bedroom-3.jpg?as=1&w=494&rev=0d468c72b1844ba1a68304ff92e292b8&hash=BDABFFCBAF7568D75EA0AEBD65036ED2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/10-fl_westflorida-dr-horton_express-series_aria_bath-2.jpg?as=1&w=494&rev=ac6194830d8f4840bc3dccc8685ccd23&hash=EE4FB927B953A577DC600B3076F33B68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=ea31566226314fa19f478406229613eb&hash=51DD6073703A9EFE749597DBC9E1910D"
+      ],
+      "name": "3335 Ivy Hollow Dr",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3335-ivy-hollow-dr",
+      "id": "3335",
+      "address": "3335 Ivy Hollow Dr",
+      "price": "$339,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0243-3335-ivy-hollow-dr/fl_tampanorth_drhorton_aria_c.jpg?iar=1&sc=1&thn=1&w=425&rev=d6ba2af0321f4fc59bdb779e4600c197&hash=F8600CFF34B819A336BFDC76418434AA",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/fl_drhorton_tampanorth_hayden_k.jpg?as=1&w=494&rev=facbde8869264d19931bc1be4cb16867&hash=DB90D1AEB43CCF6371262CD73BB73C2C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=89ae07c3c492452fb6c2c27ae5dbaa9b&hash=09492EF8BEA1B487F000E327D7FDC19D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=20275ccdbc974a52aa8daa94e005bf6a&hash=FA2A34B03ABE75ED5CFAA173C5990177",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=555292d961df4ca5ba8f63b39a605f67&hash=CF14C99ADA69C04B7765189F93981659",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=b6573e17987b4887acf42872f6530af2&hash=075E867799068D2D1DCEDDDD0E843F61",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=2708b72d388343b88cc4890cf72a64cc&hash=E23DDFD3E1CF4CCA20E679471280EBED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=e59b80a431b24fa4a005ecb78e73dca2&hash=ED6601406E12AFD86F93B0D1426D7FB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=4058b080aeac4f3db246ced50577d634&hash=091F5B8DF23573E498CE0BAEA63EA9C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=90200cd04f7e4fe18b634e7663a14c80&hash=1B90C3C6C9F080F529A5A63431810CC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=f7359cb01fdc4ef9a61c587e7ed0f80c&hash=359DE23E072170E5D4D82F3F7DCB3AC9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=53186e4f23f34bf9bc6544231aada84d&hash=B111A40C7DA265B3C0FF104F4D113135",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=f925a5fef68241818acec63ba63e8054&hash=1EAEF2DAA4AE87CD6D4565EC210D9FCE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=4ed2f82f5bb5490bb464d0a94de22a86&hash=AABED760CC567F13D90DA75AE4808321",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=8e84fc2549c846f99d4f85f48bc32ecf&hash=FFC486F1826E2B9F761D80182748F328",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=c94f7d3edcc947329e16cd7f69021163&hash=2C50995782F18E60FB8FB47DAF04633F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=2a816ec0313e48598ec21558dc0a109b&hash=B234C31A86E3369DAFC8E433318558F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=8b4f910cd57e40bcadbd43b75d9d737e&hash=4E44A074232AD801ED9B62BBF9D36A00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=c1374d71e43f47d492914b88ff4717ef&hash=D26EDC34DA5B43E247993A871095730C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=7d9865ce85b841539723ab2111f04ade&hash=D0935D7D54137C8CB2804619598C63D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=4c21ed79311c4894816e2a214dedc52c&hash=5BE6E93EC8CD170FCB800DA1322A9CBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=543fc7a595864cb293a73a8930a2dc89&hash=761499A4FD87E7893DCB043073BEF4AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=6db5a40326b842e7ad7ac3bd1ea92999&hash=229EF82AFD6B56D3B610A7DFA2715C8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=98e360e118644e789cf32a91515529c0&hash=5FA6FAB5C64E0DF99748BB12AFD33C7F"
+      ],
+      "name": "3338 Ivy Hollow Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3338-ivy-hollow-dr",
+      "id": "3338",
+      "address": "3338 Ivy Hollow Dr",
+      "price": "$419,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ehb/0221-3338-ivy-hollow-dr/fl_drhorton_tampanorth_hayden_k.jpg?iar=1&sc=1&thn=1&w=425&rev=facbde8869264d19931bc1be4cb16867&hash=54356F5DE72024C890E09BF7667A1578",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/fl_drhorton_tampanorth_calid.jpg?as=1&w=494&rev=cb629c9c54524355bf7068468197217e&hash=3878FC07FCCC7EE01303745F2545BF38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=9e8840dd6070471ca36d465b842b6102&hash=E9DA417D76966126C468884EFA50CF03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=7b3d0163328e4bddb39d1f3dc11cc469&hash=730FBFD9EF6503959C339E6F4839E85E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=393095cf391848179165a5b583ab7f17&hash=98FA3A8F7398393E924D02750646FEDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=2c7a548acbc945469685a412326492ad&hash=FE34BFBFA6B22E06864A4E91EB8BACBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=cabd43e2a62c482388cd5c4dcf2d6491&hash=23A9F7A0027C6A1B0B6728B290F0BD03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=32263228c16c45e4b4f8c96f5b69c9f9&hash=5747B7AC445E38D871CA38B26C7C724B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=7435d6fff2a444c093e98e6acfac7574&hash=5B1436523085E8110FFDDA8BC121C1ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=53b26a0032d5491db14b34f16bc20b8d&hash=BAA8E9536C87B68F74C3FBF41AAD7E3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=cc11229e91ae4066b531dff7bbecf43d&hash=1D78B243753ED01939589BE72F223B5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=573f4a6e941147868fb26ca0691e8a68&hash=22D8D1AC416E43E5CEEE8F53A0643506",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=d14b2eb4fac04f8cb9be6d005cb6fc7c&hash=0CE9A4E10D7836AB554E98C895DA1D9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=ad5f34ad41d444c1a2a2951dea8ecfe1&hash=6E04CF65CA880C49F95F3D0D48D478D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=c7e4fff3610e4226b6cfbd490f9638e1&hash=A2143026390173B6B7A77EFDED27EAB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=902e083c3f074cd3a1a15f4e41df665f&hash=F6DA7561304CAF6E1A0D4AD21CE3CE52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=1bfde86b8d3e4f7eb4d11dfde8f6822f&hash=E78714E1D3457D635BCC9C68AAED3563",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=f68d9fdd2fcb46dfb4615c13d40d35f4&hash=4BA9BA959DD85282FBB8B54FD69AC43D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4"
+      ],
+      "name": "3339 Ivy Hollow Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3339-ivy-hollow-dr",
+      "id": "3339",
+      "address": "3339 Ivy Hollow Dr",
+      "price": "$361,165",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0242-3339-ivy-hollow-dr/fl_drhorton_tampanorth_calid.jpg?iar=1&sc=1&thn=1&w=425&rev=cb629c9c54524355bf7068468197217e&hash=815273433EB94BDEE01EC1A0E4156EF1",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/fl_drhorton_tampanorth_calic.jpg?as=1&w=494&rev=4536f63537d44122bf63b029086c5305&hash=B452E31834BB61F9D08C34DD423AB9BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=aef0e3f0a7a543669173109f69351912&hash=7F9B886E085B7BF6828CB98560A4CEF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=e1247fe5d1fe4a098344576ae16e765f&hash=FFC7CE428C1715EB87FA101FE3E4F3A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=339bdc0a682445d1bf4104c82f5041d9&hash=0089DEDC8CB8F41C94D32F181F470508",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=d8ef3899b3e8404cbba8d3d0945cfa59&hash=6C73F8C1B825DB74A8FD9630145A9BBB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=90e406cac1b644509338ba0178905f75&hash=FB6A8262A432A179C65941410BB08778",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=dddab5ccdd8b43b4a2275e8959ecc4bd&hash=6D4EC8DAB85CC3472FC68FC7E50BD2BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=9a3fc3254885402294d47490e86d9b0f&hash=3C404CBF6B689DA96A3EB34F8513ED2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=e66db06a3c7547c6bdb03a99de22c711&hash=682A8D88B102F3A10B6B36CB09628008",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=f4174fd8888848dd93ee04eaf93278c3&hash=93C57C1CC45FF224B398C9AA63286385",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=eb1539b6320840019acaaf9a9e327863&hash=626140ACD891EC2DCDF2975BA8269C2B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=421a2ecb350f4b5397de573a5696d9f2&hash=228CF5DAD9F65FC2363F3AE521A656D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=bbd65c4537e546249d1b3952e6f6df8c&hash=C65A16E9E46AA42B3C5467A8B522B355",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=1856a20a0b464de9b8745d46442ea4e8&hash=8CEE30DF83F02FFAF128B2216FBC50F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=45a024ec1c5742888d0647a6fa304faa&hash=4232D03A159C9DB2BE9A6D46580514C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=2054a0a5e50a4ee791fc1b677f4a797c&hash=B25E41579A4CED267746FE2154DB7B7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=0f367eae3f6548ce84ca122df0377481&hash=EE2A2ACBDA081F918A1EF092EF85EC37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4"
+      ],
+      "name": "3341 Ivy Hollow Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3341-ivy-hollow-dr",
+      "id": "3341",
+      "address": "3341 Ivy Hollow Dr",
+      "price": "$360,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0241-3341-ivy-hollow-dr/fl_drhorton_tampanorth_calic.jpg?iar=1&sc=1&thn=1&w=425&rev=4536f63537d44122bf63b029086c5305&hash=0DA984304CE37D2DC750E4AC1E4A134C",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/fl_drhorton_tampanorth_calid.jpg?as=1&w=494&rev=3af92002a7c64de5a7c151ca3062ce27&hash=B9A7E7133E03148A9D934058417B3A7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=6e6396d1763e47308ca31d02ff67e5e5&hash=41404884E3C6AD357858CC5DC8231CC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=5bd3ec14e9c641f8abf236649c031a4d&hash=895BF620B73BB935EA4E9B06F3E1DB47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=5b0c93291cbc48d4af4533d849992fa1&hash=D5235ECD6DC965BBA94869C7F2243C62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=a7c902ff50dc4bc8a0ad206f6eafc4ee&hash=C58F923629AEB7B159A56D83131F05A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=ca75ac2f6af94af2b36692c894d5089c&hash=E47B5B15C36CF247591BF092E8EB2930",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=8f9c3ad5ad9b489bb9148a67810e81bd&hash=A620CED980B8B89AE5775BFB718B8683",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=f26d61ae9695400c9c48db1d7b8a6d87&hash=BEB4EA32960685D00125F756B25EDD44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=86b57b0f31794a44bf5ccdfe91d75248&hash=B485AD3789C881A3D5F2CAD3750AC6C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=5aa453d240994a9983729f62bea07924&hash=0DB24B993F2DD261A9E82F48251D437D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=7c75c03bc8734a0aad74bff0bf2ae387&hash=6C6D7C55B1A69AA0EB78835AA79284FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=a692ae71752343dd90f5f637390ffe1b&hash=EEA94120DBF00AC345EB780567CED6B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=7dceefed70704d488be5e9c694859387&hash=A0A96091B88709EE1C56448A4D4F5304",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=d546f34dbd5b41aab9016350cde52135&hash=DA550B8715706062B390DDFBCD128E8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=cd705a7e23e3425da9034a273847edc6&hash=9921E5CA2A318A82FEAEA1A18942A73F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=8f5aa198e2474fa3ad53ae3df5097b81&hash=DEB924BDA9092AE320E74D202502366F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=db5755688e644c1087c22c30ba3c2067&hash=BC23B70DF1B2429EB7D44AAB1335DEEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4"
+      ],
+      "name": "3342 Ivy Hollow Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3342-ivy-hollow-dr",
+      "id": "3342",
+      "address": "3342 Ivy Hollow Dr",
+      "price": "$374,165",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0219-3342-ivy-hollow-dr/fl_drhorton_tampanorth_calid.jpg?iar=1&sc=1&thn=1&w=425&rev=3af92002a7c64de5a7c151ca3062ce27&hash=16892F1A262DC2D1DE484D03EDB8A9F1",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/fl_tampanorth_drhorton_jordynii_h.jpg?as=1&w=494&rev=70985c39fa2b4f3c97fdec6b442e33a3&hash=9A8A962A92579D116B329B17E5149D15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/1fl_tampanorth_drhorton_jordynii_flexroom.jpg?as=1&w=494&rev=830e19e831e34021a1eac794d985ec6a&hash=EA168C71AB59395125C7F525B65F520E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/2fl_tampanorth_drhorton_jordynii_kitchen.jpg?as=1&w=494&rev=9cb320d25a684557a0c0cff10b8805c3&hash=14D951953EE71790185FD589603517F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/3fl_tampanorth_drhorton_jordynii_dining.jpg?as=1&w=494&rev=0c8936c18a1d4512b0e94a5f32de47d8&hash=5A650BE65174E005580DCD68B39FE0C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/4fl_tampanorth_drhorton_jordynii_livingkitchen.jpg?as=1&w=494&rev=898ede1ad55c4272b432c25030b2e081&hash=BAF24021E9AFF1CA6461126239C6C18A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/5fl_tampanorth_drhorton_jordynii_kitchenliving.jpg?as=1&w=494&rev=f6fa1b829d09430b9e60d2deedb386f8&hash=03DCA1B3812A1CD1533F052F6430A5AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/6fl_tampanorth_drhorton_jordynii_powderbath.jpg?as=1&w=494&rev=f462f4edb9d8414ab04eae49c5e5c327&hash=080CBBA6C0A544670C048BF9F5BD473E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/7fl_tampanorth_drhorton_jordynii_bedroom2.jpg?as=1&w=494&rev=4f7986ff114444279469d89b122c4369&hash=1F4A84BB4AC285296397F311DF4441B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/8fl_tampanorth_drhorton_jordynii_bonusroom.jpg?as=1&w=494&rev=4f943e6665614341b26e3daed64d1df9&hash=CA3D67BF86CD74C10BDD7AD14C2DE7ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/9fl_tampanorth_drhorton_jordynii_bedroom1.jpg?as=1&w=494&rev=08a2c95f80a84b01b41d68ec0016414a&hash=C0F391340ECC29A35C01208BDB3B1275",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/10fl_tampanorth_drhorton_jordynii_bathroom1.jpg?as=1&w=494&rev=11c7e60edc164883bbddc6ea993d7a44&hash=21FCC260E66879E9124B13D5C8C6662D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/11fl_tampanorth_drhorton_jordynii_bedroom3.jpg?as=1&w=494&rev=6d1c723969794c0a8f1c6b452f595a6d&hash=E232F9683FC1A2C4BC5D86BE0D4E69DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/12fl_tampanorth_drhorton_jordynii_bedroom4.jpg?as=1&w=494&rev=ae25ba60e4024ab785e6fef948b60cc9&hash=0A4C00C7217620D6547292D7A0F6A598",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/13fl_tampanorth_drhorton_jordynii_bathroom3.jpg?as=1&w=494&rev=8a88a6281f57415e9b8fb6803f84574d&hash=ECED1CCA2F81F3CF95D9BE4E57F132AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/fl_tampanorth_dr-horton_jordyn-ii-blacklines_patio_new.jpg?rev=8307f4f22ecb470cb3881c6763fab401&hash=FEDAE04147C4617A966D84684215F13B",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3422 Hazel Hollow Way",
+      "plan": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3422-hazel-hollow-way",
+      "id": "3422",
+      "address": "3422 Hazel Hollow Way",
+      "price": "$484,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0126-3422-hazel-hollow-way/fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=70985c39fa2b4f3c97fdec6b442e33a3&hash=00B39891A662CD299E6ACBBC7E48B01D",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/fl_drhorton_tampanorth_cali_c_stone.jpg?as=1&w=494&rev=2d8b0c52154a446db89e20c47a266d93&hash=483A2724A52F64D2F0A147FCA9101067",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=e19629225131431d9beb5ac60d66da50&hash=ACB876BC8AEF1BACAE72A01F83F926AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=ff4ecc42931846e0a7e420e7783e252e&hash=0710B31A046D068F750C27D1DCF220CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=7cb271a80eed439fa5df18da6ecb2923&hash=207D793B5096AD4B1CF8BD7BAC30799A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=838cc019e2cb4bf689331d4d1a396158&hash=A418233AA1A3E5FE46CBCD4EB0AEC850",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=e36ef8c8b7bf4e1f889a7de8b441bdd9&hash=BDB2368B8D36BD7D65AF2C8087DFC5B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=70bdbf4f7c8a4cfe8382e813ff68fcbb&hash=DAC6EFF8F2038C1D392CCAB1DA41B347",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=f96e22793629451a8bf10600f4c41749&hash=AE8002BE003E0DF93E028452DDAD7075",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=d332279144e0499ebe3dee34e085640d&hash=F645A75C802ED2211A83679B28205BA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=7bea48f4baae43adb82c558e948118be&hash=8B811A050F293E7BEAE4F61B86D71CAD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=08c43b53c61b41dd988f95cf0de5c519&hash=48805B5F79B9C5C4C8C643A579EBF2FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=532516fb3bc24051aee447ffa74da83f&hash=C7678C797774D1EB548CE9236FC30102",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=eb2765251d0f4b119cbfe1c2fbc16f66&hash=25EA9B591BE4F079C4C0BEBABD377F8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=dddfd4039acd478dbf227cc679593ed4&hash=571CD1F1AD34898EEE94DE1EF55BEDAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=01654e85db4c48c0b2f19f6072fdeb70&hash=C5C9F7BB4E52ECEA0A6BD368DC7BE3F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=13402119fcd8438fba0a662e8a321462&hash=F91A46AA3E01A76D18F143C2CCF94A74",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=1e2fd1b8068c4e4da1a693e7819e9538&hash=1467B7B802BD7551561674FE93261908",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3521 Thistle Bank Ct",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3521-thistle-bank-ct",
+      "id": "3521",
+      "address": "3521 Thistle Bank Ct",
+      "price": "$359,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0267-3521-thistle-bank-ct/fl_drhorton_tampanorth_cali_c_stone.jpg?iar=1&sc=1&thn=1&w=425&rev=2d8b0c52154a446db89e20c47a266d93&hash=B6373C6D700BE9992794F0C9886F84A7",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/fl_drhorton_tampanorth_calic.jpg?as=1&w=494&rev=0ef3091320284027a56f2ec8ba577ea7&hash=863B2A6C0447383DF0B92A1390B14AA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=34de024261324975ba6d41717a2851c8&hash=895F7FFF9FB25E89606C070C25F3912C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=45317befce5a44bca305a7aa2a3fd905&hash=881605CE4A450D04D0993ED0F0AEEE86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=1c14f7ba8845421f97c31064a76526ac&hash=57C652A94E81991867F5E4DFADFBEC0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=94f2234857c4434898b87283544dfeca&hash=CD884DFBFF1EC609158B9CE5F7F43277",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=4b27a4ad907841f1934aaebfdb38b07b&hash=13F032E2891D409E975C44C05D4E1752",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=9766d61fd9cd444489e0b2a1dd40351a&hash=3806E30E5450396728F7C6A9DFB8B12A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=bbbba24d98e7410fac1ad5551cb62648&hash=8E6757574F59CABB3D4BD0D645B4E354",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=e7ce9091d70d4bc4a3c89546c1293ac1&hash=7E700E5E60BE1B08E4B0AC49481ACE37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=50e3f30ae15f4715a8098439b99eca20&hash=BB3B4EF83E67260908D3503A524D17EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=bf5cd1825cce4197b221340ea59d271f&hash=00152A72F0A03489FB2923C10E5872AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=178ec1e9fa5c4c8399728f478d41fa36&hash=566028DE4BF866E9ED1FEE3908BE0349",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=1221245a20f240c185f4afd74282776b&hash=99B38941B1A13F296839EAF9CA798687",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=5a89446450d24769a2825bd01567c9f8&hash=5E0F30E532E5528E75DF4EB9CEA07C0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=200124f7165b410281a435a79e30cf30&hash=B233C0B9EE81FE295F4C654D0805CE8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=2496ab84ac7c470f9f072d4d720c16fc&hash=0846F715653B733CF5372528690634D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=d2f1184c91794036974a7fd692d40ee4&hash=3B686CFBEC321F514B8B77138876D91A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4"
+      ],
+      "name": "3525 Thistle Bank Ct",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3525-thistle-bank-ct",
+      "id": "3525",
+      "address": "3525 Thistle Bank Ct",
+      "price": "$361,165",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0269-3525-thistle-bank-ct/fl_drhorton_tampanorth_calic.jpg?iar=1&sc=1&thn=1&w=425&rev=0ef3091320284027a56f2ec8ba577ea7&hash=A98B658637FE56BE5423481E7FAAD0C3",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/fl_drhorton_tampanorth_calic.jpg?as=1&w=494&rev=c01fcc46694d4bc593e64824a00ede72&hash=7CCDD29339FAFF68F703AEEFD9D65BD4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=a495878b37b9472fade18d119a2284be&hash=5B11655E2E906A40E3C6AD38CA297AA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=48c59c4699134c2b885429407e483840&hash=79321B82F2EE1750D6769C8CC261C8C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=cb3e615fa78d4505abeb2c6cffaf33f7&hash=FF834C2E5ED66648A235BEA8CE920DFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=6e0d234bfc8c46d78680b4ca39b70d63&hash=7BFB4A792079D69BDA123687152AA4C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=f944b94c1f8f4395acad4f55ee61b9d5&hash=C6E0A4431A1A1AA296F77E4E7EC26591",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=d9bc56986fce4196b71c8e25e56b7b36&hash=2DBC46935DDF8F18978AD012DC0E437F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=de9bb0734c8045c0b8e10fb5ebb22b89&hash=595A174D266C45A0C6E7E301FED1EDAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=c35decd29eff4d989173a50d809df331&hash=36ECA7DEED9FB0AE2F6420633109F2F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=b12265d709a346e3950a768432015405&hash=6F26564E17A36E2CB262AC17BE38E333",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=0d2e641c08b0412aba9d0b490633caed&hash=9AAB33B7C84AF3D3499603C59F6B6239",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=7ad25765055a4e4385c119e119532b39&hash=57C9467E5A9A43765C6343B35715E206",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=c760ce2805d541198a9d4a39e206087b&hash=947A5C683AC4BA2FE83744AB5E4623BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=a5c599c9c50547ecb455ef4e33a18d09&hash=94FDB5106A7BE1E6DF6FA89C016444B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=8fdd0b4ef7b34d229e3bfbb3021abb9e&hash=BC54E6755FCEBC857E9357C136660645",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=8ae1425cd29b483fa3eb08fb2cbb0ea5&hash=B71B913F6C64D156C3ECF70B52ABE49F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=d734a8eca0624830b57c9ad6ae03276b&hash=88CA97F1B003916A7B4281824D6D56B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=b4fc4117570349089c323b24a4b2e0c3&hash=88E603D8BCC8FD94D89A08B658430BB4"
+      ],
+      "name": "3527 Thistle Bank Ct",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3527-thistle-bank-ct",
+      "id": "3527",
+      "address": "3527 Thistle Bank Ct",
+      "price": "$360,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4ebb/0270-3527-thistle-bank-ct/fl_drhorton_tampanorth_calic.jpg?iar=1&sc=1&thn=1&w=425&rev=c01fcc46694d4bc593e64824a00ede72&hash=19DA5CE46D6920800B0FC15A5EE5C5E9",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/fl_tampanorth_drhorton_aria_c.jpg?as=1&w=494&rev=94d101739d0a4bc3856bb72c2f581cae&hash=C91A479886BBC1E4F4342A61A9E72BF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/04-fl_westflorida-dr-horton_express-series_aria_great-room.jpg?as=1&w=494&rev=48c83cdfbfc84e8c883ef6c1dd4111c8&hash=8583ED52F901AE7C588A1430AFCC9979",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/02-fl_westflorida-dr-horton_express-series_aria_kitchen-dining.jpg?as=1&w=494&rev=e9b24d7b27f24195a587ccf9d1997710&hash=9DB55CE8C2B658C995AD9D9AFB32E79D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/03-fl_westflorida-dr-horton_express-series_aria_dining.jpg?as=1&w=494&rev=f967a032345541f9aba29a1efd89ca2e&hash=9D30B2CDD7AA4A85193942101F6AE9FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/05-fl_westflorida-dr-horton_express-series_aria_great-room-entry.jpg?as=1&w=494&rev=3b66ed1d74fa482a9627002533c81d2c&hash=6D05FEEC6BBD24C0957046A5E4184F72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/09-fl_westflorida-dr-horton_express-series_aria_bedroom-3.jpg?as=1&w=494&rev=fa354e2a26874c708cba9ef0f5e0cd08&hash=286A4808A817C920E47551F150972127",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/08-fl_westflorida-dr-horton_express-series_aria_bedroom-2.jpg?as=1&w=494&rev=f92b03b043eb4ebb92912665e38048bc&hash=07E1DD715AD02FB3D73814056B75467C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/10-fl_westflorida-dr-horton_express-series_aria_bath-2.jpg?as=1&w=494&rev=3476ac6157a14d92b423812c6ab29e70&hash=24B5330405FD7F388C75CF9F3A23065A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/07-fl_westflorida-dr-horton_express-series_aria_bath-1.jpg?as=1&w=494&rev=612d314cee314a8ea0d38426bdf846a7&hash=47D01BBC4F98B9E794DF3BAFE3899F88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/06-fl_westflorida-dr-horton_express-series_aria_bedroom-1.jpg?as=1&w=494&rev=3dc487d8d95e480481e5228ed30c19e2&hash=503F298175165C0E1566035DE3A92777",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393500000-farm-at-varrea-40s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=ea31566226314fa19f478406229613eb&hash=51DD6073703A9EFE749597DBC9E1910D"
+      ],
+      "name": "3529 Thistle Bank Ct",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/3529-thistle-bank-ct",
+      "id": "3529",
+      "address": "3529 Thistle Bank Ct",
+      "price": "$342,215",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393510000-farm-at-varrea-50s-exp/4eab/0271-3529-thistle-bank-ct/fl_tampanorth_drhorton_aria_c.jpg?iar=1&sc=1&thn=1&w=425&rev=94d101739d0a4bc3856bb72c2f581cae&hash=732B8EE65084A3E9D02814AC9BF9C284",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?as=1&w=494&rev=1ce23045beb24b8aa22896bb60428b72&hash=CA29D80396F6635A82FF6389E6412B33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/01-_camden_quartz_foyer.jpg?as=1&w=494&rev=1ddfa88dc16043afa867b137ff7e519f&hash=1500717C50F8A2B374F20B0300F5734D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/02-_camden_quartz_guest_1.jpg?as=1&w=494&rev=fd8a4190bdcf402fa6f0b6f0e6d51619&hash=68D681028199E273AE26656F9D374FC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/03-_camden_quartz_guest_2.jpg?as=1&w=494&rev=1707ddb73dac42cd9ac944b3834157cf&hash=557185EB39BA9170A9A802243EA6BD23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/04-_camden_quartz_bed_1.jpg?as=1&w=494&rev=7cfcedcdd14549d2919a09fd8453e565&hash=9B77692D7C5CD336593D6CC09358CB85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/05-_camden_quartz_bath_1.jpg?as=1&w=494&rev=024fc90aa1914c828cccdb776e10bb1e&hash=B82847A9614E8D38CC0B82F497B9E560",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/06-_camden_quartz_bed_2.jpg?as=1&w=494&rev=7c459105ff3b42dba30f3b9a8e76ab6e&hash=E9926F5C539BCDFCCEEC5F2AEFD30334",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/08-_camden_quartz_bed_3.jpg?as=1&w=494&rev=4a820a736e5845368bb3d8078f3a2c56&hash=95514DA2A4F3CE50128568E74070D4AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/07-_camden_quartz_bath_2.jpg?as=1&w=494&rev=39836429c16748b09d2118f683b54b49&hash=F1040F4958C7C0996BA0900A5489B3F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/09-_camden_quartz_bath_3.jpg?as=1&w=494&rev=e4f526206da34c45b84a2b1ce01838fb&hash=7E66637425894D2077162DE3496D94F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/10-_camden_quartz_living-dine.jpg?as=1&w=494&rev=b03610eb38584f17a8c44cd00f49caaa&hash=51CEB0E1F90669C12A1F46D09C7FD979",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/11-_camden_quartz_living.jpg?as=1&w=494&rev=fbc3ccf23c154cc7bd55e3f79e6698db&hash=94AD05B14201088BB472C0238039AB72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/12-_camden_quartz_dine.jpg?as=1&w=494&rev=0c5f7c3ce7c944c58c45d08bbe5ef651&hash=7A96EFFA1C77D35788EC88930ACE5E10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/13-_camden_quartz_kitchen_1.jpg?as=1&w=494&rev=aadd412d01e34f639e21620b7dd66902&hash=255BBD899DF6213DAFE8D0648AB733E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/14-_camden_quartz_kitchen_2.jpg?as=1&w=494&rev=b6ff94fb1b4443c3bcac6b4ea4828eaf&hash=2C10D51422C07A00800A37B938B1E268",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/15-_camden_quartz_kitchen_3.jpg?as=1&w=494&rev=c8216d672c0a4cdd97c25f963e073bdb&hash=C05D8C04B0996D80DF0369FDD3CD25A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/16-_camden_quartz_kitchen_4.jpg?as=1&w=494&rev=8f42fafd4f6442d4955b336831ecdf2c&hash=696D0029EE894CAE04AE662407150098",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/17-_camden_quartz_kitchen_table.jpg?as=1&w=494&rev=c1ec5666040f487495e3bef29700f146&hash=717A77C4C12CA7E4EC6271CD481D3051",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/18-_camden_quartz_master_1.jpg?as=1&w=494&rev=a920d4cf1d294bbfaa043ef6da5c4987&hash=3FE5EED6E76CCE02D0602592AF2414F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/19-_camden_quartz_master_2.jpg?as=1&w=494&rev=240a513c57fe49438b34f336efc1b98c&hash=3076FE372EC4E47DEB6FECED0FB91789",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/20-_camden_quartz_master_bath_1.jpg?as=1&w=494&rev=e3517c20973c43d3bc22ae53ec14ba57&hash=26E1EAD4E5277D4AD79065BCEA320668",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/21-_camden_quartz_master_bath_2.jpg?as=1&w=494&rev=34a0323d4ce045ab94d4bbc076275d7f&hash=F907CAABFE9B3185D28AED5BE93B3802",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/22-_camden_quartz_laundry.jpg?as=1&w=494&rev=53068c5b039f4fdb97d0625e14a74e9c&hash=4F7F77F4B38680FCB7428B9C12303D82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/fl_westflorida_dr-horton_camden_bdf.jpg?rev=3dd600b96afb44d7b65336e9a9632bce&hash=AC8CE6BC7107C7606B6F717407FAA6AD",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "4023 Harvest Hearth Pl",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4023-harvest-hearth-pl",
+      "id": "4023",
+      "address": "4023 Harvest Hearth Pl",
+      "price": "$485,490",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2794",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0065-4023-harvest-hearth-pl/fl_tampanorth_drhorton_camdend_shingle_gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=1ce23045beb24b8aa22896bb60428b72&hash=D9396D98DDD5C7229CB915C79B39BFED",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/fl_tampanorth_drhorton_jordynii_h_shinglenocl.jpg?as=1&w=494&rev=6322f233c8594bd38de111576666a449&hash=1B94ABCEA9E63599C51617F5B555787B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/1fl_tampanorth_drhorton_jordynii_flexroom.jpg?as=1&w=494&rev=21c2d8b8aab740d4a3c8a980625a7131&hash=020E8B60ED99C945B23D78F00CBE56CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/2fl_tampanorth_drhorton_jordynii_kitchen.jpg?as=1&w=494&rev=bd3f1a6c107e4b17b4e99a4acf1cd2e1&hash=EFC99A47762875B377D56B7B92CEFAC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/3fl_tampanorth_drhorton_jordynii_dining.jpg?as=1&w=494&rev=dae2a9fe190240b2ad658ec5944b9800&hash=733CC35E113FF11407D236759C743D6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/4fl_tampanorth_drhorton_jordynii_livingkitchen.jpg?as=1&w=494&rev=afbc337923f2490188ecf8347e86c509&hash=5C1FD13F7DE7FC32172DF46CC7C819C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/5fl_tampanorth_drhorton_jordynii_kitchenliving.jpg?as=1&w=494&rev=81b600709fa3430186e93e2a47bcbe32&hash=02E5429B6E068D5D039097AAFE5ACD72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/6fl_tampanorth_drhorton_jordynii_powderbath.jpg?as=1&w=494&rev=88129ae236f14b36a214d6b9402e6cab&hash=B265F46CF71319F4E2FFFBE7CFF2213F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/7fl_tampanorth_drhorton_jordynii_bedroom2.jpg?as=1&w=494&rev=1aec6683dd7e4b409cb44133da85a31f&hash=4928CB7A2CCD360F709E3ED655792BEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/8fl_tampanorth_drhorton_jordynii_bonusroom.jpg?as=1&w=494&rev=dd59c4818583459584ec44e994c5c842&hash=7FCC3B92C3AED92428A3C7D47BE4F2BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/9fl_tampanorth_drhorton_jordynii_bedroom1.jpg?as=1&w=494&rev=f91919b220774bf38cfa8008fe75f8d3&hash=FC2C2D2396E58D02C47F7032CA2AC392",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/10fl_tampanorth_drhorton_jordynii_bathroom1.jpg?as=1&w=494&rev=400fbb5f05e14511b7e6432d1034f04a&hash=4111D315ACC94BDC861AE3F4D3EA4DB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/11fl_tampanorth_drhorton_jordynii_bedroom3.jpg?as=1&w=494&rev=394c0493e49548a2bc4a038b88e7815b&hash=49A2A1D858FEB8E765A02A37BBAE1106",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/12fl_tampanorth_drhorton_jordynii_bedroom4.jpg?as=1&w=494&rev=fe61f6cd1bc745bd908f2cbb566f6ae0&hash=1A1A6C2CAFF1D0302FFC1F04B551C260",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/13fl_tampanorth_drhorton_jordynii_bathroom3.jpg?as=1&w=494&rev=e230e1f27bc5454cbae87f5ffc89eb6c&hash=029E1E3AFC4102D8DCC7882F08C88C6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/fl_tampanorth_dr-horton_jordyn-ii-blacklines_patio_new.jpg?rev=8307f4f22ecb470cb3881c6763fab401&hash=FEDAE04147C4617A966D84684215F13B",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "4025 Harvest Hearth Pl",
+      "plan": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4025-harvest-hearth-pl",
+      "id": "4025",
+      "address": "4025 Harvest Hearth Pl",
+      "price": "$493,740",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0064-4025-harvest-hearth-pl/fl_tampanorth_drhorton_jordynii_h_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=6322f233c8594bd38de111576666a449&hash=5B1BC85EC005022457872EEEEA00F3D3",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?as=1&w=494&rev=91dc7b4bf0584767b64b554016b24384&hash=4349F42A19293048F92F57B6D11EBBD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/01-_camden_quartz_foyer.jpg?as=1&w=494&rev=0ee0a2993cbb4a98af9e941c1e351002&hash=8563351EF9B490B21B165348A1F84DDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/02-_camden_quartz_guest_1.jpg?as=1&w=494&rev=3d281bfa0be54a2f89376961220b55f9&hash=1D63D46F79FBF6A11D34301E53280643",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/03-_camden_quartz_guest_2.jpg?as=1&w=494&rev=d39a6f50704d4afaa6a4ae9d2ed4f716&hash=EA605E63B7D3C6B96A66BDAE353D21A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/04-_camden_quartz_bed_1.jpg?as=1&w=494&rev=6218e82169b54729be51b6544716cb49&hash=5EA93DF00AED5B7E8BBF2AC836216306",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/05-_camden_quartz_bath_1.jpg?as=1&w=494&rev=856f89f7ae1e4f6cb9cab54fd328785f&hash=5970B22E98EEF05E6859C50AF4A4BAE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/06-_camden_quartz_bed_2.jpg?as=1&w=494&rev=31a26f4e532142ea92a0f252918f6124&hash=68138D2DEBCB3DB00B68CB1EE72DB27B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/07-_camden_quartz_bath_2.jpg?as=1&w=494&rev=02bc5e1f7f3b497596c4fe2522571346&hash=E5F5CBB4A8E0729AF8AA5603703A9390",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/08-_camden_quartz_bed_3.jpg?as=1&w=494&rev=f3515d7807054fac932d003d41f7a670&hash=E58B8F24620EA0ACD67A8F540058F8A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/09-_camden_quartz_bath_3.jpg?as=1&w=494&rev=abbcaeb2d1554825a2cf02440b090c84&hash=9174759FAA8F5D8B4915D6C4B604C0E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/10-_camden_quartz_living-dine.jpg?as=1&w=494&rev=051807c1a26f4b8a90f1d32a806346ed&hash=2E70DCB46C310298AD86F37049D461F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/11-_camden_quartz_living.jpg?as=1&w=494&rev=a28846e95f7a4f53816a2f7f7dc9483c&hash=8FA5FF1A55AE35084901869F7D6CE8C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/12-_camden_quartz_dine.jpg?as=1&w=494&rev=77718f32e61a4685b1f94de3d6da7f22&hash=02C4F905A04A1E009E583E1890D58A86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/13-_camden_quartz_kitchen_1.jpg?as=1&w=494&rev=01b6e3d7e10b4601b4c10111d1a83c8c&hash=8DD3DA1263768EF9171A48E232A26F8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/14-_camden_quartz_kitchen_2.jpg?as=1&w=494&rev=dc5f2dc12f23474f8a3ad73e7798566e&hash=298599733DBFF7763CC6995C0C524D57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/15-_camden_quartz_kitchen_3.jpg?as=1&w=494&rev=32136ceb377c43f18938b46c3f6c38ad&hash=1E3A905DC54AAAF55466FB6FB1249D7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/16-_camden_quartz_kitchen_4.jpg?as=1&w=494&rev=fa72e2157f914ce89677c856bb4ca261&hash=D45C0200A7047710D73252DD15ECF4BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/17-_camden_quartz_kitchen_table.jpg?as=1&w=494&rev=f7d38c318e9d4b938bf180f97a8d50fa&hash=601229E03E7A1B92272DB750799F1556",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/18-_camden_quartz_master_1.jpg?as=1&w=494&rev=80e13b2c768d4d4da09c2b2da0623c96&hash=F9961AA2E59C91263EE880CDAB4563EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/19-_camden_quartz_master_2.jpg?as=1&w=494&rev=a42954b346c2402fa44a2eda8ce1e343&hash=B6C0928DFBF1B639D5534E58F1856E71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/20-_camden_quartz_master_bath_1.jpg?as=1&w=494&rev=f72896f9e5284163b649385d0f040c42&hash=C6C3BA4BCCC905AF4453D01EF40EAB32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/21-_camden_quartz_master_bath_2.jpg?as=1&w=494&rev=9c5c6ce931cd4620827834b77b90e84c&hash=967D10891778484ED4661722174E7400",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/22-_camden_quartz_laundry.jpg?as=1&w=494&rev=fc03b2b1965047038902b93e26de20da&hash=D1C35434B44281036273ED6FC4C5972A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/fl_westflorida_dr-horton_camden_bdf.jpg?rev=3dd600b96afb44d7b65336e9a9632bce&hash=AC8CE6BC7107C7606B6F717407FAA6AD",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "4026 Harvest Hearth Pl",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4026-harvest-hearth-pl",
+      "id": "4026",
+      "address": "4026 Harvest Hearth Pl",
+      "price": "$485,490",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2794",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0056-4026-harvest-hearth-pl/fl_tampanorth_drhorton_camdenb_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=91dc7b4bf0584767b64b554016b24384&hash=1779351CE1929EA2D3AF08FD781C5346",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?as=1&w=494&rev=29c02ce44314400680aedd6ceae8b9b6&hash=61B01B0A38989605B82AFED59F49F5C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/01-_camden_quartz_foyer.jpg?as=1&w=494&rev=8aaa2e31398248bc8e9f67424b977184&hash=C4F070E3B9C569553E653C07363FC59E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/02-_camden_quartz_guest_1.jpg?as=1&w=494&rev=9b2e7f4b2dca4b14aa9a5be0e67fd18a&hash=85DDB33BFA60CEE756DFF6A028DB75FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/03-_camden_quartz_guest_2.jpg?as=1&w=494&rev=77d0d4ec1811459eb89734d795fed128&hash=C21BED4E46098BF108149779611E83B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/04-_camden_quartz_bed_1.jpg?as=1&w=494&rev=c3f1e49ab3134789b5f7085ec6bfc173&hash=0D6AE1ECDA8208F36A65CF5634C71849",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/05-_camden_quartz_bath_1.jpg?as=1&w=494&rev=b5430711d9194f4791e6d9ecb10c7942&hash=8202E3267E9609C8F411E960E051A53D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/06-_camden_quartz_bed_2.jpg?as=1&w=494&rev=4cac943aa5b745e98938868bab803449&hash=E9B93882B1BCA5F60FEFC90CAE8FF014",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/07-_camden_quartz_bath_2.jpg?as=1&w=494&rev=0d718014cecf4f89beb9a65e284ec61d&hash=9482A4DB0130CCA08F66D68BBCBF1ECE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/08-_camden_quartz_bed_3.jpg?as=1&w=494&rev=d082b36f591c487480189a0f49fe1f1c&hash=FA259E8646D8E4599938F88C32424E19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/09-_camden_quartz_bath_3.jpg?as=1&w=494&rev=7979cb1b5d1d463199f0cb0e7b0a4e24&hash=BA0FD7DE1FF1F874DF3201C2D569CABE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/10-_camden_quartz_living-dine.jpg?as=1&w=494&rev=869b91e1f91f4de2b2633159f7bcf7b6&hash=5389B75CF9C79AF4FE5645615933D98D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/11-_camden_quartz_living.jpg?as=1&w=494&rev=3f7be2dca37a446ba0a7a4c6d3d0fe22&hash=F6DC4748CCDF1E5EF2030038BD035FEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/12-_camden_quartz_dine.jpg?as=1&w=494&rev=23a629350b2f4267a1947b39d86f6f9b&hash=DBEB13359ED05830A6D89FFA2E961C39",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/13-_camden_quartz_kitchen_1.jpg?as=1&w=494&rev=1485392e5822458d9db05ab4671624fa&hash=BEA92303F8A848BBFB1A8AE872FD5F22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/14-_camden_quartz_kitchen_2.jpg?as=1&w=494&rev=fda7e5b24ffd443394ee4791bf4d3968&hash=4028229A5FF2406FCC7D863369A8E1F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/15-_camden_quartz_kitchen_3.jpg?as=1&w=494&rev=e45f7944916443dd8ff06cce590c0471&hash=8B208AA06188DABD1388D40198E4D8CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/16-_camden_quartz_kitchen_4.jpg?as=1&w=494&rev=d5559ccc751c4dea9ca6b1c0593733d5&hash=1E7A25779292EC0950E29262CC0BC6B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/17-_camden_quartz_kitchen_table.jpg?as=1&w=494&rev=13f675120dfc45f1884475aa4f0769b8&hash=F9A9CD479DA25779399351FB0FEA5C96",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/18-_camden_quartz_master_1.jpg?as=1&w=494&rev=883a56a4e5564e35a9eb9bc91cb9b9bc&hash=0F67F15E2235E1058DD8C3FC2CF624E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/19-_camden_quartz_master_2.jpg?as=1&w=494&rev=bc4f3a4cd670464087bd835443a2e62d&hash=2B427E8C26EA76893954DF8BDA64CCB7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/20-_camden_quartz_master_bath_1.jpg?as=1&w=494&rev=7893874d89a4481c8cad5eb31763fba9&hash=CF4CD4AC07B679386DD74CE9CB08ADD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/21-_camden_quartz_master_bath_2.jpg?as=1&w=494&rev=965006d16d494780969d6a59c18a3a87&hash=B56F016763D86D7CB6F35BC47E13A84D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/22-_camden_quartz_laundry.jpg?as=1&w=494&rev=8069a46fd0774973a9508ea37b638c70&hash=B48BB225B959740AF6566D9B0A500D1C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/fl_westflorida_dr-horton_camden_bdf.jpg?rev=3dd600b96afb44d7b65336e9a9632bce&hash=AC8CE6BC7107C7606B6F717407FAA6AD",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "4027 Harvest Hearth Pl",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4027-harvest-hearth-pl",
+      "id": "4027",
+      "address": "4027 Harvest Hearth Pl",
+      "price": "$472,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2794",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0063-4027-harvest-hearth-pl/fl_tampanorth_drhorton_camdenf_shingle_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=29c02ce44314400680aedd6ceae8b9b6&hash=5137715786D3888E9CAB5B8DC41E6DD7",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/fl_tampanorth_drhorton_camdend_shingle_-no-gable-accent_no-cl.jpg?as=1&w=494&rev=b59edac3f6c64b1d909ff76fb89fb9f3&hash=3548EB01ECB32ABBDF1D3761C35CFCF3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/01-_camden_quartz_foyer.jpg?as=1&w=494&rev=d5cae6817e1247a1953eb5ec5ca1c7ed&hash=212D505C217AF8AF8902B16DC79FACDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/02-_camden_quartz_guest_1.jpg?as=1&w=494&rev=2136d91a321b42feb4db6daeda3b74d3&hash=A600B8699D2C10BF590045BAEA07CA15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/03-_camden_quartz_guest_2.jpg?as=1&w=494&rev=b3c6673d3209440783312a24e1ce644b&hash=13738BC1EFB8F524D3E135AB263B988B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/04-_camden_quartz_bed_1.jpg?as=1&w=494&rev=ef511ec3a12d456ba54ab4e842183dda&hash=DB751EB79245B429B8EF0201AD4AD8CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/05-_camden_quartz_bath_1.jpg?as=1&w=494&rev=7483e1462b9a451d80a350f043cc0e3e&hash=11E37811D1628367BDE9EB6170228E44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/06-_camden_quartz_bed_2.jpg?as=1&w=494&rev=af90967013a143e6b0673cdc50f1a824&hash=729123170E15F68930E9B01EBAD238D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/07-_camden_quartz_bath_2.jpg?as=1&w=494&rev=5cbb797cd82d44e0970824a5fe95ecfc&hash=932C518C82E59BA392E094BED98C5F74",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/08-_camden_quartz_bed_3.jpg?as=1&w=494&rev=61d0a62812fd4350b78e18ed3c1dba1f&hash=F032200CB22DA68299DF6248AC862EDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/09-_camden_quartz_bath_3.jpg?as=1&w=494&rev=172a7c55d1bd4391b1c57a8a383ff71d&hash=F2F96014485D9926887DAE652E15F249",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/10-_camden_quartz_living-dine.jpg?as=1&w=494&rev=8a199dfbc3ec4466bb36ed9254438c12&hash=57389C07B3C81AAE200EE2D4A4786138",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/11-_camden_quartz_living.jpg?as=1&w=494&rev=7740719058b24c148c38a34c650be349&hash=0665EAA1387DBA93D996B401275CDB62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/12-_camden_quartz_dine.jpg?as=1&w=494&rev=630282b5808d47fbbf48e3ddc8965339&hash=5A0F04584EF60C3E63A13BF9606D109F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/13-_camden_quartz_kitchen_1.jpg?as=1&w=494&rev=8316aa1eb5db41bb87b32731c39b2176&hash=0181F1AAFC0A0F57C7007DB5526BA4DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/14-_camden_quartz_kitchen_2.jpg?as=1&w=494&rev=fbfb6fb19b9241e5bd3c974676d62744&hash=A1A9D9B3B3BA3C5D7E2416167723FD30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/15-_camden_quartz_kitchen_3.jpg?as=1&w=494&rev=91ca5614ad174fd1a3d59cc0272cf669&hash=A2F8C0FB022B66423C07AE4B9C712A9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/16-_camden_quartz_kitchen_4.jpg?as=1&w=494&rev=9a8edd4c1227433abca3b2fd25a6f056&hash=EFA69E0430D6EE47FFFBAD08EB56DF10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/17-_camden_quartz_kitchen_table.jpg?as=1&w=494&rev=145455d57be74ebf98f1282749bbd6f1&hash=5966287B1C2D0FBEB67B9F8965D49BFC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/18-_camden_quartz_master_1.jpg?as=1&w=494&rev=6b667f0792ec4c27bf31a6e57a624ddc&hash=2B433C4A991AFEC4E178207AA1C7089B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/19-_camden_quartz_master_2.jpg?as=1&w=494&rev=578ef51ee67346b7b22c80b8290623a3&hash=DF433C7AA57B54ED081FE3BA5EC13683",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/20-_camden_quartz_master_bath_1.jpg?as=1&w=494&rev=11bd8bbc4dab4e1dbf9321c33f154bde&hash=37E858B37390B41D51551C5B9A37E3D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/21-_camden_quartz_master_bath_2.jpg?as=1&w=494&rev=ed27039ec79244f2bd5650c20ff883d4&hash=5DEDBA9E15F8AD8F840A79AD346CC4E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/22-_camden_quartz_laundry.jpg?as=1&w=494&rev=76bd520a79d844b9a92e1a6ae24a219d&hash=58D8D544254611E533516FF97B124F5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/fl_westflorida_dr-horton_camden_bdf.jpg?rev=3dd600b96afb44d7b65336e9a9632bce&hash=AC8CE6BC7107C7606B6F717407FAA6AD",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "4028 Harvest Hearth Pl",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4028-harvest-hearth-pl",
+      "id": "4028",
+      "address": "4028 Harvest Hearth Pl",
+      "price": "$484,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2794",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/2795/0057-4028-harvest-hearth-pl/fl_tampanorth_drhorton_camdend_shingle_-no-gable-accent_no-cl.jpg?iar=1&sc=1&thn=1&w=425&rev=b59edac3f6c64b1d909ff76fb89fb9f3&hash=221287E104485DA174D3FA080C8C4251",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/fl_tampanorth_drhorton_jordynii_g_shinglenocl.jpg?as=1&w=494&rev=1e2e58b77dc546e48b92e72f865d54e0&hash=7D0FFB83CE77FFE3B7D71CFAA19F8F95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/1fl_tampanorth_drhorton_jordynii_flexroom.jpg?as=1&w=494&rev=20f368f384614d95a7a6ccd0ba51606a&hash=969ECEA7B33487F4CA3956AF07E9E42E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/2fl_tampanorth_drhorton_jordynii_kitchen.jpg?as=1&w=494&rev=6b018efac4f34eec801908ea454e4595&hash=31269A47BE49FE0D7F9AD48B8661A3C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/3fl_tampanorth_drhorton_jordynii_dining.jpg?as=1&w=494&rev=db33f4f5b6e7464988dc6c0d85b9edc5&hash=A3A3DE8E2558C607574F713184B488A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/4fl_tampanorth_drhorton_jordynii_livingkitchen.jpg?as=1&w=494&rev=110382ca1b344b46b264bc54998b97a7&hash=FF6CA47E97339FB63C06D9A40DB256F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/5fl_tampanorth_drhorton_jordynii_kitchenliving.jpg?as=1&w=494&rev=835c187fbcdd4437b2322203ba304aaf&hash=4324B8AE3305DA0EA7A200D4A9C7855D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/6fl_tampanorth_drhorton_jordynii_powderbath.jpg?as=1&w=494&rev=3f0fbacc88d6445ea38fbbf76bb3c559&hash=8A7AF5B23E69A59842E5AD1D8E25E309",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/7fl_tampanorth_drhorton_jordynii_bedroom2.jpg?as=1&w=494&rev=e90b9e40784348b08fa9a7216cca848c&hash=81C4507AE0CE7998CA3328496E878AA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/8fl_tampanorth_drhorton_jordynii_bonusroom.jpg?as=1&w=494&rev=e686c8041f0041409f676cec00d54d70&hash=9530146DF83311238A62D6EF65A18DC2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/9fl_tampanorth_drhorton_jordynii_bedroom1.jpg?as=1&w=494&rev=922162c834f74bf4abec3544355d38eb&hash=07F3F1368EB42652084366825DF59305",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/10fl_tampanorth_drhorton_jordynii_bathroom1.jpg?as=1&w=494&rev=d1a5134e000a4a98a30129274178697f&hash=FF5263AB02CC65C91D86BCD980933B77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/11fl_tampanorth_drhorton_jordynii_bedroom3.jpg?as=1&w=494&rev=d024f51dd3c643c5a587a80c3c4609d2&hash=580AA9214BE29ED952A55B56AFB83CE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/12fl_tampanorth_drhorton_jordynii_bedroom4.jpg?as=1&w=494&rev=9481ac2d158c40c9931026b5aed98328&hash=667A04003C60AF581D35CB69896153D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/13fl_tampanorth_drhorton_jordynii_bathroom3.jpg?as=1&w=494&rev=6ee586a9158e424ab393548dfa934aa1&hash=D3BE589227FD18843BEB82F692C85B6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/fl_tampanorth_dr-horton_jordyn-ii-blacklines_patio_new.jpg?rev=8307f4f22ecb470cb3881c6763fab401&hash=FEDAE04147C4617A966D84684215F13B",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "4030 Harvest Pl",
+      "plan": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/farm-at-varrea/qmis/4030-harvest-hearth-pl",
+      "id": "4030",
+      "address": "4030 Harvest Pl",
+      "price": "$499,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39350-farm-at-varrea/393530000-farm-at-varrea-60s-drh/3278/0058-4030-harvest-hearth-pl/fl_tampanorth_drhorton_jordynii_g_shinglenocl.jpg?iar=1&sc=1&thn=1&w=425&rev=1e2e58b77dc546e48b92e72f865d54e0&hash=C087F934B613FAF97785D0496C0A1678",
+      "latitude": 28.06205,
+      "longitude": -82.07832,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Knights Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Marshall Middle Magnet School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Plant City High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

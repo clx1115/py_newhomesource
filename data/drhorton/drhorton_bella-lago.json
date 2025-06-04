@@ -1,0 +1,1145 @@
+{
+  "timestamp": "2025-05-31T18:33:05.345290",
+  "name": "Bella Lago",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago",
+  "status": null,
+  "price_from": "$308,990",
+  "address": "10422 Charlotte Drive,Parrish, FL 34219",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Parrish, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/02.jpg"
+  ],
+  "location": {
+    "latitude": 27.60909,
+    "longitude": -82.42275,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$308,990 - $546,990",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Heated Pool",
+      "description": "Heated Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Multipurpose Sports Field",
+      "description": "Multipurpose Sports Field",
+      "icon_url": null
+    },
+    {
+      "name": "Covered Picnic Area",
+      "description": "Covered Picnic Area",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/3eab",
+      "details": {
+        "price": "From $309s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/front.jpg?as=1&w=425&rev=72504d0d1d624df78edb5871f885ac29&hash=B7E44A2BA395DF2C6836A712D74FCC49"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392300000-bella-lago-40s-exp/3eab/fl_west_florida_dr_horton_express_allex_cd_block_new.jpg?rev=cf9438fa763a4887bd5041f18d5d5b89&hash=56A7CC5C084554C0C3C63B0AAABD7342"
+        }
+      ]
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/3emb",
+      "details": {
+        "price": "From $322s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3emb/harper_elevationc_stone_88.jpg?as=1&w=425&rev=34b75269ba024a0d9fcb6d72abbc0817&hash=5643AE78BEA1A216600060C2432D2741"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3emb/harper_-_floor_plan_blacklines.png?rev=a088cdd0d1d444259032bd1dd05d1d12&hash=3839EAFA76A9AE7429210F6776719275"
+        }
+      ]
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/4eab",
+      "details": {
+        "price": "From $340s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/front.jpg?as=1&w=425&rev=eda80770075f431ca4f13bc72d8f5f85&hash=8D74916605FFD2CD4BA06D7F66816063"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392310000-bella-lago-50s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block.jpg?rev=38c3c84205c647db9a2369031860c2bd&hash=C21513DFC6122FD7D158278E001D77E2"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/4ebb",
+      "details": {
+        "price": "From $359s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/front.jpg?as=1&w=425&rev=94708a63d1734f1fa2e33c373e614cb4&hash=8B970A9D25EF42FE194F95A3E2A1957B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392310000-bella-lago-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_block_floorplan_new.jpg?rev=4c924c03677242048a9edda23767f4ba&hash=9D8D44C09F4F815A8C851BF903BB3165"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/2045",
+      "details": {
+        "price": "From $387s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,045 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2045/front.jpg?as=1&w=425&rev=0145868aaf8f44eda0220b2c3465a836&hash=C414E75C1EC9435155E030C741EB5A3B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/2045/fl_west_florida_dr_horton_lantana_b_d_f_floorplan_new.jpg?rev=3b8abd74d43b4c7588b465153ce733c2&hash=C7990A62E9B0F19ABE0206C434CDDACC"
+        }
+      ]
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/3eeb",
+      "details": {
+        "price": "From $362s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392300000-bella-lago-40s-exp/3eeb/zfl_west-florida_drh-express_elston_h_coach_no_hinge.jpg?as=1&w=425&rev=375584e204cc42b8a3c6271e4a31b64d&hash=9E885396CA19FB73CE1E7083812DB104"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392300000-bella-lago-40s-exp/3eeb/fl_west_florida_dr_horton_express_elston_patio_block.jpg?rev=cad2d2ee28494e99897e75f64a379639&hash=451A86F7DFFA22ECE6FFDBA6B5E0BFE9"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392300000-bella-lago-40s-exp/3eeb/fl_west_florida_dr_horton_express_elston_patio_block.jpg?rev=cad2d2ee28494e99897e75f64a379639&hash=451A86F7DFFA22ECE6FFDBA6B5E0BFE9"
+        }
+      ]
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/2368",
+      "details": {
+        "price": "From $447s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,372 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2368/front_ext_destin.jpg?as=1&w=425&rev=1f0343f93aa44c75800fd43c32de8eba&hash=0C778EB1044687C292ED6BD9347DE59C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39227-bella-lago/392280000-bella-lago-60s-drh/2368/fl_tampanorth_dr-horton_destin_blacklines.jpg?rev=6378f4e80d8b4b059653d7f092428ce0&hash=96AFA1D9A926D197FD7A1FB6EE06925C"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/3efb",
+      "details": {
+        "price": "From $372s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/robie_front_ext.jpg?as=1&w=425&rev=a79843addc044dff85843f88b82da46c&hash=96A42F9E94433A19F9D7C33F6BF4D697"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392300000-bella-lago-40s-exp/3efb/fl_west-florida_dr_horton_express_series_robie_gh_patio_new.jpg?rev=41b2f013a8bc4acf9a824480530caa84&hash=EFE48D4239CEC8968DD3A058A994AA3C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392300000-bella-lago-40s-exp/3efb/fl_west-florida_dr_horton_express_series_robie_gh_patio_new.jpg?rev=41b2f013a8bc4acf9a824480530caa84&hash=EFE48D4239CEC8968DD3A058A994AA3C"
+        }
+      ]
+    },
+    {
+      "name": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/2558",
+      "details": {
+        "price": "From $459s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/front_hawthorne.jpg?as=1&w=425&rev=de9c09fc635045f3992a5a3e38fca891&hash=EB132895BC4F084BB13C9AC1DDC60CCC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392280000-bella-lago-60s-drh/2558/fl_west_florida_dr_horton_hawthorne_b_d_floorplan.jpg?rev=cdd1a8fbbf954d759f0b641b6cd4ddbc&hash=3C52BD9B403EBA43CB36BB82AC57D07F"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/4ehb",
+      "details": {
+        "price": "From $398s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/front.jpg?as=1&w=425&rev=e4fca1251db046f5aabe218e89103f93&hash=CF495F396A3966FC72913051F4BE8765"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392310000-bella-lago-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=3f054f558f3e4015a7ff6c49ca7b256d&hash=E10BEFEC78E79283A12D5A9C19A9471D"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392310000-bella-lago-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_ghjk__patio_new_11_6.jpg?rev=3f054f558f3e4015a7ff6c49ca7b256d&hash=E10BEFEC78E79283A12D5A9C19A9471D"
+        }
+      ]
+    },
+    {
+      "name": "Coral",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/2767",
+      "details": {
+        "price": "From $421s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,756 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392270000-bella-lago/2767/fl_west-florida_dr-horton_coral-g-haven-estates.jpg?as=1&w=425&rev=d8a33e60853d484198c5a1b95aa4ecea&hash=BFEE6336492ABEB364232F6C7EAE60F8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=4e40f8a063614855abe912cbf9107bf3&hash=1E2E8D9B3B7CD29F146508C4EDF2AC19"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/2767/fl_west_florida_dr_horton_coral_gh_floorplan_2_story.jpg?rev=4e40f8a063614855abe912cbf9107bf3&hash=1E2E8D9B3B7CD29F146508C4EDF2AC19"
+        }
+      ]
+    },
+    {
+      "name": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/2795",
+      "details": {
+        "price": "From $485s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/front.jpg?as=1&w=425&rev=d96ad62ef23d4e8ab507173266d0cb43&hash=68A4B3350F1769D1172E69378FF2C257"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39227-bella-lago/392280000-bella-lago-60s-drh/2795/fl_westflorida_dr-horton_camden_bdf.jpg?rev=aa784be890ab4012bde27e09057ab139&hash=6640E692F420D9D4BAD4DCB673ED5561"
+        }
+      ]
+    },
+    {
+      "name": "Hemingway",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/2924",
+      "details": {
+        "price": "From $440s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,934 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/front1.jpg?as=1&w=425&rev=67016f05fac5481582d7820eac7eeff7&hash=2A6A36E05C3FDEDFE91647A99BCF8BA7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/2924/fl_west_florida_dr_horton__hemingway_g_h_floorplan.jpg?rev=00bddd5cffe645a3861ed2556caeb840&hash=23C86E9A1DDFFFA85787B0C1A1B74D3E"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/2924/fl_west_florida_dr_horton__hemingway_g_h_floorplan.jpg?rev=00bddd5cffe645a3861ed2556caeb840&hash=23C86E9A1DDFFFA85787B0C1A1B74D3E"
+        }
+      ]
+    },
+    {
+      "name": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/3278",
+      "details": {
+        "price": "From $507s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "3,278 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/jordyn_ii_front.jpg?as=1&w=425&rev=6baed3e276204438958ce080b2395e70&hash=18D74FED0C52AF72078A68DB2337D765"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/jordyn_ii_-_floor_plan_blacklines.png?rev=ccefecdd66ad4b859f40cc2cafcde6b1&hash=CD4ED1221E8A0A57F738B7F554016BFA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/jordyn_ii_-_floor_plan_blacklines.png?rev=ccefecdd66ad4b859f40cc2cafcde6b1&hash=CD4ED1221E8A0A57F738B7F554016BFA"
+        }
+      ]
+    },
+    {
+      "name": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/floor-plans/3129",
+      "details": {
+        "price": "From $452s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "3,313 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/front.jpg?as=1&w=425&rev=4a0602df540d41adbd1b3ff2c3553e69&hash=3D609ECEC0A6C179514F0A1DF3B0C2FF"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=1d222ead0708406b9e9b84d928d5c538&hash=999A00605B4E81D1DF92AF17B56639AF"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-florida/39227-bella-lago/392290000-bella-lago-50s-drh/3129/fl_westflorida_drhorton_holden-gh_2-story.jpg?rev=1d222ead0708406b9e9b84d928d5c538&hash=999A00605B4E81D1DF92AF17B56639AF"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/04-allex_d_siding_nogrids_cls.jpg?as=1&w=494&rev=350239f864c44782b52172ebea61fa1f&hash=191416E4C0493E73F11A5C3D0903317F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=441d5bcc793b4c2e983123e045cdb3cf&hash=750E44D86F0FA1FAF12CD95BF979CD9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=2a9121804cb0446ba7bf803241bc28a1&hash=B46A56416026ABE3819F8B5869C15A42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=9657a6fd843d4c8bb0b74b66c57e2195&hash=955CA8390BFD2631455EDDCBAD493DA2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=ef065a003a444517a6377f8bb908d7ff&hash=ED9AE1C275AA45DBFBB01ED93B176A42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=80854aba49024c0aa7402e756315b5e2&hash=9C65D7F64CCB02822C4E83763D2D7882",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=acbf0908d8694e2990b1a0558922ca47&hash=4033F682A148A1A8B5DC4920CD8F5DA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=e8a14086b019429c89d2623e23fde4b5&hash=A93CE36677BEA4188E83550FE1621DE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=3a627d80fb4741cb9a8039d465b1e9cc&hash=9AEDFB601BE1F76E67B0DD20855C1B63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=212dc7443084473eb2ac2f5d4ba37055&hash=93685D2FDDF1DA39517855DCDB680293",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=01a3509bc9f64ba18ed9fc72b4840958&hash=830329913149579478D7AA3722CD9A33"
+      ],
+      "name": "12031 Lansing Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12031-lansing-glen",
+      "id": "12031",
+      "address": "12031 Lansing Glen",
+      "price": "$328,265",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0224-12031-lansing-glen/04-allex_d_siding_nogrids_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=350239f864c44782b52172ebea61fa1f&hash=CB80B7DD3AD692B6B839555A80FE925E",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/03-allex-d_nogrids_cls.jpg?as=1&w=494&rev=c53c938e0afe479c96179058116e9bcb&hash=91EB45C3DDCD477C86DDA8F12B77B38A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=a26e5f3160fa4fc4972fdc3be9263ded&hash=0E0FA15EC02AA1A0D202915C6325C65F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=de752779b32b431d8bad1bb27bede946&hash=C2AE93B211AA34E51EEB2D9309A32ACE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=fb41ce85181243649f31b48adba84148&hash=EC75282466765127D90F03D55025A478",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=0358cd331a7348abac8f7d0f2f327068&hash=6894B6C42DC597294544E23B8C3CB641",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=d4c56c3182f84f7f8507f4d2135b5a03&hash=3D121A4BACD0E344546A0B071B6AB83E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=f10a9c6853e94aa98685888373aa9ef9&hash=9FFB7BC9D9F8A9B275FAD09A07741E92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=2743fa84b7a54480bceb0950ef3a64ce&hash=4ACD7F4FC1B02CAC8D1F8C5EE01CEF77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=c4cafb050fa942d3992a0176e3ce60ea&hash=93E82744EE073757404EF0AA1985977A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=e1ebe80c3cac4866aeeb0b82d4995f25&hash=CE717C4807E964EED125891BA01A8ABC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=dc369f71ece04bdc9ae25da434469f8b&hash=D27FEC2B007DA50192089FC7D1F351B7"
+      ],
+      "name": "12051 Lansing Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12051-lansing-glen",
+      "id": "12051",
+      "address": "12051 Lansing Glen",
+      "price": "$326,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0229-12051-lansing-glen/03-allex-d_nogrids_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=c53c938e0afe479c96179058116e9bcb&hash=E367FB025DA867AB14F16B029D4E8DB8",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/03-allex-d_nogrids_cls.jpg?as=1&w=494&rev=096866a5f799442c94fcacaae3fa54e6&hash=4408BD0C34493BD666ACC7359AA92CCD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/01-fl-west-florida_dr-horton_express-allex-entry.jpg?as=1&w=494&rev=64afeef645a04aa2b87850eac648266a&hash=F699CCDD33CEA9ACDD67E75F1E088EAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/03-fl-west-florida_dr-horton_express-allex-kitchen.jpg?as=1&w=494&rev=ae2c3446bca24a33af3fb09e35455d7e&hash=5B1FEE788262FA156678A03503AF1774",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/02-fl-west-florida_dr-horton_express-allex-dining.jpg?as=1&w=494&rev=afdbf0c00ff6496e974f77facacb78e2&hash=6E9BC00274A9C807D90B1C4FCD812D3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/04-fl-west-florida_dr-horton_express-allex-kitchenliving.jpg?as=1&w=494&rev=58ba675adeb84b13b0fcbecd933a3b0f&hash=20A004F32863EAECC952E591C2E3A40E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/05-fl-west-florida_dr-horton_express-allex-living.jpg?as=1&w=494&rev=50ed087da7b54a1092acd5cc073814a6&hash=C8C39E54117C62924FFF12558650BB5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/06-fl-west-florida_dr-horton_express-allex-bedroom1.jpg?as=1&w=494&rev=c3601e1b31894525b1e30f1b09eea76d&hash=FD63AEB8CBB66281490F954466793F80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/08-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=67b3449321e743aca3263b4fb5db9983&hash=139B5C913E1A38CDB707C51CC014B0C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/09-fl-west-florida_dr-horton_express-allex-bedroom2.jpg?as=1&w=494&rev=309f57a8b28440b0a655b5bb813bfd52&hash=0AA0F7335CB44245B7CC0A08B8F2FB92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/10-fl-west-florida_dr-horton_express-allex-bedroom3.jpg?as=1&w=494&rev=edd54e63259c424c80e2bac954335e59&hash=ACE45E0D2E87F71229358FC7C8308CB8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/07-fl-west-florida_dr-horton_express-allex-bathroom1.jpg?as=1&w=494&rev=52fd3161434048e7b083a1eb54c15eb1&hash=135D1D09CCCDA52AFE295C182450C378"
+      ],
+      "name": "12060 Lansing Glen",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12060-lansing-glen",
+      "id": "12060",
+      "address": "12060 Lansing Glen",
+      "price": "$330,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eab/0237-12060-lansing-glen/03-allex-d_nogrids_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=096866a5f799442c94fcacaae3fa54e6&hash=016589ED7890D9732F274986EDD30A05",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/aria-elevation-d-nostone-cs7-shake_siding-wcl.jpg?as=1&w=494&rev=ba175dcd9a0346658ab21550af39fb85&hash=F18A94E8006E9E0764F8EB549117DE30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/02_flariadkitchendining.jpg?as=1&w=494&rev=8e4a9607aeab4c6386ca2acfd28e8a2c&hash=748E88275625AAA815701F8480E30340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/03_dining.jpg?as=1&w=494&rev=0f164d98e2794af38e1a02cb2043a570&hash=FA7C2629C0A39FC764E585A0BABBBE87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/04_great_roomariad.jpg?as=1&w=494&rev=f880ad7f36ad47c282ce44726e52be87&hash=75F3729D12AA68CBA0D0B3E4C2A460BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/05_greatroomentry.jpg?as=1&w=494&rev=0b65461f857a4379aa7efd8b2d185d43&hash=2B63800DB4DE4DF354D119ED4924479C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/06_bedroom_1.jpg?as=1&w=494&rev=5abc7252c7a44b83aac8c542c5a78f99&hash=F34E21864E4D3D728B0BD059A7F04318",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/07_bathroom_1.jpg?as=1&w=494&rev=738824b952c5417bae804a092844adf2&hash=3D174F72ECDAA976A7A8F11DAB50AD25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/08_bedroom_2.jpg?as=1&w=494&rev=143e053c0b7b4579adcc1293d225c9f0&hash=F150210DF68F7D7FAD33BC670872C1E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/09_bedroom_3.jpg?as=1&w=494&rev=43d6ef982a7a4ec19cb4569dea7bb321&hash=584AA304F7DBB6AF5838C55F780F8677",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/10_bath_2.jpg?as=1&w=494&rev=c5a9f01387134a0588d3a40796aa5fae&hash=E8790CB1F2FB838597FAA63FC4282937"
+      ],
+      "name": "12079 Mountain Island Trail",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12079-mountain-island-trail",
+      "id": "12079",
+      "address": "12079 Mountain Island Trail",
+      "price": "$359,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0322-12079-mountain-island-trail/aria-elevation-d-nostone-cs7-shake_siding-wcl.jpg?iar=1&sc=1&thn=1&w=425&rev=ba175dcd9a0346658ab21550af39fb85&hash=21034834CB357E2DF2ABF264C5A79242",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/fl_drh_tpas_manateesarasota_aria_8ft_siding_c_cls.jpg?as=1&w=494&rev=7823f693bc5c4a2d8c719d642183a555&hash=5BF3ACD8E8203641AB4D9768020FD052",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/02-fl_westflorida-dr-horton_express-series_aria_kitchen-dining.jpg?as=1&w=494&rev=348517f2c9d54cc4a20a0534aa92ac19&hash=D50667A93800C677790724E9E894DF4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/03-fl_westflorida-dr-horton_express-series_aria_dining.jpg?as=1&w=494&rev=551720ac4b364b66a9d4b29b9b0b61fa&hash=6B00F66A9BF9BB78BA48025A63DCDBB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/04-fl_westflorida-dr-horton_express-series_aria_great-room.jpg?as=1&w=494&rev=17023a1e8ba44141b715788a5a411f9b&hash=BAD111541B8B17EF745DCDEEC98A02F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/05-fl_westflorida-dr-horton_express-series_aria_great-room-entry.jpg?as=1&w=494&rev=0155834266d44db897940929fce3dcea&hash=6F7FBBAFC1923452C297947F4CA3FFBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/06-fl_westflorida-dr-horton_express-series_aria_bedroom-1.jpg?as=1&w=494&rev=68653c2a86ba4688a4e5bdb19a479500&hash=488E24335EF138F00F6CC4A271460650",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/07-fl_westflorida-dr-horton_express-series_aria_bath-1.jpg?as=1&w=494&rev=1d00538f29464f40b83521ad6f010a5e&hash=F37D554EDF640128698DACE3AF62AF19",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/08-fl_westflorida-dr-horton_express-series_aria_bedroom-2.jpg?as=1&w=494&rev=323f7ddad78e4f40a9339160a61eeea3&hash=FAA051EF7FCC616AA2BA07BBBAC2F8D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/09-fl_westflorida-dr-horton_express-series_aria_bedroom-3.jpg?as=1&w=494&rev=f1512745e17c401db94d6414b333ddd9&hash=3E0D1DEDAEE158A603D6C8E396756402",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/10-fl_westflorida-dr-horton_express-series_aria_bath-2.jpg?as=1&w=494&rev=cd294592048e4c2a923227657fa47e5f&hash=89E6DC20BB270D0CB03A786ED2C24BB9"
+      ],
+      "name": "12104 Kingsley Trail",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12104-kingsley-trail",
+      "id": "12104",
+      "address": "12104 Kingsley Trail",
+      "price": "$349,000",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0346-12104-kingsley-trail/fl_drh_tpas_manateesarasota_aria_8ft_siding_c_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=7823f693bc5c4a2d8c719d642183a555&hash=C1B6D539B517061C957A5EDBAF719761",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/aria-elevation-d-nostone-cs7-shake_siding-wcl.jpg?as=1&w=494&rev=b08ee3738f504ef9926c46181055afe9&hash=56EC1D1FEE7A94AAD4E57E603886DD28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/02_flariadkitchendining.jpg?as=1&w=494&rev=c6a91b6c5a074d89bc6b49b514add9d6&hash=CA88A8F873F54B5B5EEF704D0A918080",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/03_dining.jpg?as=1&w=494&rev=b5b259dee1e84fdea9b3498b7f646f81&hash=BED38D7ED123DB13F2013C2EAA5AC861",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/04_great_roomariad.jpg?as=1&w=494&rev=518b998d21b94ccf8a5d11f07e8d946b&hash=5A3A36440D3C8E39821FA842987D9EB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/05_greatroomentry.jpg?as=1&w=494&rev=4dd3a4183a984d53aeca2929f9950373&hash=FBC3C636485C65F0BD25FF2DB968A96A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/06_bedroom_1.jpg?as=1&w=494&rev=4a41a91950b04334820e0f4af42eeb07&hash=29E1CBDAEF9E6C430069D7119480A360",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/07_bathroom_1.jpg?as=1&w=494&rev=784c9a58c6f747a5b566e64ebaaded99&hash=A79BEDC0D0360F1E4DD2D90D0C9BCDBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/08_bedroom_2.jpg?as=1&w=494&rev=609fa877aea147179b20a82eaf00328f&hash=F0CF8E8E1A968A0489E12167AB441F33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/09_bedroom_3.jpg?as=1&w=494&rev=18277042235f48cb99cb66aaceb01b68&hash=B41CE7510ED871D64E5B744F57B4858E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/10_bath_2.jpg?as=1&w=494&rev=976a7fee3562419b894dc9bb0a77f00f&hash=A3901D016B8D76F0913849F087FC1FAD"
+      ],
+      "name": "12112 Kingsley Trail",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12112-kingsley-trail",
+      "id": "12112",
+      "address": "12112 Kingsley Trail",
+      "price": "$354,000",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4eab/0332-12112-kingsley-trail/aria-elevation-d-nostone-cs7-shake_siding-wcl.jpg?iar=1&sc=1&thn=1&w=425&rev=b08ee3738f504ef9926c46181055afe9&hash=27911FE5097248BC4D42061CB9052EF1",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/cali-elevation-d-nostone-cs8-siding-shake-wcl.jpg?as=1&w=494&rev=deb6354539a644f09a9fbe48e9ce7891&hash=7B4CF6EE1633068CB06C57754E2B3A06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/006.jpg?as=1&w=494&rev=b310bb2bc6f44faabe19759d7171036a&hash=7AB3635A2F032C5A7E5E6F59A9D8D687",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/007.jpg?as=1&w=494&rev=9a26f43bbf1d4e7f948b26cdcf162f76&hash=3C06CBFB874F057B0C505D0FDA5E0CD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/008.jpg?as=1&w=494&rev=71d5f658e01d4c5a9ce1e13d1461df08&hash=8C8D35121878DEE12CFC854CDC6AFF03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/003.jpg?as=1&w=494&rev=d475a3f9040e41329babe0d9026bbf75&hash=0BAACF5A72CFA0A194A246BD25C9FD36",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/009.jpg?as=1&w=494&rev=6b5e46ecfd9a4a549989588db4330c1c&hash=B8BD87ADF4828CE35BF8E23115DACAD0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/002.jpg?as=1&w=494&rev=4bb0e6f1d2ba4c90b626a6756a887c36&hash=151B17ED0ED5E9793EC1D987DDBC2F55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/004.jpg?as=1&w=494&rev=4cac5bf514f04f19adf3c5efc68dc02e&hash=D808F2806C1E9DF976A3EECE2A81602B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/005.jpg?as=1&w=494&rev=b43a620a06f0439db901181fd1cdd331&hash=307E1B326E2142191224FABF428EA786",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/010.jpg?as=1&w=494&rev=56ac48bfeb404de280e50a3e1b36b09c&hash=266014EB92B2E1F2B29C3C4EFF2E14BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/014.jpg?as=1&w=494&rev=75be931ce34a46b2bd533a890a65e715&hash=47FF140E42B64B9F97DBA580DAE167EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/015.jpg?as=1&w=494&rev=dc5ce3374e834b6684aeb63e46b5b368&hash=73BF52DD022619860814BD8EAA55F8C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/016.jpg?as=1&w=494&rev=39b4f9eaac6345fa889ed561096146d5&hash=A1BEF875936BB4D493DE2B5AD8FCEE6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/011.jpg?as=1&w=494&rev=37d96e847af44248a74a1564375573ba&hash=18A83E83AEDCC2B5AE1E5DD87995EEC3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/013.jpg?as=1&w=494&rev=8f124b53cd6f4e2f8c4dd207d8e2ff7b&hash=0D44A8DDCA30B86CDE17026F54876EC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/012.jpg?as=1&w=494&rev=86ce365d00914c2f98e7d5d4786e273f&hash=B4A3E9D46EC5DDF986835666CC6A1B4C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/017.jpg?as=1&w=494&rev=cfc71ca8efee43bdb2ea164ed537b8a0&hash=2529A1DDE17E8B83590A654C9C2152DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/018.jpg?as=1&w=494&rev=33a2387aa02541b5913998d51497912f&hash=41A80CEFCB895AB15D1CCDAF76D70193"
+      ],
+      "name": "12075 Mountain Island Trail",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12075-mountain-island-trail",
+      "id": "12075",
+      "address": "12075 Mountain Island Trail",
+      "price": "$381,515",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ebb/0321-12075-mountain-island-trail/cali-elevation-d-nostone-cs8-siding-shake-wcl.jpg?iar=1&sc=1&thn=1&w=425&rev=deb6354539a644f09a9fbe48e9ce7891&hash=67C430878123CE7D1973482B094B09E7",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/01_elston_g_8ft_cls_nogrids.jpg?as=1&w=494&rev=9cdda40f30cf4309b1c92680c42ec076&hash=BC686CB4A14447E0BF252BBAFB872CF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/006.jpg?as=1&w=494&rev=1fe8594783464332b6f30f0247188765&hash=0834B362AEB960F8AB9D24AA0372E5F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/007.jpg?as=1&w=494&rev=a567e62e85cc4067a728d0c7e1f78676&hash=25045586083656342023B2D81EEDC80D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/008.jpg?as=1&w=494&rev=3a7173386b6640f0b87526c2e2dbbca4&hash=AC210970161572D50EA0A9F543824484",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/005.jpg?as=1&w=494&rev=bf5e9e2ea1304745bb5ca6ba6eef586d&hash=9B2EB84D5DEF1ECE525ED6BFED342ADD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/004.jpg?as=1&w=494&rev=112295736fa64d429aad65df7a3293b4&hash=163E5F11080FAD2D152A2B19D89A6CBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/002.jpg?as=1&w=494&rev=3efd7ac0e5134b96a7c3a88ed5ad8808&hash=2D580EB5846BCB3343F3BA1EE3ED0FA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/003.jpg?as=1&w=494&rev=ef5401f3c39a4b8e9c98bb5f4180cc00&hash=D4E61ED30E4572D53192721D31BE02B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/010.jpg?as=1&w=494&rev=7e456c09647c48bd9d79657aba57b7b3&hash=B068EBA0A445EA5CD2677C3FC7388A04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/009.jpg?as=1&w=494&rev=c8aa485f343c4f1198a23fb4b2954de2&hash=E5597165D05E6B90B14A14B7D1ABBE6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/020.jpg?as=1&w=494&rev=66598568302245b9a22daf21d4522c01&hash=7AC19283DE719EB61F80C87F7B1B09B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/011.jpg?as=1&w=494&rev=50b4b6c377b8477d875ad651d94b68c1&hash=5882258BC3C1EF0B3B85FAE99E060A23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/019.jpg?as=1&w=494&rev=cc149e6ff9434ece97d067fa548fe9e2&hash=70B169CB737025B5B4B11D90FEF5D752",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/016.jpg?as=1&w=494&rev=9dce4b54a469472a965d5bd39c60dd41&hash=21FF0B141E8801C09D65578EBFD0F4B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/012.jpg?as=1&w=494&rev=6839c1290940414d9bfa9e236f8388a1&hash=B63BA61E9FA1E3481A28C0C9751DA524",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/013.jpg?as=1&w=494&rev=0a2e3504c04b48b4a922486ee3423c27&hash=18343E7B336CB641A8CDD096C780D5E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/014.jpg?as=1&w=494&rev=deca38ea08ca4203859fb54d54fe73e6&hash=BA392BBE35CF619EDB23A9C4FD10AD60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/015.jpg?as=1&w=494&rev=41429253b82f4f9491b8d5c0dd407bf8&hash=71E04FDD0F08501913A22F70AF06E6EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/018.jpg?as=1&w=494&rev=9bbb000a92c34c36b4282d6bf6a25f02&hash=0BF9FB5ED92996B50E080A910BF4E565",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/017.jpg?as=1&w=494&rev=5ccc31fc078b4327859c5cee6baef57b&hash=59E6F065DCB91434645ACBF0849638F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/021.jpg?as=1&w=494&rev=7099f832ad634ad588e6d3a16a4269bb&hash=58694F1E78E333B95B70D8F4DF207611",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/022.jpg?as=1&w=494&rev=9a2c60c435714c92ab8cb87550e611df&hash=25EB6F942BA38C62A908417B5B2308A0"
+      ],
+      "name": "12027 Lansing Glen",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12027-lansing-glen",
+      "id": "12027",
+      "address": "12027 Lansing Glen",
+      "price": "$379,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0223-12027-lansing-glen/01_elston_g_8ft_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=9cdda40f30cf4309b1c92680c42ec076&hash=296DFFC417C4509F2D4A1F8B69A2E448",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/02_elston_h_8ft_cls_nogrids.jpg?as=1&w=494&rev=abac49abc75543618a8eed48343a454a&hash=4956471898C3CE42D94431A173C6B45B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/006.jpg?as=1&w=494&rev=efcbc3cd1cea43a5a9be8c12922652a0&hash=E0BAEF2B617D6B6BB349164E521D7C07",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/007.jpg?as=1&w=494&rev=31763d0dff8841469bea34e55211e627&hash=E5A1F715CE47DA13328A48D9EC67E271",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/008.jpg?as=1&w=494&rev=93964399c511480d87aef39550b13da3&hash=09227BFE71E1D5EE53EDD2A39D242833",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/005.jpg?as=1&w=494&rev=09006270a857425ca9b37e07e68a040e&hash=5B5CCA77CEBCB740BD8E92914C97710A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/004.jpg?as=1&w=494&rev=c96e3575b8174d9e8a3cb4d5f462a90f&hash=53F1C7FFF136ADFE65BF42A6CC1286BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/002.jpg?as=1&w=494&rev=f451524c132044b486c1ff6a24a2f75b&hash=6E261DF74E3005F12114A40ACF3D5F13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/003.jpg?as=1&w=494&rev=2fecb2e9699645f9ba1e4df89a482082&hash=9094FDB8E8639DEFA7213773B6B361A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/009.jpg?as=1&w=494&rev=9b7252b6dcd749a1a5c4868696b29f05&hash=90532F139633C9F444CDA8739C9B0A7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/010.jpg?as=1&w=494&rev=0045990c997e4833b2c8b5fec16d1910&hash=62F140F78CB5C5E2219CED913C229280",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/020.jpg?as=1&w=494&rev=94f9964456e2412a8c92e5d7031b2cde&hash=D4288F2F8FC6DE5928152790BB23AE4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/011.jpg?as=1&w=494&rev=059df3128a7d4206a11ee48bbc261154&hash=3CF6A74E43B8C6FAA8653FAC8CBFCA7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/019.jpg?as=1&w=494&rev=1f2edc65e93642cdb470eb2a1c4b74ce&hash=D2FB0FBAB41F0058A29DD1626FBF5A13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/016.jpg?as=1&w=494&rev=a44049f20c064dce86fe686dc10d7c0f&hash=AD3D7E1FD0AF8BFECB78E48D8FF2D0FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/012.jpg?as=1&w=494&rev=aa66f8b559854afeaed60a8ebcae9c67&hash=ADE8B663F4B475BC1A67A42A6040955E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/013.jpg?as=1&w=494&rev=bf8ce2f006dd45e593a348eb3f8ca529&hash=2691D3CB7212A458A2ADA7F9BBF94451",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/014.jpg?as=1&w=494&rev=8099d946bf1b44839f343b0d22d61a24&hash=53C2E0671775C4E36D05C126032EE595",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/015.jpg?as=1&w=494&rev=b5385c280010462e97c8c2d98d4046b6&hash=D1AFD5BDED5C68F34919B8DBD6747EB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/018.jpg?as=1&w=494&rev=a37471faa66f44e2b5b951a2cb4e94b8&hash=69223BFE2EEC128952F7F954AD3EC0FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/017.jpg?as=1&w=494&rev=24a79545d1d54787a3a02a2e4d1804c3&hash=669B5B96FFF0A9D968E3AA705F2936E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/021.jpg?as=1&w=494&rev=eb6fe498ef504661b5b9925da0ad98da&hash=EE566C2F9A10FBF71B3875F4799A78E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/022.jpg?as=1&w=494&rev=c56abc5764964c5eb560d40b692d67ec&hash=15C773FA94ADAB30D0BF55A30CFFF45B"
+      ],
+      "name": "12035 Lansing Glen",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12035-lansing-glen",
+      "id": "12035",
+      "address": "12035 Lansing Glen",
+      "price": "$380,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0225-12035-lansing-glen/02_elston_h_8ft_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=abac49abc75543618a8eed48343a454a&hash=A309C043F5C38833481E3FD04CC035E7",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/02_elston_h_8ft_cls_nogrids.jpg?as=1&w=494&rev=161a845e4c424b1c9552ed9876784c57&hash=FC7BDAEA561E2462BAAE0547FFAEE053",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/006.jpg?as=1&w=494&rev=0a0f72c6b10c403c9741b25ad86c910c&hash=FE2D4A6A8B846EBD5DFE6CBAC828B4EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/007.jpg?as=1&w=494&rev=558ea48491ba422e8332219eae7168e7&hash=C45C6CF6200AA8E84C8E37F285506C68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/008.jpg?as=1&w=494&rev=4b507b16859a4234a7892fe35e481ec0&hash=F49B3AAC0B3208595B737B419CEF8CCB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/004.jpg?as=1&w=494&rev=2beebbb2202c4bb89e03d80ab76bd462&hash=808109703740D65253C9F3D4225CFE70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/005.jpg?as=1&w=494&rev=e571f522803d4778a61be6bea0315985&hash=012A0EBBB2D2300145FB4DA85403F218",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/002.jpg?as=1&w=494&rev=a4f2967737ed4b6a98df58240004eb3e&hash=4A6460608B151E54158AC158318D42CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/003.jpg?as=1&w=494&rev=40c284c12fd34ea8bcde5951bd3be879&hash=C3510A064F69712458D5C0038B249C0F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/010.jpg?as=1&w=494&rev=30bd7c16f5c04722bd0ebbe411807571&hash=73F4B3880B684C7017BA3406B1881AD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/009.jpg?as=1&w=494&rev=cdce16d129ae4baa971f4c252a0f8515&hash=683E1762499256AEB4888A0B91103B5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/020.jpg?as=1&w=494&rev=43e4c4f0a4d541ae80891e61a30a0d58&hash=36E3AAA2C18B9645A24051FC5B2954E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/011.jpg?as=1&w=494&rev=eb8a4850f28b4bf3939a6aa460217423&hash=606F984B0DDB4D451C52C98C1CD9718A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/019.jpg?as=1&w=494&rev=0e03efed3899491195a07f4781062dd3&hash=D2E06DFC8899FEA6A55F4DF17DC6702C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/016.jpg?as=1&w=494&rev=91a5a1542ec24bcd8ec2bcb9ab97606e&hash=8B6C5FF0BF893439422EB1A6F2C590BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/012.jpg?as=1&w=494&rev=0d6382dabf8a4bdaa6fb8f7ee61f3f99&hash=DF10A74E831644F2A2315D7936C80AA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/013.jpg?as=1&w=494&rev=680c16c77b2b4a75ace6017c2dc1f1f1&hash=3B33FBF1B408F801638AB01FFDBAA7A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/014.jpg?as=1&w=494&rev=7f13781741af454db476df2f1ed023fc&hash=C7CF5F8D170A29C52A0C2EAE90EAC46B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/015.jpg?as=1&w=494&rev=65f13075cbdd428a8664243901d0b019&hash=568754A1387C82B43E00705338D9F9FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/018.jpg?as=1&w=494&rev=63ea6634e72f440992691672b3afb015&hash=056A7DEEF86FA4340E938B671BD7DBE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/017.jpg?as=1&w=494&rev=0043a31f13e242289b0aa20d4b08a410&hash=B85C8B5F18C991E83BE6987D23BCC8B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/021.jpg?as=1&w=494&rev=1ddcf4d0d7f94f57a010d75ac321a633&hash=DBB61DD4F0987690775502F5D67119CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/022.jpg?as=1&w=494&rev=c6a15103860b44bf80c8ffe623e593c2&hash=52578D333D1C1AAB76F9AFCEE79405C3"
+      ],
+      "name": "12047 Lansing Glen",
+      "plan": "Elston",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12047-lansing-glen",
+      "id": "12047",
+      "address": "12047 Lansing Glen",
+      "price": "$382,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2260",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3eeb/0228-12047-lansing-glen/02_elston_h_8ft_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=161a845e4c424b1c9552ed9876784c57&hash=4E2F44D35EAFD86CE460A8D93989C364",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/01-robie_g_cls_nogrids.jpg?as=1&w=494&rev=4012c1ea9c564d0aba5ccc3b0797980d&hash=58278BA1745E10549961F98A8351A833",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/01-fl_west-florida_drhorton_express-ser-robie-8f-entry.jpg?as=1&w=494&rev=691081282590459c962d3e7d59c6397a&hash=6C8C01F441E1D8D4ADB3E632F9CAC560",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/02-fl_west-florida_drhorton_express-ser-robie-8f-kitchen.jpg?as=1&w=494&rev=8bb1bd822e3a4089b7af1758c53dd663&hash=CCE196564E1C677A1A0D06A7819FC480",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/03-fl_west-florida_drhorton_express-ser-robie-8f-dining.jpg?as=1&w=494&rev=eda723e0c4ff4b01811e800018ed8c0b&hash=A665C3D963C249A3F81BCD96858ADB3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/04-fl_west-florida_drhorton_express-ser-robie-8f-great-room.jpg?as=1&w=494&rev=86a34734a58a40df86da80a97ce1f9a8&hash=5F15AA3679A85B4F16C1AD490311D1BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/05-fl_west-florida_drhorton_express-ser-robie-8f-1st-floor-guest-room.jpg?as=1&w=494&rev=74483363bbea47c7a40465bb75145c02&hash=0A88F042DBF6080DE99305800212594F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/08-fl_west-florida_drhorton_express-ser-robie-8f-bath-1.jpg?as=1&w=494&rev=b668e7193ec548fd83b8c0228a9ac348&hash=3B760D2585C390DE384182554593054F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/07-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-1.jpg?as=1&w=494&rev=63a21c93f41d479b9f046e413d28e311&hash=363E4DF813832E315EF27D2B954555B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/06-fl_west-florida_drhorton_express-ser-robie-8f-1st-floor-guest-bath.jpg?as=1&w=494&rev=f2dcc83bc03a4bca82e42f62544336db&hash=13EB7594FF0DAAAB99481CBA0BD8F36F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/09-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-3.jpg?as=1&w=494&rev=1eea5c2f1cd84085ab9c80daca5a3677&hash=44FEE2BC11FB608F2B3AC8CC32D0AEAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/11-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-5.jpg?as=1&w=494&rev=83e6ee7036ae4f2580d884e580fce31f&hash=FEC6F17A1D445D41CA96B59A981FA40D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/12-fl_west-florida_drhorton_express-ser-robie-8f-bath-3.jpg?as=1&w=494&rev=710227c3fa6e4a7ba6dff87c56241f7c&hash=B0D7BA3258CD093FE8884CB0EA289F11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/10-fl_west-florida_drhorton_express-ser-robie-8f-bedroom-4.jpg?as=1&w=494&rev=4be569fea8a142b9a7d0a291824e7dda&hash=28F94ADD6F1C59031C7EC421AC76153D"
+      ],
+      "name": "12036 Lansing Glen",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12036-lansing-glen",
+      "id": "12036",
+      "address": "12036 Lansing Glen",
+      "price": "$398,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2447",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392300000-bella-lago-40-exp/3efb/0240-12036-lansing-glen/01-robie_g_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=4012c1ea9c564d0aba5ccc3b0797980d&hash=97764616C232090E7A60A275F3BC4E5B",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/fl_drh_tampasouth_manateesarasota_hawthorne_b_shingle_cls_nogrids.jpg?as=1&w=494&rev=27c5419ec4f74a3a94174fd7fbb74d7e&hash=2DC99875958A4993EE1EF2D18AFA7DFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/01-fl-west-florida_dr-horton_hawthorne_great-room.jpg?as=1&w=494&rev=7b6a7afc02cb4714b8b2973871acb2de&hash=60E0EE4F36F0D58898E12A6D91E5667A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/02-fl-west-florida_dr-horton_hawthorne_great-room_kitchen.jpg?as=1&w=494&rev=2d3b5eedc84a4156a7438040851ed292&hash=50B1CC660E1645A57F89B688A90A437B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/03-fl-west-florida_dr-horton_hawthorne_kitchen.jpg?as=1&w=494&rev=7b9c193fd30a46578f7c9b5f2afc4a56&hash=E4A9828C49E19CCF4957FF666C0CBDB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/04-fl-west-florida_dr-horton_hawthorne_dining.jpg?as=1&w=494&rev=84c50b63fd124871b837e44100971b8a&hash=567A311D28FA8E680D26E10F7D60664D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/05-fl-west-florida_dr-horton_hawthorne_bedroom-1.jpg?as=1&w=494&rev=c02bd8119b9c4da39cf28a01ecf3ab02&hash=C5C5D8394F8098254C1CFDF6BC11D4C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/06-fl-west-florida_dr-horton_hawthorne_bath-1.jpg?as=1&w=494&rev=fb03b52ac59040829ee04dfca63b547a&hash=8A1D0559E14B0748AAC2B3134D9FB3FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/07-fl-west-florida_dr-horton_hawthorne_bedroom-2.jpg?as=1&w=494&rev=a150c162df854eba9c198728c777cb79&hash=DEF01D289CC2E5DB19FE7B07304A2F89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/08-fl-west-florida_dr-horton_hawthorne_bedroom-2-ensuite.jpg?as=1&w=494&rev=6c7647945bd64e2a8208d7795d3e4eff&hash=607CAD1C624B8D2A556B5A4BEFA25062",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/09-fl-west-florida_dr-horton_hawthorne_bedroom-3.jpg?as=1&w=494&rev=9c1fbb31444e421d9a80f3f889bd4348&hash=E3AB58483CC1E5FB55355D196D55159A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/11-fl-west-florida_dr-horton_hawthorne_bath-2.jpg?as=1&w=494&rev=1c8170d12f224cd89ef6f59f468d0730&hash=017E633E2A402AACCBB4F30AF159D927",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/12-fl-west-florida_dr-horton_hawthorne_covered-lanai.jpg?as=1&w=494&rev=a70b65c03a364fa8a02328fe93b63676&hash=7C36DB31B51A01FDA8A94D14A79028AB"
+      ],
+      "name": "10725 TippeCanoe Place",
+      "plan": "Hawthorne",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10725-tippecanoe-place",
+      "id": "10725",
+      "address": "10725 TippeCanoe Place",
+      "price": "$465,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2558/0057-10725-tippecanoe-place/fl_drh_tampasouth_manateesarasota_hawthorne_b_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=27c5419ec4f74a3a94174fd7fbb74d7e&hash=C986E48A08148B13DCB137758CA89CC8",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/fl_drh_tpas_manateesarasota_hayden_k_8ft_cls.jpg?as=1&w=494&rev=f44349f54bba4cb49727a631c923ca87&hash=0834636A5318840BA4A1C5524E6B2C98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/11-fl_manatee-sarasota_dr_horton_hayden-flex-space.jpg?as=1&w=494&rev=8376d0873a244e5189f195c62f8fc669&hash=3DF44ED36E17CAFA25CEF1D8A4B27DD6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/13-fl_manatee-sarasota_dr_horton_hayden-kitchen.jpg?as=1&w=494&rev=deee3d96768c4c12b53ce9a629398c36&hash=6D40C3FD4797D197BBF95806D366AC93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/12-fl_manatee-sarasota_hayden-kitchen-dining.jpg?as=1&w=494&rev=e40b7aa562c44b779cdee95f97edc741&hash=F6E914367D0D9595C4BEBE0ADC2E8571",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/14-fl_manatee-sarasota_dr_horton_hayden-dining.jpg?as=1&w=494&rev=af8d1d9a73154e81a549f4441d8affc0&hash=B4F157EF61EFD67C948BF1BDC33F746D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/15-fl_manatee-sarasota_dr_horton_hayden-living.jpg?as=1&w=494&rev=604618cde5ee474c89da173af24af4fe&hash=261979BE8BAE4C2AABBBC536C8B6CC20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/16-fl_manatee-sarasota_hayden-living-dining-kitchen.jpg?as=1&w=494&rev=6e4df9ed7d264337b86b034edd8a4966&hash=D8B7122FBA96A9C20BF4CCCEBC4977EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/17-fl_manatee-sarasota_hayden-owners-suite.jpg?as=1&w=494&rev=618980b24b4c47448d88283c4ebb2794&hash=B261088B4E997CB5ECD5C5180E644DFC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/18-fl_manatee-sarasota_hayden-owners-ensuite.jpg?as=1&w=494&rev=8a3531cadbcd49f9918a2b1cbc8a3bc6&hash=241F0191C2F38F7A130F5C461479D2FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/19-fl_manatee-sarasota_hayden-bonus-room.jpg?as=1&w=494&rev=a7ea2acc81f64eca96dbd3cd474610dd&hash=CE586BE0E38AD7127E5C508B28716672",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/20-fl_manatee-sarasota-hayden-secondary_bedroom-1.jpg?as=1&w=494&rev=05bd17576035448785c24ff7f705445a&hash=AD6D3014CACBF2602CF42704E7C07D73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/21-fl_manatee-sarasota-hayden-secondary_bedroom-2.jpg?as=1&w=494&rev=410b2fb3118a4f8ab21d7988da867a4f&hash=F18A8AA1963E7CC1827158FF17ADAAEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/22-fl_manatee-sarasota-hayden-secondary-bedroom-3.jpg?as=1&w=494&rev=62d945c2664146c5b7f12953b26f9f66&hash=168636FE94C0F4DB846FB56B4592AA81",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/23-fl_manatee-sarasota_dr_horton_hayden-secondary-bathroom.jpg?as=1&w=494&rev=5245abbf87864f0181785af9f3799cb5&hash=7E85F949FEF907825EAB9586DF795F94",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/24-fl_manatee-sarasota_hayden-laundry.jpg?as=1&w=494&rev=0253a625b9b0420385a8dd01d740508f&hash=8249ED05CC7039C5F31DEC33952C05AD"
+      ],
+      "name": "12080 Mountain Island Trail",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12080-mountain-island-trail",
+      "id": "12080",
+      "address": "12080 Mountain Island Trail",
+      "price": "$420,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392310000-bella-lago-50-exp/4ehb/0270-12080-mountain-island-trail/fl_drh_tpas_manateesarasota_hayden_k_8ft_cls.jpg?iar=1&sc=1&thn=1&w=425&rev=f44349f54bba4cb49727a631c923ca87&hash=0C5117BF3E8D3E181D7F8F8CCE5B2BBD",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/02-coral_h_cls_nogrids.jpg?as=1&w=494&rev=68cb3ae7fe0c44d4ab4197144dca4247&hash=0AB7728C2A4DA624132AEE0111CBA913",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_01-den.jpg?as=1&w=494&rev=b75d1fff609646298cee4a8b1c17fa06&hash=0F04EEFA6718A93A45DF002D79F80320",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_02-kitchen-living-room.jpg?as=1&w=494&rev=090fa50bdb49402b9e0574473d559ed3&hash=C8CB3F430DC1F215852AD0178A0BF9BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_03-kitchen.jpg?as=1&w=494&rev=a9cffcc994aa498cb9c2d641d8643106&hash=55A7E45FA17A431C643AAA464FFA94F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_04-kitchen.jpg?as=1&w=494&rev=a3bc6903b72945b4a31bd3e6f24b6231&hash=79AB10551643FA72B5E165D6135738BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_05-kitchen-dining.jpg?as=1&w=494&rev=6a2152cdeb0a4474b5749c910fdac7dc&hash=EB62802CB0DF7C1D038DB763F62E530F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_06-dining.jpg?as=1&w=494&rev=ffef4fff940a48449effa0b17201f79d&hash=9EDE7E9FB39A080D2DA5F862FCBFFF90",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_07-living-room.jpg?as=1&w=494&rev=1c7e8e84846f46f5a8db49def083f478&hash=A9B8CACF6813BD0DCA6D351D7D9E5B25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_08-living-room-2.jpg?as=1&w=494&rev=ff8b2def3cc2460db94bdf98ba8b1c80&hash=81D61438DFBAFE58D1CA0759910376B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_09-living-room-3.jpg?as=1&w=494&rev=063d311376874b88a417b9eccfeaa18b&hash=17A1AA752C89D2A6E07D9B658401E568",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_14-master-bedroom-2.jpg?as=1&w=494&rev=3d6b1ff248514b1aa933ba21c81ec244&hash=5A831B58E207BA7E9D97CEDA107F9160",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_15-master-bedroom.jpg?as=1&w=494&rev=bdc83128c0cf49e0afb09b42baf2f341&hash=B38D55CA7F13B794F0AE778FF752D47C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_16-master-bathroom.jpg?as=1&w=494&rev=5ed43fb836e245ab8c8c310c7d9c2ef9&hash=56CA88E6B54C0E85514831E8433A9CCF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_12-loft.jpg?as=1&w=494&rev=8ee34b6b293846fa8db4240e2c7c07cd&hash=74392B30B884B05110D18194A9C78AA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_13-loft-2.jpg?as=1&w=494&rev=daef841c542143ca9503e5a9963d419c&hash=08054CB6ECDC837F1A1F79CC7AC2A8F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_10-4th-bedroom.jpg?as=1&w=494&rev=2674452cb2c7486abf62a51910a10ff2&hash=389AF2C5A82F15AA667F01013BFA8737",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_11-3dr-bathroom.jpg?as=1&w=494&rev=042bd7d603bf4084b8f1a878a71f7355&hash=D3F744847168E2C4636B0CD3FE25E5AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_17-3rd-bedroom.jpg?as=1&w=494&rev=380fa6ec277742659791909a61cfb625&hash=670F8F814E826D75433F2CE4A47D4D4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_18-2nd-bathroom.jpg?as=1&w=494&rev=db56ddd63aae4bd6b5e161204245d5bd&hash=A34D4CEFAAE8E550F2FB7801B4F56A25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_19-2nd-bedroom.jpg?as=1&w=494&rev=f9a0f4927a9b4248a0784bb0cdd636c2&hash=1C81506A40239D3DF6DF36579A67727B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_20-laundry-room.jpg?as=1&w=494&rev=515906d80859487bb984a04f96ac3562&hash=40AAFAA5065DE8B85F4FBF062EF79347",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/fl_west-florida_drhorton_coral_21-lanai.jpg?as=1&w=494&rev=68c33036c42140beba0db69265c38491&hash=AA935B1CA6ECEB0986A766D9D95DC242"
+      ],
+      "name": "12055 Kingsley Trail",
+      "plan": "Coral",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12055-kingsley-trail",
+      "id": "12055",
+      "address": "12055 Kingsley Trail",
+      "price": "$440,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2756",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2767/0205-12055-kingsley-trail/02-coral_h_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=68cb3ae7fe0c44d4ab4197144dca4247&hash=DB455854E7CE1ABDCDF8D6E9E673DF8E",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/02-fl-manatee-sarasota-camden_d_cl_nogrids.jpg?as=1&w=494&rev=42389a4c04554333a8050c536f525ff4&hash=30D5C2D59FDFF98E7AEF2530685CB137",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/02.jpg?as=1&w=494&rev=02e5f36314294ca4b6bf4851ed21b4cc&hash=BAB2034FA89CE983429E7D1A3BED108D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/03.jpg?as=1&w=494&rev=8d3ee5dbddaa4db0942bdd44c288b6f0&hash=27991EEF1C98276BB370558626F086B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/10.jpg?as=1&w=494&rev=057e0132c71541b8b604e221ba856612&hash=017636FFB4E332E1F24285341FE64F88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/04.jpg?as=1&w=494&rev=7822a2e122324921ad6ae6f6eb3ff703&hash=FA145BFEE67B4F9FF9AB2B6BDB38C110",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/05.jpg?as=1&w=494&rev=4cbef9adf96b457abf47839f2bc830af&hash=C8EC0073931149E9AFBBBC03A91A0B91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/16.jpg?as=1&w=494&rev=af90d5c4079b4a8d8b0b9b042d2a800e&hash=31749CFE3B0BB40824897DD680011B55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/06.jpg?as=1&w=494&rev=796d92f6cc514c678f1f00c0e4cc73aa&hash=084DB57D28EE7523F9D49AF5FF724F44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/07.jpg?as=1&w=494&rev=45d4ccd99dac4bbe85fd0fe54eb9a218&hash=FDA8B677C84E590BF2CCE5C31BC94616",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/08.jpg?as=1&w=494&rev=a2acb4f59f29496d8cd756125176adcc&hash=DAB9B0C7DF2F6F5F269FA72DE415FA4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/12.jpg?as=1&w=494&rev=3b557edfe4a54cb2922429922cc7fb90&hash=A820BC6DBF002F32BC1022BB96C59990",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/13.jpg?as=1&w=494&rev=6a137916702e459494ff93b643c9c07b&hash=CCE12060BFDA6842F8445CAA2F882B37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/17.jpg?as=1&w=494&rev=7d1852c41a7f41d787f092fea5644a76&hash=6F19B35C67781847F7E95B3BFD278F4A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/14.jpg?as=1&w=494&rev=900f488689c843ccb753c98d648898e5&hash=C0D09B712D929B56D25F443CCA2CC44C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/15.jpg?as=1&w=494&rev=5d695665148c47338c9453b2aee92c78&hash=306A66A0083F7FB35ECF20F5A88F3716",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/11.jpg?as=1&w=494&rev=7a16cd1c1e2b4e279a0c7301e19009a2&hash=CF15559416BAA8E981BDAB041E51A21C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/20.jpg?as=1&w=494&rev=81ce210f5c384f94b732cd5bd7a482b4&hash=2AE360A1A0A4E30B76ADC62081B6CFA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/21.jpg?as=1&w=494&rev=77ff61576f884d65956529ee651c9255&hash=8A2888F53DCEBFB6C8E881B5C9FD9BAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/23.jpg?as=1&w=494&rev=d2066bd4794043e998cd01891a614e43&hash=544D745B48577BE336410E5128D8E127",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/19.jpg?as=1&w=494&rev=aa267fe147a24271886e98da4b06e50c&hash=1FF03036E4216EF25D53D8F26E1F2405"
+      ],
+      "name": "10713 TippeCanoe Place",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10713-tippecanoe-place",
+      "id": "10713",
+      "address": "10713 TippeCanoe Place",
+      "price": "$509,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0060-10713-tippecanoe-place/02-fl-manatee-sarasota-camden_d_cl_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=42389a4c04554333a8050c536f525ff4&hash=EED0A7CC7D1E3D31F0BDE3912BF35B60",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/04-fl_drh_tampasouth_manateesarasota_camden_f_shingle_cls_nogrids.jpg?as=1&w=494&rev=47e2bc0d531c4724bf8f248cb52e600e&hash=F186D7D38F2100A94E4087D4F5A32016",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/02.jpg?as=1&w=494&rev=2ad59329e862421ab7095f14e0497d87&hash=3B1CDDA26C1EE5E939068964977833FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/03.jpg?as=1&w=494&rev=721d83118dff46879f1e88864b8dc5a2&hash=9EC3CAAC7DE0CA6FCE0E874810AF83F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/10.jpg?as=1&w=494&rev=f81796d90fbc4a3ab4d42751e0f05463&hash=708182CF5C7EE022B963631A3AB32428",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/04.jpg?as=1&w=494&rev=b06ce67549174e73abeb5ccda81e3494&hash=3FA5811DF4EB03A6DED638D6243C55EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/05.jpg?as=1&w=494&rev=2cb94d7ed8e14b9882f0923c90a11dcd&hash=C8F6E79EB9A021EB6A40479DDB4B6CAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/16.jpg?as=1&w=494&rev=54b1183bbf484668a8ac4cf28874bd87&hash=BD72A5166193EE102F104437B18F42AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/06.jpg?as=1&w=494&rev=616c65957c574d21a2efc271838d1304&hash=F1F083F9C8851F1F79AD90D7462B141E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/07.jpg?as=1&w=494&rev=3c1212d9b7924b03b2217b237d39cfa8&hash=71779E53240A1B9CA9152B0DC3A7D961",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/08.jpg?as=1&w=494&rev=d74b6383a31b42b49feef604893094a5&hash=FF8BA9461DBD01A95ECFC592E889506B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/12.jpg?as=1&w=494&rev=bdf5db0988a041f5b1d8ab747f5201bc&hash=3C5736C39299DE0A91639F6290014C6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/13.jpg?as=1&w=494&rev=654f7e4adf4c41c18ed0ad8e0d939657&hash=88706C3459990AFDD8E79462B728F795",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/17.jpg?as=1&w=494&rev=ac0aa32a8b3646a7a7cdbcd630e41e1d&hash=308CD50B48FD86F437FE7D779874C693",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/14.jpg?as=1&w=494&rev=b8d0b1a919414648a77261ec4ffef157&hash=03AE9E6348C69527262835C65F38CD45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/11.jpg?as=1&w=494&rev=2d4662fbe64a46e99356177f6743a13d&hash=DC7F71A53C3AF1631E9B8297168816DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/15.jpg?as=1&w=494&rev=212c097f4d8f4e569d960e60c3d75b76&hash=CF84FBBAD0397FA0348E1D191C41811C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/20.jpg?as=1&w=494&rev=0602a01e0b634f3cb17fec05a8ae7c73&hash=B8EF07F0E6CB9BACD6E90E1222F77267",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/23.jpg?as=1&w=494&rev=32bccad0083c429199ee11729f4b071b&hash=D632FBA8A1655E2A2C721464EB18B6A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/19.jpg?as=1&w=494&rev=ab40638b49a048998438237f2c87e316&hash=FCB12D31A81EE33615DEE8A0EB531EA8"
+      ],
+      "name": "10717 TippeCanoe Place",
+      "plan": "Camden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10717-tippecanoe-place",
+      "id": "10717",
+      "address": "10717 TippeCanoe Place",
+      "price": "$517,000",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/2795/0059-10717-tippecanoe-place/04-fl_drh_tampasouth_manateesarasota_camden_f_shingle_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=47e2bc0d531c4724bf8f248cb52e600e&hash=FBDE3C31F47BC409E0675258FBF512B4",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/01-hemingway_g_cls_nogrids.jpg?as=1&w=494&rev=952ae4e746d74b6cad0f851402128556&hash=E95BA877A931DD29A3A0D299040D38CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_01-flex-room.jpg?as=1&w=494&rev=76ec32cd9a244a53bb7568af0f2078df&hash=14A6F28C543423DC170C4250F9F3097E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_02-kitchen.jpg?as=1&w=494&rev=2ff5251627ed4379b10be748e0d51d3f&hash=491869F3B99F075C3FC3115E228E90DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_03-dining-area.jpg?as=1&w=494&rev=97855ff0b28a41eabcc1d9652db96436&hash=D0E5F16D6C2ED85C08773B7808FC1E4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_04-kitchen-dining-living-area.jpg?as=1&w=494&rev=f745c66b9d4c47beacb12dbf810bdec6&hash=1B045BC8EDDDEAF6E670C9DA91D7ABD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_05-living-dining-area.jpg?as=1&w=494&rev=a60ceb5e889543ec8563f49f8a79cf91&hash=EEB1E25BFE77A08B02B89A394D348FAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_09-master-suite.jpg?as=1&w=494&rev=40cbf0b8e3314799aaeca22f8a84407f&hash=3EF09D539523D38068175A0B8424E49C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_10-master-ensuite.jpg?as=1&w=494&rev=09cac84b9bbf4526b10489f24dee7775&hash=897C860DD11D2A7219E95A531317FE6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_06-bedroom_1.jpg?as=1&w=494&rev=e780928dc55146e5903d0da0fbdd35e1&hash=D9AF0ECFBAC4C275326AA6E214CE673E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_07-guestbathroom.jpg?as=1&w=494&rev=f37b3f168069431b818a5e3404c1d96c&hash=E6166F6B1F8AC632F59A7D42DFAE3CF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_08-loft-area.jpg?as=1&w=494&rev=88c4155217db40d593c9be38026847ab&hash=E0D06D2DE62168609863467C69B2CA5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_11-bedroom-2.jpg?as=1&w=494&rev=fbd1bacdbd5e46979480805f092487b0&hash=D9C109FB06FED44BC8A24C4616117387",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_12-bedroom-4.jpg?as=1&w=494&rev=4b7e86cae4a047c28b9105f93e8419b1&hash=6432AB0B2B85F5A32A1B6967AD5ED542",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_13-bedroom-3.jpg?as=1&w=494&rev=71a6277afc884f58ae41a02c516f9391&hash=D74387B5A5A21E3BDB8E11C648C56C5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/fl_west-florida_dr-horton_hemingway_14-guest-bathroom-2.jpg?as=1&w=494&rev=a0aedbce5ba444ee8fc66eaa17bdfcaa&hash=61843445F735ECFC9F929579DD44935E"
+      ],
+      "name": "10809 Patoka Terrace",
+      "plan": "Hemingway",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10809-patoka-terrace",
+      "id": "10809",
+      "address": "10809 Patoka Terrace",
+      "price": "$445,000",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2934",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0222-10809-patoka-terrace/01-hemingway_g_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=952ae4e746d74b6cad0f851402128556&hash=C91DC3141A9AE47EC98BA63ACE09591D",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/01-hemingway-h-sch_04-elev-no_grids.jpg?as=1&w=494&rev=a9e8298b8d0446bf823523ab04cb74fc&hash=884488224872C536736800E4BC3B4B45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_01-flex-room.jpg?as=1&w=494&rev=5f96788988e1446c887a53fcdd219341&hash=B3487CEF89C78423D877B4FBFE1079D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_02-kitchen.jpg?as=1&w=494&rev=44dca0719b7c46b1b60b3927695a9f89&hash=EF94E701A908B03C59F78FAA75D2A013",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_03-dining-area.jpg?as=1&w=494&rev=b8aee3a6dfea4e04b7a3a95e2b404051&hash=4247A9F51AF613C97AED24EAC6138C2E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_04-kitchen-dining-living-area.jpg?as=1&w=494&rev=0acd44052f31456089f2b4918dc63297&hash=495AAAC398A23B3E7F1E027A78B511D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_05-living-dining-area.jpg?as=1&w=494&rev=e3ea0c004e5243b89f267240736f0869&hash=DFD0C255CB5C1189D563BEA0CA4507C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_09-master-suite.jpg?as=1&w=494&rev=31547cec9a3d4360bc7a078ccd2cfe97&hash=6F2DB543710726AE1F9AB7B43E3BD45E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_10-master-ensuite.jpg?as=1&w=494&rev=3abd82d5ed6340dcbe6d7ab8dbfe0723&hash=B7BC24527679038B1DB5AFC1C1373BC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_13-bedroom-3.jpg?as=1&w=494&rev=20151077d1424786961320ae406a7abd&hash=038691B900A1062E63AAF7D64E325D83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_06-bedroom_1.jpg?as=1&w=494&rev=6e5d4d9cb7df4df0888b16db2c7a7dfb&hash=F06ED69F0BF833B35A7E28D43D312D25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_07-guestbathroom.jpg?as=1&w=494&rev=cb815952cfcd4443a00a9f3b214b9335&hash=26DD644DACC89AC74F817D0A409A6555",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_08-loft-area.jpg?as=1&w=494&rev=3dc457415c3348ea97ac68dbad4a6b2f&hash=49951379C929EB4A82F6B09CADFDC07B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_11-bedroom-2.jpg?as=1&w=494&rev=ade5fe6af3f54dc29aeee34cdbc40678&hash=FFC61930875E3BB814F62016FFDF464A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_12-bedroom-4.jpg?as=1&w=494&rev=1067926d9f6246f3aecf0a5a002fdd76&hash=1F2E07EAE01926D39ABFB388648C109F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/fl_west-florida_dr-horton_hemingway_14-guest-bathroom-2.jpg?as=1&w=494&rev=cfe88d9dd8af486fab40b99fdb6c3ee2&hash=99D4CA727CD5F1B22ED790F2D5B4DCF9"
+      ],
+      "name": "10814 Patoka Terrace",
+      "plan": "Hemingway",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10814-patoka-terrace",
+      "id": "10814",
+      "address": "10814 Patoka Terrace",
+      "price": "$453,000",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2934",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/2924/0213-10814-patoka-terrace/01-hemingway-h-sch_04-elev-no_grids.jpg?iar=1&sc=1&thn=1&w=425&rev=a9e8298b8d0446bf823523ab04cb74fc&hash=5928AD36FD54541123BB3E0A889B9F0F",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/0064-10708-tippecanoe-place/fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=8385b8cf769248269c082dfa03cc9681&hash=A7A16158A2AB2D1114970C06A74F7FF0"
+      ],
+      "name": "10708 TippeCanoe Place",
+      "plan": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10708-tippecanoe-place",
+      "id": "10708",
+      "address": "10708 TippeCanoe Place",
+      "price": "$546,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/0064-10708-tippecanoe-place/fl_tampanorth_drhorton_jordynii_h.jpg?iar=1&sc=1&thn=1&w=425&rev=8385b8cf769248269c082dfa03cc9681&hash=A7A16158A2AB2D1114970C06A74F7FF0",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/0061-10709-tippecanoe-place/fl_tampanorth_drhorton_jordynii_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1435005f18b544669ce117729de2ebe0&hash=1E00D2893E595CEA39FA033EA6D3A2E2"
+      ],
+      "name": "10709 TippeCanoe Place",
+      "plan": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10709-tippecanoe-place",
+      "id": "10709",
+      "address": "10709 TippeCanoe Place",
+      "price": "$536,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/0061-10709-tippecanoe-place/fl_tampanorth_drhorton_jordynii_g.jpg?iar=1&sc=1&thn=1&w=425&rev=1435005f18b544669ce117729de2ebe0&hash=1E00D2893E595CEA39FA033EA6D3A2E2",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/0065-10716-tippecanoe-place/fl_tampanorth_drhorton_jordynii_g.jpg?iar=1&sc=1&thn=1&w=425&rev=baa8f397ef504cda94d32bcdc5b95eb9&hash=43AE4E7DB13F3C8D99A09938E381A7AB"
+      ],
+      "name": "10716 TippeCanoe Place",
+      "plan": "Jordyn II",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10716-tippecanoe-place",
+      "id": "10716",
+      "address": "10716 TippeCanoe Place",
+      "price": "$541,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "3278",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392280000-bella-lago-60-drh/3278/0065-10716-tippecanoe-place/fl_tampanorth_drhorton_jordynii_g.jpg?iar=1&sc=1&thn=1&w=425&rev=baa8f397ef504cda94d32bcdc5b95eb9&hash=43AE4E7DB13F3C8D99A09938E381A7AB",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/01-holden_g_cls_nogrids.jpg?as=1&w=494&rev=ea5ad1ddc6974b52a9a54afaefb73b63&hash=ADA956D7D3CB5B2323939EC17B46B38F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/01-fl_tampasouth_drhorton_holden_flex_room.jpg?as=1&w=494&rev=fc5f66f92bb74179a541f5e13ad111f9&hash=500033D820BAA9C9966CDD7C559A03C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/02-fl_tampasouth_drhorton_holden_kitchen_dining.jpg?as=1&w=494&rev=4f391ed99a764e3893a4e40652831270&hash=9E1551C2A14D5D7DDF9D0BDA6A28AF62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/03-fl_tampasouth_drhorton_holden_kitchen.jpg?as=1&w=494&rev=d8366a3dc7df4a07ac41b0af79a7b843&hash=3DEC6369A350FC12E5B92EB898C184E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/04-fl_tampasouth_drhorton_holden_butler-s_pantry.jpg?as=1&w=494&rev=690cc5e558b2486886734d53f952a288&hash=B2A86899F2CA48285B61DAA92C83C412",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/05-fl_tampasouth_drhorton_holden_great_room_kitchen_dining.jpg?as=1&w=494&rev=8ba6c2a2d8cc4b34b0a51baedbdec218&hash=0B800E12EB063071A8A9D04AAB8C3A7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/06-fl_tampasouth_drhorton_holden_great_room_dining.jpg?as=1&w=494&rev=a05391cf8f5a440196db106f7dea564c&hash=9646CCD5070C945BE4F0126D9C934C24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/10-fl_tampasouth_drhorton_holden_bedroom_1_sitting.jpg?as=1&w=494&rev=51099d42f5d143f0b99c0935c8c4023a&hash=06B27B529F4F4DA3ED4C071A511DB0D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/12-fl_tampasouth_drhorton_holden_bath_1.jpg?as=1&w=494&rev=6011fabced1142a998dac1d264be87fd&hash=955510614A210DE82418D03EC8715DD3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/11-fl_tampasouth_drhorton_holden-master-closet.jpg?as=1&w=494&rev=898ab013ccc447188c4129fc839beca7&hash=71395EFABA9C793CCE5E181877C957D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/09-fl_tampasouth_drhorton_holden_bonus_room_3.jpg?as=1&w=494&rev=3d3a8322a3d647aa9856b735a7c080f2&hash=16331142A609440D6DC3636975A81AF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/07-fl_tampasouth_drhorton_holden_bed_4_-_1st_floor.jpg?as=1&w=494&rev=9881a0abc6b7432e9ac5f3c80265c996&hash=20AED752D100EF9E9D3F1DBAB6D87BA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/08-fl_tampasouth_drhorton_holden_bath_2_-_first_floor.jpg?as=1&w=494&rev=365e4b66ffaf43a9a6f545bc1e27fde4&hash=00D99C269658517F54D2F7512B752101",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/13-fl_tampasouth_drhorton_holden_bedroom_2.jpg?as=1&w=494&rev=2c06eec1f29b4e72aecc2c74da8c4257&hash=4B3D78DF2EC9B4FD4E5BEE1F9AC29654",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/14-fl_tampasouth_drhorton_holden_bedroom_3.jpg?as=1&w=494&rev=ac06c247b7f647c29da9cdcbfe565f65&hash=316AC9FC7A36670A6B00AE38D85CFB7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/15-fl_tampasouth_drhorton_holden_bath_3.jpg?as=1&w=494&rev=128c33461a654159828a5a24be091844&hash=46B884978DFF264FC0E4BC812B43638B"
+      ],
+      "name": "10830 Patoka Terrace",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/10830-patoka-terrace",
+      "id": "10830",
+      "address": "10830 Patoka Terrace",
+      "price": "$476,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0217-10830-patoka-terrace/01-holden_g_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=ea5ad1ddc6974b52a9a54afaefb73b63&hash=19EE09D9C90BFBE053A7B89C3468FB4D",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/01-holden_g_cls_nogrids.jpg?as=1&w=494&rev=5baa602c0bbe43c4aa3a71cceb125342&hash=64F21CF45BD0FFBE05F0D821F47BD414",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/01-fl_tampasouth_drhorton_holden_flex_room.jpg?as=1&w=494&rev=2f763a648f1c4fff915543be35735cd7&hash=BAC034929ED49679619714454E984384",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/02-fl_tampasouth_drhorton_holden_kitchen_dining.jpg?as=1&w=494&rev=40b0838086064039b5b7119a249a5a57&hash=175467E3890A0485AD3E3EC1F1D07DEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/03-fl_tampasouth_drhorton_holden_kitchen.jpg?as=1&w=494&rev=876aaba9d7b64496bda6da1ad3ff863c&hash=8345FEB3D608A8CEBE882EA310597B65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/04-fl_tampasouth_drhorton_holden_butler-s_pantry.jpg?as=1&w=494&rev=a22fe33ed8c8466d8b5a242f81efa722&hash=DD59265218A28A6063C764B9957A33E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/05-fl_tampasouth_drhorton_holden_great_room_kitchen_dining.jpg?as=1&w=494&rev=15cf5bb4f4964ea98fd78ddcb2b5bf35&hash=ADDEC5AF064044C7BB66F3726E57E4D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/06-fl_tampasouth_drhorton_holden_great_room_dining.jpg?as=1&w=494&rev=3d68731d6781434392037f794a815c25&hash=70D3D8A25F2336F4EA7400FA142ECC72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/09-fl_tampasouth_drhorton_holden_bonus_room_3.jpg?as=1&w=494&rev=3b422a8500864ce7bec7cd22b1527e41&hash=5DB42130C96217D22DED563B9489BBA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/10-fl_tampasouth_drhorton_holden_bedroom_1_sitting.jpg?as=1&w=494&rev=748857d40ef04d27920c097bd62950ee&hash=07933778CAA7B71D4FF9751E4DAB7DD5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/12-fl_tampasouth_drhorton_holden_bath_1.jpg?as=1&w=494&rev=a6266019823841c994fda68fa754650e&hash=D8CA9E45382A7CB96CF95BEAA24D729C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/11-fl_tampasouth_drhorton_holden-master-closet.jpg?as=1&w=494&rev=e5918797942544bfaa2a669016b04c03&hash=4CD6759F71887E5FEBB5294F43454F2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/13-fl_tampasouth_drhorton_holden_bedroom_2.jpg?as=1&w=494&rev=ab01eb5a34364d05a3fc2121f04d7df1&hash=ECBD1C63FC825F8A05C12546072C8770",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/07-fl_tampasouth_drhorton_holden_bed_4_-_1st_floor.jpg?as=1&w=494&rev=9575c84bd77443eaa9bea43d88159e5f&hash=001DD992249F30EC6FDACBE0C9D49069",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/08-fl_tampasouth_drhorton_holden_bath_2_-_first_floor.jpg?as=1&w=494&rev=7330170f939d4fa1b90af699c20d0d32&hash=32CFF2CDA0867E16BF76076A9D055BCF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/14-fl_tampasouth_drhorton_holden_bedroom_3.jpg?as=1&w=494&rev=ecb3dc7c671245c8a3169e587aad7fa3&hash=565EE61F14301DC084DD60CE24104CC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/15-fl_tampasouth_drhorton_holden_bath_3.jpg?as=1&w=494&rev=2759252dbe0748cf8974c81d9ea9cc02&hash=A6FD855FB4497B568DE7B7666413E1B4"
+      ],
+      "name": "12059 Kingsley Trail",
+      "plan": "Holden",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/parrish/bella-lago/qmis/12059-kingsley-trail",
+      "id": "12059",
+      "address": "12059 Kingsley Trail",
+      "price": "$465,000",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "3313",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39227-bella-lago/392290000-bella-lago-50-drh/3129/0206-12059-kingsley-trail/01-holden_g_cls_nogrids.jpg?iar=1&sc=1&thn=1&w=425&rev=5baa602c0bbe43c4aa3a71cceb125342&hash=B33CB1DCD876848B677B57F137BF651E",
+      "latitude": 27.60909,
+      "longitude": -82.42275,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Barbara A. Harvey Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Buffalo Creek Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Parrish Community High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "timestamp": "2025-06-02T17:55:46.358630",
+  "name": "Bayside at Ward Creek",
+  "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek",
+  "status": null,
+  "price_from": "$305,900",
+  "address": "620 Melrose Way,Panama City Beach, FL 32413",
+  "phone": "(850) 905-6969",
+  "description": "Find a new home in Panama City Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/web_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 30.25592,
+    "longitude": -85.87563,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$305,900 - $324,900",
+    "sqft_range": "From 1,459 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Sidewalks",
+      "description": "Sidewalks",
+      "icon_url": null
+    },
+    {
+      "name": "Ponds",
+      "description": "Ponds",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Carol",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/caro",
+      "details": {
+        "price": "From $480s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,550 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/caro/front.jpg?as=1&w=425&rev=d76197ae28ec4622aa7579e7e28d7feb&hash=A0A59F7E108CFC4776E2F69AFF3ADF8C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city/29738-ward-creek/297380000-ward-creek-ph1-50s/caro/carol_a__b_floorplan_web_page_1.jpg?rev=192ec85e63ab40d29f4ed97ea3c8e96e&hash=51F163D16DAB0A1304A9A0753797932B"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city/29738-ward-creek/297380000-ward-creek-ph1-50s/caro/carol_a__b_floorplan_web_page_1.jpg?rev=192ec85e63ab40d29f4ed97ea3c8e96e&hash=51F163D16DAB0A1304A9A0753797932B"
+        }
+      ]
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/delr",
+      "details": {
+        "price": "From $430s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,044 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/delr/delray_b15_rendering.jpg?as=1&w=425&rev=f85ac559dfad40ebac38950b2b00c6e4&hash=CE194B2DCAF21FDB52113AA60B6D17E5"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/delr/delray_ab_web.jpg?rev=73f351fd0c604254912e41bd27426b17&hash=07CB41332031610AD9BBA900B0AD0F16"
+        }
+      ]
+    },
+    {
+      "name": "Kennedy",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/kenn",
+      "details": {
+        "price": "From $440s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,145 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/kenn/kennedy_b_rendering.jpg?as=1&w=425&rev=552929985d4b4c5cabcd2db41a639742&hash=61719F1303CAE954FE16773D2989D712"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/kenn/kennedy_dining_option.jpg?rev=63f76c815ea44091bdc4d73abf106eb0&hash=841FC22579B78DAAD4C849D7246D05F2"
+        }
+      ]
+    },
+    {
+      "name": "Oakley",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/oakl",
+      "details": {
+        "price": "From $405s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,689 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/oakl/bayside_at_ward_creek_oakley_c.jpg?as=1&w=425&rev=12b2c6fa795842bf9706a3945be7d75e&hash=2DA5CE12C4CAA33E1685C199C46C1A6C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/oakl/oakley_a_marketing_floorplan.jpg?rev=84f95031388947698fc0136fc610734e&hash=4353AFB7612304E30F500179A6519CCC"
+        }
+      ]
+    },
+    {
+      "name": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/rpex",
+      "details": {
+        "price": "From $325s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,470 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29739-ward-creek/297390000-ward-creek-townhomes/rpex/palm_townhome_1_front.jpg?as=1&w=425&rev=321bf670db634ce99923d1756662c54b&hash=B2D3C243DF53B8B6C45AE128AF33C523"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=745dff7303cc4f08b1a7ac2f04c6a270&hash=B7D4F4B6AEC7D2DF58C9F34F655488E6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=745dff7303cc4f08b1a7ac2f04c6a270&hash=B7D4F4B6AEC7D2DF58C9F34F655488E6"
+        }
+      ]
+    },
+    {
+      "name": "Palm Interior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/rpin",
+      "details": {
+        "price": "From $315s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,459 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpin/palm_b__0000_palm_b_037_front.jpg?as=1&w=425&rev=d6221775fca74ec39617b1aa0721d6d2&hash=74A03DBF454ED0BFCFCBEAFFF4C6A7C7"
+      }
+    },
+    {
+      "name": "Rhett",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/floor-plans/rhet",
+      "details": {
+        "price": "From $410s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/rhet/rhett_c.jpg?as=1&w=425&rev=aab6322431054a0798fee1d2020990b6&hash=70CE59086C61A0D31BC1EA01752CE44B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297380000-ward-creek-ph1-50s/rhet/rhett_c_marketing_floorplan.jpg?rev=c2d0f395286e48758552d17d3be576cf&hash=80FC0F2D52B5111EED1E1932C819BF77"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpin/0273-171-ellery-ln/palm_b_01_front.jpg?iar=1&sc=1&thn=1&w=425&rev=3539fb0ef1114309a0478cf72fef586c&hash=78511D1D1D623540905800E808C7DF35"
+      ],
+      "name": "171 Ellery Lane",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/qmis/171-ellery-ln",
+      "id": "171",
+      "address": "171 Ellery Lane",
+      "price": "$314,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1459",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpin/0273-171-ellery-ln/palm_b_01_front.jpg?iar=1&sc=1&thn=1&w=425&rev=3539fb0ef1114309a0478cf72fef586c&hash=78511D1D1D623540905800E808C7DF35",
+      "latitude": 30.25592,
+      "longitude": -85.87563,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_1_front.jpg?as=1&w=494&rev=587ff62e915c4c5fb0da2338c8b33cd9&hash=74F4E02FD0BB7A9091C9F1CE3FCD6CE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_3_entrance.jpg?as=1&w=494&rev=b8a273b3569b41b2836f340c2b1162b6&hash=D481E2333FF3C4A57DC6AD70AC5AFF9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_4_living_room.jpg?as=1&w=494&rev=a20205c2841340cda72436684fcae763&hash=BF95E055A46030D70957753F7964AAE5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_6_living_room.jpg?as=1&w=494&rev=67c474ae27a34231bb482eb61565292d&hash=64B2D3C65C7343ADC10E6C617FFF792F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_7_living_room.jpg?as=1&w=494&rev=c8cdbbf7a8404e5cb56555c0bf2579a3&hash=A1E08632BF6C7CCD0D1AB3985B2B5235",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_8_dining_room.jpg?as=1&w=494&rev=07e818337d0549a99e78d2610a9c5f8c&hash=BD2ABC06BC19B9C9AF7C12B55D6AEA46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_9_dining_room.jpg?as=1&w=494&rev=2060c0dd40194561b3763e77cf8c3528&hash=E13493C95E76FC6FFE2DF87D59912B72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_10_kitchen.jpg?as=1&w=494&rev=2367dc8bf5264b1ca2262e96a42a6c77&hash=875DB886A114E8D9011207A22B3DA5B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_11_kitchen.jpg?as=1&w=494&rev=9cab605fd8a74a9fa6588f8cae4ae567&hash=73D6153E67194377C6C2588534F9D349",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_12_kitchen.jpg?as=1&w=494&rev=5eab31ddeccc482caec98c5d59dedf6e&hash=19624FE0F7341DB510785E72E8C26621",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_13_kitchen.jpg?as=1&w=494&rev=a14672066a874aad908a6734874d00c9&hash=412A9A49F7EDBFC742608E5750606129",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_14_kitchen.jpg?as=1&w=494&rev=499325b84d6245a39326f5fad4757a20&hash=3D8A8D68C2D0CBC1AF5B941B68E48FDC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_15_kitchen.jpg?as=1&w=494&rev=5479f95e79bc40e6a01c31ee0aca5fb6&hash=358CFD76F08844500D084B37F7A21340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_15_staircase.jpg?as=1&w=494&rev=efe03d4915f54a12983e57bd7aeba37c&hash=00F1EF572D07C46D8FBEB4546DAD1D18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_16_staircase.jpg?as=1&w=494&rev=c4e604f5c81242bb87df6cf6d9dd6859&hash=734D73ACD1014C50AA54E32BF9197FEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_17_primary_bedroom.jpg?as=1&w=494&rev=618b224a87c74627942c14157b707baa&hash=302608549E819A6CAC3FD65C0336A69C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_18_primary_bedroom.jpg?as=1&w=494&rev=beabccb00ca540a9be0de21b05a4570a&hash=743B922A132942F1AC4DAA7A14269FEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_19_primary_bedroom.jpg?as=1&w=494&rev=428a9b13a08d4cfe938ea086b8982bd6&hash=00ACFE0FFCE23C836EC8013D93B26949",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_20_primary_bedroom.jpg?as=1&w=494&rev=ff3962874ff649cda9c39969e962b0e7&hash=7E081BF555E6A119BFC944F811639222",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_21_primary_bathroom.jpg?as=1&w=494&rev=452e1ee001d74544a309b2a3d2b7193c&hash=1BB4BACB927AAFA47E9FA035B5DB6DDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_22_primary_bathroom.jpg?as=1&w=494&rev=19284a7878264a2ca533f8abde71025e&hash=631566E523474C51C4CBB32870DB5FFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_23_primary_bathroom.jpg?as=1&w=494&rev=4015d1c3bc0148c2a6f8f6f04ab57168&hash=BDADB97C1C45D964B464541794C4CE49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_24_bedroom.jpg?as=1&w=494&rev=26b759b19b6b4ba38045b4020bef0b8b&hash=6131158F13B4AF0FD74D4491C56F5D49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_25_bedroom.jpg?as=1&w=494&rev=e47d81bb0015432a8cf2fa714efb7044&hash=A9E790BBC769CCC1EFE838CDA9894568",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_26_bedroom.jpg?as=1&w=494&rev=5992c12acddb4d9f8e94f1558e04b3a5&hash=2056EE65958BA315D5F1A53F78EC3F62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_27_bedroom.jpg?as=1&w=494&rev=b4aaf3d6e15441f788b8b99b672779d1&hash=F25B47CDF935BF2C400C24E71DDDECB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_28_bathroom.jpg?as=1&w=494&rev=2646f49601dd4129a6abdf8c3e2d88b3&hash=633745F5C363C3513E3163B058034BB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_29_bathroom.jpg?as=1&w=494&rev=de36b0d4cade4601b19f8f0ef54e69dc&hash=68E2A14629BAB8C0724493FB4F2AA32E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_30_bathroom.jpg?as=1&w=494&rev=d60f2f7e9b924c3a9c705c09bb7b4d3c&hash=4630614E88CA158E2EA40FBC831936FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_31_bathroom.jpg?as=1&w=494&rev=ee91a4c1f08f424d9417192512736afd&hash=6C69D228096BB5123EC138B6418787D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_32_hall.jpg?as=1&w=494&rev=c56b1fbdf0004329825e52c9522f1378&hash=87ADF03BBEA4C1F333D4F78170F47941",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_33_hall.jpg?as=1&w=494&rev=f324f3d6d6d94182a93b0255104cf919&hash=8680B2D0E0D651AFDD78CABEB6F62FCE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_34_hall.jpg?as=1&w=494&rev=4e6ca94000864b59bc1d4f0aa55f3018&hash=B251709D986F63C09308C93C9F8AA430",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_35_hall.jpg?as=1&w=494&rev=ac266ccd27de4f5dac07f21c682ffe58&hash=2B260493E8E20C63EE637D98F9FE0B60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_36_washroom.jpg?as=1&w=494&rev=3b6328274a8d4849b2bf9ddc06a2866d&hash=92DD2814D9C48690B6D8918B86FC5AC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_37_rear.jpg?as=1&w=494&rev=fee2455f987a4f2aae9329654cff2563&hash=477AA6305E69756B880D72D244D7BC77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=745dff7303cc4f08b1a7ac2f04c6a270&hash=B7D4F4B6AEC7D2DF58C9F34F655488E6"
+      ],
+      "name": "151 Ellery Lane",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/qmis/151-ellery-ln",
+      "id": "151",
+      "address": "151 Ellery Lane",
+      "price": "$319,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0283-151-ellery-ln/palm_townhome_1_front.jpg?iar=1&sc=1&thn=1&w=425&rev=587ff62e915c4c5fb0da2338c8b33cd9&hash=C69E60D18D47913F1AC1E8D59EA03973",
+      "latitude": 30.25592,
+      "longitude": -85.87563,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_2_front.jpg?as=1&w=494&rev=d025f9f7124d470db5b2089883eb3bc3&hash=83D528F671B59E4A7B73B953D4DA092A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_3_entrance.jpg?as=1&w=494&rev=e68d2d62cebf4e55bcaae36063ee7b42&hash=0817A099F9CD7B04C319317EE38C53E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_4_living_room.jpg?as=1&w=494&rev=5e96b459a59640d08fa3783f0a1df688&hash=D7969B9EB7B512BEBAA8A9188EE0CC11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_6_living_room.jpg?as=1&w=494&rev=74fcddbe60884db3ab0cf7ea1addc2fa&hash=1282B206FF0C11BD52C06C09C7322453",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_7_living_room.jpg?as=1&w=494&rev=6d723ed41b1a4b86a7c8d562add09982&hash=B250D8D99FE675468A536F31756EE6D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_8_dining_room.jpg?as=1&w=494&rev=fd6aab0731df46c6af9105ee7d3f6e49&hash=0BFB35F6C42183B222FFD6B3F1355522",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_9_dining_room.jpg?as=1&w=494&rev=92e195f6d1334dc9b1a0053fe7c85674&hash=6C63DE6671DFB0BF75F65D633DC2CF41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_10_kitchen.jpg?as=1&w=494&rev=f02689c45b2a4060a288f21309d6a864&hash=87F25C04990E36E625EF5487A83945AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_11_kitchen.jpg?as=1&w=494&rev=f5d0cdb81e884e39a7d683bf57cfb78e&hash=962BF07321587BCDE67C5FDF8261D8B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_12_kitchen.jpg?as=1&w=494&rev=47625c0f07a94883990e1117d0d505e3&hash=DB5164A4D57ECF330D53C78592F06261",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_13_kitchen.jpg?as=1&w=494&rev=1860eae02ccf4db6ac6f3c383b9f0a45&hash=7E473E1FDEE873F29EF5AAE356F3335A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_14_kitchen.jpg?as=1&w=494&rev=68470784f1814e1db234b96c0c9fd79b&hash=5239942CED598C274C793BA8DC9752DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_15_kitchen.jpg?as=1&w=494&rev=64688e616288471d8c3118f6241fafa4&hash=12CC13C2CF37FFB321EF1C1768BD6B18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_15_staircase.jpg?as=1&w=494&rev=b69db40e33254cddab1e2ea93cf126c6&hash=5DFB9B37AE2BF95DAF107FACF0D38D7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_16_staircase.jpg?as=1&w=494&rev=6bbf028ad12f4b089f98e34dc0044528&hash=C6767E7AB4BC7E8E96BE22C28AA95A17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_17_primary_bedroom.jpg?as=1&w=494&rev=b38ca11e813d4d2bbdcc384eabc739e0&hash=18915F24CEF53C1B23A402CEBBCC2691",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_18_primary_bedroom.jpg?as=1&w=494&rev=56f1cdad141640a1939df1922cb7f388&hash=86E7DF6B655023F6122B2C3AAE51C7BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_19_primary_bedroom.jpg?as=1&w=494&rev=175ecbcda72144ff828575402dd62df0&hash=4F517BD7C7943B9DA12C6CE8F2182F67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_20_primary_bedroom.jpg?as=1&w=494&rev=327334b12c364272ab73f83f6e30e53b&hash=6FB972666B889B9A469559F59252BDA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_21_primary_bathroom.jpg?as=1&w=494&rev=88e776076e3b432592e69e1de466f410&hash=2ADBA1E6A9CEE4F3F4D7B7CBC841A9DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_22_primary_bathroom.jpg?as=1&w=494&rev=da04c537f3874e16b2b95bc5c6f833e7&hash=1D42EAF1499A2E1C579EF3902F4CAA70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_23_primary_bathroom.jpg?as=1&w=494&rev=7a30dcfd1f82478b9093e3e761afa8eb&hash=BB050F1ECC6A50B620A5AADAB4938FA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_24_bedroom.jpg?as=1&w=494&rev=174dffdd5bef43888fdb7be41a740ef2&hash=3C4586598DF02C0E3530A58079AC7909",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_25_bedroom.jpg?as=1&w=494&rev=0300433bb5f3420da58f7cdc1ef13f3b&hash=3674708ED7D7DF128A03E9200B885C32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_26_bedroom.jpg?as=1&w=494&rev=2293e90ae9fb4860ac039f098b933b44&hash=5182D5C263C8C01AC51C4E38198EF693",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_27_bedroom.jpg?as=1&w=494&rev=b707202b13094bcda017dc544329d9bd&hash=8FBDB7F9789B7F22A72CEDA9F1AADEDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_28_bathroom.jpg?as=1&w=494&rev=352f84f3a55541d0859075cb9e34d6f3&hash=40BE4CB09262647E0AF8598BBAD5302E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_29_bathroom.jpg?as=1&w=494&rev=f44f7394148f49fda6f083597198efb9&hash=EC2D0EF68F20B0730E6F396A53D3BC61",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_30_bathroom.jpg?as=1&w=494&rev=6cb57c651feb47ec91cff7d445e03f81&hash=FC9C755B0A506581E843FA0C89E06219",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_31_bathroom.jpg?as=1&w=494&rev=bed7b740f7874c1eb5c44b2825dcc139&hash=0D1AF3EC54D6D99A675189DD63DF98FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_32_hall.jpg?as=1&w=494&rev=6111905308b045b799c9113b5e81f631&hash=0705B50DDBE42DC55A794234ECE85749",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_33_hall.jpg?as=1&w=494&rev=bc0864e2f020476c80153d36f695706d&hash=DD493A7B3F2AE2A519D1090B5C36A5F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_34_hall.jpg?as=1&w=494&rev=13a93c9f0f76468bbf78983124aab396&hash=A1CB3C2AC0149C97CA67E74407589C68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_35_hall.jpg?as=1&w=494&rev=c6f9be1a04d641fab3c4cb5b158b2367&hash=71F94DD3846EAD5446C3834BB4460F0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_36_washroom.jpg?as=1&w=494&rev=62cae6a320b346cf8a2537e29bccd888&hash=AEBE0088A40B39837124D27647D15BB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_37_rear.jpg?as=1&w=494&rev=967d4935923c47a9a9395889307064ad&hash=81B07826C629CB0F60D3B8063779E24A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=745dff7303cc4f08b1a7ac2f04c6a270&hash=B7D4F4B6AEC7D2DF58C9F34F655488E6"
+      ],
+      "name": "161 Ellery Lane",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/qmis/161-ellery-ln",
+      "id": "161",
+      "address": "161 Ellery Lane",
+      "price": "$305,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0278-161-ellery-ln/palm_townhome_2_front.jpg?iar=1&sc=1&thn=1&w=425&rev=d025f9f7124d470db5b2089883eb3bc3&hash=900207CCD781FB133083A5EB6B29C3FE",
+      "latitude": 30.25592,
+      "longitude": -85.87563,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_2_front.jpg?as=1&w=494&rev=42fac406aae841cfa6b0271ef9f66e57&hash=33CBCB0AEE16191E471C294F51B5FDD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_3_entrance.jpg?as=1&w=494&rev=c30bfa0fc802497382adc197681a78ab&hash=F3A9CDF7E11ED7C4E4DDB019AB32A8FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_4_living_room.jpg?as=1&w=494&rev=21603f53a79c4bcd832a342f63ce2081&hash=16DC8B388DFDB5D70AC8BF073DB328FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_6_living_room.jpg?as=1&w=494&rev=f147f27a2330429ca6bd360a52974bea&hash=B87B446DE142BE832D55D9171A293188",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_7_living_room.jpg?as=1&w=494&rev=ba82f7bca9654650b5c0167dc9e8e838&hash=10EA28EE227453A9FE947F5DA78B8F52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_8_dining_room.jpg?as=1&w=494&rev=051dc014df294aff94c7b4327d0fa173&hash=B5DB5943DE39A51AB6DB865C33548274",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_9_dining_room.jpg?as=1&w=494&rev=a30a280fcfaa46c4be8bfdae3da0b9a0&hash=FA8938ACC9CEEF60BF1B438F025B6F58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_10_kitchen.jpg?as=1&w=494&rev=d83367b0f52e42fda7d8b99ae0f07d54&hash=B046558FF1AFCF4A64EE0D74C8776F38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_11_kitchen.jpg?as=1&w=494&rev=bc1cebd210b545b88f0ff7fc7117779c&hash=FEFBE0D2BF3FB1E07DFA9C6A653D412E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_12_kitchen.jpg?as=1&w=494&rev=2bb5766ed20a45cbba6bfe1a7f6fbef5&hash=10A26C9154AE78BE53E88B83D81915B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_13_kitchen.jpg?as=1&w=494&rev=a98b5631618544479795fe7e7afb6ec0&hash=D49C414FF39BA01E401FF2C41551F485",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_14_kitchen.jpg?as=1&w=494&rev=ba24c1548b194f92b68497c6d1a97391&hash=6C5BBD79C2A1C996913227E6AA69EC0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_15_kitchen.jpg?as=1&w=494&rev=694b92ca11c1480489a4c456d54a444c&hash=91B0C6B384AE1C1024A6E22B0AF91AE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_15_staircase.jpg?as=1&w=494&rev=36db81edfd9f41b390ba7e1b5d58a378&hash=277A5705164E5CEEC1C8811C238B0134",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_16_staircase.jpg?as=1&w=494&rev=5d6b48d069f347e8a1335ccb3956db95&hash=DF4DD8DBEBDDEC444EDD5FE0A7A3382C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_17_primary_bedroom.jpg?as=1&w=494&rev=488419ba196d400092186226925d364d&hash=299DE22080EE038721D8BBE94C887EBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_18_primary_bedroom.jpg?as=1&w=494&rev=63a1690fc06840c5a1bd019533994cbf&hash=65D12B0DCC176E6B870C953ED23594A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_19_primary_bedroom.jpg?as=1&w=494&rev=449dc16c95ed47d4925560cfd1df646f&hash=4C3DD9C75BD6347413F793F722D2D9CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_20_primary_bedroom.jpg?as=1&w=494&rev=3acddd685ace4f9aa1f60ee6592cd6ff&hash=C5C8D33818C17DD88E2922BE2630FCFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_21_primary_bathroom.jpg?as=1&w=494&rev=c4d457f5701346049494707381e17c31&hash=F30CE7F01DFC40300A1BCB8D0C72E2BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_22_primary_bathroom.jpg?as=1&w=494&rev=ef10a3c704cf4d0197d3c1d3ea96e855&hash=154FAC6C986957509F885DC71330FF2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_23_primary_bathroom.jpg?as=1&w=494&rev=52636c6f72364fac8eba5064c5c0500f&hash=05550FBC729F3C266A32B8F1558E30ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_24_bedroom.jpg?as=1&w=494&rev=360d20a350a34290828b62577d72d6b3&hash=A7247B9A532BBF7BE56F4961CC9BB89F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_25_bedroom.jpg?as=1&w=494&rev=45812a8fa0314c7283c2ca617afddfe2&hash=28C423DD0F735E75E42FEA13C46B6050",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_26_bedroom.jpg?as=1&w=494&rev=94a55f319be14ea9814fbc52fd8ee195&hash=DBEA2B605C2E6848E5D67421889074ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_27_bedroom.jpg?as=1&w=494&rev=58454fdd46ea41828ad7e220c199bc25&hash=EBA2378359892F04386123F9A5AEE806",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_28_bathroom.jpg?as=1&w=494&rev=0ac722b5d5534c4ba54ae89b523b0e84&hash=8E17A24016C10C789AD7B2DC1FE825FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_29_bathroom.jpg?as=1&w=494&rev=45c9c69293fb4cdb806a1f7e81e0c5bb&hash=E54072D84EEB86EFB0A7502C7471F543",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_30_bathroom.jpg?as=1&w=494&rev=8082267736a24ec8aa77adf53724a9d1&hash=253FFEC4AB2B6C50C29490A060AC1329",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_31_bathroom.jpg?as=1&w=494&rev=341c44c538904f248e6a218983544190&hash=C82483FA79EC2CA04E05B6188AE6340F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_32_hall.jpg?as=1&w=494&rev=5770b403191542c88be40a62af45ad70&hash=F19119B3297113319D57580EFEF5F447",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_33_hall.jpg?as=1&w=494&rev=615bd9f7966b4d2aba9f0c4cacaf3f64&hash=FE8BF8508C09154133CB3D712EA62D76",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_34_hall.jpg?as=1&w=494&rev=b74ce71278954996a289fbcd1e83a155&hash=B0DF04FF57115252BF94079B5152B813",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_35_hall.jpg?as=1&w=494&rev=63278b8fb0b04df39a31234f67e201e7&hash=5B5DD1F7793AEA7CC75901C41E28B90C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_36_washroom.jpg?as=1&w=494&rev=f5cc753d79d94284b418118ea8db0d9c&hash=05332D536B6BEE1C933818F37D56C12D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_37_rear.jpg?as=1&w=494&rev=ceda964315604be1ba79b67880132e49&hash=C061B02A55BBAB09D1395DF4BDF25154",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/palm_exterior_floor_plan.jpg?rev=745dff7303cc4f08b1a7ac2f04c6a270&hash=B7D4F4B6AEC7D2DF58C9F34F655488E6"
+      ],
+      "name": "173 Ellery Lane",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/bayside-at-ward-creek/qmis/173-ellery-ln",
+      "id": "173",
+      "address": "173 Ellery Lane",
+      "price": "$324,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29738-ward-creek/297390000-ward-creek-townhomes/rpex/0272-173-ellery-ln/palm_townhome_2_front.jpg?iar=1&sc=1&thn=1&w=425&rev=42fac406aae841cfa6b0271ef9f66e57&hash=A0A642E093B6FC1160038C9C4809557C",
+      "latitude": 30.25592,
+      "longitude": -85.87563,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "West Bay Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Surfside Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "J. R. Arnold High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "timestamp": "2025-06-01T03:05:31.453554",
+  "name": "Willow Point",
+  "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/willow-point",
+  "status": null,
+  "price_from": "$355,900",
+  "address": "102 Rylee Road,Dothan, AL 36305",
+  "phone": "(334) 339-6732",
+  "description": "Find a new home in Dothan, Alabama! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Alabama area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/102ryleeroad001.jpg"
+  ],
+  "location": {
+    "latitude": 31.20077,
+    "longitude": -85.47903,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$355,900 - $382,900",
+    "sqft_range": "From 2,025 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2 - 3.5",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Avery",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/willow-point/floor-plans/aver",
+      "details": {
+        "price": "From $381s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,406 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/03_zv_-_dr_horton_al_montgomery_ht_avery_d11_cs_c_hr.jpg?as=1&w=425&rev=3c7f2f482af64d8e98ddeaa640145b29&hash=5086FF027CDC898330AC98FFE47F03E9"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/untitled-1_0014_avery.jpg?rev=96978aff3b4a44cf8cd4125309419f5a&hash=E6444C65F659CD0DD1F833DDAE76FF48"
+        }
+      ]
+    },
+    {
+      "name": "Jasmine",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/willow-point/floor-plans/jasm",
+      "details": {
+        "price": "From $356s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,025 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/jasm/19_zv_-_dr_horton_al_montgomery_ht_jasmine_e_11_cs_i_hr.jpg?as=1&w=425&rev=dea392dc660a48a2bf674a884ed2ee68&hash=5DEB42777EBEBAC60403D6BCB7241463"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/jasm/untitled-1_0012_jasmine.jpg?rev=b3f3217f351243c3a091855b26c3c447&hash=4CEC0E3AEEA25BCF131C63DB04A68A2B"
+        }
+      ]
+    },
+    {
+      "name": "Victoria",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/willow-point/floor-plans/2158",
+      "details": {
+        "price": "From $367s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,306 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/31_zv_-_dr_horton_al_montgomery_ht_victoria_a11_cs_a_hr.jpg?as=1&w=425&rev=736410d090464a1296bff4b539e7357e&hash=9B2036BB4870167E107FFFD7937260B0"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/untitled-1_0006_victoria.jpg?rev=4be558671e0b43238f04de689f964183&hash=947697B5A902D38B4A004CC9A9EC4399"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/100laneylane001.jpg?as=1&w=494&rev=9e28affa9f7a4b70bf9c012f46eea70c&hash=C3EECC37BEC377606DBD004595713A14",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad005.jpg?as=1&w=494&rev=6c9f099f127e443f86ead5a41ddc30a3&hash=790C07E88306EDE4C033CCF385279823",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad002.jpg?as=1&w=494&rev=3cd92aeb8f3348059886c161f92c6302&hash=398AB890874543CC4A59F59A8E2A8ACF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad003.jpg?as=1&w=494&rev=8e2e0bb44a5e42e58318087f8549af4b&hash=B1036D26B269C3E74DF1C15E12DF55D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad004.jpg?as=1&w=494&rev=cde78f4d56ba4f16a01f733656e4c353&hash=B0F93EE52F6F83EC146140BAD701228D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad014.jpg?as=1&w=494&rev=0391351621a94346a80cb46d6a026c4b&hash=6D45EE934DDE5EACDA0F08FC8E881C6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad016.jpg?as=1&w=494&rev=ed0e27b946454128b29e6ca92bcac54c&hash=81837F22FD4A5FAEA581DA7F263F73CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad012.jpg?as=1&w=494&rev=f54034bd54c34ad3b98d2728b1ce0083&hash=4A2784D55013265DBD9A53D29FCDF7F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad013.jpg?as=1&w=494&rev=c0d30b8f0e414b1b9db599e064d1c311&hash=B56D867C55E6C357AF35F96C83E96B46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad018.jpg?as=1&w=494&rev=306f78fc2fe8488d87affd47456e5cef&hash=040C4E4BFE9EA0C8E267BFF36D486308",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad019.jpg?as=1&w=494&rev=705c31eda79b418a99c6398113fd041e&hash=2961EB18C24BA507ABFD2DA259876CAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad021.jpg?as=1&w=494&rev=c1e25a407f324a6f8f3088323ece249e&hash=ACA0765C87FC99DCB71153CDA6519340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad020.jpg?as=1&w=494&rev=de7264c13cbf4332b338099c670be6cf&hash=0C9454E7ED32B40CD86DE9EEE9A65A71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad015.jpg?as=1&w=494&rev=0d1d4f9e9baa43a9bf84eb2f12e9869e&hash=C81C88A9E94DAAE51FD823CC0A0F48A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad024.jpg?as=1&w=494&rev=03c177a9eb3a42e5bfd170e03abcf62b&hash=22DFE2A042E96B50569245AB311F83D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad023.jpg?as=1&w=494&rev=45aa12d9b04e415bac93187c7b0ae7b5&hash=AE839B953D484443541F8705F4F1A6B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad017.jpg?as=1&w=494&rev=e2277c1115584161a0ab390bfd3890d1&hash=D978F5D82AC08415660494CA04AFF10A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad022.jpg?as=1&w=494&rev=b1d55e0ba9584786a8b37f94366d2b7c&hash=1C5E744DD82F058D2942A4245C3908B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad006.jpg?as=1&w=494&rev=1b643ae8060f42b6bd0e6102fcf4e673&hash=E6F66321804FC91A612763B52107A34A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad007.jpg?as=1&w=494&rev=da7933fdacf24a0b873ee34f98246503&hash=E8EF91E4468C17E1C9C4781E9167ECF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad008.jpg?as=1&w=494&rev=1028203b6db246e89da6741039720342&hash=8B98193B0AC484D89DF4629631B42E0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad009.jpg?as=1&w=494&rev=2c4d05aa996449f1be60f06610adb873&hash=9B21E76E231917FCDA9A38E55D4B2B8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad010.jpg?as=1&w=494&rev=8cc17e7b34c5489ca0cd2a65e6fd5ae9&hash=20EEE1634A8746D699CC521EAEDC7443",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad011.jpg?as=1&w=494&rev=b426f37709bd430db588126e3c961036&hash=CEDDACE65E7C7C4015B6D35E5261DC86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad025.jpg?as=1&w=494&rev=9ca8d0af3d604d37809aa66585a07739&hash=FDC3AED92B1B5C2B8BE1CC2A97C8DBB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad026.jpg?as=1&w=494&rev=a144339cd0194e64980dce6ee0f1b101&hash=B58570CB24103708BA13F649CAB6B784",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad027.jpg?as=1&w=494&rev=1e7d745bd0b343ac80a82048f312692c&hash=8E57FDFC2C767AE6FEB6988BC3924EE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad028.jpg?as=1&w=494&rev=0b8a5fb5b9e343c8a650f160d46d8e00&hash=1104F819AF22254057F472D34885A10D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad029.jpg?as=1&w=494&rev=6aea2f70bd674bbda44ac8d81dde9a77&hash=40F8EFC40898A4CE2BE0CE03359CF9CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad030.jpg?as=1&w=494&rev=a0dbee4e41f647068ed0f48e52fe9078&hash=C1014B1172A8873C89BB82BD0CB74076",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad031.jpg?as=1&w=494&rev=eb8fc4d29b5d4a6089dde86fa1f5daf1&hash=2511C0BD0B509CB0718F7C2F303D89E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad032.jpg?as=1&w=494&rev=a37706b46f944980b6eb30c0f7bab9e7&hash=22CC106E4563746D40DE49E049694B61",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad033.jpg?as=1&w=494&rev=4430c3e22ac04c72bfbefd3bdfb7d548&hash=4D5F156157ABBD7461A45BB7F003D96B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad034.jpg?as=1&w=494&rev=963e1b00f21442379b323cc277c0e733&hash=087C7697F6CB0AA643D28383AB237403",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/102ryleeroad035.jpg?as=1&w=494&rev=d228073212874ac8b81d991191167831&hash=9C18EF1FE9BE1E75A3E4B550C3F5FC6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/100laneylane003.jpg?as=1&w=494&rev=dd638fec19c04071a992069473f9e862&hash=CB61019D96DCFE003D3E7BC66EC058E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/100laneylane002.jpg?as=1&w=494&rev=40cba3bfe14341878b65ed852f3e8649&hash=587A669285637335DE6B0A6AC9257233",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/untitled-1_0014_avery.jpg?rev=96978aff3b4a44cf8cd4125309419f5a&hash=E6444C65F659CD0DD1F833DDAE76FF48",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "100 Laney Lane",
+      "plan": "Avery",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/willow-point/qmis/100-rylee-road",
+      "id": "100",
+      "address": "100 Laney Lane",
+      "price": "$382,900",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2406",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/aver/2003-100-laney-lane/100laneylane001.jpg?iar=1&sc=1&thn=1&w=425&rev=9e28affa9f7a4b70bf9c012f46eea70c&hash=31E14141B4EA7ECD1B7A559F50A32F11",
+      "latitude": 31.20077,
+      "longitude": -85.47903,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/104laneylane004.jpg?as=1&w=494&rev=fc0266170d47499b85d8be8482083d3a&hash=AD2323755971CA30875F0D5ED6701808",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/104laneylane003.jpg?as=1&w=494&rev=a8a90ded75234f6692d9e6e080c228e9&hash=727599301F23717BD233BFBC867A0B6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_1.jpg?as=1&w=494&rev=1dbd9203b6d14a3cb6022816aa8d84f4&hash=470F06393C957CEEDA67488610926334",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_2.jpg?as=1&w=494&rev=f2cb41fd732c4e6c8e977f0d7f317f93&hash=438DC3022D1C0C2B6F3DC6731A990B69",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_3.jpg?as=1&w=494&rev=75858240ab7e40e4acceff57adcf06de&hash=7D4ECBB6A6EDCC734EE8355F555413D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_4.jpg?as=1&w=494&rev=6f504f8289ed41a2a4d741f28b118c36&hash=A41DD34C4BA9702DD036F7667F3EDC7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_5.jpg?as=1&w=494&rev=7693984382cf40e6bb5e372cc646e558&hash=2E6CE3C5993700DA1FCC89CA07A80FFC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_6.jpg?as=1&w=494&rev=4be00a45e5184048973ac0769d7804f4&hash=FF73E202686BD56D06EAAC9B4CBB6CBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_7.jpg?as=1&w=494&rev=e3ee02cf697249d5b8b622213a7294a1&hash=261939B7623230441447DA5A770F5E8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_8.jpg?as=1&w=494&rev=68a0818367dc41b0a1c3d2285ff51748&hash=D4E6412F5E4336F917346E09B8E3D08C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_9.jpg?as=1&w=494&rev=8a92db82499d485d81bd74fa1fc2f345&hash=A75973AE51013EF0A21D60145DA64817",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_10.jpg?as=1&w=494&rev=8eab70734ddb4fdf9bbd4374e20fb314&hash=DAE86ACA7A1072C6215ECCE03978CCDC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_11.jpg?as=1&w=494&rev=544b57aa950449f3a4c05cfab46d9331&hash=24A8C1166DA7FC5D951B434A8B96E0F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_12.jpg?as=1&w=494&rev=f3e77b5d7faf4db6b6f44877a0f183ac&hash=C631F98E8156834B1A24831076B4FD60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_13.jpg?as=1&w=494&rev=38f68de28e944eafb18c1421a9a83abd&hash=F299A52F073C9ED6ECE747BD0291D840",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_14.jpg?as=1&w=494&rev=3970365377c84813b9122a2aea1452e7&hash=7905715B7F0DA34C02DD9C11995E59D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_15.jpg?as=1&w=494&rev=b42a8d1abb5b4d3bbe776444f39924b3&hash=C3DF4BA67A0F7E70E8B711F38B8B06FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_16.jpg?as=1&w=494&rev=02b8987012d541578b9c01c65616bf78&hash=FBE0F53DB8B73537A092AF2F61F0B961",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_17.jpg?as=1&w=494&rev=87ece242cf36420893e08459bef29aa6&hash=C4DBB120370DF00DCD5D060E89FB4A6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_18.jpg?as=1&w=494&rev=f7300b0897c4433bb2c7fb58415128d5&hash=81045E5A7F2AA439F19DB73CFB07853A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_19.jpg?as=1&w=494&rev=b035fac163854690aad9a71d689b52c8&hash=FAB701159D3BFE067464C4FD04609295",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_20.jpg?as=1&w=494&rev=9ed563cd78cd4e13afe7bf84e2f9e8a1&hash=418410C2720B7E6FF6622C01B07C04A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_21.jpg?as=1&w=494&rev=6c760a0e6a154ac1952dedf0f63d3152&hash=FEAD99A2EBE8B0A1FF4DF24E955E124B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_22.jpg?as=1&w=494&rev=8d444622a7914d8d9c4fc4a11d52f0e0&hash=304EC7BC84233605F7A7DF57996B7032",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_23.jpg?as=1&w=494&rev=7fc3c795be104dc8935268cdf1d1493e&hash=236A69CB3E3C6CA4B9444A43163BFEED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_24.jpg?as=1&w=494&rev=1b7f03038ce546bdbe746a658f92e141&hash=A283E9D1F38F041C95A1CFE55BAB94BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_25.jpg?as=1&w=494&rev=fe28f5b979614463a25aff50423511dc&hash=D0F75F550C7A6C6C17306AD8B8EBF64A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_26.jpg?as=1&w=494&rev=d4d8fece7965484faeda8c5a762c4f66&hash=7DE27E1A4FF0CE26DEEF32C34C19F2F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_27.jpg?as=1&w=494&rev=c6dd4ac80d9a47939228b1c5b7f90aa0&hash=3B699C1F75719CF493D93FD716A31EA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_28.jpg?as=1&w=494&rev=eae5c258e3cb493c8f847fde2ff2e61d&hash=A4B9A19FFC6DCB5B698B8A84BECD0BFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_29.jpg?as=1&w=494&rev=b101aed6c0704c7886699a125c559090&hash=4A34DA07287A5BF762393C2D818080CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/victoria_30.jpg?as=1&w=494&rev=52530af373be4535b06f694ca40947c7&hash=86A592EE8E327B59517665DDAB915007",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/104laneylane001.jpg?as=1&w=494&rev=d4dbc80ae263495184f2e309e0778cbc&hash=77BAACAF154A1B13549DEF51E63EBEE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/104laneylane002.jpg?as=1&w=494&rev=ca02977cee50425bbd60121e9f928087&hash=C3A229EBAC65A6B4DABD06B7F576BCE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/untitled-1_0006_victoria.jpg?rev=4be558671e0b43238f04de689f964183&hash=947697B5A902D38B4A004CC9A9EC4399",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "104 Laney Lane",
+      "plan": "Victoria",
+      "url": "https://www.drhorton.com/alabama/southeast-alabama/dothan/willow-point/qmis/104-laney-lane",
+      "id": "104",
+      "address": "104 Laney Lane",
+      "price": "$366,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2306",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/268-montgomery/26832-willow-point/268320000-willow-point/2158/2005-104-laney-lane/104laneylane004.jpg?iar=1&sc=1&thn=1&w=425&rev=fc0266170d47499b85d8be8482083d3a&hash=FB1387B737D1A26C71B8F512782C75BB",
+      "latitude": 31.20077,
+      "longitude": -85.47903,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Rehobeth Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rehobeth High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rehobeth Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

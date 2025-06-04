@@ -1,0 +1,315 @@
+{
+  "timestamp": "2025-06-03T13:46:41.710769",
+  "name": "Wynwood",
+  "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood",
+  "status": null,
+  "price_from": "$397,990",
+  "address": "2180 Greenwood Oak Drive,Ocoee, FL 34761",
+  "phone": "(407) 646-3768",
+  "description": "Find a new home in Ocoee, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Orange County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/384260000-wynwood-50s/2_front_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 28.62027,
+    "longitude": -81.50849,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$397,990 - $654,990",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Resort",
+      "description": "Resort-Style Pool and Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Easy Access 429",
+      "description": "Easy Access to 429",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Granite & Quartz",
+      "description": "Sleek Granite & Quartz Counters",
+      "icon_url": null
+    },
+    {
+      "name": "2",
+      "description": "2-3 Car Garages",
+      "icon_url": null
+    },
+    {
+      "name": "Waterview Homesites",
+      "description": "Waterview Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Walking Paths",
+      "description": "Walking Paths",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Close proximity Lake Apopka",
+      "description": "Close proximity to Lake Apopka",
+      "icon_url": null
+    },
+    {
+      "name": "Direct Access West Orange",
+      "description": "Direct Access to West Orange Trail",
+      "icon_url": null
+    },
+    {
+      "name": "Abundance Local Recreation",
+      "description": "Abundance of Local Recreation",
+      "icon_url": null
+    },
+    {
+      "name": "Close Shopping, Dining Entertainment",
+      "description": "Close to Shopping, Dining and Entertainment",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/3eab",
+      "details": {
+        "price": "From $398s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/382960000-wynwood-40s/3eab/allex_c_web.jpg?as=1&w=425&rev=d3788e51cd854a4e86f30404ceb30e90&hash=384FB763348073CB0F00714E22ACA270"
+      }
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/4eab",
+      "details": {
+        "price": "From $428s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384260000-wynwood-50s/4eab/aria_c_web.jpg?as=1&w=425&rev=99d4c9f5f4ee429cb8f21fb5df1c39b7&hash=9E54161F9259F10E0473099AE0063DC0"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/4ebb",
+      "details": {
+        "price": "From $438s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/384260000-wynwood-50s/4ebb/cali_d_web.jpg?as=1&w=425&rev=3ed56fd39b8848428ec12022acd9dac3&hash=EC930D5579B46DFE48419C616D81C580"
+      }
+    },
+    {
+      "name": "Camden",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/2795",
+      "details": {
+        "price": "From $615s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/384270000-wynwood-60s/2795/camden_j.jpg?as=1&w=425&rev=5844232257d04468832e077b02072291&hash=10F011E23BA36B276A8A5DD3F66606FA"
+      }
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/2383",
+      "details": {
+        "price": "From $540s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,361 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38296-wynwood/384270000-wynwood-60s/2383/destin_j_web_resized.jpg?as=1&w=425&rev=5d5b7f48bcb94c9ba0f218e2db677c1c&hash=7E4095DF7A5162D4D6D6926FCD523CB8"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/4ehb",
+      "details": {
+        "price": "From $497s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384260000-wynwood-50s/4ehb/1_1_haydenexterior_g_.jpg?as=1&w=425&rev=9a9e0b11f0a740228f718b1106e23ffe&hash=A01992CA4DBFFB5865A5D046C6C46B89"
+      }
+    },
+    {
+      "name": "Jemison",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/3ejb",
+      "details": {
+        "price": "From $404s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,614 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/382960000-wynwood-40s/3ejb/jemison_c_web.jpg?as=1&w=425&rev=df01334d70634de08b84cbcc3c18807d&hash=C698BF02DF38C51965B6333EEF562F85"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/382960000-wynwood-40s/3ejb/jemison_floorplan.jpg?rev=a89c4a10f06c4dcdb308ec4113aebdad&hash=FFFBE35BC4A7D46C3C7F59019D397A15"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/3efb",
+      "details": {
+        "price": "From $474s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/382960000-wynwood-40s/3efb/robie_g_web.jpg?as=1&w=425&rev=4b531377821640368e1f43c951751c2b&hash=3E69A96279A018D5655AEB19857D59CB"
+      }
+    },
+    {
+      "name": "Robinson - Folk Victorian",
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/floor-plans/2107",
+      "details": {
+        "price": "From $520s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,108 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38296-wynwood/384270000-wynwood-60s/2107/robinson_k_final.jpg?as=1&w=425&rev=7a554e1371024cb9986b248296831142&hash=7E8A7602F0A7CC925E22BDB12A74DC43"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384260000-wynwood-50s/4eab/0174-3418--wynwood-forest-drive/1_1_aria_exterior_elevation_c.jpg?iar=1&sc=1&thn=1&w=425&rev=31e06b7f79fc4525a747378393f451d4&hash=DCD64DAEE4C29E3A6936E95D832A7543"
+      ],
+      "name": "3418  Wynwood Forest Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/3418--wynwood-forest-drive",
+      "id": "3418",
+      "address": "3418  Wynwood Forest Drive",
+      "price": "$439,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384260000-wynwood-50s/4eab/0174-3418--wynwood-forest-drive/1_1_aria_exterior_elevation_c.jpg?iar=1&sc=1&thn=1&w=425&rev=31e06b7f79fc4525a747378393f451d4&hash=DCD64DAEE4C29E3A6936E95D832A7543",
+      "latitude": 28.62027,
+      "longitude": -81.50849,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384260000-wynwood-50s/4ebb/0172-2105-greenwood-oak-drive/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=a04aa94ffe94484abcc560068e1a3194&hash=26DE23E64C3E18412CF1DC81DAE4F6FC"
+      ],
+      "name": "2105 Greenwood Oak Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/2105-greenwood-oak-drive",
+      "id": "2105",
+      "address": "2105 Greenwood Oak Drive",
+      "price": "$460,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384260000-wynwood-50s/4ebb/0172-2105-greenwood-oak-drive/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=a04aa94ffe94484abcc560068e1a3194&hash=26DE23E64C3E18412CF1DC81DAE4F6FC",
+      "latitude": 28.62027,
+      "longitude": -81.50849,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384270000-wynwood-60s/2795/0059-2092--ashwood-bluff-drive/camden-wynwood_0000_wynwood-camden-model-drh--2168-greenwood-oak-drive--ocoee--fl-34761---01.jpg?iar=1&sc=1&thn=1&w=425&rev=3339adad5ccb4d9c87615c6a0d842ecc&hash=D7EE2F4B3A3515D7E2C185BF961A2B0C"
+      ],
+      "name": "2092  Ashwood Bluff Drive",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/orange-county/ocoee/wynwood/qmis/2092--ashwood-bluff-drive",
+      "id": "2092",
+      "address": "2092  Ashwood Bluff Drive",
+      "price": "$654,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2787",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38296-wynwood/384270000-wynwood-60s/2795/0059-2092--ashwood-bluff-drive/camden-wynwood_0000_wynwood-camden-model-drh--2168-greenwood-oak-drive--ocoee--fl-34761---01.jpg?iar=1&sc=1&thn=1&w=425&rev=3339adad5ccb4d9c87615c6a0d842ecc&hash=D7EE2F4B3A3515D7E2C185BF961A2B0C",
+      "latitude": 28.62027,
+      "longitude": -81.50849,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Prairie Lake Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Ocoee Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wekiva High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "timestamp": "2025-06-03T00:20:08.136026",
+  "name": "Cape Coral North",
+  "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north",
+  "status": null,
+  "price_from": "$314,990",
+  "address": "3621 Chiquita Blvd,Cape Coral, FL 33914",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Cape Coral, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/l1_southwest-florida_01_2.jpg"
+  ],
+  "location": {
+    "latitude": 26.58487,
+    "longitude": -82.00673,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$314,990 - $393,945",
+    "sqft_range": "From 1,389 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Boardwalk",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/1389",
+      "details": {
+        "price": "From $315s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,389 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/1389a_web.jpg?as=1&w=425&rev=c5b12f1fe5554c3892d098d411face46&hash=A2301D1BF784E0933465EBB67B38DD5D"
+      }
+    },
+    {
+      "name": "Freeport",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/1499",
+      "details": {
+        "price": "From $325s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,499 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911exp-cape-coral-north/579110000-cape-coral-north/1499/freeport_2s_a.jpg?as=1&w=425&rev=c676c1c2c67f4ef597eafa3709b9a119&hash=ED891C63073B3CE1A6198D4B1A4E99C9"
+      }
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/aria",
+      "details": {
+        "price": "From $335s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4eab/aria-c4_shingle_transom_web.jpg?as=1&w=425&rev=40013d61910344c4a67ac30f0137aa0e&hash=4DB80C5924291A8EEDC9C5BEFCAEA664"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-north/579110000-cape-coral-north/4eab/1672-aria_cd_2s_exp_fp.jpg?rev=d6fdb34d261e4a44b1456e9a7807a3e7&hash=624D5A5B35A958452BC47CA1D224D2A8"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/4ebb",
+      "details": {
+        "price": "From $345s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4ebb/l1_southwest-florida_01_2.jpg?as=1&w=425&rev=5e6be4a103ca47ea903a00a402f52955&hash=DD9FD1A0E96125C0DAD0BAF72D048034"
+      }
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/5emb",
+      "details": {
+        "price": "From $375s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911exp-cape-coral-north/579110000-cape-coral-north/5emb/2768_madison_3s_g.jpg?as=1&w=425&rev=f006a150e3934f17a94be9be4b1978b0&hash=2D0429531283210DE02FF6FC38744E23"
+      }
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/2077",
+      "details": {
+        "price": "From $370s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/2077/2077_lakeside_ele_a_revised_web.jpg?as=1&w=425&rev=abfb96aa429c422fb7b1bcde78e75fbc&hash=83EDCBC3BE952C2B1A5F2D77D2897500"
+      }
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/floor-plans/e501",
+      "details": {
+        "price": "From $385s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,336 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/e501/denham_ele_g_3car_revised_web.jpg?as=1&w=425&rev=1d20d1a31c5c401c98ecd86c37535c07&hash=174E672F66C2F5096ABD9CE42D158C5A"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/0057-4410-garden-blvd/1389a_web.jpg?iar=1&sc=1&thn=1&w=425&rev=13d4f7fc080140fa86521bfd8bfcebc6&hash=215E18F840C1164E58546EFB62F22833"
+      ],
+      "name": "4410 GARDEN BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/4410-garden-blvd",
+      "id": "4410",
+      "address": "4410 GARDEN BLVD",
+      "price": "$321,445",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1389",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/0057-4410-garden-blvd/1389a_web.jpg?iar=1&sc=1&thn=1&w=425&rev=13d4f7fc080140fa86521bfd8bfcebc6&hash=215E18F840C1164E58546EFB62F22833",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/0161-1924-nw-24th-ter/1389a_web.jpg?iar=1&sc=1&thn=1&w=425&rev=fca5c6be1e3c4bc0bd021df822202dc5&hash=1F8BE5C237439A0B67B208B2DBE293FD"
+      ],
+      "name": "1924 NW 24TH TER",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/1924-nw-24th-ter",
+      "id": "1924",
+      "address": "1924 NW 24TH TER",
+      "price": "$323,945",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1389",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/0161-1924-nw-24th-ter/1389a_web.jpg?iar=1&sc=1&thn=1&w=425&rev=fca5c6be1e3c4bc0bd021df822202dc5&hash=1F8BE5C237439A0B67B208B2DBE293FD",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/0173-2416-nw-24th-terr/1389a_web.jpg?iar=1&sc=1&thn=1&w=425&rev=a54f77c953864e519653b349ba1ced76&hash=5F6603F7E0A780202FB8D8FBEB934FF7"
+      ],
+      "name": "2416 NW 24TH TER",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/2416-nw-24th-terr",
+      "id": "2416",
+      "address": "2416 NW 24TH TER",
+      "price": "$323,945",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1389",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1389/0173-2416-nw-24th-terr/1389a_web.jpg?iar=1&sc=1&thn=1&w=425&rev=a54f77c953864e519653b349ba1ced76&hash=5F6603F7E0A780202FB8D8FBEB934FF7",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1499/0168-2514-nw-3rd-ave/freeport_2s_a.jpg?iar=1&sc=1&thn=1&w=425&rev=fd2054039ffb42e985a39b169726d70f&hash=07ADFF9EB8E5BF3E47C154AF70A659A9"
+      ],
+      "name": "2514 NW 3rd Ave",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/2514-nw-3rd-ave",
+      "id": "2514",
+      "address": "2514 NW 3rd Ave",
+      "price": "$333,840",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1499/0168-2514-nw-3rd-ave/freeport_2s_a.jpg?iar=1&sc=1&thn=1&w=425&rev=fd2054039ffb42e985a39b169726d70f&hash=07ADFF9EB8E5BF3E47C154AF70A659A9",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1499/0180-3829-ne-23rd-pl/freeport_2s_a.jpg?iar=1&sc=1&thn=1&w=425&rev=adb3afd3f012431da170d8b22ac693d2&hash=09B488468996C9EB2E7AD6FDFB35A914"
+      ],
+      "name": "3829 NE 23RD PL",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/3829-ne-23rd-pl",
+      "id": "3829",
+      "address": "3829 NE 23RD PL",
+      "price": "$335,980",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/1499/0180-3829-ne-23rd-pl/freeport_2s_a.jpg?iar=1&sc=1&thn=1&w=425&rev=adb3afd3f012431da170d8b22ac693d2&hash=09B488468996C9EB2E7AD6FDFB35A914",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4eab/0156-1117-nw-16th-pl/aria-c4_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=13d594dd435c462b926d12a22e842f1b&hash=F8093CA06891CB72BFA2A56ACD6FE055"
+      ],
+      "name": "1117 NW 16TH PL",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/1117-nw-16th-pl",
+      "id": "1117",
+      "address": "1117 NW 16TH PL",
+      "price": "$346,730",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4eab/0156-1117-nw-16th-pl/aria-c4_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=13d594dd435c462b926d12a22e842f1b&hash=F8093CA06891CB72BFA2A56ACD6FE055",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4ebb/0141-1133-nw-12th-ave/cali_c4.jpg?iar=1&sc=1&thn=1&w=425&rev=baa19bc3076143dba942624f28e86c78&hash=F8614C9FE3736AED3EEF13D2AB0483E6"
+      ],
+      "name": "1133 NW 12TH AVE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/1133-nw-12th-ave",
+      "id": "1133",
+      "address": "1133 NW 12TH AVE",
+      "price": "$348,170",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4ebb/0141-1133-nw-12th-ave/cali_c4.jpg?iar=1&sc=1&thn=1&w=425&rev=baa19bc3076143dba942624f28e86c78&hash=F8614C9FE3736AED3EEF13D2AB0483E6",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4ebb/0172-2140-nw-16th-pl/cali_c4.jpg?iar=1&sc=1&thn=1&w=425&rev=2d56c58ad7724b0fb769239c94016015&hash=25040573B425990364F08399C50D35C8"
+      ],
+      "name": "2140 NW 16TH PL",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/2140-nw-16th-pl",
+      "id": "2140",
+      "address": "2140 NW 16TH PL",
+      "price": "$357,575",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/4ebb/0172-2140-nw-16th-pl/cali_c4.jpg?iar=1&sc=1&thn=1&w=425&rev=2d56c58ad7724b0fb769239c94016015&hash=25040573B425990364F08399C50D35C8",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/5emb/0174-2013-ne-6th-ave/2768_madison_3s_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6ed53c85bc984a4c9ad1f329a829fe52&hash=5EBFC4602E498C8050108AF8A12C66D8"
+      ],
+      "name": "2013 NE 6TH AVE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/2013-ne-6th-ave",
+      "id": "2013",
+      "address": "2013 NE 6TH AVE",
+      "price": "$390,285",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/5emb/0174-2013-ne-6th-ave/2768_madison_3s_g.jpg?iar=1&sc=1&thn=1&w=425&rev=6ed53c85bc984a4c9ad1f329a829fe52&hash=5EBFC4602E498C8050108AF8A12C66D8",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/e501/0179-2611-nw-9th-ave/denham_ele_g_3car_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=f2da62a78b27403fbc1318a50707198b&hash=6FC3967957370BEB68525AB489D223F0"
+      ],
+      "name": "2611 NW 9TH AVE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/2611-nw-9th-ave",
+      "id": "2611",
+      "address": "2611 NW 9TH AVE",
+      "price": "$393,945",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/e501/0179-2611-nw-9th-ave/denham_ele_g_3car_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=f2da62a78b27403fbc1318a50707198b&hash=6FC3967957370BEB68525AB489D223F0",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/e501/0178-809-nw-20th-ave/denham_ele_g_3car_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=2689aa9c44dd4691bb35b7e724068a2d&hash=32FD0503052AFEBF22BE291CAFFEF435"
+      ],
+      "name": "809 NW 20TH AVE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/cape-coral/cape-coral-north/qmis/809-nw-20th-ave",
+      "id": "809",
+      "address": "809 NW 20TH AVE",
+      "price": "$393,945",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57911-cape-coral-south/548230000-cape-coral-well-septic/e501/0178-809-nw-20th-ave/denham_ele_g_3car_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=2689aa9c44dd4691bb35b7e724068a2d&hash=32FD0503052AFEBF22BE291CAFFEF435",
+      "latitude": 26.58487,
+      "longitude": -82.00673,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

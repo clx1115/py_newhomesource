@@ -1,0 +1,461 @@
+{
+  "timestamp": "2025-06-01T17:22:19.741967",
+  "name": "Wind Meadows South",
+  "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh",
+  "status": null,
+  "price_from": "$289,490",
+  "address": "3309 Lounging Wren Lane,Bartow, FL 33830",
+  "phone": "(863) 884-4405",
+  "description": "Find a new home in Bartow, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Polk County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389270000-wind-meadows-south-70s/wind-meadows-south-cali--3309-lounging-wren-lane--bartow--fl-33830---01.jpg"
+  ],
+  "location": {
+    "latitude": 27.9357,
+    "longitude": -81.8765,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$289,490 - $341,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Resort Style Amenities",
+      "description": "Resort Style Amenities",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile Flooring",
+      "description": "Ceramic Tile Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/floor-plans/4eab",
+      "details": {
+        "price": "From $308s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4eab/aria_front_exterior_c.jpg?as=1&w=425&rev=bb8152a5692846fd9e36f476fd47ed56&hash=B9370501F9009EDD1EF5461FD57212FC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4eab/aria_nwg_c.jpg?rev=3efd87bb9d26436ea04c9381c783a9e7&hash=16A30E03261C1D1B15516305C179FA38"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/floor-plans/4ebb",
+      "details": {
+        "price": "From $318s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ebb/cali_c_exterior_front.jpg?as=1&w=425&rev=17433cd6dff94243959d6a8a63900863&hash=700E665CDB1CB030264D7C0E2A5EF920"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ebb/cali-nwg_c.jpg?rev=d601546a204446bfab7c0f53e4f969ed&hash=69A36F2227B08C8D060E8BEC27B8E729"
+        }
+      ]
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/floor-plans/e401",
+      "details": {
+        "price": "From $349s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,372 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e401/ensley_ele_h_cropped.jpg?as=1&w=425&rev=5cc3b8b26ba7479199c0b084f187572b&hash=5E7B8E9BCFF754C16D4099E88999810A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e401/ensley_nwg_g_cropped.jpg?rev=8803a8f9536240a18d6104986b9c41e1&hash=7CB0EF36BB47168DD894E97DE4774A4E"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e401/ensley_ele_h_cropped.jpg?rev=5cc3b8b26ba7479199c0b084f187572b&hash=7DAD249CED50BCFEC024C5402D6EA6F9"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/floor-plans/4ehb",
+      "details": {
+        "price": "From $364s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ehb/hayden_front_exterior_g_edit.jpg?as=1&w=425&rev=bd75e93b9e7d47f3a18d7c5dfddfbfbd&hash=DB3D5F68B6FD98A032867FB67BB4A6AB"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ehb/hayden_nwg_g.jpg?rev=bef3a2df38f44353b7aa6a04069b04ed&hash=5CC3AACDAFF9231162BA6E2941BAA6E2"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ehb/hayden_nwg_h.jpg?rev=133ab5ff490346bfbe5e598b49252c8d&hash=FB94F54D609E1553B990AE6ABB9A7EBB"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/floor-plans/e402",
+      "details": {
+        "price": "From $338s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,077 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/_0000_lakeside_ele_h_cs_12_revised.jpg?as=1&w=425&rev=9f892a15a89841708f0ea27eaf66044e&hash=E9D18F67833E4E798B31617684F12627"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/_0000_lakeside_ele_h_cs_12_revised.jpg?rev=9f892a15a89841708f0ea27eaf66044e&hash=2C983B8C71084E8EC8C404C0E13C56A8"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/lakeside_ele_g_cs_8.jpg?as=1&w=494&rev=82082ddeed374fe8b901acfc63ae641e&hash=B797EE8DA9F03FDA88209856C05F7779",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/1_entrance.jpg?as=1&w=494&rev=afd60bffe0ba41bd85e0c0a2753b111e&hash=BC154CE32DE4770A4A3E064619BC921D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/2_hallway.jpg?as=1&w=494&rev=3873655277874550beda4ff9335ece58&hash=26A526DA11CDE399AE3D390F3D4EB612",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/3_dining_room.jpg?as=1&w=494&rev=05664e6bc5d545bab521bc119f14ffd5&hash=9515578810520AA5A1AF87370496EB3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/4_dining_room.jpg?as=1&w=494&rev=aead419a45d64e1e862f1c505c1cc4dc&hash=A13FB2C1B3319AC1BD2CAA9C5600F8D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/5_dining_room.jpg?as=1&w=494&rev=15100268d21e401987ac048b9433da5b&hash=AFE250E7A7F8110F1765C0A12AFDDF88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/6_kitchen.jpg?as=1&w=494&rev=6a0cd781e0ce405387ee36066e499088&hash=1C1206BF0387F8B5F31A8AB1399A2455",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/7_kitchen.jpg?as=1&w=494&rev=9a8c965349e946c38dfbe00b8e1b0659&hash=E1FE6C3D1C12BA0D0805BD867141C41F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/8_kitchen.jpg?as=1&w=494&rev=87c7e1e1ec234b7e98608b0feacb174d&hash=71AC4B2492341134CB3CE737F656804B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/9_kitchen.jpg?as=1&w=494&rev=54544e47ec1f4e1085cc63f095d73724&hash=0EA4FD83ABE5F98BC8DF5B3E069C2AEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/10_kitchen.jpg?as=1&w=494&rev=b79b8467e91b431fb8ec255b199dc10e&hash=9A7AC1C3192D3D171A4520AB0F45FD06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/11_living_room.jpg?as=1&w=494&rev=8e7fbf9ea5c741e8be415272afa3af31&hash=99879B5805813CA5FBEED18AA9649BC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/12_living_room.jpg?as=1&w=494&rev=c1e080267c3740fbbaa7374e78fd34ca&hash=719135A1BC13A2CAFDCBB6754B551170",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/13_living_room.jpg?as=1&w=494&rev=b234e87c16cf460d991d75b3f1c81600&hash=9C2FD991149429CCF06A6E4F12C8C1C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/14_living_room.jpg?as=1&w=494&rev=16d36cc46edb4533a7ffb688530d7f28&hash=261DF8C37651F7F0FF66D7AF225A624C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/15_guest_bedroom.jpg?as=1&w=494&rev=d004b79d95ad4e309169a7298e00f8ac&hash=6F8942BABBE59F534714302A9C10C422",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/16_guest_bedroom.jpg?as=1&w=494&rev=1df04879564142fb8b1e46f2eb383c21&hash=FCB72C3863E0909075AEA14138E2CAAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/17_guest_bathroom.jpg?as=1&w=494&rev=5b9fc228a4ee4f4a8bbb6877f34adfbe&hash=36D12BEAB45C94589E638CA55EC95D5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/18_nursery.jpg?as=1&w=494&rev=f2c3b95ba047470d80a93f4c812fbb7e&hash=E251E241D7290A1330E5F48EA55E26D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/19_nursery.jpg?as=1&w=494&rev=c74506e9ba8f409ba1f5934d37d0ff10&hash=BD1EDFAF751DA4532994F96E51E0DB31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/20_office.jpg?as=1&w=494&rev=b8b063d422414e0cad03fa601b675045&hash=3C0FC42DACFB2F18ED77298D4179F66B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/21_office.jpg?as=1&w=494&rev=40e7214645f3473daf118f78eb46b108&hash=866067FA063DDE2B0295DAED31FC7A38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/22_bathroom.jpg?as=1&w=494&rev=210da0018c174dc38eca6a98f41cfc90&hash=F21ABABBDD8ABD56E5E857192B500315",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/23_office.jpg?as=1&w=494&rev=727c1ba72de040e18bfd14fded9bd35a&hash=2FA00E5B14EBA466CC00C4BF723C9A3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/24_office.jpg?as=1&w=494&rev=b5ff77697f1842a8a1b8313ab9d1cdf0&hash=127D63637438B1BF0AE26889FF8DA2E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/25_laundry.jpg?as=1&w=494&rev=e65f011952f44c6e93865b16e9cc8211&hash=87556E3221CDD0BD84B1CF3F8CEBC754",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/26_primary_bedroom.jpg?as=1&w=494&rev=9939144f92e14fa395059025696019b8&hash=50D62CC7543CD6E603E49303F34BDF76",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/27_primary_bedroom.jpg?as=1&w=494&rev=73cb0986ec6a4a05af37ded159c9a9e2&hash=85F91DAA0BAFA2E77C1DF760C8CD3969",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/28_primary_bedroom.jpg?as=1&w=494&rev=b7bf8e6a455e47cfa5cc34d9ae82099f&hash=56E04FF792D814F78508A30E7180DD9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/29_primary_bedroom.jpg?as=1&w=494&rev=82861f172f7b47f3a1afae8a48a344be&hash=60D106815A4E3D9637F893FFF9A5DC99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/30_bathroom.jpg?as=1&w=494&rev=865092a326784d789af33a6bf9c31273&hash=7330A5E34D4FC74B5E82D5C2A0D4E312",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/31_bathroom.jpg?as=1&w=494&rev=94a27ba2269c467f8e65d20b61110ea1&hash=DE277428A4546D1D0367FC1E3F055063",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/32_bathroom.jpg?as=1&w=494&rev=19c55f89ef674f2596c13247c453ea21&hash=700C396D0B4CDE95F2A5C6D723B004F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/_0001_lakeside_ele_g_cs_8.jpg?rev=f4a2b0fc8b3c4066a17cbadc42e659fb&hash=E0AC57D8CCEF63662C91622C01E090A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/_0002_lakeside_unbranded.jpg?rev=1dd3901ec5a64ee287d7b5fb4c6e08f0&hash=94B336AD89F130FD89D55B398571731E"
+      ],
+      "name": "3900 Diving Dove Lane",
+      "plan": "Lakeside",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/qmis/3900-diving-dove-lane",
+      "id": "3900",
+      "address": "3900 Diving Dove Lane",
+      "price": "$341,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2077",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/e402/0369-3900-diving-dove-lane/lakeside_ele_g_cs_8.jpg?iar=1&sc=1&thn=1&w=425&rev=82082ddeed374fe8b901acfc63ae641e&hash=9D13CBA8B6D8E712F9C7643C3F49231F",
+      "latitude": 27.9357,
+      "longitude": -81.8765,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/cropped_0001_cali-nwg_g.jpg?as=1&w=494&rev=2129cf8298df439a937fb2cc9fb1c1ba&hash=CC26CB4FA2519C57126515AB6E8F983A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/1_master_bedroom.jpg?as=1&w=494&rev=29459abb25fe4a4d9e11430938643908&hash=9E58A2C45927FE87FF892BC9F910E6B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/2_master.jpg?as=1&w=494&rev=1ab324b4c1d04245a376bffb24ba7c1f&hash=CE510A4CA88C069D30FCB0C1CBE47229",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/3_master_bath.jpg?as=1&w=494&rev=869407761ef74ba6ab373c653d032249&hash=B4D05E187FFF74CC5BB5D96E628D9B09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/4_master_bath.jpg?as=1&w=494&rev=75b41a5695664e6abd0c046bd8992c24&hash=7DAA7C92741833EFA35992B1492595A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/4_office.jpg?as=1&w=494&rev=87a6241b874e430ba775c3f23f54278f&hash=5F0118F88C0F0387344C949CDE351E58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/5_office.jpg?as=1&w=494&rev=5ddfb9a5cec84a4aa65d62b63cc68001&hash=667E0AE8449B5B8C129AE594D7264027",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/7_guest_bedroom.jpg?as=1&w=494&rev=563fb331207e497abe03d69167f04b06&hash=36DAF9B00DE28837D90F0DA065915C42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/8_guest_bath.jpg?as=1&w=494&rev=7f77a65e2452492196b98c9e405c0776&hash=0477091EA72A779EAF16EB364850CD84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/10_kids_room.jpg?as=1&w=494&rev=b3656233450d4374807929c2632dff36&hash=7FDECCC807203F1F355D46843BB9FC47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/11_kids_room.jpg?as=1&w=494&rev=a554d3a8003a4ce3814df43147629fe5&hash=4514993391F378B5BCFB4EDEC5CCDAFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/12_kitchen.jpg?as=1&w=494&rev=47ae0a104b6b4ea69ab64802c642499a&hash=507F56FB99AD7CEB89D24033892978CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/13_kitchen.jpg?as=1&w=494&rev=06f22e1c56d74dbab6f44f7fa77badea&hash=3BA0B49AC1CD17ACDDEADFF38E842C86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/14_kitchen.jpg?as=1&w=494&rev=264e43c22467448a84cb590ce69474c1&hash=86B992617E0245B519FA9A14315BF83F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/15_stove.jpg?as=1&w=494&rev=0e63899559134d4aba88b326e5a364c6&hash=9A1CEA58A1E0075AA3AF51DF07CE05EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/17_dining_room.jpg?as=1&w=494&rev=b0cad12179f446fbaf95c27f8894ae04&hash=01B40B1A3E67E746F9F22B38FB30E06A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/18_dining.jpg?as=1&w=494&rev=72a0816b147f4c2bbc3d0372301ee5cc&hash=E4881F9CE494DF55F0719054F0E9F705",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/19_dining.jpg?as=1&w=494&rev=efa97ed806a0451db778daf457c7adb1&hash=699A0ED9F686B03578BF301072BF0AA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/20_dining.jpg?as=1&w=494&rev=f3bd19caf51644bb955cab257b27726b&hash=D3FA92D36D810FA2E6F8A7B48E47938C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/20_living_room.jpg?as=1&w=494&rev=2f6e11591e6a408b97ea39bb39a80b4c&hash=B52EF2361BE5CAF2154F361FE55D49DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/21_living_room.jpg?as=1&w=494&rev=3a6066935a244fde95b4951d6b8fb5e3&hash=3A34CFE01195ABC0DFFF2F3CD405FFE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/21_sink.jpg?as=1&w=494&rev=79dca173837b4f20904b859b42c9b354&hash=089097983FEDE1E0AE000DDC8144D6B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/22_living_room.jpg?as=1&w=494&rev=c362d22056c84ffd8d873cb253593f8d&hash=66B0F36A601C465BDE9F74F3D25F8F78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/22_stove.jpg?as=1&w=494&rev=ca139a519fe74569819e965078547f86&hash=90CAEC9EFAC58ED1E9646032A1153FBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/23_plates.jpg?as=1&w=494&rev=db43a79e75734614ad3af5dbd6e4f230&hash=57DDF21AF17673F9AA6AA4E3EE793EA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/24_bed.jpg?as=1&w=494&rev=e65ffa4ccb304cce8a3f825dcfe4c237&hash=722A715DF54EB0E3D9202211D53C414D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/25_bathroom.jpg?as=1&w=494&rev=fbe195108c84447a9ff47b78aa0cfbf9&hash=17C154EB0B7FE98767FC27E92C2E760B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ebb/cali-nwg_g.jpg?rev=03772e02f0734915b9ec6d7e1febb2d0&hash=5FD697B1C4154C4539BD460C20258C95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-wind-meadows-south/4ebb/cali_floorplan.jpg?rev=1fb8375939bf4db098eb84760c3da957&hash=E52FBFF153AEF1024F88E7246E30EA6D"
+      ],
+      "name": "3904 Diving Dove Lane",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/qmis/3904-diving-dove-lane",
+      "id": "3904",
+      "address": "3904 Diving Dove Lane",
+      "price": "$321,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0368-3904-diving-dove-lane/cropped_0001_cali-nwg_g.jpg?iar=1&sc=1&thn=1&w=425&rev=2129cf8298df439a937fb2cc9fb1c1ba&hash=DA5F88CD6450AE127665942E6A83AAF8",
+      "latitude": 27.9357,
+      "longitude": -81.8765,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/aria_nwg_c_cropped.jpg?as=1&w=494&rev=f28dc22a883b48c894955626a91fa3fd&hash=930DD6396558CDEAC5D0262A9ACF8D62",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/1_entry.jpg?as=1&w=494&rev=50d5d6d77e394779ae42ce6cb19777fb&hash=207DFA8F4D8E0FC07BDAD2E6C1A9A523",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/2_entry.jpg?as=1&w=494&rev=db239da409ca49f3a1ffd4202085e1fc&hash=72F0E9A303EAA215A6370AED21D52741",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/3_entry.jpg?as=1&w=494&rev=43dfb0ed8f4340d098904fa504801522&hash=680E828BE9ACB4736FC29464F574678A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/4_entry.jpg?as=1&w=494&rev=fb53ce8bc49047c4ac55f503b3b77433&hash=FFAF109A3760B78ABD228F66881C3601",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/5_entry.jpg?as=1&w=494&rev=093b8cb22f8046748f6f669b9079dd00&hash=4B808254751388E573735EEFE63FFFFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/6_laundry.jpg?as=1&w=494&rev=267ce2e7e7904d36bf2e361b42eaf014&hash=D90608D37F61592FC07B858F8431DCED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/7_laundry.jpg?as=1&w=494&rev=eafc7f5b477945a5b066341094791fdd&hash=487461A3A38BA61381EE22ECA630BEB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/8_hall.jpg?as=1&w=494&rev=fa017c55d66b450aba9512e94ceef864&hash=C13DB0A267B8F398EA560DFD17FB3528",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/9_kitchen.jpg?as=1&w=494&rev=9093dea51f804c35a791f71f6fd17eca&hash=8C0DA258EAA478F7AE4693BE443D5E7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/10_kitchen.jpg?as=1&w=494&rev=aa27591a4b514a66b026ad2d975bfb36&hash=776176164F61C607EC26A496BE9FC0F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/11_kitchen.jpg?as=1&w=494&rev=8a9ac1ceaa05410482f88ea8b390801d&hash=E1F8449CB1CE374D6A6EE890BFA83F78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/12_kitchen.jpg?as=1&w=494&rev=d59789e58346497e8c6d873a089673f8&hash=ED4D44B153BB98B68D70E16447D6ED54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/13_dining.jpg?as=1&w=494&rev=b044cbf143ef4a038fc88f7b556c0007&hash=3FD7561D8FE003BA5C3FEFF1192DE494",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/14_dining.jpg?as=1&w=494&rev=8418562b93424e8cab029d2310293567&hash=4988E49EBEE6FD5538A12C8908DBE875",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/15_dining.jpg?as=1&w=494&rev=87b9f45ece5c40868088d68d1378771e&hash=DD07FEE8D8FBFAD16E4CC077EC86C27E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/16_dining.jpg?as=1&w=494&rev=033c7f54705e4a2a9d30af6cfd06d952&hash=75F4B9345858736F36075D730F17C520",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/17_dining.jpg?as=1&w=494&rev=31caee1fe4734bebb68df5084bd26ec6&hash=F9B5E807FEACD4C542FCC047AB559EA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/18_living.jpg?as=1&w=494&rev=d661296460db453eabef35713a1ede5c&hash=A5C890266425761425A758FAA8337BC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/19_living.jpg?as=1&w=494&rev=99854eab118643e3852976ad9ef227fb&hash=6E412C4ED591FBF30A9610E7F4F20706",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/20_living.jpg?as=1&w=494&rev=6004adaab96c4bf595086c0762abf310&hash=4446E54E12220F1173486B0AFAA58351",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/21_living.jpg?as=1&w=494&rev=991b26d598ac4f97b105e785ce598d7e&hash=A54E2FDD814B7B56D542683D3A01D9E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/22_primary.jpg?as=1&w=494&rev=6054f2199c2643698aad7fa48d926202&hash=36FC2D086498ECCBBB9606D8729A8DC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/23_primary.jpg?as=1&w=494&rev=345c6f39f858466082c44c00118a6059&hash=F98007620883B912EA9D9BD053E32237",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/24_primary.jpg?as=1&w=494&rev=48871b8eef964813804ca6bc3d269f7b&hash=D53F96C67B2CD5ADDEE66D2B1E7A1E8A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/25_primary.jpg?as=1&w=494&rev=fc751e02587047e5b1c7943bbe546441&hash=3335A1F1ACA17BEEF4AE0D238528D80D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/26_primary_bathroom.jpg?as=1&w=494&rev=3339f6d2f1774646a5b320b72415bd13&hash=32B1B4263DFF1963639A6986ECF534CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/27_primary_bathroom.jpg?as=1&w=494&rev=793ab2fcc2104c078db19d739176686f&hash=B6479B9274C5062A58D1F60A3B2881EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/28_primary_bathroom.jpg?as=1&w=494&rev=2ea6ce2ecc43499bab3e69d6a9d52184&hash=17FB36B58ADCE28B4EE4198540E5A7B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/29_primary_bathroom.jpg?as=1&w=494&rev=ed8d60196de4428b9349c8864b7ed3d3&hash=94C07E559430B0228D677F8196EDD44C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/30_guest_bedroom.jpg?as=1&w=494&rev=f368475d7559419cb373474afaf7128f&hash=79DD08D8BA3728A2ABE5CB9D3CA50E26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/31_guest_bedroom.jpg?as=1&w=494&rev=168d95de86854884bd3d4803a4635b6a&hash=8D33FBE61FBCF5A78DD5E7BEE2334473",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/32_guest_bedroom.jpg?as=1&w=494&rev=c42ee6bd5ad34fa5949cf4b20646b6c6&hash=0858D6F74486CEB83B7AE46CEEC34B31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/33_guest_bedroom2.jpg?as=1&w=494&rev=5bbb41d893bb4609b4dfd390ddf33623&hash=93EA7EA70B25E9E757AEEB00F1C0BD5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/34_guest_bedroom2.jpg?as=1&w=494&rev=16484b79cdcb4697995f81106846ab4b&hash=99D6E1BABCD6119FB9B95C3AF9E15046",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/35_guest_bathroom.jpg?as=1&w=494&rev=a6ba5d1c87ae4a89baa55ce207135319&hash=E36B67C5BC3DFAFE4F97B2D693F3F195",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/36_patio.jpg?as=1&w=494&rev=330bb10a78cf49eab333505e31d1f370&hash=98F4D7A27FE2C66C7902BE5F09D3EB1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/37_patio.jpg?as=1&w=494&rev=e7ff9368d0524b01bbaff1b1f4a44b1c&hash=801588618DD9E745EA51F07639566899",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4eab/aria_nwg_c.jpg?rev=3efd87bb9d26436ea04c9381c783a9e7&hash=16A30E03261C1D1B15516305C179FA38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-wind-meadows-south/4eab/aria_floorplan.jpg?rev=a67cef3c8d0046b49920a4b9071fc58f&hash=198A25CCB5FB49249AFCE5C88BA20779"
+      ],
+      "name": "3909 Diving Dove Lane",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/qmis/3909-diving-dove-lane",
+      "id": "3909",
+      "address": "3909 Diving Dove Lane",
+      "price": "$296,490",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0284-3909-diving-dove-lane/aria_nwg_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f28dc22a883b48c894955626a91fa3fd&hash=F839F92FE32CE8470F1E0171E3CD66F3",
+      "latitude": 27.9357,
+      "longitude": -81.8765,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/cropped_0003_cali-nwg_c.jpg?as=1&w=494&rev=076fad57ed984432826252c2cfc91db8&hash=2BD8499168FDA34874DD9778405874E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/1_master_bedroom.jpg?as=1&w=494&rev=c276f2c4384b48988ce026879980ed28&hash=C635E941E347186CC98FFCC2BBD4688C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/2_master.jpg?as=1&w=494&rev=c01f15c2c9854d6e9e550aa7091c5d2c&hash=C9D8B36C70E355922CF4B9D75BEDF7E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/3_master_bath.jpg?as=1&w=494&rev=5f17da0c48264b6c91e5eb80a41cbb41&hash=B99D2892F2E749DB910694AD1E99E426",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/4_master_bath.jpg?as=1&w=494&rev=cad6d6c993d0494689ed3f787a744b70&hash=405F072D760007A31BAB19685B115F99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/4_office.jpg?as=1&w=494&rev=de32ece0681d45359287fcce776a030f&hash=BD57DBAEEF733D76FFCEED4C5240CF47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/5_office.jpg?as=1&w=494&rev=5b5f0918ba694c7d8e79274e8249c1b2&hash=686240B2550E7EDC9841FDABF67E2E5F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/7_guest_bedroom.jpg?as=1&w=494&rev=629bc63bc24f426ea24dfc8c424c2746&hash=2153FEE060DB1AA9E7BE105235ED53A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/8_guest_bath.jpg?as=1&w=494&rev=7dea7574460c43fabce5c129a5e29a97&hash=07F468CE11841C9946607EE066948985",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/10_kids_room.jpg?as=1&w=494&rev=c8aa9c48c56a4be4abb683eb0b1cc145&hash=C07EE2988568A0C5D5D2F02920E5A566",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/11_kids_room.jpg?as=1&w=494&rev=d720f9562bb04a95858e7d64b8911403&hash=F92E18F9B5191127C751864216F73123",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/12_kitchen.jpg?as=1&w=494&rev=7f3ecc9d3d474407a841ec321c435823&hash=30456C05542CBF5FF9DB5B71FF95F18D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/13_kitchen.jpg?as=1&w=494&rev=3c3510ffd46d4a858b0f3d04efe87baf&hash=5C8421DFD27A165CE88513B6A741D9E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/14_kitchen.jpg?as=1&w=494&rev=970dc983d9214977918819e5243acdc1&hash=E74DCC053335D9658F3EAA6A3FFAD9D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/15_stove.jpg?as=1&w=494&rev=fa9753ce8735435cac50df9f762df06b&hash=636DA9F83F35AEB2F2916478B36AAEFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/17_dining_room.jpg?as=1&w=494&rev=2f9746de94aa4d339a05af370359d600&hash=8EDE355414B1EDFC05C16B4583FF07E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/18_dining.jpg?as=1&w=494&rev=05520537615b497bbb12a031357eac79&hash=2AAF600E7BA734B7DA191FA4933FCC00",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/19_dining.jpg?as=1&w=494&rev=a077adea88644787b66c8f471a512917&hash=F15747BF1DE8DD96661C5C7FB04062D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/20_dining.jpg?as=1&w=494&rev=179316449599430bab26e7a14fa8c382&hash=E22659D97ABCCC7FD32F966555A49C8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/20_living_room.jpg?as=1&w=494&rev=52dd9943afb44fa88131ee19cf447f3f&hash=1BD776F7FEA941960F3D2C2648FC50A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/21_living_room.jpg?as=1&w=494&rev=e32b22da99fa4bfb94811a84c96ba13a&hash=9609DAEDF4A5DABA948C1925A9C4845E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/21_sink.jpg?as=1&w=494&rev=0555d54c1b644fcf95f835d2c1243f08&hash=ECC5897245FEB036D1464077C23909A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/22_living_room.jpg?as=1&w=494&rev=3d665695b4eb4062b51bd9ce46440931&hash=F1BAE5D1AAFE6164D4395BE2DE2F6CE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/22_stove.jpg?as=1&w=494&rev=20ce91047d684671836bcbdf7d950076&hash=3776CD18F67E7ED5BE833CECD7E84BEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/23_plates.jpg?as=1&w=494&rev=ec7f39374651491e82fe9e8fee6a909a&hash=816996521CFE81A3FE1B2BA80198D3E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/24_bed.jpg?as=1&w=494&rev=6bb303c2111349a088a1a4b75cf19c6e&hash=D1E331FFAE1AFD95FE3826026F967823",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/25_bathroom.jpg?as=1&w=494&rev=6fe91281198d4b5d97a8eec1f4823280&hash=8928345F298CBEF831FEE90AE6F79EA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4ebb/cali-nwg_c.jpg?rev=d601546a204446bfab7c0f53e4f969ed&hash=69A36F2227B08C8D060E8BEC27B8E729",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-wind-meadows-south/4ebb/cali_floorplan.jpg?rev=1fb8375939bf4db098eb84760c3da957&hash=E52FBFF153AEF1024F88E7246E30EA6D"
+      ],
+      "name": "3916 Diving Dove Lane",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/qmis/3916-diving-dove-lane",
+      "id": "3916",
+      "address": "3916 Diving Dove Lane",
+      "price": "$304,490",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4ebb/0365-3916-diving-dove-lane/cropped_0003_cali-nwg_c.jpg?iar=1&sc=1&thn=1&w=425&rev=076fad57ed984432826252c2cfc91db8&hash=610B9A51B3D34DF28BB982BB5E516714",
+      "latitude": 27.9357,
+      "longitude": -81.8765,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/aria_nwg_g_cropped.jpg?as=1&w=494&rev=ce8da762816d4167b72407b828419944&hash=CBA74C1A99DEADACF00B6490170ABAF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/1_entry.jpg?as=1&w=494&rev=810e44e487b844a880fd9ea67401f111&hash=5A4432CB326FA071ACBB6671B0E36555",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/2_entry.jpg?as=1&w=494&rev=be8fb33156d14a06ab4f444013066f7f&hash=29F843E59951490AA9520FEEF5CE26C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/3_entry.jpg?as=1&w=494&rev=e0b4df6f1ce3436287f3c305827a3475&hash=2C9390352624E169C5B4D62F7B925C30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/4_entry.jpg?as=1&w=494&rev=d9c2d7dcd45545cd93a7a081723fd319&hash=2574BEB75EC9CFB75DF6AE6681A2BD34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/5_entry.jpg?as=1&w=494&rev=ab017a35eec24c96bceab07491a77639&hash=B55D7E956DBA655B08DFCB2D35340B38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/6_laundry.jpg?as=1&w=494&rev=ff58f929b2f94695851857107c5e13f8&hash=DD5396F6417081FF94C93C90D85642E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/7_laundry.jpg?as=1&w=494&rev=792cbeeb69194271871aadc4977bf6ac&hash=0AD001C55EA15221770A0E02453CDCF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/8_hall.jpg?as=1&w=494&rev=e133a8ba5ea44444b9c1aba8d9f2783e&hash=C0B854773ACDD75AE48AB7B99B18CBF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/9_kitchen.jpg?as=1&w=494&rev=815a04c74fd9415a9b19ac64dce3e660&hash=71E0A92FA15DFBD71FF3F18919840456",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/10_kitchen.jpg?as=1&w=494&rev=f4b8b3c7452f438a9a63567e1ccc3d93&hash=5E3E806F71C520F39B84659B44781ADA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/11_kitchen.jpg?as=1&w=494&rev=0c7e1b1b36f44a69a1af86227cb86a86&hash=300A0BE20384D4B7D9431FD0E294E5F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/12_kitchen.jpg?as=1&w=494&rev=235e77ecc2bc4c6cb4a0ec28a98f4ce3&hash=F8D82472C6589D2011D7545EA563101A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/13_dining.jpg?as=1&w=494&rev=97bc7cbc2bd442c091760286c9cb0a51&hash=63FF8DF99062F05ACB32A314B9DF0398",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/14_dining.jpg?as=1&w=494&rev=68297a4b1df848aaaac1793b10177193&hash=2A6530F11DED411009539AB47873A448",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/15_dining.jpg?as=1&w=494&rev=62bc45488b054178a3a4779b41b87ac3&hash=A5AF8F6630031F5591CEB4CC0958BA38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/16_dining.jpg?as=1&w=494&rev=c164050c65f940628651de1dce6fe507&hash=A7CE3311FC1D4A72293D3D05C4E62C53",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/17_dining.jpg?as=1&w=494&rev=27b61a0d819547339a6a1954fed1a78e&hash=F1E57190F55F0DB1D2E1231196AC6CDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/18_living.jpg?as=1&w=494&rev=cc992b647b30486299b9d26f5c077304&hash=0AD0E538E2E9D64E4CFBB6BB4DD9F981",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/19_living.jpg?as=1&w=494&rev=f93ee5ea371f40c4adebe18bd28c1c52&hash=758C93507B861C4AF59DBB4CEF4B13A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/20_living.jpg?as=1&w=494&rev=9a3e4aad729c45e9b9c8c8e464336221&hash=C8C94BA7D3AF933D92A33CC8A5D045D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/21_living.jpg?as=1&w=494&rev=4cd290c38d2443f6bd6c920ff0c53b2f&hash=1D27456ED99867210FD277809B57B096",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/22_primary.jpg?as=1&w=494&rev=fb62034b799e417bade53b8dce9ab039&hash=8FFB8235006AB9C3797BC0B4C51052CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/23_primary.jpg?as=1&w=494&rev=9944d6e9ce314a1ca3a64347f451f897&hash=C394B91CAE4DD204174DA2D32BC313EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/24_primary.jpg?as=1&w=494&rev=4980f905c64c4d95b6a9b686757f151d&hash=7E4A780B460B919541ADCFC032FC3486",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/25_primary.jpg?as=1&w=494&rev=013ce463917b40b896fe3321d8081609&hash=0EFC3E86BC26377031DA94422F5BB124",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/26_primary_bathroom.jpg?as=1&w=494&rev=fbd74b07e9ef4590bf558a2bbcdd8e3a&hash=683DE82B51C4FBEF000FB97A2135B62E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/27_primary_bathroom.jpg?as=1&w=494&rev=47c616c37d7c4dfe834064c6746f9ac1&hash=6F951406B742E437C97F2FCA950A2FA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/28_primary_bathroom.jpg?as=1&w=494&rev=2a908aff629c4da0869d341049841cd3&hash=6D3A4F4FC9E37FC9A2638831734E1CB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/29_primary_bathroom.jpg?as=1&w=494&rev=dc4dd6a8fda14d75b6d59856ead36c1c&hash=BD1E2B35B469781B1950A9D9BA3B6013",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/30_guest_bedroom.jpg?as=1&w=494&rev=0ee1851b6c654ba5af8cfb92adf8ce44&hash=FD8D8EC78E40F7F423B70EE3CAA668E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/31_guest_bedroom.jpg?as=1&w=494&rev=4134badaacd3412aa27a5a0931958c5b&hash=58A816D38A6E7A2B808A0D143F0DF839",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/32_guest_bedroom.jpg?as=1&w=494&rev=8037f2249ec847e883227ae90eba2759&hash=0D9FA635ACE9BF46B7AB818BB05B533F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/33_guest_bedroom2.jpg?as=1&w=494&rev=793d29a128f74e1f9f63e02daa50a2d4&hash=8D6EE384A67C8902D014A2F07F7DF004",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/34_guest_bedroom2.jpg?as=1&w=494&rev=466db68792cc4e1eb9b32068a9f865eb&hash=AA34C34A0C90A944ABC5D2479CAE87D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/35_guest_bathroom.jpg?as=1&w=494&rev=6758f63b21c343d58f92760d087513f2&hash=6BA1880B7BB5223B147A950D70A5AF3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/36_patio.jpg?as=1&w=494&rev=be8cb6f0b35e4d9bb949fd2a4c64de27&hash=528E4EA17A3956239ADDA6D10F8F50F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/37_patio.jpg?as=1&w=494&rev=59e72c40f85d4f8a9ceae6ece2ed718b&hash=07DE82E549E8DD9ABEACD8BA7E10E9C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-winds-meadows-south-50s/4eab/aria_nwg_g.jpg?rev=9c26bbb64521437e9de2efd7882c4ea1&hash=5E54FFC28E289CD52F4A92FE7A6DB61D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-orlando-west-city/38926-wind-meadows-south/389260000-wind-meadows-south/4eab/aria_floorplan.jpg?rev=a67cef3c8d0046b49920a4b9071fc58f&hash=198A25CCB5FB49249AFCE5C88BA20779"
+      ],
+      "name": "3920 Diving Dove Lane",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/bartow/wind-meadows-south-drh/qmis/3920-diving-dove-lane",
+      "id": "3920",
+      "address": "3920 Diving Dove Lane",
+      "price": "$289,490",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38927-wind-meadows-south-50s/389260000-wind-meadows-south-50s/4eab/0364-3920-diving-dove-lane/aria_nwg_g_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=ce8da762816d4167b72407b828419944&hash=92F724BFFC89FCC018A8B1C862FB146F",
+      "latitude": 27.9357,
+      "longitude": -81.8765,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Spessard L. Holland Elementary School",
+          "type_and_grades": "K-5th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Bartow Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Bartow Senior High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

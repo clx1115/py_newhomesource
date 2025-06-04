@@ -1,0 +1,346 @@
+{
+  "timestamp": "2025-06-02T04:06:19.861149",
+  "name": "Central Parc",
+  "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc",
+  "status": null,
+  "price_from": "$269,990",
+  "address": "5107 Schubert Trail,North Port, FL 34287",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in North Port, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/l1_southwest-florida_central-parc_cali_exterior_2.jpg"
+  ],
+  "location": {
+    "latitude": 27.04291,
+    "longitude": -82.22543,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$269,990 - $334,999",
+    "sqft_range": "From 1,503 Sq. Ft.",
+    "bed_range": "2 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    },
+    {
+      "name": "Tennis",
+      "description": "Tennis",
+      "icon_url": null
+    },
+    {
+      "name": "Resort",
+      "description": "Resort-Style Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness Center",
+      "description": "Fitness Center",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/floor-plans/4eab",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/aria-c-shingle_transom_6over6_web.jpg?as=1&w=425&rev=4e55778368cb41bb9885f61dd668ff24&hash=E995F5A756B1C02A1369A6991AADB5FB"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-central-parc/579880000-central-parc-50s/4eab/1672_-_aria_cd_web.jpg?rev=5e30ec7ef3a64e5099a69d1cd36fc627&hash=BF485C5CA2D191FB68206DDA2B6A38D4"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/floor-plans/4ebb",
+      "details": {
+        "price": "From $315s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/l1_southwest-florida_central-parc_cali_exterior_2.jpg?as=1&w=425&rev=362b83f56db5407b8c3e6ac387941cf3&hash=C83A9DB6B786BC1492A7E49708A777C1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-central-parc/579880000-central-parc-50s/4ebb/1828__-_cali_cd_web.jpg?rev=cbd4bcbbe0ae4be9bdac51514f750958&hash=C7827F395B4B525CE61EEB45A8D664C6"
+        }
+      ]
+    },
+    {
+      "name": "Carrington",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/floor-plans/1498",
+      "details": {
+        "price": "From $270s",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,503 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/02.jpg?as=1&w=425&rev=740701ecccbd4ed4a096418310d1511d&hash=E8AD3BA2DE8C807B6D501FA7231FC920"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/1498_villa_brochure_no_opt_web.jpg?rev=9934e12df39348eb9f0c4da1910d6bd7&hash=9D3D8BFB9FD64FE34B98F30F28A73777"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/floor-plans/2077",
+      "details": {
+        "price": "From $330s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,078 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-central-parc/579880000-central-parc-50s/2077/2077_lakeside_ele_a_revised_web.jpg?as=1&w=425&rev=e81bcfb8180a464b8c230f5820a7e1de&hash=4237AB4370F484EDC4B4D3F9B3126874"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-central-parc/579880000-central-parc-50s/2077/2077_lakeside_floor_plan_web.jpg?rev=e0550f7fac65495fb139adb6e8883eb6&hash=6E8B890FA26830F3875683EFF2806A52"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0018-4911-schubert-trl/02.jpg?as=1&w=1280&rev=3573325a18074f9ba63f88d5cd66ca3a&hash=718333252C36A206EF9FBEAD0003B21B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/1498_villa_brochure_no_opt_web.jpg?as=1&w=1280&rev=9934e12df39348eb9f0c4da1910d6bd7&hash=47F94AFB7B2D3BF9EA5E81EDEDB5254F"
+      ],
+      "name": "4911 SCHUBERT TRL",
+      "plan": "Carrington",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/4911-schubert-trl",
+      "id": "4911",
+      "address": "4911 SCHUBERT TRL",
+      "price": "$278,999",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1498",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0018-4911-schubert-trl/02.jpg?iar=1&sc=1&thn=1&w=425&rev=3573325a18074f9ba63f88d5cd66ca3a&hash=77DD6F85ABF65F19C0FE89D1DFC80FD8",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0029-4960-tuscola-blvd/aria-c-shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=0d722f15b4d948f2b9f261664beefc45&hash=083D9AF62DBF4A475EF0B92B90FB04D2"
+      ],
+      "name": "4960 TUSCOLA BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/4960-tuscola-blvd",
+      "id": "4960",
+      "address": "4960 TUSCOLA BLVD",
+      "price": "$311,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0029-4960-tuscola-blvd/aria-c-shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=0d722f15b4d948f2b9f261664beefc45&hash=083D9AF62DBF4A475EF0B92B90FB04D2",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/2077/0007-4967-tuscola-blvd/2077_lakeside_ele_a_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=c5f04726105944e196e3bc091e5cd311&hash=F88CECD426CA9AA6782A2C0FEB93D4C5"
+      ],
+      "name": "4967 TUSCOLA BLVD",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/4967-tuscola-blvd",
+      "id": "4967",
+      "address": "4967 TUSCOLA BLVD",
+      "price": "$329,999",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2078",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/2077/0007-4967-tuscola-blvd/2077_lakeside_ele_a_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=c5f04726105944e196e3bc091e5cd311&hash=F88CECD426CA9AA6782A2C0FEB93D4C5",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/carrington-duplexweb16.jpg?as=1&w=494&rev=45bb446e2070489a8ac3066e25d910b6&hash=21B5FE83F4D7B1A8615E7AFF39106C94",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/03.jpg?as=1&w=494&rev=599af7da01dc4d0fb24a0471aa42b6ce&hash=1D4BC9882641EDEB7226FC5063F51880",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/04.jpg?as=1&w=494&rev=b60112f5b52148818f66a3002cf05705&hash=9A044671A2A3C5A7D25BEBD3A3DEECE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/05.jpg?as=1&w=494&rev=a9250d25ec9d4547b603abe94dd449c3&hash=6B9F0F001F332BF8AD2F3BBB0B1A04F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/06.jpg?as=1&w=494&rev=324b6a8b45a84accaa4e8b7cae4aceaf&hash=D7E0E2F37088203B6ECF23CE72DC93F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/07.jpg?as=1&w=494&rev=81d77e955389453b8e441e06fc7be402&hash=44EA7C50EE746A8721236359CFB998A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/08.jpg?as=1&w=494&rev=2800a795cb4144c4b5671183a5df9d87&hash=0951BF2806F46355B61810AD6178690B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/09.jpg?as=1&w=494&rev=a92fd033a9844acea6defac603a65c6d&hash=2318BEBAECD499788EFD455499FF7552",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/10.jpg?as=1&w=494&rev=88001286b745426281c2683089acadc5&hash=81A7627485F0F5C07759821333FCF139",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/11.jpg?as=1&w=494&rev=0814c032a892482080e9285084bd861c&hash=0D16554C55337725F6BDA00D17D3E360",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/12.jpg?as=1&w=494&rev=d3f7597d83004de7ae8936df71352419&hash=4830C84BB2A2C8EEC84405E11A9E3BB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/13.jpg?as=1&w=494&rev=c01faef298584dcb94212460c9b71af6&hash=4A34D1169CF5F4CA2E53E5F65780A8F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/14.jpg?as=1&w=494&rev=315408b2f5f54cedafd595173a5e55df&hash=81B8819595980D8E9B11005F36EED9BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/15.jpg?as=1&w=494&rev=45704ff1e7f64b73a92d30bc17aacbb6&hash=D60D22D7E553192C2F834DA9E156C03B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/1498_villa_brochure_no_opt_web.jpg?rev=9934e12df39348eb9f0c4da1910d6bd7&hash=9D3D8BFB9FD64FE34B98F30F28A73777"
+      ],
+      "name": "5020 SCHUBERT TRL",
+      "plan": "Carrington",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/5020-schubert-trl",
+      "id": "5020",
+      "address": "5020 SCHUBERT TRL",
+      "price": "$273,999",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1498",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0061-5020-schubert-trl/carrington-duplexweb16.jpg?iar=1&sc=1&thn=1&w=425&rev=45bb446e2070489a8ac3066e25d910b6&hash=8FFABC1AA8F1CB72293422309D049898",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0060-5028-schubert-trl/carrington-duplexweb16.jpg?iar=1&sc=1&thn=1&w=425&rev=27b27b79de484e3796ce8e9c5d3d6322&hash=6F1FC5869557232FCF5DC09F4868A008"
+      ],
+      "name": "5028 SCHUBERT TRL",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/5028-schubert-trl",
+      "id": "5028",
+      "address": "5028 SCHUBERT TRL",
+      "price": "$273,999",
+      "beds": "2",
+      "baths": "2",
+      "sqft": "1498",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579870000-central-parc-tvs/1498/0060-5028-schubert-trl/carrington-duplexweb16.jpg?iar=1&sc=1&thn=1&w=425&rev=27b27b79de484e3796ce8e9c5d3d6322&hash=6F1FC5869557232FCF5DC09F4868A008",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/2077/0027-5096-schubert-trl/2077_lakeside_ele_b_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf0eb6e15b94c4c8677abfde6303f56&hash=88C7A417C90240DA996FE3B28A2DCB9D"
+      ],
+      "name": "5096 SCHUBERT TRL",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/5096-schubert-trl",
+      "id": "5096",
+      "address": "5096 SCHUBERT TRL",
+      "price": "$334,999",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2078",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/2077/0027-5096-schubert-trl/2077_lakeside_ele_b_revised_web.jpg?iar=1&sc=1&thn=1&w=425&rev=ebf0eb6e15b94c4c8677abfde6303f56&hash=88C7A417C90240DA996FE3B28A2DCB9D",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/aria-c-shingle_transom_6over6_web.jpg?as=1&w=494&rev=069fb72b20bb40d18548c938d098dbfc&hash=37385A1BCDB1EBD49541EE8EDA8A22EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/bath_main_16x9.jpg?as=1&w=494&rev=aca88c73fe71439fa2b9ce0e710dc5fb&hash=9BB610292454E9CC4CE312F61D2ECA24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/bedroom_main_curtains_16x9.jpg?as=1&w=494&rev=6b0c35666dac492bbcd993bbfa54b1d9&hash=B05EE81BADD43403F2AE0D31602E2FD5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/bedroom2_curtains_16x9.jpg?as=1&w=494&rev=8127b6f1087d4628a2265ace1361a77b&hash=8B8AB183844F190735CAC26A707706E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/bedroom3_curtains_16x9.jpg?as=1&w=494&rev=3c9b95893556462ea023f031d6d9d851&hash=5F5FA967AEAE0EE31B69B1373968BF3A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/kitchen1_hamptons_16x9.jpg?as=1&w=494&rev=bad72a87bccd4b3880d5f4ff9a0ae566&hash=629186D335E8AFD049A5B40AB8E3E74C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/living1_hamptons_16x9.jpg?as=1&w=494&rev=088602fac990486b81eacf5164199a34&hash=882FBDC9D5A0F82DC1D7134D6E718205",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/living2_hamptons_curtains_16x9.jpg?as=1&w=494&rev=2df892a64817456cbcaf102876c9fa50&hash=3797ED7791270D652A1A56657A69385C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/living3_hamptons_curtains_16x9.jpg?as=1&w=494&rev=0ca30a3c1c5043be8b66900f914c1817&hash=1A5FBD08FF0FF6850F8CAE2C9C2AAD7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-central-parc/579880000-central-parc-50s/4eab/1672_-_aria_cd_web.jpg?rev=5e30ec7ef3a64e5099a69d1cd36fc627&hash=BF485C5CA2D191FB68206DDA2B6A38D4"
+      ],
+      "name": "5119 SCHUBERT TRL",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/5119-schubert-trl",
+      "id": "5119",
+      "address": "5119 SCHUBERT TRL",
+      "price": "$299,999",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4eab/0011-5119-schubert-trl/aria-c-shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=069fb72b20bb40d18548c938d098dbfc&hash=FAD356C0C4B23CF36D5485D3A4FB379A",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/cali-c_shingle_transom_6over6_web.jpg?as=1&w=494&rev=97958daefc374954a7720d21c38d2b02&hash=8D6017B7FA1E59ED84A7C44EA587D13C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/03_cali_central_parc.jpg?as=1&w=494&rev=bca11db4dd3f4882b2174ece8ec3d6bd&hash=457FF72276E5EE582D0AA54615AE9F1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/04_cali_central_parc.jpg?as=1&w=494&rev=c425dce70dc94fbd9bd5fe2486dc15b9&hash=97157FEF3CE2CCCCF5D2BB4CD5FDD1F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/05_cali_central_parc.jpg?as=1&w=494&rev=16e10eec6e8b43488ef8c0cba339ecc6&hash=3629034D63E114F50A14B5DF2E9818D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/06_cali_central_parc.jpg?as=1&w=494&rev=8df642a708494db2988bc88cee8708de&hash=FBED2A03E05AA79913FB8722DC0B326E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/07_cali_central_parc.jpg?as=1&w=494&rev=0107db1a4b1447a8b5249fa25a8f9cef&hash=29CCB4D7180A7AEEC9744F1AB76D440B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/08_cali_central_parc.jpg?as=1&w=494&rev=b0a562578c7145e78d929fce5fd2ba9f&hash=332B2C987DE0D5F148ED3D090193BA33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/09_cali_central_parc.jpg?as=1&w=494&rev=6bd5c1d99c87473e9a65015c3d713259&hash=1E6FCF64F80B02E99A74A17EE51017E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/10_cali_central_parc.jpg?as=1&w=494&rev=8ea67e1ea07145618cd6985c892ce6ec&hash=EC017CBBB3888BA191A2EF34AEBB0EF3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/11_cali_central_parc.jpg?as=1&w=494&rev=31831868eee8426cb04fbd6a3acedf59&hash=2633306087633052907E723FB220C437",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/12_cali_central_parc.jpg?as=1&w=494&rev=66dfd4ab73c449849e5a9dfb9d7fd054&hash=DA1DC6CA89EB04B65304A3E4055AA03C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/13_cali_central_parc.jpg?as=1&w=494&rev=3daf443afe404b4686221590cdd042fc&hash=2D1F7957EAC9AA2132027978E24F40F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/14_cali_central_parc.jpg?as=1&w=494&rev=27d1667a9dd74dc48c56e0daf591cb1e&hash=A1636EC7F9833B2986FF77BE014C9D22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/16_cali_central_parc.jpg?as=1&w=494&rev=3d2c4b69f97742db8559a64ccb89975c&hash=AE16B27D106C48A75514F03CF2E1993D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57987-central-parc/579880000-central-parc-50s/4ebb/1828__-_cali_cd_web.jpg?rev=cbd4bcbbe0ae4be9bdac51514f750958&hash=C7827F395B4B525CE61EEB45A8D664C6"
+      ],
+      "name": "5131 SCHUBERT TRL",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-port/central-parc/qmis/5131-schubert-trl",
+      "id": "5131",
+      "address": "5131 SCHUBERT TRL",
+      "price": "$309,999",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57988-central-parc/579880000-central-parc-50s/4ebb/0012-5131-schubert-trl/cali-c_shingle_transom_6over6_web.jpg?iar=1&sc=1&thn=1&w=425&rev=97958daefc374954a7720d21c38d2b02&hash=82E1B7478CC06A8CE8A1F5A11CB71ED9",
+      "latitude": 27.04291,
+      "longitude": -82.22543,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

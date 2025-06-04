@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-03T11:49:53.590725",
+  "timestamp": "2025-05-30T03:32:22.592438",
   "name": "Southgate",
   "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate",
   "status": null,
@@ -20,9 +20,9 @@
     }
   },
   "details": {
-    "price_range": "$206,900 - $265,900",
+    "price_range": "$206,900 - $269,900",
     "sqft_range": "From 1,204 Sq. Ft.",
-    "bed_range": "4",
+    "bed_range": "3 - 4",
     "bath_range": "2",
     "stories_range": "1",
     "community_count": 1
@@ -248,7 +248,7 @@
       "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/qmis/185-wynn-ct",
       "id": "185",
       "address": "185 WYNN CT",
-      "price": "$265,900",
+      "price": "$269,900",
       "beds": "4",
       "baths": "2",
       "sqft": "1799",

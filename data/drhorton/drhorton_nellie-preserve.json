@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-06-03T18:44:36.148273",
+  "name": "Nellie Preserve",
+  "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/nellie-preserve",
+  "status": null,
+  "price_from": "$515,900",
+  "address": "14 Nellie Preserve Lane,Santa Rosa Beach, FL 32459",
+  "phone": "(850) 809-0117",
+  "description": "Find a new home in Santa Rosa Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/14_nellie_rhett_1.jpg"
+  ],
+  "location": {
+    "latitude": 30.40202,
+    "longitude": -86.21184,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$515,900 - $603,750",
+    "sqft_range": "From 1,799 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Alabaster",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/nellie-preserve/floor-plans/alab",
+      "details": {
+        "price": "From $544s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,245 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/alab/alabaster_0000s_0045_dsc09689.jpg?as=1&w=425&rev=302bf07f43394d3e986acdf48e8ea91a&hash=7DC9FF937526BFAC68CC7FCBBDC26811"
+      }
+    },
+    {
+      "name": "Carol",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/nellie-preserve/floor-plans/caro",
+      "details": {
+        "price": "From $592s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,550 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/carol_exterior.jpg?as=1&w=425&rev=19de4cf327ce410db96619bcd4b8dc6d&hash=106F76C9D083A779F31014380427B9EB"
+      }
+    },
+    {
+      "name": "Rhett",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/nellie-preserve/floor-plans/rhet",
+      "details": {
+        "price": "From $516s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/rhet/web_45_nellie_0000s_0003_45_nellie_exterior_01.jpg?as=1&w=425&rev=39f119b452704586975ee879eae4d8ed&hash=7F1C2E5DCC636F69207DF7BD7972DD8C"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/85_nellie_preserve_lane.jpg?as=1&w=494&rev=fbac70345fdb44be818c828031ac750e&hash=42574F912D27D2447C2B78064787E3ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_01_entry.jpg?as=1&w=494&rev=f9f8df163fec4fb8920c448310b49a96&hash=8A0DA0B64D2BE55CE90F6C7EBB0D8E2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_02_foyer_study.jpg?as=1&w=494&rev=76a554fb59c64937a5404070a060b25b&hash=3FC67820E2D16C235A9DD5D051982207",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_03_study.jpg?as=1&w=494&rev=5df284a0a0544b5b9ec7abd3aa7f3581&hash=353AAC26AF59E9F85D70A9230FD57D90",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_04_study_to_foyer.jpg?as=1&w=494&rev=3d7ec5d81b594731a4675010622c7443&hash=EBCE5421F1761AE7593EF9B4410E06E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_05_kitchen.jpg?as=1&w=494&rev=2c7e8be9f5744b64b1bc44e777b1a9d3&hash=8E09D966A9728FD8A451719DA7EAEB17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_06_kitchen.jpg?as=1&w=494&rev=065663cd20d74a7e990e8ecd349e5ab2&hash=57EF9F7C2E08F5FEDB533FB830B85334",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_07_kitchen.jpg?as=1&w=494&rev=fff1f9db7aaf489e8d23e6e2be44a8f8&hash=E5F7B6D7E2EBDB58A4B8FB0A0D3B0695",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_08_livingarea.jpg?as=1&w=494&rev=6b586aa9dcd040f886cdf512edf21857&hash=3306FED570F96EF0D8114AF090CAAC34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_09_kitchen_pantry.jpg?as=1&w=494&rev=1dd6c110637c4077bd3aebfee58a3f61&hash=03C99BF8FAEE28D382576716391E1ABE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_10_kitchen_island.jpg?as=1&w=494&rev=6c65182533a34df6a8f398c509027e20&hash=EF18DD388FCD1C89B13FE92093B6A2C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_11_kitchen.jpg?as=1&w=494&rev=659058ca9b0d48aa98b9a3dd6fbdb903&hash=A0FDD739BFA8C9BA60E67289272CC36D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_12_dining_area.jpg?as=1&w=494&rev=513a1e83178a43459685fedbc0a8ed22&hash=8FAFCD1E49C40FB2F449BAF94973CE6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_13_lving_dining.jpg?as=1&w=494&rev=b6563c1832c74067941eaf705ea8a329&hash=53AB123805188BA4F7B27B344D243A3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_14_full_bath_main.jpg?as=1&w=494&rev=915b6cdcdd4748a697b22f96d4684153&hash=33549F7CDEFDDFE933171376B7A6B074",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_15_open_living_area.jpg?as=1&w=494&rev=a1664741b7d44a35873dce4a55ff6c8f&hash=7079854AA7A29839FDD5C065CB6AC48F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_16_bedroom_two_main.jpg?as=1&w=494&rev=adb0899192164f59850da70ce758d2d9&hash=24145FF0AA107204834F8D55C7C5566F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_17_full_bath_main.jpg?as=1&w=494&rev=c79bbe7fe44046288d3be7d46f07add6&hash=952563C23FE34C776503A7E8B26D6EDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_18_bedroom_main.jpg?as=1&w=494&rev=185a9e1921b54175af9532a61b2c0a75&hash=DF6C819F384E9A4971A1A9AF01025B26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_19_stairs.jpg?as=1&w=494&rev=8025b3c5548d47bbbaa61f60ea1fa436&hash=2C0148B65BC6E9381DD6BBA5C763F53E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_20_second_living_area.jpg?as=1&w=494&rev=75cf43379dc4405bbcc0207d07073d05&hash=BC98D85E90ADAA1C2B0DC7041E37A73D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_21_second_living_area1.jpg?as=1&w=494&rev=a54284dba8dd467ebfaf569f242916dd&hash=0F13B93F1013FB36D1AD32FE7D54EA79",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_22_primary_bedroom1.jpg?as=1&w=494&rev=aff4d4902b314794bb5c7ffa6a373724&hash=6829E596202A6350E99C7BFCF14AC43E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_23_primary_bedroom1.jpg?as=1&w=494&rev=858ff577d3484a7593885426df426aad&hash=0B2B90AA49B07512E70A44D8F683E5E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_24_primary_bedroom.jpg?as=1&w=494&rev=c39b71ffccc24322802c93a0dedb94d9&hash=E2A166EA076B80E791DB1D208D2099F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_25_primary_bath.jpg?as=1&w=494&rev=bd061c3efdd04c9b8617a76a80172fe1&hash=6F37443C66FAAD9E75430DA627085B9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_26_primary_bath1.jpg?as=1&w=494&rev=c73adbefdcb748ea9a803afe94447f6e&hash=EEDE5BCBD5260BE921B6A9D2F1923A09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_27_primary_bath.jpg?as=1&w=494&rev=770e6745a8aa4c7fb071ba01d4b3c08e&hash=89EA15E4B8CAC2DB572DAEE42713611B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_28_primary_bath.jpg?as=1&w=494&rev=285660be80ae4c1e80794529bf71d48e&hash=29B02AFFFC1787E2FFC6D881900D6B46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_29_primary_bath.jpg?as=1&w=494&rev=d0f669ca19b741d895b00c2a6a9821ef&hash=D78F6797B9E13487977A9A6A9B756C4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_30_primary_walk_in.jpg?as=1&w=494&rev=a6862388a956427db2c75f8dcd442bc8&hash=D292C333DD43C63E01176A6E6A671C13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_31_water_closet.jpg?as=1&w=494&rev=8e849b355ceb437ea99495d101e2af72&hash=2B805FFF6F9A7110543E74F28ED31945",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_32_bedroom_three.jpg?as=1&w=494&rev=39e7686bbceb42268ab4424efe152f5a&hash=197564AFA5F0167D198C627312595431",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_33_hall_to_bedroom_two.jpg?as=1&w=494&rev=ce814cb0cb924ecbab74a92455106f62&hash=726948DE91CA458AF0D4172BC8ECC8F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_34_bedroom_three.jpg?as=1&w=494&rev=6b729e2588b240a0ac0c9c0f8a02e173&hash=958871D5A00D562EDE08691F49672F36",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_35_add_bed.jpg?as=1&w=494&rev=2dcab3d311894218960f92847bebd0ff&hash=CC2B78C72C07D148F05550FA1FEC02EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_36_bedroom_four.jpg?as=1&w=494&rev=129fdbea35e1461a886f6db8eb97f4b4&hash=61FD14F7F1BF6788B65472148651194F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_37_bedroom.jpg?as=1&w=494&rev=f1bfbaee9673472293ffe46ffa2a2524&hash=1F41717C32445C460819D0867E5B975B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_38_second_level_bed.jpg?as=1&w=494&rev=ca1e25a302da4116903d6906c65c3e05&hash=36580CEB6C92D992F8CF8FD50BA118CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_39_upstairs_bed.jpg?as=1&w=494&rev=00fce7fd6c1b41829861e1ce8757cad9&hash=753B275D6B37D7C202790A3D35E510EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_40_shared_bath.jpg?as=1&w=494&rev=369d7bf2dbcb47379ab6a2fc9846635b&hash=3010683D34D64ED82150C23C47ABF72A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_41_shared_bath_upstairs.jpg?as=1&w=494&rev=72fad1885349435d8a0d0d37cc5fa08f&hash=FFB1C36DB8A5689CB2E6DC867AD868C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_42_upstairs_shared_bathroom.jpg?as=1&w=494&rev=6047135c5e354d39ab7999158904b467&hash=254A393213306EFB80702A54E2CB001A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_43_upstairs_shared_bathroom.jpg?as=1&w=494&rev=b5869c20b53940289b4cd3cf869e85ab&hash=25A4EB46A99A990DD8DFB49C438E31BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_44_laundry_second_level.jpg?as=1&w=494&rev=cedfc215d495467ca453308c434f768b&hash=FEB79C4D000B26D8393B8DD855BA75BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_45_laundry_room.jpg?as=1&w=494&rev=46879064b96043f0b5c1ba8c5bc95df0&hash=CEDB95D0EE64A58A3884D0BC15564604",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/carol_46_garage.jpg?as=1&w=494&rev=f8677d029e134b28bff1304e787b2a44&hash=3A4107F673352BDE44937C4561EB8512",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/carol_floor_plan.jpg?rev=06bf9e45c95f4449b1f3f126e6afbdcb&hash=8333356A7A305C3B8D1C4A046797BCE6"
+      ],
+      "name": "85 Nellie Preserve Lane",
+      "plan": "Carol",
+      "url": "https://www.drhorton.com/florida/panama-city/santa-rosa-beach/nellie-preserve/qmis/85-nellie-preserve-ln",
+      "id": "85",
+      "address": "85 Nellie Preserve Lane",
+      "price": "$603,750",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2550",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29771-nellie-preserve/297710000-nellie-preserve/caro/0012-85-nellie-preserve-ln/85_nellie_preserve_lane.jpg?iar=1&sc=1&thn=1&w=425&rev=fbac70345fdb44be818c828031ac750e&hash=B59F83D79DDC37D0D9ABD1D81DFFFAA3",
+      "latitude": 30.40202,
+      "longitude": -86.21184,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

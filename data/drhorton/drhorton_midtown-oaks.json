@@ -1,0 +1,229 @@
+{
+  "timestamp": "2025-06-03T14:25:03.970744",
+  "name": "Midtown Oaks",
+  "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks",
+  "status": null,
+  "price_from": "$239,900",
+  "address": "2951 Overcup Street,Pensacola, FL 32514",
+  "phone": "(850) 719-7819",
+  "description": "Find a new home in Pensacola, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/midtown_oaks_sign.jpg"
+  ],
+  "location": {
+    "latitude": 30.51673,
+    "longitude": -87.20223,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$239,900 - $262,900",
+    "sqft_range": "From 1,537 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Palm Exterior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks/floor-plans/rpex",
+      "details": {
+        "price": "From $298s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,553 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpex/brittany_oaks_kitchen.jpg?as=1&w=425&rev=618e3b89540248b7b99dd030ad38639a&hash=80458EEF3FC2D15125F696E0D18A9C5C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=66317339979c4531bae05b78bfe6a174&hash=E6C545931581FDC19D51E1B65D17460C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=66317339979c4531bae05b78bfe6a174&hash=E6C545931581FDC19D51E1B65D17460C"
+        }
+      ]
+    },
+    {
+      "name": "The Palm Interior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks/floor-plans/rpin",
+      "details": {
+        "price": "From $288s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/36-web-or-mls-oak_drive-36.jpg?as=1&w=425&rev=56a4a095abe54bd0a476c87f0145f2f5&hash=23E81F0BE77348FE4F0A4C292F8D31FA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=18be9afdf1a8494ca344069df40d79ad&hash=4B9258524A24E83469D43C08D69CD852"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=18be9afdf1a8494ca344069df40d79ad&hash=4B9258524A24E83469D43C08D69CD852"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/front-of-model.jpg?as=1&w=494&rev=498bb6cea8b549c3bf2a3d9a8104b6c7&hash=07A8B332087BBB9B88CF40E2430F6D6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/brittany_oaks_kitchen.jpg?as=1&w=494&rev=1029f5c0891344cbb3e9ac7875d6bf43&hash=21EE7C434C4D3B7686FF166718609312",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/32-web-or-mls-oak_drive-32.jpg?as=1&w=494&rev=aead85506c0347abaadde32113502ddb&hash=6E8A5B4A7D03A381509245021511CD5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/33-web-or-mls-oak_drive-33.jpg?as=1&w=494&rev=e2a7c19efaf84a7291d823644117667e&hash=71CBDB15CEC065799D55BE9C7EBD6BA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/34-web-or-mls-oak_drive-34.jpg?as=1&w=494&rev=4149ac850cf845c4817370ed63ec9c24&hash=E6AFB4E8C9E301A0F2F5C9BFC23374E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/36-web-or-mls-oak_drive-36.jpg?as=1&w=494&rev=a4f36dc67a284bd5a1646225bbcd741f&hash=455D4F009C4EDD7268A3E2E3E9605661",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/37-web-or-mls-oak_drive-37.jpg?as=1&w=494&rev=d9d64c62e7ca417b8903b0a9a919c1cf&hash=7AE70A882A8FA9DD6B3BB3CE1574A4E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/38-web-or-mls-oak_drive-38.jpg?as=1&w=494&rev=748289ac7575434e8350617d9ff134bd&hash=DAFE465649BF9AD8F0E9BB6E4016EAE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/39-web-or-mls-oak_drive-39.jpg?as=1&w=494&rev=0e96a37b620a48a587042bafc47e5b1c&hash=2FA0770B498DD1C5F9BB1F294C6D8CFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/40-web-or-mls-oak_drive-40.jpg?as=1&w=494&rev=b82c54521a2a4b5293f36cfd76af0576&hash=9BB7741B0EF179FD72801893C9F92604",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/41-web-or-mls-oak_drive-41.jpg?as=1&w=494&rev=b3de179d8cd44167bf1e26654f830026&hash=3764356659ED84E4AE0346E895EA7A9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/42-web-or-mls-oak_drive-42.jpg?as=1&w=494&rev=c1c4be79dc854a10bea3187afa05b8b8&hash=A06990821753292170273FF35AB4297F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/43-web-or-mls-oak_drive-43.jpg?as=1&w=494&rev=b37849d6412045548014bbac6074bb80&hash=E3A98A9DD4B7C6005C1EAF7E692BA2E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/44-web-or-mls-oak_drive-44.jpg?as=1&w=494&rev=e76d68364633417fa7ccdc2bf2b66829&hash=F9958CCB735BD1270B03F97127D6D2DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/45-web-or-mls-oak_drive-45.jpg?as=1&w=494&rev=5565039cf37948dc81155a2c0b6c62bd&hash=B2C0A2044021623930099EF0F1F1BAB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/30-web-or-mls-oak_drive-30.jpg?as=1&w=494&rev=54a4e56188a44c38be41d7a05c8e6076&hash=8B93ADDFD6366CC51826D2E23BBE7895",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/22-web-or-mls-oak_drive-22.jpg?as=1&w=494&rev=a986f1857e254fc3beb39a658da23315&hash=5BD267D67D1EA70B2612D6E71E8898F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/23-web-or-mls-oak_drive-23.jpg?as=1&w=494&rev=0b85100aa9db4eb090e87b9a0006a5bc&hash=CA55BB1F918CE4246D50EA09A02B2256",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/24-web-or-mls-oak_drive-24.jpg?as=1&w=494&rev=c0a634a5f9b3492e93c80aa052ce3236&hash=4F9BDD8169DCB38AEE62A6B6570AA485",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/26-web-or-mls-oak_drive-26.jpg?as=1&w=494&rev=a1abe078054f42258b553ee4912410ca&hash=7E6BF036F4362E773A99E10EC33C06A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/27-web-or-mls-oak_drive-27.jpg?as=1&w=494&rev=5ab6664865ee4313854052d1bee75a4e&hash=B2FDD2EAB352696211313BBE8EDBA811",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/28-web-or-mls-oak_drive-28.jpg?as=1&w=494&rev=636023269bda455ea00f3b5c1536696d&hash=96686802CF66E1050DC05ED0BEADA978",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/17-web-or-mls-oak_drive-17.jpg?as=1&w=494&rev=8c069572092c468c81d0a46cf733a645&hash=E64170A683C00F0A18AEC7E41D745A8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/18-web-or-mls-oak_drive-18.jpg?as=1&w=494&rev=e5f75a7286d44f7992db89001b326b56&hash=AF6558BA389FCE6ED73371A46924B26B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/14-web-or-mls-oak_drive-14_-_copy.jpg?as=1&w=494&rev=41b997aa096e460e9c8b79559f0f2522&hash=917A03571A9E90393D86479FE4C019E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/20-web-or-mls-oak_drive-20.jpg?as=1&w=494&rev=3038e460034a4d68a564bade71cfc0f4&hash=1D195D024DA89F69FCEA778292555ED6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/21-web-or-mls-oak_drive-21.jpg?as=1&w=494&rev=6d8e02cfe9a04e268e244b947f9d0e83&hash=9061BDAE41DD0ABD2CF9DD29361EF58D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/0677a71e-city-47121-16510ce7edd.jpg?as=1&w=494&rev=eba4a341b7dc4ae0b9e23e739ee46d94&hash=3D0E2E150ACF4C47A0D8DA15F50B5BC9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/downtown_pcola.jpeg?as=1&w=494&rev=fe87ea99b08348d49af2f94af953fecb&hash=D08CF49C5B8710DAA7765F7253B2F9D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/navalairstation.jpeg?as=1&w=494&rev=5c9c395654144760925155607330d8d7&hash=42F8DCD5214564796A523C61B514B4CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/pcola_airport.jpg?as=1&w=494&rev=5ac515c7109d4bdf88e26ba4e94a771d&hash=0041DBBB3BCF7A7F68E5C0555697C05C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/uwf-entrance.jpg?as=1&w=494&rev=461ee79ad6d745cbb19e1664ad457ecd&hash=E84003C0CDD2C336FAAA05F49ECDFFD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=18be9afdf1a8494ca344069df40d79ad&hash=4B9258524A24E83469D43C08D69CD852"
+      ],
+      "name": "2808 SHUMARD ST",
+      "plan": "The Palm Interior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks/qmis/2808-shumard-st",
+      "id": "2808",
+      "address": "2808 SHUMARD ST",
+      "price": "$262,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0309-2808-shumard-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=498bb6cea8b549c3bf2a3d9a8104b6c7&hash=301AFF468F228933C074C2F61A43B268",
+      "latitude": 30.51673,
+      "longitude": -87.20223,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0310-2812-shumard-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=c38edd724ec74b12a865cabe80e42770&hash=FCA4CB3E915501AE3FABB188FCC2FEE9"
+      ],
+      "name": "2812 SHUMARD ST",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks/qmis/2812-shumard-st",
+      "id": "2812",
+      "address": "2812 SHUMARD ST",
+      "price": "$262,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0310-2812-shumard-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=c38edd724ec74b12a865cabe80e42770&hash=FCA4CB3E915501AE3FABB188FCC2FEE9",
+      "latitude": 30.51673,
+      "longitude": -87.20223,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0311-2816-shumard-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=7e2debbe995e48e68205a5df1854aaaa&hash=E081DF6BC817670EB2496991837DF0E5"
+      ],
+      "name": "2816 SHUMARD ST",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks/qmis/2816-shumard-st",
+      "id": "2816",
+      "address": "2816 SHUMARD ST",
+      "price": "$262,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0311-2816-shumard-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=7e2debbe995e48e68205a5df1854aaaa&hash=E081DF6BC817670EB2496991837DF0E5",
+      "latitude": 30.51673,
+      "longitude": -87.20223,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0305-2935-overcup-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=b11f297d965549fcacbd3f971f699a9f&hash=C20C1D5FA181813B3A5C460C00EFD142"
+      ],
+      "name": "2935 OVERCUP ST",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/midtown-oaks/qmis/2935-overcup-st",
+      "id": "2935",
+      "address": "2935 OVERCUP ST",
+      "price": "$239,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1537",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22759-midtown-oaks/227590000-midtown-oaks/rpin/0305-2935-overcup-st/front-of-model.jpg?iar=1&sc=1&thn=1&w=425&rev=b11f297d965549fcacbd3f971f699a9f&hash=C20C1D5FA181813B3A5C460C00EFD142",
+      "latitude": 30.51673,
+      "longitude": -87.20223,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Ferry Pass Elementary School",
+          "type_and_grades": "Pre-K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Ferry Pass Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Booker T. Washington High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "timestamp": "2025-05-31T14:31:57.148200",
+  "name": "Village Oaks",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes",
+  "status": null,
+  "price_from": "$0",
+  "address": "1500 Hammer Place,Largo, FL 33756",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Largo, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/cropped_living_room.jpg"
+  ],
+  "location": {
+    "latitude": 27.92803,
+    "longitude": -82.77433,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0 - $442,340",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction on Both the First and Second Floor",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from Beach",
+      "description": "Minutes from the Beach",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/floor-plans/1674",
+      "details": {
+        "price": "From $400s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/10livingkitchen.jpg?as=1&w=425&rev=d7704f3554234c67b0208653a503ea63&hash=49FA559972B1F1A98784CA30772BD5EB"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/glen.png?rev=0c37ba5beb624da38403a70e9c64ecd4&hash=56F48A2B65159369F9F2D5923A082F6B"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/glen.png?rev=0c37ba5beb624da38403a70e9c64ecd4&hash=56F48A2B65159369F9F2D5923A082F6B"
+        }
+      ]
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/floor-plans/1759",
+      "details": {
+        "price": "From $430s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/6.jpg?as=1&w=425&rev=93d71ba64cfc484aa6ad02927195bc3a&hash=257066635C4DEF54C03ED3384134DE15"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/vale.png?rev=2c6df7d6174e472fb7461846347272ea&hash=77A0792939A535E34EC75EF68EE5A908"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/vale.png?rev=2c6df7d6174e472fb7461846347272ea&hash=77A0792939A535E34EC75EF68EE5A908"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/00.jpg?as=1&w=494&rev=a64d7c6e1b4a49818bb865e829caac78&hash=42E4E183BB391AD2AA2EE9C5C26622D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/01.jpg?as=1&w=494&rev=a77e91aa6188407a94da70c851eb7321&hash=66F3400DF8154E77A9097E356D1C13AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/02.jpg?as=1&w=494&rev=56b4106d08984f7d8e7ac970c6ce36e6&hash=9880A23CD72FE67A25D289BAAD56C86C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/2.jpg?as=1&w=494&rev=48af9a7a0aec4205a057bd3b1b09739d&hash=225693F1202D9FB2E9B9F07F6B0E5913",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/3.jpg?as=1&w=494&rev=a5af81351c91440391f12320544c9cc1&hash=E7F83F16C16A6367A137144ADC11259F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/4.jpg?as=1&w=494&rev=6bc67acc72b344d384c9057258dde447&hash=E211DA6F0AA2B286475E92684ABCC74E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/5.jpg?as=1&w=494&rev=61bf1b8374ab482e85c4dfb44d4f537c&hash=782E2745B2394F23A9C4F08BEF33C94C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/6.jpg?as=1&w=494&rev=9c49593d4f5843fbab8df247bb6469e5&hash=821BB6208D7DA702F7942D621B16563E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/7.jpg?as=1&w=494&rev=790c632c95334f49b1395e307b4e65d8&hash=3F7F0777CC8E0D623B7DD15B5A07747E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/8.jpg?as=1&w=494&rev=7cbdf24d86d04cc2996045720998e770&hash=1F3CD46D2752787D9DD7E436306D9AF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/9.jpg?as=1&w=494&rev=6359c333dec34f608498c23348c5a6e8&hash=D04C237E487905EE60B97C319A4B18C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/10.jpg?as=1&w=494&rev=7e2fb37fd67d4a55aee47dbc153b3200&hash=0E2C48F71F4D34EBA9B6DF680783FC70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/11.jpg?as=1&w=494&rev=60cbcd3e8f45456f9ab61b673d20e921&hash=49EF822ADCB2EAD432942137A5705094",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/12.jpg?as=1&w=494&rev=6bdd08e7c4794ab4bbe591e29ef28174&hash=6E46812C33F6ABE94B025C5BEA27C2C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/13.jpg?as=1&w=494&rev=ddbbe95a30584af2ab3fb1cd1e1752db&hash=289B471C450B6679B40D59F7AD7A7158",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/14.jpg?as=1&w=494&rev=daa23e6f61e44a2a975d54b78a7f3aea&hash=64A15B3777E91A5C7689E6BA438E72F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/15.jpg?as=1&w=494&rev=67e645cf6d544170949453605dabe034&hash=7B0320B086F38CEE6A51F402BA4D5542",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/16.jpg?as=1&w=494&rev=79b256a5e8e449a8acf8e68fc7f0cc5d&hash=FD6EA3B51906499DC2E7B67EB5553BC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/17.jpg?as=1&w=494&rev=88541b663b334caa985e9197eb9d775a&hash=32B244853F92AD4DD70D36598A982B1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/18.jpg?as=1&w=494&rev=22aba31cf6f04eaca6d6c9e09ea75b67&hash=6856F643FBCA32D8AA3E3408BED838A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/19.jpg?as=1&w=494&rev=8fcd195485b64270a70667f24b90df55&hash=C1AB768EC41C98AE6951797E6AA66806"
+      ],
+      "name": "1500 HAMMER PLACE",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/qmis/1500-hammer-place",
+      "id": "1500",
+      "address": "1500 HAMMER PLACE",
+      "price": "$442,340",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1759/0019-1500-hammer-place/00.jpg?iar=1&sc=1&thn=1&w=425&rev=a64d7c6e1b4a49818bb865e829caac78&hash=539DF9F692E148166203774E9952DC36",
+      "latitude": 27.92803,
+      "longitude": -82.77433,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/10livingkitchen.jpg?as=1&w=494&rev=1610dc8d5a504734bd12fd46ee8a9166&hash=CC50FFC19883F645FA6DFF3A4691C381",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/9.jpg?as=1&w=494&rev=2b8a386459364779bb8c1408eafb9293&hash=DE86342B2E1C8844ACBDBC7AEF3792E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/2.jpg?as=1&w=494&rev=05fa79b055c246059530cc76c5ee87db&hash=37BB2A4A57101BC460A096CE6E85A00D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/3.jpg?as=1&w=494&rev=b1f4530f67ea4402a71b733d5493328c&hash=AB9BB0510523F26CCD84DEC78A82DDD6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/4.jpg?as=1&w=494&rev=cc5a2e95a94e45baabf80aa62f0426b1&hash=28A039F74CB75672356F98BED4F18548",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/5.jpg?as=1&w=494&rev=daa4a098306f47f4a7da4367639a4a12&hash=5EB94BB1A7916C221B6C65E6C3682CA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/8.jpg?as=1&w=494&rev=60656b9860d843b0ab0273b2f0e95990&hash=96839D0C0FAAB5000AF7B2AD0FC78C82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/6.jpg?as=1&w=494&rev=475d1b3ecef94d059215b9e658ad9ed7&hash=4CBF66472273B0A0F07B2C132D8A05CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/7.jpg?as=1&w=494&rev=26bc5a90c73f4a30803a29f1bd59959f&hash=93AEE0B4D7FA113B0143805AFC51F3AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/13.jpg?as=1&w=494&rev=c3b14b36d3e942518ce390f699d9befe&hash=9CC4BB76373B74A15C8B3176071BEAED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/14.jpg?as=1&w=494&rev=29be1ecee3554a15b0934d06f7b262d5&hash=B47DCF15B3301E09BEC14D188096002F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/12.jpg?as=1&w=494&rev=2059083b051048c79f62a57ee70096fa&hash=2FAC61E45777500E3A0BC3CA6D4162E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/11.jpg?as=1&w=494&rev=8c9783ac923745a0a935711c8d934235&hash=1BD043AA1B84118C3F54BE9D41DBA9C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/16.jpg?as=1&w=494&rev=a37915d01f9a420392b282731441334c&hash=C8F522BCE72065FCEBF279CE04891C72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/15.jpg?as=1&w=494&rev=38c971af4bdb413ab53716e16af458ec&hash=75F15CAB17397C99929EFFAAD7820594",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/17.jpg?as=1&w=494&rev=523d1c4ab3b8424ab319429ca4acd261&hash=4D70503C2E428C7A801EF712D1FD29D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/18.jpg?as=1&w=494&rev=b645e9925f9243efb00d60803ce69218&hash=B5E3C624D5CEC202619FD8A06DA54F9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/00.jpg?as=1&w=494&rev=0b54f9f1a95c4bc9bac16cc65b1f4a3e&hash=54A3B8DB283AE644ED546A4DCC7F3DD5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/02.jpg?as=1&w=494&rev=e3a6356193364167a915828de9f8d750&hash=F8C3775F9B04C78578F07DA1E5B234EB"
+      ],
+      "name": "1508 HAMMER PLACE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/qmis/1508-hammer-place",
+      "id": "1508",
+      "address": "1508 HAMMER PLACE",
+      "price": "$408,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0018-1508-hammer-place/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=1610dc8d5a504734bd12fd46ee8a9166&hash=27E6321C5C8DA3A4B1BF37900EFA8522",
+      "latitude": 27.92803,
+      "longitude": -82.77433,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/8.jpg?as=1&w=494&rev=497a49508994483e8dd8c0049857460e&hash=6CF18A7956F7E085D3FDDC9A504BCEBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/6.jpg?as=1&w=494&rev=0fadfdd75cae477aae279e75b1e3a5d8&hash=0EBFF662A63685A9BF38CB7AECB3A39A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/7.jpg?as=1&w=494&rev=5343df82d3e448c0873280f53f0f4e2f&hash=C481CDD9344E72AD611B8296788A90AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/2.jpg?as=1&w=494&rev=a2f8ebb7d10e4660b97c7ecc74d48aa0&hash=A7393DDDBF65AE8289395A9324A47C8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/3.jpg?as=1&w=494&rev=3a794a2f666b47b797185351cd6af7c6&hash=6406E6DA480C3456AB54A73B8FB25867",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/4.jpg?as=1&w=494&rev=172f38f45f184be9b0c1721539794789&hash=19DE9B83E6BCA92D86F1C7E28F05393F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/5.jpg?as=1&w=494&rev=f57cafae5924469185596c1f84b87064&hash=7D84CD861BC57AD3006314AC3145BC24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/9.jpg?as=1&w=494&rev=9d921fc9d6ed455dac47960db0d4544a&hash=28964CED153495EF0FF4EA63AD672A71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/10livingkitchen.jpg?as=1&w=494&rev=8911a853ab1843878b832dda03f2ab52&hash=ADDD467A87CDC48A9D6026B299792C12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/13.jpg?as=1&w=494&rev=67dfa5b34fad4107b41af4bfc1ba93a1&hash=5E790AE2A45E8F108F340628287BE727",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/14.jpg?as=1&w=494&rev=5af981a09f034c6d9cd08fbad7b0eb8c&hash=AFA117A0F071E96E14F3DE3A622D64A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/12.jpg?as=1&w=494&rev=d3f898dad0bc4769bbbcda15a5296d01&hash=07828EE6A9B98F7FCF6A16FC41E4A7B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/11.jpg?as=1&w=494&rev=2f8ae199b6164784934d1c42a47dc061&hash=7440EE412B468000D3B90B791B7DB7ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/16.jpg?as=1&w=494&rev=844ed50580aa4d5c8a82a74133ed791d&hash=DB04C3033F43CCDB74B0AB9234445FED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/15.jpg?as=1&w=494&rev=f4179946ca164c39835121fbd744a78b&hash=568F3E64FA0B24C346504A1EBCF9BAD4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/17.jpg?as=1&w=494&rev=35da5718380e4262899d63aca4f88c68&hash=1D536F96CF263DF2032968F7A23E8A6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/18.jpg?as=1&w=494&rev=c69ad5c58ad64730a74161de4a3d983d&hash=8E0D94083D9F3EF3EB58D2F225C832B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/02.jpg?as=1&w=494&rev=497169cee94f49eba103d4382cce1250&hash=DCFD38894653F49A7CC94251145E4091",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/01.jpg?as=1&w=494&rev=622fa72044454fdf96d4d4058564ff7d&hash=0F0A3F9F55FB04E596944B6A39606B5F"
+      ],
+      "name": "1516 HAMMER PLACE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/qmis/1516-hammer-place",
+      "id": "1516",
+      "address": "1516 HAMMER PLACE",
+      "price": "$408,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0017-1516-hammer-place/8.jpg?iar=1&sc=1&thn=1&w=425&rev=497a49508994483e8dd8c0049857460e&hash=437AF368D41E5AA06F05E506CF37A580",
+      "latitude": 27.92803,
+      "longitude": -82.77433,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/8.jpg?as=1&w=494&rev=27d0c9ed660b48e8a9615944d7ef1343&hash=56A2627608899A2FAD1664DA0725BDDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/6.jpg?as=1&w=494&rev=3da51f9f3d934c5f96aa3cbc220d5f71&hash=FA8B98A2A41E580234517737500866F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/7.jpg?as=1&w=494&rev=1ca7f771d67141488af3aeccba53554c&hash=65D27D8383F6A8732C3F25028C7A39DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/2.jpg?as=1&w=494&rev=e458b43577c44236b75a35c1d268d0d2&hash=8A9401B9038503982AB639AEE60979A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/3.jpg?as=1&w=494&rev=997ba29e4bf2447bb110cac60cfdce0d&hash=C4049E34F690D4578977C50638B898F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/4.jpg?as=1&w=494&rev=9cf7e5015ec840448a1a8ce801227d2d&hash=16BB81C8259F5F0131F91FB35C5B8D8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/5.jpg?as=1&w=494&rev=90b38d9b120845f09f3d41448aa3dd5f&hash=3D6EBD6E3D7AB41EDDA51F4ADC32BB73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/9.jpg?as=1&w=494&rev=784a714075444dbea6139fab9a232b4d&hash=0E1C98F2186039D093EE0D1428461EAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/10livingkitchen.jpg?as=1&w=494&rev=a7d70b4347f544ce87f19fb44b61746f&hash=D534C5576548D10094957C6C1EADABA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/13.jpg?as=1&w=494&rev=3f1cacb604e044c8a75c48486482a88e&hash=D1AC896D0EAD4B41244D2914CF285ABC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/14.jpg?as=1&w=494&rev=fdfaf58026cb4f1eb0b5180a953dd8a7&hash=5022FD19CBEA75535CC762872E37CFF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/12.jpg?as=1&w=494&rev=243aca49b69d4a69a9256de8ffde9981&hash=116F3CBE6C42881D522F2D8C4BDF0494",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/11.jpg?as=1&w=494&rev=91b342e7fc0e41c6bcac4b71fc293e3e&hash=B453FBEBD172DD1E9C8DE9020B8C9CE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/16.jpg?as=1&w=494&rev=a684eabc1e3544c38a0018e350d5216d&hash=00B950B4A4AC694AA68126BEF273F430",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/15.jpg?as=1&w=494&rev=f5a27d26100b47f3aaaf5ff4bdcb7822&hash=02A6B9528945633384331D4770466F98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/17.jpg?as=1&w=494&rev=21c1d2eb23de47428078034d553916af&hash=DC1C020B720B13F752AB1E188692E2AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/18.jpg?as=1&w=494&rev=91f27aaf07854c8a95405824ac99ef12&hash=1CD859837A3D160EE73E7698B5DD8B9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/01.jpg?as=1&w=494&rev=6af613d8c83b429fa4c8c379517cc63d&hash=CEB9564DBE1058D5EC5A63F4EF7A7941",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/00.jpg?as=1&w=494&rev=f7f3a7ef12bc404b940c63e08962dfbe&hash=ABADF3D4BE8FD3DA08F82B8C2B158824"
+      ],
+      "name": "1524 HAMMER PLACE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/qmis/1524-hammer-place",
+      "id": "1524",
+      "address": "1524 HAMMER PLACE",
+      "price": "$408,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0016-1524-hammer-place/8.jpg?iar=1&sc=1&thn=1&w=425&rev=27d0c9ed660b48e8a9615944d7ef1343&hash=E704301A35294C39CE3C457017AC9ED6",
+      "latitude": 27.92803,
+      "longitude": -82.77433,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/10livingkitchen.jpg?as=1&w=494&rev=bda1e2ccc472460cb675c5a84cb80b99&hash=1412959C2CBCB45342969E4FB8D39860",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/9.jpg?as=1&w=494&rev=1032b662b300463c96ad16d5d8e6de6a&hash=ACE472A24762737D1021E0479BBF1B85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/2.jpg?as=1&w=494&rev=bded1648ba7b467bbc0079ca18174cfd&hash=3ADD8E5A2F1888A78314D73BF28749A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/3.jpg?as=1&w=494&rev=d3a183792d9c4bb8a23d46d2935ccb39&hash=A5C4A4EBF82275DFADCE3B29A3C3C399",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/4.jpg?as=1&w=494&rev=8d7f786f281d41e6ab88be0c0b22955b&hash=40740BD943E82583BFAB4C804D21F651",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/5.jpg?as=1&w=494&rev=569d4ed237bb4dd593ec5e3f2a109377&hash=2E2FD2B2E2308E9D3F648E52DA3FAA4A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/8.jpg?as=1&w=494&rev=cc6bb962ff6f4a3da0bed2b7890f2f42&hash=77E3C97BDA02ADA2AB4427CF6E8B4890",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/6.jpg?as=1&w=494&rev=f1f19ce910f4470daf4a8a545e2156b8&hash=10C94F6C44031938AC035A07B4B64632",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/7.jpg?as=1&w=494&rev=9532ed583e6044468f4a25f6ca52801f&hash=9A8270B7224D13149D43B14028A24D04",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/13.jpg?as=1&w=494&rev=51d50b4554b745fba6c64b589e10f5c9&hash=88919E678F1140A9F735C2685F8DBC3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/14.jpg?as=1&w=494&rev=46d0ad87def242d8a15860e6ade0743f&hash=9612EBB6BFF1A309462B79525FF0102E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/12.jpg?as=1&w=494&rev=f4f5a5a2bc984740875b9e925c11c579&hash=6658D71B6DED762A0142589820AB14AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/11.jpg?as=1&w=494&rev=b0cf7ae217b54c55b9b371e72c665acf&hash=8C3EA2020EEF19EB393207A53C51515F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/16.jpg?as=1&w=494&rev=4952e4aac1eb4d2096d0542502f227df&hash=D79CC4413739A378A2D6387C5798C9FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/15.jpg?as=1&w=494&rev=86d62be2a7134b16913f93b51d7ed332&hash=3A1C61B7FC7D1CAED2597968FC1DE0FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/17.jpg?as=1&w=494&rev=54856d5cdd9747a08cc334d44c9687ab&hash=258AF22C121BC02F25C77D06018355CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/18.jpg?as=1&w=494&rev=0fd30e543bb34a2fa908d3f3897a3ffb&hash=721107FFA92301E9D77A56AD9E36F18C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/02.jpg?as=1&w=494&rev=1625e3a380a34c0ba41f494c4c7cf022&hash=5A5C6BCE3297662F0AD6109EE89B28A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/01.jpg?as=1&w=494&rev=1c6022320a124a98ba54826f4e5a9d03&hash=0E583617AA7B267F3C9737F3960ED179"
+      ],
+      "name": "1532 HAMMER PLACE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/qmis/1532-hammer-place",
+      "id": "1532",
+      "address": "1532 HAMMER PLACE",
+      "price": "$408,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0015-1532-hammer-place/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=bda1e2ccc472460cb675c5a84cb80b99&hash=3509F1D3BAA6EAE24461ADD087D8A4FE",
+      "latitude": 27.92803,
+      "longitude": -82.77433,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/7.jpg?as=1&w=494&rev=3db3087c9ea84493818b1f02a8296a6f&hash=CF64CA74445C6A052294BA4C2E929B64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/6.jpg?as=1&w=494&rev=b54a381f7b904993b7eaca82986c2383&hash=17436DABA32D4CB1B5EDB9EB0FF923D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/8.jpg?as=1&w=494&rev=39049e29191644558fb9a8011ce09bec&hash=56161DBCEBB131C611BB1A649EDCAB1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/2.jpg?as=1&w=494&rev=ff05c6b4fc5d463b842ec745ea7acabf&hash=D253FB812E8AE66B85A158AC17B99ABF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/3.jpg?as=1&w=494&rev=2e65027582bf4ce6901b1fae08c1544c&hash=C84F3BDA6B3E4C40E48F497D0A8D85D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/4.jpg?as=1&w=494&rev=4a9d46098853460baa8e713418300381&hash=0A32A76FA4DA55BFD49DBA9C8B7713AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/5.jpg?as=1&w=494&rev=da49a39b59684d45aac8dc7533a82a3a&hash=66CEDE7F84D3D1027B5E988FC7D59FE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/9.jpg?as=1&w=494&rev=50c6c197a498433e8fe2fe70ecfe55fe&hash=C6D317E6B5E7AE1655D73C062A2FF25B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/10livingkitchen.jpg?as=1&w=494&rev=b4bdb21305f34137a70c7c7a24c6a2a8&hash=0DA20A09B520FD932277385D89139B2D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/13.jpg?as=1&w=494&rev=461b7316ac5041318e9a628bc25c25f4&hash=102088C435961B703B2052EA05A35964",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/14.jpg?as=1&w=494&rev=6fa69c45a46344f581eae19f5880821c&hash=FBC43487756031B79518FB3E7433BA28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/15.jpg?as=1&w=494&rev=aecc3322f6be43839c195782fa76b2ce&hash=85B94ABB6606E46DA73219CB1881926E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/11.jpg?as=1&w=494&rev=442511b7f4b5465b8533c69260994e48&hash=35AD29319D74F7D4CF483BD2E71F2353",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/12.jpg?as=1&w=494&rev=092c742d34344e78ba475c5d07c6d667&hash=854534DCC9F036B554D806F8F0A1FF39",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/16.jpg?as=1&w=494&rev=7de6e6409ff84a7c98f404e5ecb03787&hash=102AD008AFC5F34B4EBAC980A5B10239",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/17.jpg?as=1&w=494&rev=a7376d6e36e24f52a661ddc7fdce01b5&hash=DF9E280CF51EEAE1839DC1D0C1F98986",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/18.jpg?as=1&w=494&rev=5e363596631042938a5280221f2551eb&hash=8C5D581B12ACF890B3DA969C6E814934",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/00.jpg?as=1&w=494&rev=c4b4d3696a384eac8c32cfc3ac4daa86&hash=0930F5D9728445DEA2CCB42794C9414E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/02.jpg?as=1&w=494&rev=560b5aae4b2a4fc0a92f5237725bd8fa&hash=C3D488921E632739BB6946991FADC9A6"
+      ],
+      "name": "1566 HAMMER PLACE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/largo/village-oaks-townhomes/qmis/1566-hammer-place",
+      "id": "1566",
+      "address": "1566 HAMMER PLACE",
+      "price": "$399,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39250-village-oaks-th/392500000-village-oaksth/1674/0011-1566-hammer-place/7.jpg?iar=1&sc=1&thn=1&w=425&rev=3db3087c9ea84493818b1f02a8296a6f&hash=2675D57B60088C083ABC4315E557A114",
+      "latitude": 27.92803,
+      "longitude": -82.77433,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Ponce De Leon Elementary",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Largo Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Largo High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

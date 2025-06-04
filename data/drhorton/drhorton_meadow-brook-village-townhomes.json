@@ -1,0 +1,120 @@
+{
+  "timestamp": "2025-06-01T21:48:36.610947",
+  "name": "Meadow Brook Village Townhomes",
+  "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/meadow-brook-village-townhomes",
+  "status": null,
+  "price_from": "$298,900",
+  "address": "8798 Meadow Flower Lane,Pensacola, FL 32514",
+  "phone": "(850) 754-7988",
+  "description": "Find a new home in Pensacola, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/website-1.jpg"
+  ],
+  "location": {
+    "latitude": 30.52544,
+    "longitude": -87.24319,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$298,900",
+    "sqft_range": "From 1,537 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Palm Exterior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/meadow-brook-village-townhomes/floor-plans/rpex",
+      "details": {
+        "price": "From $319s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,553 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/rpex/40-web-or-mls-oak_drive-40.jpg?as=1&w=425&rev=5dc7da82cc1e47059debb7a93ca153b2&hash=D6EC8A3674CDC867006FAF5AC973169E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=bd7fd82007dc4fbab93926f275e8827c&hash=06A60CA10F229E3E2341889585C7DA66"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/rpex/palm_a_floor_plan_2021_bedroom_1.jpg?rev=bd7fd82007dc4fbab93926f275e8827c&hash=06A60CA10F229E3E2341889585C7DA66"
+        }
+      ]
+    },
+    {
+      "name": "The Palm Interior",
+      "url": "https://www.drhorton.com/florida/northwest-florida/pensacola/meadow-brook-village-townhomes/floor-plans/rpin",
+      "details": {
+        "price": "From $299s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,537 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/rpin/brittany_oaks_kitchen.jpg?as=1&w=425&rev=b36b5ff8e9ee4bdcb255414b97a6af51&hash=EEA5B9B07FFADA819E9A6F96A1A348BE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=870d132d8ca24f349175d13c03540fca&hash=EC9C8CF13186B167B4BB2C777310226C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22770-meadow-brook-village-ths/227700000-meadow-brook-village-ths/rpin/palm_b_floor_plan_bedroom_1_2021.jpg?rev=870d132d8ca24f349175d13c03540fca&hash=EC9C8CF13186B167B4BB2C777310226C"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Ensley Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Ferry Pass Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Pine Forest High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "timestamp": "2025-06-03T09:43:14.850498",
+  "name": "Colonial East Townhomes",
+  "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east-townhomes",
+  "status": null,
+  "price_from": "$299,900",
+  "address": "290 Phillips Bluff Avenue,Panama City Beach, FL 32407",
+  "phone": "(850) 801-6649",
+  "description": "Find a new home in Panama City Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/hawks_landing_exterior_unit_0035_dsc03954.jpg"
+  ],
+  "location": {
+    "latitude": 30.21321,
+    "longitude": -85.83292,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$299,900 - $305,400",
+    "sqft_range": "From 1,459 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east-townhomes/floor-plans/rpex",
+      "details": {
+        "price": "From $301s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,470 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/hawks_landing_exterior_unit_0035_dsc03951.jpg?as=1&w=425&rev=13faa66a4b5949ffb2ae5bfa7905c987&hash=79043AF676AE1B9A426506BE653687DE"
+      }
+    },
+    {
+      "name": "Palm Interior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east-townhomes/floor-plans/rpin",
+      "details": {
+        "price": "From $300s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,459 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/palm_b_01_front.jpg?as=1&w=425&rev=2a5696b45977462ea80ccac214bda057&hash=9972A7D68CBC3ED088920910581DD63E"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/hawks_landing_exterior_unit_0035_dsc03954.jpg?as=1&w=494&rev=c85e21c287e0459cacf538c8d7c3eb67&hash=17101A37972D2DC9F40307DA27EEC07E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_3_entrance.jpg?as=1&w=494&rev=1998b36de94240d1a1d4689730a1865a&hash=E221E56D0172C5C73F09220FDFE00CBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_4_living_room.jpg?as=1&w=494&rev=757e884f8d9a46e1906129783e7b8297&hash=13F3BD06122D38BB7F96BA71CF746EE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_6_living_room.jpg?as=1&w=494&rev=b62dca8db8b241059140e11f43865956&hash=2924E1C423C121374B3C450CE311592B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_7_living_room.jpg?as=1&w=494&rev=aa824b703dd94083b9e801afddcb33cb&hash=33B94DA02ACF06D059490D8196B0FE03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_8_dining_room.jpg?as=1&w=494&rev=0d210ab9e6ff4b35846f9f3bb3eef06a&hash=B1A5AFE4CBE17E382C5FD9E731A4EA49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_9_dining_room.jpg?as=1&w=494&rev=2b9263dbdf1348caa19946c2707eede7&hash=430C0C37351A46DE733A657935F38CBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_10_kitchen.jpg?as=1&w=494&rev=be6f3089c7b94fbb97ceea46ddfd1e9f&hash=E4AC29078367707895F01E5FD50794FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_11_kitchen.jpg?as=1&w=494&rev=6ece053b02864bd7b654c18614e3dafe&hash=B8E9FE2F7C362004DB537BD1AF799DDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_12_kitchen.jpg?as=1&w=494&rev=d0979984fbe2403db1a1f85775fa2767&hash=50AC5620190324B022DD28020F34D16C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_13_kitchen.jpg?as=1&w=494&rev=0419144be21348c38ed3f413a5ba5f63&hash=E9010F7E0F24193837E124E135B54213",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_14_kitchen.jpg?as=1&w=494&rev=4c9a63bde32b49ce8070df1cd9518359&hash=7E554E703CF21A30017BDD4A1708097F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_15_kitchen.jpg?as=1&w=494&rev=4cfb40147fc64391850f8030dc82bf17&hash=D309F731E023C36D977F44816CA3DB10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_15_staircase.jpg?as=1&w=494&rev=1b395d9f065e4575a1c630a0546277a8&hash=A17A6A775D6E43AE1984906EA5BBFDD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_16_staircase.jpg?as=1&w=494&rev=2b342d6aed28449198985a2e9f7685ae&hash=F341A3AAC82F628C953D0CD048D036EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_17_primary_bedroom.jpg?as=1&w=494&rev=2edf5137795d4da0995c91c685fad90b&hash=D8DB7FB24B5994BC5F1451C1F9D3E901",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_18_primary_bedroom.jpg?as=1&w=494&rev=ad6cf22de1d949f6bc04202f6f4b61f4&hash=D95A5BCA86361A62AB933E4994EE157D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_19_primary_bedroom.jpg?as=1&w=494&rev=8289a5a7ebba43c9b8436161118f58eb&hash=63AC72127BE3B78DCBBC877C94890A0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_20_primary_bedroom.jpg?as=1&w=494&rev=29ed07aa11ae4bb6a80034b794a9d823&hash=16A74463E851BD0555230A929759B60C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_21_primary_bathroom.jpg?as=1&w=494&rev=a3c90a252a2d42c19b8dee1ff8c1e036&hash=4C16272232C55BA6211692A9469F9E48",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_22_primary_bathroom.jpg?as=1&w=494&rev=1e27d403b17b47408e30b03145c030f5&hash=0F88BE2D71BE48CC681FCB30CE081D7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_23_primary_bathroom.jpg?as=1&w=494&rev=e54a8af5def94e8ca0c2e677decff4d5&hash=42AF325B4ED4D3580C2AE45E4F823BD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_24_bedroom.jpg?as=1&w=494&rev=8c45167babea477284ddbaa3d1b961ab&hash=1E1F8FA3942E48D116BBDD2AA667D8CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_25_bedroom.jpg?as=1&w=494&rev=9057f037b50a48618aa5caec0ff0c9cc&hash=E1A3B95DEEF5ADFC43BDD00247C81545",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_26_bedroom.jpg?as=1&w=494&rev=c6cd03bbc10f4459801469927e03a5b2&hash=D74CA8C8D83F1E15CAB087B2DF017D1A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_27_bedroom.jpg?as=1&w=494&rev=54f2914f59704875851800e9382ba3ed&hash=078E6D483C2F8487FDFCEC236B46C319",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_28_bathroom.jpg?as=1&w=494&rev=6b0b2af170554e178270dc0e6269261d&hash=91AFC9EC371A9CC5C8F3F944645386AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_29_bathroom.jpg?as=1&w=494&rev=48da2f7912a94702ba14f538b24d67c9&hash=CEFFB990C248C89B47A7CE26A06D937A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_30_bathroom.jpg?as=1&w=494&rev=93b8810eeb5b4cd186318b364b405633&hash=F8C231D168314465857F330C9874746F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_31_bathroom.jpg?as=1&w=494&rev=5f0941a8f9cc4c689d4c79832c9f51fa&hash=3F124F624FFEEA72B8322404C61F7DC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_32_hall.jpg?as=1&w=494&rev=8de31d13594c43adbc0fbdce6a71aed2&hash=910580DBC7CD3A54A297B560C7C09204",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_33_hall.jpg?as=1&w=494&rev=92ce442abf954d2ba5ec01118f96c6c6&hash=776D9347D312879E8B4434C96A59B1D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_34_hall.jpg?as=1&w=494&rev=4dcb80e72403478f802d1a21bb4b8daf&hash=ECBB29494E2FDD1440E1CD409997753A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_35_hall.jpg?as=1&w=494&rev=234b5be8c8e84a3aa4e7a48d8323bb52&hash=14582C08A292CB3C7F18B1A1BC9D47C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_36_washroom.jpg?as=1&w=494&rev=cf20d015cb1f4542859478b6ef33f723&hash=0D12A552EAFF99D610D15BA0A93072F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/palm_townhome_37_rear.jpg?as=1&w=494&rev=1bf20436644645128cecc4d9653c7952&hash=5A6E283CA62484764CC20F43BFAB18A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/palm_floor_plan_0000s_0001_palm_exterior_marketing_floorplan.jpg?rev=c4a36b60e65149d29147b30151088578&hash=BA5DE4F841951C330D8ABE1F8217199F"
+      ],
+      "name": "280 Phillips Bluff Avenue",
+      "plan": "Palm Exterior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east-townhomes/qmis/280-phillips-bluff-ave",
+      "id": "280",
+      "address": "280 Phillips Bluff Avenue",
+      "price": "$305,400",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1470",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpex/0139-280-phillips-bluff-ave/hawks_landing_exterior_unit_0035_dsc03954.jpg?iar=1&sc=1&thn=1&w=425&rev=c85e21c287e0459cacf538c8d7c3eb67&hash=B84CBED54C333E78482002E4028365AF",
+      "latitude": 30.21321,
+      "longitude": -85.83292,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_townhome_interior_unit_1_driveway.jpg?as=1&w=494&rev=8097a7af281549e58feea3394b70ff90&hash=136A334E7CD94C6152F69CCE95C2ED10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_02_front.jpg?as=1&w=494&rev=f055c186a2704f5781d473c8d1666ec7&hash=D322433549D49A71A3C5B0138A9F18C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_03_entryway.jpg?as=1&w=494&rev=59d1304956aa43c4b8c87a904504d20e&hash=721E7F324FE6041D872E55A0F224C2FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_04_foyer.jpg?as=1&w=494&rev=4172ed39e7074425a3f0782522e05cf0&hash=7EE696BF72670330DA8ADD38D00BE675",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_05_powder_room.jpg?as=1&w=494&rev=a2377f7d83fa48f788abd503f2973cd2&hash=1C75F99B367AFAAE0A209E2B58F93448",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_06_kitchen.jpg?as=1&w=494&rev=58ef0189f06e444389c633da5bebee47&hash=0DA853956F722A784D7716B86B7B4E20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_07_living_area.jpg?as=1&w=494&rev=be2793783df74fe5ba875d1aef520c9b&hash=97378374373D0770B36D1CE620BFE9E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_08_kitchen.jpg?as=1&w=494&rev=09d0d1c62b034c9982d33fb89051d73d&hash=9128592079CF10441F9E57326C61FF9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_09_dining_room.jpg?as=1&w=494&rev=ee2eadc213ed41a0a8ce0f30c2b91ecd&hash=496D7DC6DC9C6E008EC22243108A3842",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_10_living_area.jpg?as=1&w=494&rev=b131f26682304d7983a84452844cc867&hash=9D2055590E207B39382B3D82AEDDB65C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_11_kitchen.jpg?as=1&w=494&rev=332b990c2de34b7aa02f3272efd34a73&hash=E28C118433A085512CAABCF9268A51E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_12_kitchen.jpg?as=1&w=494&rev=8fcf316b52c24d82b4c1f055a3820d49&hash=7C2FC3497DB45C4AC2858059683B2F9D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_13_kitchen.jpg?as=1&w=494&rev=c21d17e96e8740eb9f00e0e78ac0a2e4&hash=033D29A15F1ED1C8113BD61BBB674A99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_14_kitchen.jpg?as=1&w=494&rev=c785aabcf5ad41a68e9c362bfed100f2&hash=C3357830CDA8486EB86A4FA12D615888",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_15_kitchen.jpg?as=1&w=494&rev=92accd466ed741af8de56b85b79ab833&hash=B4796D9CCF026DDFD375FAFD256C6114",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_16_stairs.jpg?as=1&w=494&rev=a39a1ba3078c4422b9cfa033031efec7&hash=408152D558A50BEE727FB37441663918",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_17_upstairs_landing.jpg?as=1&w=494&rev=a4de5d93f93242b08a9efa9aac831056&hash=9AD40705F1AE5963D61534B87C9587B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_18_primary_bedroom.jpg?as=1&w=494&rev=58e91885af17487c925c2516f2cd0b4a&hash=201BB7C60382B8A4A4406248A23A5F11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_19_primary_bedroom.jpg?as=1&w=494&rev=2172be92f3034ea19e215c04bef7f938&hash=7C9592E2B45EDAD9004FE58F570AAD91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_20_primary_bedroom.jpg?as=1&w=494&rev=3b68c8368b3240ae92a9459ed0a68011&hash=DE60A8A71BE633550E024B8A6D9B9EBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_21_primary_closet.jpg?as=1&w=494&rev=79f47f49daeb4eb9b2b8df9d0b736ce8&hash=203AC7B6A490A0178591453E91978703",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_22_primary_bathroom.jpg?as=1&w=494&rev=dda3cfcf342c4bd1bffb82ad570cf06b&hash=F6F0E1BB616DCB9F40808D30B47C8220",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_23_primary_bathroom.jpg?as=1&w=494&rev=0b9cf3fd43524fa183066effbc3adb3b&hash=311AADF6F06CF2FF038A998F89DF2FA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_24_primary_bathroom.jpg?as=1&w=494&rev=5a9e125b7ddd478db3693b1727536420&hash=652D24AA042F7CC731BC43BB91840099",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_25_upstairs_hallway.jpg?as=1&w=494&rev=78e6078fecda4420ad2586180c92a3a1&hash=3A611254D8CF2AFECAEBAEE3A864BB20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_26_bedroom_two.jpg?as=1&w=494&rev=2edb4e3cb5fd4d51b1cda9fe4ecb9571&hash=CCBC65135DAF1A25578F18940A9F045A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_27_bedroom_two.jpg?as=1&w=494&rev=f683cda611f14de78067349bd31a49b0&hash=0EADBCB0530062EEFD225D5B9794A22E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_28_bathrom_two.jpg?as=1&w=494&rev=588c2e9c538049f7858fd1d1d717d429&hash=03149FC640036ED38DBE390CB9C7021A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_29_laundry_room.jpg?as=1&w=494&rev=bacbef4f2c4648d98a7d8f3398639add&hash=21086C74BA4E5B79316D32B8069B5732",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_30_bedroom_three.jpg?as=1&w=494&rev=1dce477fa064410eaba719b47f19a655&hash=CFA69D2662089C80D86DBE99ABFE9916",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_31_bedroom_three.jpg?as=1&w=494&rev=16bf878a6271402b89603ef7527ea04d&hash=7AD36E181DFA605E8827354A82529501",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_32_bathroom_two.jpg?as=1&w=494&rev=9df1b916a5844ba886a00132dcbfcdee&hash=0E078B77FC9831A467F18A7C382E400D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_33_bathroom_two.jpg?as=1&w=494&rev=629af1ec5b0541bc9dd5f251cefbfa64&hash=3316072E7366CAFCC795780AB7E52A32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_34_upstairs_hallway.jpg?as=1&w=494&rev=75e19faaa1a042cdb1fd1e54b8e3eeb1&hash=E5B1BB65B8630A0A3AF1EB1F8DA576D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_35_garage.jpg?as=1&w=494&rev=57f007ed8ed34826984b0cfeb7430ca3&hash=C246747E576120889723BC730350BFF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_b_36_rear.jpg?as=1&w=494&rev=624ce90b5c5b4ac7ad98a113b3c07344&hash=93C1236EAE9328A2E5545853246267CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/palm_floor_plan_0000s_0000_palm_interior_marketing_floorplan.jpg?rev=b22888417df5466a8c76aa24068091a2&hash=C612D863369E0877351827C7019693B1"
+      ],
+      "name": "282 Phillips Bluff Ave",
+      "plan": "Palm Interior",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city-beach/colonial-east-townhomes/qmis/282-phillips-bluff-ave",
+      "id": "282",
+      "address": "282 Phillips Bluff Ave",
+      "price": "$301,900",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1459",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/296-panama-city-west/29777-colonial-east/297780000-colonial-east-th/rpin/0140-282-phillips-bluff-ave/palm_townhome_interior_unit_1_driveway.jpg?iar=1&sc=1&thn=1&w=425&rev=8097a7af281549e58feea3394b70ff90&hash=D2181E9BEC1B3F5D16BC52CBD9C2F85E",
+      "latitude": 30.21321,
+      "longitude": -85.83292,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

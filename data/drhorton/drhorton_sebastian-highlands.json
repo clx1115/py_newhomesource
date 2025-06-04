@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-05-31T06:17:31.809071",
+  "name": "Sebastian Highlands",
+  "url": "https://www.drhorton.com/florida/east-florida/sebastian/sebastian-highlands",
+  "status": null,
+  "price_from": "$0",
+  "address": "1888 Barber Street,Sebastian, FL 32958",
+  "phone": "(772) 732-2640",
+  "description": "Find a new home in Sebastian, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the East Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/348-melbourne/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/sebastian_model_new.jpg"
+  ],
+  "location": {
+    "latitude": 27.76025,
+    "longitude": -80.46357,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": "From 1,828 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Cali - Sebastian",
+      "url": "https://www.drhorton.com/florida/east-florida/sebastian/sebastian-highlands/floor-plans/cali",
+      "details": {
+        "price": "From $366s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-melbourne/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/4ebb/cali_sebastian_model.jpg?as=1&w=425&rev=db4bc6c7a1ab45de8c300943c014e450&hash=C9CAA5F687B439C2924B8E0F10EB7979"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/4ebb/cali__fp_web.jpg?rev=046fbb961bb44473b3ea4d4948949645&hash=CBF80FD5341F4B5F85A7729F9156A618"
+        }
+      ]
+    },
+    {
+      "name": "Cali - Vero",
+      "url": "https://www.drhorton.com/florida/east-florida/sebastian/sebastian-highlands/floor-plans/cali",
+      "details": {
+        "price": "From $366s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-melbourne/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/4ebb/cali_sebastian_model.jpg?as=1&w=425&rev=db4bc6c7a1ab45de8c300943c014e450&hash=C9CAA5F687B439C2924B8E0F10EB7979"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/4ebb/cali__fp_web.jpg?rev=046fbb961bb44473b3ea4d4948949645&hash=CBF80FD5341F4B5F85A7729F9156A618"
+        }
+      ]
+    },
+    {
+      "name": "Madison - Sebastian",
+      "url": "https://www.drhorton.com/florida/east-florida/sebastian/sebastian-highlands/floor-plans/5emb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/5emb/madison_g_sl.jpg?as=1&w=425&rev=baf174345d564b52a361e0152766be43&hash=1100B4027C083EFC0EE47784298F8B26"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/5emb/madison_fp.jpg?rev=2443a8c5295c4653893a117a16830929&hash=89DA8C9A038E50359E5748E97C47DD86"
+        }
+      ]
+    },
+    {
+      "name": "Madison - Vero",
+      "url": "https://www.drhorton.com/florida/east-florida/sebastian/sebastian-highlands/floor-plans/5emb",
+      "details": {
+        "price": "From $430s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/5emb/madison_g_sl.jpg?as=1&w=425&rev=baf174345d564b52a361e0152766be43&hash=1100B4027C083EFC0EE47784298F8B26"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34919-sebastian-spot-lots/349190000-sebastian-spot-lots/5emb/madison_fp.jpg?rev=2443a8c5295c4653893a117a16830929&hash=89DA8C9A038E50359E5748E97C47DD86"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

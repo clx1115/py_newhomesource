@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-06-03T09:04:16.083912",
+  "name": "Magnolia Landing",
+  "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/magnolia-ii",
+  "status": null,
+  "price_from": "$319,990",
+  "address": "20094 Fiddlewood Ave,North Fort Myers, FL 33917",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in North Fort Myers, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57919-magnolia-ii/579960000-magnolia-iii-50s/01.jpg"
+  ],
+  "location": {
+    "latitude": 26.75821,
+    "longitude": -81.92119,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$319,990",
+    "sqft_range": "From 1,816 Sq. Ft.",
+    "bed_range": "2 - 3",
+    "bath_range": "2 - 2.5",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Golf",
+      "description": "Golf",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Lap Pool & Resort",
+      "description": "Lap Pool & Resort-style Pool",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Clifton",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/magnolia-ii/floor-plans/a4cb",
+      "details": {
+        "price": "From $320s",
+        "beds": "2 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,816 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57919-magnolia-ii/579960000-magnolia-iii-50s/a4cb/clifton_2t_a.jpg?as=1&w=425&rev=55cc51125b47481d871ad92a4657eb71&hash=F159048DD4562982D8DE559DEBC22472"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57919-magnolia-ii/579960000-magnolia-iii-50s/a4cb/1816-clifton_3bed_novalet_no-opt.jpg?rev=915c0f41525a4aaaa642f559488cf5a3&hash=B66C96C47D27282AFBF3856E3FE6D957"
+        }
+      ]
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/magnolia-ii/floor-plans/a4db",
+      "details": {
+        "price": "From $330s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,034 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57919-magnolia-ii/579960000-magnolia-iii-50s/a4db/delray_2t_a.jpg?as=1&w=425&rev=4c88c27c5cdf4459b3c4b6d214a127a7&hash=359E0CF30138D7E408516EBB6A49D36B"
+      }
+    },
+    {
+      "name": "Shelby",
+      "url": "https://www.drhorton.com/florida/southwest-florida/north-fort-myers/magnolia-ii/floor-plans/2221",
+      "details": {
+        "price": "From $380s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,221 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57919-magnolia-ii/579970000-magnolia-iii-60s/2221/2221_shelby_l_web.jpg?as=1&w=425&rev=eab8b3b25db14ff2bc54637ce9487cff&hash=E80821F285D0CD9F571E1F689FC44F21"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57919-magnolia-ii/579960000-magnolia-iii-50s/2221/2221_2-car_den-std.jpg?rev=2daacef00da5427b9e7f11444fbf9d0b&hash=C53B717B5E2D6B2F1FE66BBCD6F5EC37"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

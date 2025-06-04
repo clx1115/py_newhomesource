@@ -1,0 +1,430 @@
+{
+  "timestamp": "2025-05-31T02:41:50.294036",
+  "name": "Hunters Manor",
+  "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor",
+  "status": null,
+  "price_from": "$589,990",
+  "address": "1883 NW 7th Street,Pompano Beach, FL 33069",
+  "phone": "(954) 335-5185",
+  "description": "Find a new home in Pompano Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/sapole_0034_1589_se_7th_-_web_quality_-_004_-_07_living_room-2.jpg"
+  ],
+  "location": {
+    "latitude": 26.23855,
+    "longitude": -80.14896,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$589,990 - $658,990",
+    "sqft_range": "From 1,739 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Granite Countertops Kitchen",
+      "description": "Granite Countertops in Kitchen",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz Countertops Bathrooms",
+      "description": "Quartz Countertops in Bathrooms",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pavilion",
+      "description": "Community Pavilion",
+      "icon_url": null
+    },
+    {
+      "name": "Community features",
+      "description": "Community features",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aisle",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/floor-plans/3edb",
+      "details": {
+        "price": "From $610s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,046 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/aisle_classic_2-11-22.jpg?as=1&w=425&rev=96c3922b07da4c7d95a2e7cbcfa9246c&hash=9E0F851CCC6BA2E761123217DEC4134C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/aisle_fp.png?rev=760469bf37b3410492731b3892b3ed9a&hash=EB37C74B5C4A5412B133EDF8C562A4B5"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/aisle_fp.png?rev=760469bf37b3410492731b3892b3ed9a&hash=EB37C74B5C4A5412B133EDF8C562A4B5"
+        }
+      ]
+    },
+    {
+      "name": "Merrit",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/floor-plans/4ems",
+      "details": {
+        "price": "From $590s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,739 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/4ems/merrit_fp_-_catalina_estates.jpg?as=1&w=425&rev=496af4752ab0400e93ce8788ae1a9c69&hash=4D9144BA17CF1B8FEE39817CC22A6037"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/4ems/merrit_fp.png?rev=c3c51a2fbe5644429d55984139009875&hash=3D7121720F477D9330A95905DBB1FE8A"
+        }
+      ]
+    },
+    {
+      "name": "Parker",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/floor-plans/2717",
+      "details": {
+        "price": "From $660s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,720 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2717/untitled-2_0000_4513_catalina_way_greenacres_fl_-_web_quality_-_000_-_03_exterior_front.jpg?as=1&w=425&rev=6725fb2fd9aa4254a7363e2e3a906d88&hash=811259E9DC1633C0DA86D0BFB884AD82"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2717/parker_fp.png?rev=03deec9ecc8f48499c9ea958f45caa8b&hash=657BD2309838C1ABF3090A8FF141B2E3"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2717/parker_fp.png?rev=03deec9ecc8f48499c9ea958f45caa8b&hash=657BD2309838C1ABF3090A8FF141B2E3"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/floor-plans/3efs",
+      "details": {
+        "price": "From $645s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,499 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/untitled-1_0000_reserve_at_jupiter_robie-large-001-039-exterior_front2-1500x1000-72dpi.jpg?as=1&w=425&rev=02e7d57380234fffbddfe29fccb21deb&hash=720DD9E70B88DA0ED87C6F63B7804BDC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/robie_fp.png?rev=9430f0f82ed74502b283a2a1db06ca5b&hash=92F595EBC48B97DF9C1A0D6D9B55C643"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/robie_fp.png?rev=9430f0f82ed74502b283a2a1db06ca5b&hash=92F595EBC48B97DF9C1A0D6D9B55C643"
+        }
+      ]
+    },
+    {
+      "name": "Sapole",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/floor-plans/2085",
+      "details": {
+        "price": "From $616s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,085 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/sapole_0037_1589_se_7th_-_web_quality_-_001_-_01_exterior_front-2.jpg?as=1&w=425&rev=97b413e7a8054d5b930f5802c7afb717&hash=FDB7897DFE37AF637A06ED97E1BE1235"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/sapole_fp.png?rev=2ceb2d14c13a43eeb9bec8fd6f11ffd5&hash=9EF6F2EEC088F57ACB1E7597C4C47FED"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/sapole_fp.png?rev=2ceb2d14c13a43eeb9bec8fd6f11ffd5&hash=9EF6F2EEC088F57ACB1E7597C4C47FED"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0041-611-nw-18-manor/aisle_classic_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=b57fa67f0c18461ca2b289751c4b5d92&hash=FF393A6910F0A38D7EA7082DC8E6DA92"
+      ],
+      "name": "611 NW 18 Manor",
+      "plan": "Aisle",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/611-nw-18-manor",
+      "id": "611",
+      "address": "611 NW 18 Manor",
+      "price": "$624,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2046",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0041-611-nw-18-manor/aisle_classic_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=b57fa67f0c18461ca2b289751c4b5d92&hash=FF393A6910F0A38D7EA7082DC8E6DA92",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/4ems/0040-621-nw-18-manor/merritt_contemporary_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=8eab756914d249c6ae3ebb8eb5c3cac1&hash=BB24710108DC0CD8DD0208DE4CC2F98E"
+      ],
+      "name": "621 NW 18 Manor",
+      "plan": "Merrit",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/621-nw-18-manor",
+      "id": "621",
+      "address": "621 NW 18 Manor",
+      "price": "$599,190",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1739",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/4ems/0040-621-nw-18-manor/merritt_contemporary_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=8eab756914d249c6ae3ebb8eb5c3cac1&hash=BB24710108DC0CD8DD0208DE4CC2F98E",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0047-700-nw-18-way/aisle_classic_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=e19002af63234f038fb233a6b9921631&hash=DE39551638473ED7E63A18993E07FE7A"
+      ],
+      "name": "700 NW 18 Way",
+      "plan": "Aisle",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/700-nw-18-way",
+      "id": "700",
+      "address": "700 NW 18 Way",
+      "price": "$624,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2046",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0047-700-nw-18-way/aisle_classic_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=e19002af63234f038fb233a6b9921631&hash=DE39551638473ED7E63A18993E07FE7A",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/0048-716-nw-18-way/sapole_shingle_coastal.jpg?iar=1&sc=1&thn=1&w=425&rev=d90859ea7e544851a95ed2a8cb5215ea&hash=BD5C01FBA276313CFFE97B60F9EF6704"
+      ],
+      "name": "716 NW 18 Way",
+      "plan": "Sapole",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/716-nw-18-way",
+      "id": "716",
+      "address": "716 NW 18 Way",
+      "price": "$628,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2085",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/0048-716-nw-18-way/sapole_shingle_coastal.jpg?iar=1&sc=1&thn=1&w=425&rev=d90859ea7e544851a95ed2a8cb5215ea&hash=BD5C01FBA276313CFFE97B60F9EF6704",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/0049-732-nw-18-way/sapole_shingle_contemporary.jpg?iar=1&sc=1&thn=1&w=425&rev=bb391d88bd8b43be881b1f090f91d34a&hash=743552567BF1BFA4AB424E156D8D50A2"
+      ],
+      "name": "732 NW 18 Way",
+      "plan": "Sapole",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/732-nw-18-way",
+      "id": "732",
+      "address": "732 NW 18 Way",
+      "price": "$628,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2085",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/2085/0049-732-nw-18-way/sapole_shingle_contemporary.jpg?iar=1&sc=1&thn=1&w=425&rev=bb391d88bd8b43be881b1f090f91d34a&hash=743552567BF1BFA4AB424E156D8D50A2",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/0050-748-nw-18-way/robie_shingle_coastal.jpg?iar=1&sc=1&thn=1&w=425&rev=325d4ca5e00540f7b2fcd15bcaaaf240&hash=BE3C2D226811216750A5C6B840B47CE4"
+      ],
+      "name": "748 NW 18 Way",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/748-nw-18-way",
+      "id": "748",
+      "address": "748 NW 18 Way",
+      "price": "$651,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/0050-748-nw-18-way/robie_shingle_coastal.jpg?iar=1&sc=1&thn=1&w=425&rev=325d4ca5e00540f7b2fcd15bcaaaf240&hash=BE3C2D226811216750A5C6B840B47CE4",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0051-764-nw-18-way/aisle_modern_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=14ab86797e23471484df09e3bf815472&hash=6C0C4EC7EBB418A34D6619CBAEDDC0A9"
+      ],
+      "name": "764 NW 18 Way",
+      "plan": "Aisle",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/764-nw-18-way",
+      "id": "764",
+      "address": "764 NW 18 Way",
+      "price": "$622,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2046",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0051-764-nw-18-way/aisle_modern_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=14ab86797e23471484df09e3bf815472&hash=6C0C4EC7EBB418A34D6619CBAEDDC0A9",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/0052-780-nw-18-way/robie_shingle_contemporary.jpg?iar=1&sc=1&thn=1&w=425&rev=62e8fc686f594907af8be5aaa1dd1080&hash=60622F8B0F1262FA07F7DDA3C9136CB8"
+      ],
+      "name": "780 NW 18 Way",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/780-nw-18-way",
+      "id": "780",
+      "address": "780 NW 18 Way",
+      "price": "$657,190",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/0052-780-nw-18-way/robie_shingle_contemporary.jpg?iar=1&sc=1&thn=1&w=425&rev=62e8fc686f594907af8be5aaa1dd1080&hash=60622F8B0F1262FA07F7DDA3C9136CB8",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0055-828-nw-18-way/aisle_classic_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=3155ed2650334c8581c42602155ca3a4&hash=6CA6577A34EDAA7A3409B7211D703D1E"
+      ],
+      "name": "828 NW 18 Way",
+      "plan": "Aisle",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/828-nw-18-way",
+      "id": "828",
+      "address": "828 NW 18 Way",
+      "price": "$622,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2046",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0055-828-nw-18-way/aisle_classic_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=3155ed2650334c8581c42602155ca3a4&hash=6CA6577A34EDAA7A3409B7211D703D1E",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/0056-844-nw-18-way/robie_shingle_modern.jpg?iar=1&sc=1&thn=1&w=425&rev=762399a74c2c4911b57094f584a8195f&hash=FC55589FE41FF6576FE4464E29BE0F69"
+      ],
+      "name": "844 NW 18 Way",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/844-nw-18-way",
+      "id": "844",
+      "address": "844 NW 18 Way",
+      "price": "$658,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3efs/0056-844-nw-18-way/robie_shingle_modern.jpg?iar=1&sc=1&thn=1&w=425&rev=762399a74c2c4911b57094f584a8195f&hash=FC55589FE41FF6576FE4464E29BE0F69",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0059-892-nw-18-way/aisle_coastal_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=48ee5ee2f23642008825b34e051d00fb&hash=FD86DE973DA4CADE067B43D59B20D8C7"
+      ],
+      "name": "892 NW 18 Way",
+      "plan": "Aisle",
+      "url": "https://www.drhorton.com/florida/southeast-florida/pompano-beach/hunters-manor/qmis/892-nw-18-way",
+      "id": "892",
+      "address": "892 NW 18 Way",
+      "price": "$624,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2046",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57535-hunters-manor/575350000-hunters-manor/3edb/0059-892-nw-18-way/aisle_coastal_shingle_5-1-22.jpg?iar=1&sc=1&thn=1&w=425&rev=48ee5ee2f23642008825b34e051d00fb&hash=FD86DE973DA4CADE067B43D59B20D8C7",
+      "latitude": 26.23855,
+      "longitude": -80.14896,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "C. Robert Markham Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Crystal Lake Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Blanche Ely High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

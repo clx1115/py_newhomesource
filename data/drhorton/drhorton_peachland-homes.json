@@ -1,0 +1,215 @@
+{
+  "timestamp": "2025-06-03T15:02:36.586943",
+  "name": "Peachland Homes",
+  "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes",
+  "status": null,
+  "price_from": "$249,990",
+  "address": "Call for locations,Port Charlotte, FL 33954",
+  "phone": "(239) 560-4461",
+  "description": "Find a new home in Port-Charlotte, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/peachlandexpress.jpg"
+  ],
+  "location": {
+    "latitude": 27.01756,
+    "longitude": -82.09389,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$249,990 - $306,595",
+    "sqft_range": "From 1,239 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Boardwalk",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/floor-plans/boardwalk",
+      "details": {
+        "price": "From $262s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,389 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1389/boardwalk_a_rendering.jpg?as=1&w=425&rev=7908647adaf84d098eb3ca7c354d6799&hash=DD6B6E6AD3C16AA4E10302BFDE556D02"
+      }
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/floor-plans/4ebb",
+      "details": {
+        "price": "From $292s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/cali-c_shingle_transom_web.jpg?as=1&w=425&rev=4573fdd3fbc449a19171259dd8677bfe&hash=CE651F7C0B302C99C319734BF62B516F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/1828__-_cali_cd.png?rev=a044c7aee98d4b66add071c7edef7afa&hash=E73C1F29E485CF12B57FDB67E9FD9C91"
+        }
+      ]
+    },
+    {
+      "name": "Freeport",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/floor-plans/freeport",
+      "details": {
+        "price": "From $272s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,499 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1499/freeport_a_rendering.jpg?as=1&w=425&rev=1d2ce93860f54c099705bea32e38880f&hash=CCF075E8A302A89AFDF0DACCE3548E99"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1499/1499-freeport-fp-12-4-18.jpg?rev=c7bae680f3eb4ac79edac0800f1a9c6d&hash=5F3B6D685638CDDC1E09DA992500B896"
+        }
+      ]
+    },
+    {
+      "name": "Keystone",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/floor-plans/3ekb",
+      "details": {
+        "price": "From $315s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,405 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/3ekb/1405_keystone_ele_c_cs_d_revised_web.jpg?as=1&w=425&rev=2fe5070e49374118b54b216c5b094d65&hash=DA3130D2FE67C969310AC0576409C171"
+      }
+    },
+    {
+      "name": "Layton",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/floor-plans/3elb",
+      "details": {
+        "price": "From $250s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,239 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/3elb/1239_layton_ele_c_cs_b_web.jpg?as=1&w=425&rev=0a43cfedd8fc4559a7fa8718a1937edf&hash=C550F264CE47A14D383D13F5AE63C8F6"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1389/0228-860-chevy-chase-st/boardwalk_a_rendering.jpg?iar=1&sc=1&thn=1&w=425&rev=23b37a961ef34041af164d794f35291b&hash=963D79B8B2641D04986080C255374C32"
+      ],
+      "name": "860 CHEVY CHASE ST",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/qmis/860-chevy-chase-st",
+      "id": "860",
+      "address": "860 CHEVY CHASE ST",
+      "price": "$275,450",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1389",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1389/0228-860-chevy-chase-st/boardwalk_a_rendering.jpg?iar=1&sc=1&thn=1&w=425&rev=23b37a961ef34041af164d794f35291b&hash=963D79B8B2641D04986080C255374C32",
+      "latitude": 27.01756,
+      "longitude": -82.09389,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1499/0236-18139-regan-ave/freeport_a_rendering.jpg?iar=1&sc=1&thn=1&w=425&rev=174adc0b9453427ab15ea71cc4ea2bd2&hash=66B28E528556DA1EA30FF534D34E6EE5"
+      ],
+      "name": "18139 REGAN AVE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/qmis/18139-regan-ave",
+      "id": "18139",
+      "address": "18139 REGAN AVE",
+      "price": "$286,230",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1499",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/1499/0236-18139-regan-ave/freeport_a_rendering.jpg?iar=1&sc=1&thn=1&w=425&rev=174adc0b9453427ab15ea71cc4ea2bd2&hash=66B28E528556DA1EA30FF534D34E6EE5",
+      "latitude": 27.01756,
+      "longitude": -82.09389,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/cali-d_shingle_transom_web.jpg?as=1&w=494&rev=71dfaf6d5e7d436695ba137733c3db54&hash=E5C740B95514B0E9A7322B49BB3B6712",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/02_magnoliacali.jpg?as=1&w=494&rev=663ca65514a44faeaedf05e8f03fde91&hash=571274B52A04444439225459D4CC9F97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/03_magnoliacali.jpg?as=1&w=494&rev=48774326671446579edb9300c4f1cb56&hash=1149C8829F3E83EAC0C1F46BB066D73C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/04_magnoliacali.jpg?as=1&w=494&rev=4cf5e39626844b429aaf3b9180e372ee&hash=7F3A681FBC025B7DCB6E7C9794AAB0A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/06_magnoliacali.jpg?as=1&w=494&rev=ccea61a39939406bb89a43e1a39af1fc&hash=F897538BB358982C2284681A370AB69F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/07_magnoliacali.jpg?as=1&w=494&rev=4d84ff47ea12474aa2beffa060e02be6&hash=AFD62420CA8E79F0BAA738566FB65EE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/08_magnoliacali.jpg?as=1&w=494&rev=9a3042125cbf48f0b030e693e7b44729&hash=2ADA62F6D3715AE1AFF120AEB187B9F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/09_magnoliacali.jpg?as=1&w=494&rev=60bc9a995c0f4bac99b59aba14b2509a&hash=31E6AA57A196B6D966F1EF10369A515C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/10_magnoliacali.jpg?as=1&w=494&rev=50785e03d1864d21aceffc3c7640a51a&hash=AB991067825F2DC09307866E5BD27AD7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/11_magnoliacali.jpg?as=1&w=494&rev=197866b5fa1748aea0e0d528c787b493&hash=D7AB531C9ABB10E045D96B01323A01A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/14_magnoliacali.jpg?as=1&w=494&rev=bd3a8c6709c34d06998aa6965ac678cc&hash=ABF8482042D04CCFEE61607B33D97B38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/15_magnoliacali.jpg?as=1&w=494&rev=00dd96f407484783a8cfdec54f371bb3&hash=9FA9C846B46F9FD2524FC35724B3EA90",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/1828__-_cali_cd.png?rev=a044c7aee98d4b66add071c7edef7afa&hash=E73C1F29E485CF12B57FDB67E9FD9C91"
+      ],
+      "name": "18147 REGAN AVE",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southwest-florida/port-charlotte/peachland-homes/qmis/18147-regan-ave",
+      "id": "18147",
+      "address": "18147 REGAN AVE",
+      "price": "$306,595",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/577-southwest-florida/57841-peachland-spot-lots/578410000-peachland-spot-lots/4ebb/0237-18147-regan-ave/cali-d_shingle_transom_web.jpg?iar=1&sc=1&thn=1&w=425&rev=71dfaf6d5e7d436695ba137733c3db54&hash=88010BF5821389CA71F43177C984F127",
+      "latitude": 27.01756,
+      "longitude": -82.09389,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Charlotte County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Charlotte County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Charlotte County Schools",
+          "type_and_grades": "",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "timestamp": "2025-06-01T20:38:44.173471",
+  "name": "Hadley Place",
+  "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place",
+  "status": null,
+  "price_from": "$379,990",
+  "address": "874 SW 11th Terrace,Florida City, FL 33034",
+  "phone": "(786) 244-6680",
+  "description": "Find a new home in Florida City, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/website_cropped_0023_870_sw_11_terrace_-_web_quality_-_005_-_05_living_room.jpg"
+  ],
+  "location": {
+    "latitude": 25.43674,
+    "longitude": -80.49033,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$379,990 - $399,990",
+    "sqft_range": "From 1,446 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Granite Countertops Kitchen",
+      "description": "Granite Countertops in Kitchen",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz Countertops Bathrooms",
+      "description": "Quartz Countertops in Bathrooms",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Community features",
+      "description": "Community features",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/floor-plans/1446",
+      "details": {
+        "price": "From $412s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,446 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/website_cropped_0026_870_sw_11_terrace_-_web_quality_-_002_-_02_exterior_front-2-2.jpg?as=1&w=425&rev=f0a0045e63f044009a0d132764045586&hash=A30F37E8E3BAD1BF90DB3B6DD1FA4E02"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/bella_fp.jpg?rev=bd7c4dea556e4c2d994dc0eaf246ec93&hash=B38318845116FE0E9370C93547FA9851"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/bella_fp.jpg?rev=bd7c4dea556e4c2d994dc0eaf246ec93&hash=B38318845116FE0E9370C93547FA9851"
+        }
+      ]
+    },
+    {
+      "name": "Terra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/floor-plans/1472",
+      "details": {
+        "price": "From $417s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,472 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1472/terra_0027_866_sw_11_terrace_-_web_quality_-_001_-_01_exterior_front.jpg?as=1&w=425&rev=bb8626c014ae40a3ac039b80945d8b53&hash=8D9C2CCCE24A3DA2E1AF79B6BFD34FFF"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1472/terra_fp.jpg?rev=a6bb6da2576b4d85badd59af3bf69bd3&hash=DF39B187E9F03DB4D4FF8C44B1767D7C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1472/terra_fp.jpg?rev=a6bb6da2576b4d85badd59af3bf69bd3&hash=DF39B187E9F03DB4D4FF8C44B1767D7C"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0026-1107-sw-8-court/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=a945f0ab73db4331ac49a0ff00a4d7ab&hash=33E7E7E25CC2FF3E243193491FD3D067",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0026-1107-sw-8-court/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=bc022613cc384b31b1ea3897da035b87&hash=F9CC68A29DF0A92B5E1516E1186620FA"
+      ],
+      "name": "1107 SW 8 Court",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/1107-sw-8-court",
+      "id": "1107",
+      "address": "1107 SW 8 Court",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0026-1107-sw-8-court/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=a945f0ab73db4331ac49a0ff00a4d7ab&hash=2BFAB80C36D6ACC6EB08B2196482E609",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0028-1119-sw-8-court/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=f60993a10b4d47cca03565012f9a6d78&hash=48FF59D2105F98079B3402098661F92D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0028-1119-sw-8-court/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=67408750ee19462e97d41c7371047cdf&hash=CBBDEBEA260BFDFE80E974CECD7BC486"
+      ],
+      "name": "1119 SW 8 Court",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/1119-sw-8-court",
+      "id": "1119",
+      "address": "1119 SW 8 Court",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0028-1119-sw-8-court/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=f60993a10b4d47cca03565012f9a6d78&hash=046E1D429640719AB5493BBA0D1EA600",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0030-1131-sw-8-court/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=960c6dadfbfa4aa990d29fb5d9d0ebf5&hash=C823A1EA166804FFCB519DB510DB2ABA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0030-1131-sw-8-court/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=43c627ac0b8545ca8ad2794b70062680&hash=9D6AA66810D55016256718577AD57FC4"
+      ],
+      "name": "1131 SW 8 Court",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/1131-sw-8-court",
+      "id": "1131",
+      "address": "1131 SW 8 Court",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0030-1131-sw-8-court/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=960c6dadfbfa4aa990d29fb5d9d0ebf5&hash=EEAAA5C788C1F8447EA0EC2EF8442FAC",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1472/0018-827-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=0ff76281b0a047a5befd1b4338039776&hash=5FD6697C588565671ADC89AD6BB4E0F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1472/0018-827-sw-11-terrace/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=24b0dd90b4564397a430656774039468&hash=35D59CBCF26BBF6A7CB51B1E1ACE4504"
+      ],
+      "name": "827 SW 11 Terrace",
+      "plan": "Terra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/827-sw-11-terrace",
+      "id": "827",
+      "address": "827 SW 11 Terrace",
+      "price": "$399,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1472",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1472/0018-827-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=0ff76281b0a047a5befd1b4338039776&hash=4A73B743B3495E1FA3F811679467C4E7",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0091-830-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=7a9cfa0a1dcf47849306739d60529add&hash=AE2B5F53A0BE204F21FC0A45F8B7C1B8"
+      ],
+      "name": "830 SW 11 Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/830-sw-11-terrace",
+      "id": "830",
+      "address": "830 SW 11 Terrace",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0091-830-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=7a9cfa0a1dcf47849306739d60529add&hash=AE2B5F53A0BE204F21FC0A45F8B7C1B8",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0017-831-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=88da8889dbdb4a7b9a6d41fc9a7ee6a9&hash=C40C08A1C5F9B479B19D4D27A7224C10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0017-831-sw-11-terrace/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=e3089c013aa244c8ab614936790abbe5&hash=A88A7B3F44155DE5D8EC1843672A3285"
+      ],
+      "name": "831 SW 11 Terrace",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/831-sw-11-terrace",
+      "id": "831",
+      "address": "831 SW 11 Terrace",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0017-831-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=88da8889dbdb4a7b9a6d41fc9a7ee6a9&hash=25CE5EC2B0A8826AD665276B1E0E86F9",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0016-835-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=b6c0886db72048c587f2f67ecc4ab2ce&hash=E303403F16CBD254762E052AD5D9FF0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0016-835-sw-11-terrace/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=64f8fd291ea24138b5e61e88d3210d20&hash=873E58C60F2F6FC049C2ECD058EACBB2"
+      ],
+      "name": "835 SW 11 Terrace",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/835-sw-11-terrace",
+      "id": "835",
+      "address": "835 SW 11 Terrace",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0016-835-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=b6c0886db72048c587f2f67ecc4ab2ce&hash=A9305CAAC2F92F4355291C2DC9608F31",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0015-839-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=10c5c521a2f54fac840f41c2ce80576c&hash=D3CFAC2AC6411824040873A0BCC882CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0015-839-sw-11-terrace/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=1f007d0ece754369954065fda081cc24&hash=7BB1C4EC5DA7F2639ECD13F497B8C546"
+      ],
+      "name": "839 SW 11 Terrace",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/839-sw-11-terrace",
+      "id": "839",
+      "address": "839 SW 11 Terrace",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0015-839-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=10c5c521a2f54fac840f41c2ce80576c&hash=AF233170DD50CF9C6A9C599A44A7D921",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0014-843-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?as=1&w=1280&rev=36d3e814b0ac4fba8b1c85ec4d0d13cd&hash=FED566D64396446DF5DFBE7B19C95C3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0014-843-sw-11-terrace/hadleyplace_optionb_6-20-24.jpg?as=1&w=1280&rev=d22b209f4fb04b7082ddc56833af73ff&hash=FE1ED6F3DD007F70DF8344EC52D79AD0"
+      ],
+      "name": "843 SW 11 Terrace",
+      "plan": "Bella",
+      "url": "https://www.drhorton.com/florida/southeast-florida/florida-city/hadley-place/qmis/843-sw-11-terrace",
+      "id": "843",
+      "address": "843 SW 11 Terrace",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1446",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57524-hadley-place/575240000-hadley-place/1446/0014-843-sw-11-terrace/hadleyplace_optiona_6-20-24.jpg?iar=1&sc=1&thn=1&w=425&rev=36d3e814b0ac4fba8b1c85ec4d0d13cd&hash=DE8595CAA3C352C9586540EBF1CDFA73",
+      "latitude": 25.43674,
+      "longitude": -80.49033,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "West Homestead Elementary",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Homestead Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Homestead Senior High",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

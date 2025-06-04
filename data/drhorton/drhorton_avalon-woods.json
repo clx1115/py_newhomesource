@@ -1,0 +1,649 @@
+{
+  "timestamp": "2025-06-03T04:35:18.786113",
+  "name": "Avalon Woods",
+  "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods",
+  "status": null,
+  "price_from": "$289,990",
+  "address": "1617 NW 248th Way,Newberry, FL 32669",
+  "phone": "(352) 660-1134",
+  "description": "Find a new home in Newberry, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/elston_bs_aw_web.png"
+  ],
+  "location": {
+    "latitude": 29.66963,
+    "longitude": -82.60519,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$289,990 - $380,990",
+    "sqft_range": "From 1,453 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "Next Easton Newberry Sports",
+      "description": "Next to Easton Newberry Sports Complex",
+      "icon_url": null
+    },
+    {
+      "name": "Champions park Newberry Gatorback",
+      "description": "Champions park of Newberry and Gatorback Cycle Park nearby",
+      "icon_url": null
+    },
+    {
+      "name": "20",
+      "description": "20-minutes to Gainesville and The University of Florida",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Tioga Town Center",
+      "description": "Nearby the Tioga Town Center",
+      "icon_url": null
+    },
+    {
+      "name": "Close proximity Ginnie Springs",
+      "description": "Close proximity to Ginnie Springs and Gilchrist Blue Springs",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Allex",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/3eab",
+      "details": {
+        "price": "From $293s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,453 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/allex-bs-gen3-elev_ind.png?as=1&w=425&rev=d04377fe37714783ac7fab272ddd56f4&hash=55646B1F49515E6611C5904D3934640E"
+      }
+    },
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/4eab",
+      "details": {
+        "price": "From $312s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,619 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/347760000-avalon-woods/4eab/fl_west-florida_drh_express-series_aria_19-elevation-js.jpg?as=1&w=425&rev=e1fa0203ad0b4d2886cba7e1d47d1147&hash=328111C7CDA0F9CA391CDD471CAF204B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-ocala/34776-avalon-woods/347760000-avalon-woods/4eab/fl_west_florida_dr_horton_express_aria_as_bs_js_ks_frame_new.jpg?rev=cf08d3f8418d4fb790aed7faa9a3393c&hash=A87E73EA6018A990A4ED3942CC44235C"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/4ebb",
+      "details": {
+        "price": "From $325s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,774 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/347760000-avalon-woods/4ebb/fl_west-florida_drh_express-series_cali_21-elevation-ks.jpg?as=1&w=425&rev=281238dbffc7490585e052eea8ea42b3&hash=5052734404CCF7E6570892D0C35806B1"
+      }
+    },
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/e502",
+      "details": {
+        "price": "From $377s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,427 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e502/covington-js-gen3-elev_ind.jpg?as=1&w=425&rev=b1c83e7c4b9c44239f1b404383aead9e&hash=D050AA518C816A82CAF20CE43BEFDB4B"
+      }
+    },
+    {
+      "name": "Darwin",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/e301",
+      "details": {
+        "price": "From $305s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,886 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/e301/darwin_bs_aw_web.png?as=1&w=425&rev=f089d27f869e4bc693f02a5cf47012d7&hash=F67903CB25013C40E5CEE8C94E4DB53B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/e301/darwin_frame_patio_new_blacklines_no_closet_2_16_24_web.png?rev=63f08accd7dd460a816b79fe32ebf343&hash=4F9AFD7C552932D2C94EF80178943A0A"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/e301/darwin_frame_patio_new_blacklines_no_closet_2_16_24_web.png?rev=63f08accd7dd460a816b79fe32ebf343&hash=4F9AFD7C552932D2C94EF80178943A0A"
+        }
+      ]
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/e501",
+      "details": {
+        "price": "From $362s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,275 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/denham-js-gen3-elev_ind.jpg?as=1&w=425&rev=69fe62ea8c6b4d53b3f2f00acbae69e5&hash=265A2682F1803753942D4753906DE6E2"
+      }
+    },
+    {
+      "name": "Elston",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/3eeb",
+      "details": {
+        "price": "From $317s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,176 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eeb/elston_as_avalon_woods.png?as=1&w=425&rev=69653084a9e74ae8b7dcd2b1a84b1287&hash=5835009A49E6F98D5BA19FDC06E4A145"
+      }
+    },
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/3emb",
+      "details": {
+        "price": "From $303s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/3emb/harper-bs-gen3-elev_ind.jpg?as=1&w=425&rev=97e7fc02c6aa40dc8e3cf77a4843767b&hash=632482B25229F308150B4E03CAF408D0"
+      }
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/4ehb",
+      "details": {
+        "price": "From $360s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,516 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/347760000-avalon-woods/4ehb/fl_west-florida_dr-horton_express_hayden-bs.jpg?as=1&w=425&rev=317deb14931e4dfe9bf147ab756a281c&hash=D9CB5E5B0E02B2E76A12A28B682D6A7F"
+      }
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/5emb",
+      "details": {
+        "price": "From $349s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "1,956 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/avalon_woods_madison_model_web.png?as=1&w=425&rev=dbaa8690f8394c03bdd6a39b425a414d&hash=DB5C4A7637E66640867CB23216302E07"
+      }
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/floor-plans/3efb",
+      "details": {
+        "price": "From $325s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,370 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3efb/robie_as_aw_web.png?as=1&w=425&rev=d34aade994454576b29f2f9875e17cec&hash=DC19D32861CFBEAAA0FF45FE19002F2A"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0032-1957-nw-246th-terrace/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9452f88d81a547568c6d6ea9acd51d31&hash=8CC11B1D2153B8CEBC1B3D87EE9EDF7D"
+      ],
+      "name": "1957 NW 246th Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/1957-nw-246th-terrace",
+      "id": "1957",
+      "address": "1957 NW 246th Terrace",
+      "price": "$366,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2516",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0032-1957-nw-246th-terrace/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=9452f88d81a547568c6d6ea9acd51d31&hash=8CC11B1D2153B8CEBC1B3D87EE9EDF7D",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0095-1970-nw-246th-terrace/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a3333f8a252948de964cd481609b6863&hash=31CDF16C1864F9C7BA4D7E5BF116A5F5"
+      ],
+      "name": "1970 NW 246th Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/1970-nw-246th-terrace",
+      "id": "1970",
+      "address": "1970 NW 246th Terrace",
+      "price": "$328,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0095-1970-nw-246th-terrace/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=a3333f8a252948de964cd481609b6863&hash=31CDF16C1864F9C7BA4D7E5BF116A5F5",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4eab/0031-1983-nw-246th-terrace/aria-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b7c3eabccd48499aa3d3b3633091dae7&hash=2E340FD5E3B78BB22C782EDE535B8B0B"
+      ],
+      "name": "1983 NW 246th Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/1983-nw-246th-terrace",
+      "id": "1983",
+      "address": "1983 NW 246th Terrace",
+      "price": "$317,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1619",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4eab/0031-1983-nw-246th-terrace/aria-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=b7c3eabccd48499aa3d3b3633091dae7&hash=2E340FD5E3B78BB22C782EDE535B8B0B",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0030-2009-nw-246th-terrace/cali-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3a61d16095214864831c100ae861ba6d&hash=8E3319D8BB896CA7352EF959CF495640"
+      ],
+      "name": "2009 NW 246th Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/2009-nw-246th-terrace",
+      "id": "2009",
+      "address": "2009 NW 246th Terrace",
+      "price": "$329,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0030-2009-nw-246th-terrace/cali-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=3a61d16095214864831c100ae861ba6d&hash=8E3319D8BB896CA7352EF959CF495640",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0098-2048-nw-246th-terrace/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=cb282cf331534cceb759a96ea3566090&hash=972E4070B4E26455F16830BCD65D8032"
+      ],
+      "name": "2048 NW 246th Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/2048-nw-246th-terrace",
+      "id": "2048",
+      "address": "2048 NW 246th Terrace",
+      "price": "$364,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2516",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ehb/0098-2048-nw-246th-terrace/hayden-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=cb282cf331534cceb759a96ea3566090&hash=972E4070B4E26455F16830BCD65D8032",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0099-2074-nw-246th-terrace/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=159816c3025e47ec829a853619257b9f&hash=7AC41DC553D24B2FEA6D9C256DE2F65A"
+      ],
+      "name": "2074 NW 246th Terrace",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/2074-nw-246th-terrace",
+      "id": "2074",
+      "address": "2074 NW 246th Terrace",
+      "price": "$334,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1744",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974510000-avalon-woods-50s-exp/4ebb/0099-2074-nw-246th-terrace/cali-bs-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=159816c3025e47ec829a853619257b9f&hash=7AC41DC553D24B2FEA6D9C256DE2F65A",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e502/0006-24224-nw-12th-place/covington-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ce816b306b134dcab05e301022f572be&hash=FE12C5CE97E30AD040773AE353271D1D"
+      ],
+      "name": "24224 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24224-nw-12th-place",
+      "id": "24224",
+      "address": "24224 NW 12TH PLACE",
+      "price": "$376,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2427",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e502/0006-24224-nw-12th-place/covington-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=ce816b306b134dcab05e301022f572be&hash=FE12C5CE97E30AD040773AE353271D1D",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0010-24237-nw-12th-place/denham-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e96343d56fb84e6cb42ade39ae8ecc13&hash=65116F35DC9B2F2EB3A99C0E6555B589"
+      ],
+      "name": "24237 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24237-nw-12th-place",
+      "id": "24237",
+      "address": "24237 NW 12TH PLACE",
+      "price": "$367,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2275",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0010-24237-nw-12th-place/denham-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=e96343d56fb84e6cb42ade39ae8ecc13&hash=65116F35DC9B2F2EB3A99C0E6555B589",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0005-24240-nw-12th-place/denham-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0cc1f91110254e7a8d21f1c93205256a&hash=F304DC029E8489C434326A483F48FA49"
+      ],
+      "name": "24240 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24240-nw-12th-place",
+      "id": "24240",
+      "address": "24240 NW 12TH PLACE",
+      "price": "$362,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2275",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0005-24240-nw-12th-place/denham-js-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=0cc1f91110254e7a8d21f1c93205256a&hash=F304DC029E8489C434326A483F48FA49",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0011-24253-nw-12th-place/madison-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5a9f439822cc4183a7cd0730e9b0c568&hash=557F64B0FB925AEF6CA30D91BCD151ED"
+      ],
+      "name": "24253 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24253-nw-12th-place",
+      "id": "24253",
+      "address": "24253 NW 12TH PLACE",
+      "price": "$354,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "1956",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0011-24253-nw-12th-place/madison-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=5a9f439822cc4183a7cd0730e9b0c568&hash=557F64B0FB925AEF6CA30D91BCD151ED",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e502/0012-24269-nw-12th-place/covington-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=afa93108a9d847159e05969dee96d0ca&hash=355B6E700498E09C37CEBA85A94C4DAC"
+      ],
+      "name": "24269 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24269-nw-12th-place",
+      "id": "24269",
+      "address": "24269 NW 12TH PLACE",
+      "price": "$380,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2427",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e502/0012-24269-nw-12th-place/covington-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=afa93108a9d847159e05969dee96d0ca&hash=355B6E700498E09C37CEBA85A94C4DAC",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0003-24272-nw-12th-place/denham-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2219332424a94224869e71ff00a99780&hash=7F4DEC8DAA33A97053B4A4F4C5DFBCC7"
+      ],
+      "name": "24272 NW 12th Place",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24272-nw-12th-place",
+      "id": "24272",
+      "address": "24272 NW 12th Place",
+      "price": "$364,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2275",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0003-24272-nw-12th-place/denham-ks-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=2219332424a94224869e71ff00a99780&hash=7F4DEC8DAA33A97053B4A4F4C5DFBCC7",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0013-24285-nw-12th-place/denham-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=46c10c89f9214f0b9c7b98b9b85ebc62&hash=06DA2BAB09492C044AD5D5DC80C0EF74"
+      ],
+      "name": "24285 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24285-nw-12th-place",
+      "id": "24285",
+      "address": "24285 NW 12TH PLACE",
+      "price": "$365,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2275",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/e501/0013-24285-nw-12th-place/denham-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=46c10c89f9214f0b9c7b98b9b85ebc62&hash=06DA2BAB09492C044AD5D5DC80C0EF74",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0014-24293-nw-12th-place/madison-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=06c45477015e40649df0ee60db7f1355&hash=AE1F7500B9144485BD3923EB35027BC2"
+      ],
+      "name": "24293 NW 12TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24293-nw-12th-place",
+      "id": "24293",
+      "address": "24293 NW 12TH PLACE",
+      "price": "$354,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "1956",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974830000-avalon-woods-60s-exp/5emb/0014-24293-nw-12th-place/madison-js-stone-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=06c45477015e40649df0ee60db7f1355&hash=AE1F7500B9144485BD3923EB35027BC2",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0085-24310-nw-11th-place/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=07704641cf0949c7800940462e318d52&hash=06D7E864BC16462D091CD4939F43BCAB"
+      ],
+      "name": "24310 NW 11TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24310-nw-11th-place",
+      "id": "24310",
+      "address": "24310 NW 11TH PLACE",
+      "price": "$303,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0085-24310-nw-11th-place/allex-bs-gen3-elev_ind.png?iar=1&sc=1&thn=1&w=425&rev=07704641cf0949c7800940462e318d52&hash=06D7E864BC16462D091CD4939F43BCAB",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eeb/0086-24326-nw-11th-place/elston-as-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=a2d175f4e9a4447a90620c6a323e0c79&hash=47986A22C00EE1970459A7C111FF91E2"
+      ],
+      "name": "24326 NW 11TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24326-nw-11th-place",
+      "id": "24326",
+      "address": "24326 NW 11TH PLACE",
+      "price": "$320,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2176",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eeb/0086-24326-nw-11th-place/elston-as-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=a2d175f4e9a4447a90620c6a323e0c79&hash=47986A22C00EE1970459A7C111FF91E2",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0087-24342-nw-11th-place/harper-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=adfe4b0532914c789e2941f255640782&hash=2190650E284F4350076623EAF636FB3D"
+      ],
+      "name": "24342 NW 11TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24342-nw-11th-place",
+      "id": "24342",
+      "address": "24342 NW 11TH PLACE",
+      "price": "$306,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0087-24342-nw-11th-place/harper-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=adfe4b0532914c789e2941f255640782&hash=2190650E284F4350076623EAF636FB3D",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0089-24378-nw-11th-place/allex-as-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=44f7fbf43d1d4b929e6d04959a1b5625&hash=810F42799DF2BE5E7B18F1AF26A17A2F"
+      ],
+      "name": "24378 NW 11TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24378-nw-11th-place",
+      "id": "24378",
+      "address": "24378 NW 11TH PLACE",
+      "price": "$289,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1453",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3eab/0089-24378-nw-11th-place/allex-as-gen3-elev_day.jpg?iar=1&sc=1&thn=1&w=425&rev=44f7fbf43d1d4b929e6d04959a1b5625&hash=810F42799DF2BE5E7B18F1AF26A17A2F",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0078-24403-nw-11th-place/harper-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bff62770c5c149768d7c74276b0153d3&hash=E25CE4540324DF121CAAEF52BAC4CF80"
+      ],
+      "name": "24403 NW 11TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24403-nw-11th-place",
+      "id": "24403",
+      "address": "24403 NW 11TH PLACE",
+      "price": "$294,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0078-24403-nw-11th-place/harper-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=bff62770c5c149768d7c74276b0153d3&hash=E25CE4540324DF121CAAEF52BAC4CF80",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0093-24444-nw-11th-place/harper-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c04a999d868e4ef882813b3a8f300d43&hash=74350E0AB99053A00BFD23BB058E67FB"
+      ],
+      "name": "24444 NW 11TH PLACE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/west-central-florida/newberry/avalon-woods/qmis/24444-nw-11th-place",
+      "id": "24444",
+      "address": "24444 NW 11TH PLACE",
+      "price": "$294,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34776-avalon-woods/974490000-avalon-woods-40s-exp/3emb/0093-24444-nw-11th-place/harper-as-gen3-elev_ind.jpg?iar=1&sc=1&thn=1&w=425&rev=c04a999d868e4ef882813b3a8f300d43&hash=74350E0AB99053A00BFD23BB058E67FB",
+      "latitude": 29.66963,
+      "longitude": -82.60519,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Newberry Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Oak View Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Newberry High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "timestamp": "2025-05-30T22:27:35.291589",
+  "name": "The Vineyards Townhomes",
+  "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes",
+  "status": null,
+  "price_from": "$256,990",
+  "address": "690 Moscato Drive,Holly HIll, FL 32117",
+  "phone": "(386) 260-5993",
+  "description": "Find a new home in Holly Hill, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Volusia County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/pearson_the_vineyards.jpg"
+  ],
+  "location": {
+    "latitude": 29.23109,
+    "longitude": -81.04769,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$256,990 - $277,690",
+    "sqft_range": "From 1,463 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Just 5 Mins Beach!",
+      "description": "Just 5 Mins to the Beach!",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Low",
+      "description": "Convenient Low-Maintenance Living",
+      "icon_url": null
+    },
+    {
+      "name": "Waterview Homesites",
+      "description": "Waterview Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pool & Cabana",
+      "description": "Community Pool & Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Lawn Maintenance Included",
+      "description": "Lawn Maintenance Included",
+      "icon_url": null
+    },
+    {
+      "name": "Granite Countertops",
+      "description": "Granite Countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Stainless",
+      "description": "Sleek Stainless-Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Two Story Concrete Block",
+      "description": "Two Story Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Mins from SR",
+      "description": "Mins from SR-95",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Local Dining &",
+      "description": "Nearby Local Dining & Shopping",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Pearson - End Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/floor-plans/t20a",
+      "details": {
+        "price": "From $267s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,463 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0013-700-moscato-drive/the_pearson_-_the_vineyards_1.jpg?as=1&w=425&rev=e24e1214e54046f599c7a654f5072ddd&hash=90D94D29B786F79040A9D42A57516E6B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/pearson_a_no_logo.jpg?rev=5493abd377174ad1a051320a951a11a3&hash=E20F8AE146AB67CB71B6603E2EEC9DDA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/pearson_web.jpg?rev=a5bf24c7210041c8877b5eb5098fe6f7&hash=C7534DA0DE2B651AFEC0E0692B12C7B4"
+        }
+      ]
+    },
+    {
+      "name": "Pearson - Interior Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/floor-plans/t20b",
+      "details": {
+        "price": "From $257s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,463 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/01tvy_0035_690-moscato-drive---holly-hill--fl-32117---01.jpg?as=1&w=425&rev=664c2ff019064b3e81a17bd5f370dff6&hash=72662C87E406B0CEDEC83E42ABCE129F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/pearson_b_no_logo.jpg?rev=bd9ef558e21c4e7fa28805127598aa9f&hash=5BA7D2FE65DD4937409A65BC57B192E6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/pearson_web.jpg?rev=c8c2b6e283a74c4f857a7eb12e834ee6&hash=C594AACF75DF30734901D826C833E248"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/pearson_the_vineyards-5.jpg?as=1&w=494&rev=60cbeec7e32143e294e780fb9bdef88f&hash=BD8F0679C1AA1FA8396EB9BA96CA84A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_2.jpg?as=1&w=494&rev=ac397764fd2d452e90c3ac09baa5271a&hash=CC52924FFFD35CE04CB56EE5FBBF24E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_3.jpg?as=1&w=494&rev=0a4ef455e083429c99e95c0292d2654d&hash=3915D0820DBB166177E430B8A49115C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_4.jpg?as=1&w=494&rev=7445669bf2a34dd792de3a232ac64a01&hash=D51019109180DD34B83015BB797F9B92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_5.jpg?as=1&w=494&rev=0829e1b40e704a9aa48b1bc35278ae95&hash=219B7C219087C6C8415F7B5636E3D14E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_6.jpg?as=1&w=494&rev=1fef9b6b1b874e8a95a29fb07846934b&hash=3D134322612485DBCFB77A38DAB0C7AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_7.jpg?as=1&w=494&rev=4c5a1ee0fc0441c9b50e374ccb082b05&hash=ABED0D10A8ED93ACA5BC51F4A40B0245",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_8.jpg?as=1&w=494&rev=50d8890302554c06a8da6f1f47882c9c&hash=96E75C01EF2F313C69B52A1F7A2A5ADE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_9.jpg?as=1&w=494&rev=405b52452a344d6ba9aeefcc53b2e366&hash=F3027765EEF82A4DF3E1601634D776F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_10.jpg?as=1&w=494&rev=c6039abc862349e8bd246d1515d572cf&hash=262BED5F3FCBC2BA6FBF7E568DEDFEBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_11.jpg?as=1&w=494&rev=f0a9cf79aa174d99af0d52bb03e486f6&hash=611C1A3C2437815C50BBFC5313BE6FA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_12.jpg?as=1&w=494&rev=bbe0350586954b58b848f4945d62dcf9&hash=284B10C50F3A5D64BEDDAEF2E323F847",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_13.jpg?as=1&w=494&rev=a4d1d8975cfe44a98f46fcd31b136a51&hash=87517BA253978555A530B269B7914AF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/the_pearson_-_the_vineyards_14.jpg?as=1&w=494&rev=e79b3261784943498356b45052fb3ba3&hash=977C3BAE66A5140105DEFF9492180B28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/pearson_b_no_logo.jpg?rev=bd9ef558e21c4e7fa28805127598aa9f&hash=5BA7D2FE65DD4937409A65BC57B192E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/pearson_web.jpg?rev=c8c2b6e283a74c4f857a7eb12e834ee6&hash=C594AACF75DF30734901D826C833E248"
+      ],
+      "name": "552 Zinfandel Drive",
+      "plan": "Pearson - Interior Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/552-zinfandel-drive",
+      "id": "552",
+      "address": "552 Zinfandel Drive",
+      "price": "$262,690",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0097-552-zinfandel-drive/pearson_the_vineyards-5.jpg?iar=1&sc=1&thn=1&w=425&rev=60cbeec7e32143e294e780fb9bdef88f&hash=A51D20C172B812B19169D1E67F2BB46B",
+      "latitude": 29.23109,
+      "longitude": -81.04769,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?as=1&w=494&rev=d7359a516a7e4c489807fc080fb3f4a4&hash=613CDA0C80B8911CF0A1390EFEBB689C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/3-custom-brie_hammock_bend_st-003.jpg?as=1&w=494&rev=6154d0344da249aa923396fddd1925f0&hash=FAF5CC195176AC3D329EFD6997F92302",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/4-custom-brie_hammock_bend_st-004.jpg?as=1&w=494&rev=04098d557bdf45d59bf2dc4fbd7e73ac&hash=DD06CA381EB6F98B6B7A0288CD6229FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/5-custom-brie_hammock_bend_st-005.jpg?as=1&w=494&rev=bf4e076e476d4f11b38936090453beac&hash=F492F8DF0AAACE21B8089513ACBA95FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/6-custom-brie_hammock_bend_st-006.jpg?as=1&w=494&rev=2e3e23d0807d44b6b2aef3f326857c90&hash=241C00B2DE1CB0B2D1864711A2FA5B20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/7-custom-brie_hammock_bend_st-007.jpg?as=1&w=494&rev=db8d486333374ab0a7e979c91143ada8&hash=BD20F7E8D1599DF215318E3E50FDB1CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/8-custom-brie_hammock_bend_st-008.jpg?as=1&w=494&rev=db3ba22ecb574aad82b1db1bce24a1e5&hash=726B9D844AF6756A915FF51CC26C1FA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/10-custom-brie_hammock_bend_st-010.jpg?as=1&w=494&rev=f7873e4be67a45e3a6e01ade620d9428&hash=5A84AAB05C4BFD5C6AFC0DA0D8C2036D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/14-custom-brie_hammock_bend_st-014.jpg?as=1&w=494&rev=31126d8a04d042f5889f2651cfc3516e&hash=176D494798F22FD99DF5176F243338A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/20-custom-brie_hammock_bend_st-020.jpg?as=1&w=494&rev=f27a2868ab9d4d87bb9daed851b82a45&hash=D5E2C12AADC035790F7C6CE3D2AB7964",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/21-custom-brie_hammock_bend_st-021.jpg?as=1&w=494&rev=27de8ffb5d8e482491af59eb0d66fac8&hash=42F7372BB97FF2672036450D1194F383",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/22-custom-brie_hammock_bend_st-022.jpg?as=1&w=494&rev=de6411945c714a62a8d7461bc1c3e523&hash=E669E5BDBB382A40D9FDB7EA9C7A273B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/23-custom-brie_hammock_bend_st-023.jpg?as=1&w=494&rev=4d38e468b11047b68a3748a7a7ac57e7&hash=C14B73FFCFB628861DDBC3F36077DEA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/24-custom-brie_hammock_bend_st-024.jpg?as=1&w=494&rev=9d73da4c8b6343eb9a7560de5d54948b&hash=244C6EE7371715137415CA7A5B535E84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/26-custom-brie_hammock_bend_st-026.jpg?as=1&w=494&rev=d2adca91d3aa4abaa47437f0d543fa95&hash=2B32BEA2CF663EF03AF0D8F3ADE9DA48",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/27-custom-brie_hammock_bend_st-027.jpg?as=1&w=494&rev=29bd952d4e254a96ade1c5acd73ffdfc&hash=0F9FBA697B02C8D1896440C9E74CBD75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/29-custom-brie_hammock_bend_st-029.jpg?as=1&w=494&rev=7a469f40083a49d296b94f16efdadcc3&hash=CAC668880F80BB575DC8B127E4A7E451",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/33-web-or-mls-brie_hammock_bend_st-033.jpg?as=1&w=494&rev=14fad0d1ff434668b4d507910524b32a&hash=65343A12E91F0E2BE437445427422A5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/pearson_web.jpg?rev=c8c2b6e283a74c4f857a7eb12e834ee6&hash=C594AACF75DF30734901D826C833E248",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "554 Zinfandel Drive",
+      "plan": "Pearson - Interior Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/554-zinfandel-drive",
+      "id": "554",
+      "address": "554 Zinfandel Drive",
+      "price": "$262,690",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0098-554-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?iar=1&sc=1&thn=1&w=425&rev=d7359a516a7e4c489807fc080fb3f4a4&hash=72DD0248155A93C7C28CDED1247B93ED",
+      "latitude": 29.23109,
+      "longitude": -81.04769,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?as=1&w=494&rev=ceb248edced34f52a86ca79197d2fcfc&hash=FCF30432AA549DBC869754D0A3338B8A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/3-custom-brie_hammock_bend_st-003.jpg?as=1&w=494&rev=ade800e7437945609148317e469ffc96&hash=848701AF9F09875F81041EAEBA4AF596",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/4-custom-brie_hammock_bend_st-004.jpg?as=1&w=494&rev=14ed42eebd8147d585126b2cfb724e72&hash=B8573692ABD0A85B3354080835D547B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/5-custom-brie_hammock_bend_st-005.jpg?as=1&w=494&rev=8ab22f2f97e54cb48a8be1a8ceab7bd4&hash=35E348DAEA018C03AF39F6107C6CF8B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/6-custom-brie_hammock_bend_st-006.jpg?as=1&w=494&rev=e812d2ecd33a4d5fa15d20eadfb334e9&hash=77011EF2CBFD040B888EAE62ECAF5E83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/7-custom-brie_hammock_bend_st-007.jpg?as=1&w=494&rev=cfa19d5ee6f54792aa75884220e9bedb&hash=C90B25D48667955833379CA2134FD459",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/8-custom-brie_hammock_bend_st-008.jpg?as=1&w=494&rev=23c1be7c7d1b49dfb8130c87522a1794&hash=B74233FEA89CBD26E0B7DEF2A004504E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/10-custom-brie_hammock_bend_st-010.jpg?as=1&w=494&rev=4e748d1d6b624e8eac2e3bfdd506ab97&hash=94E0382304C0F3415E6F2340D6CF770F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/14-custom-brie_hammock_bend_st-014.jpg?as=1&w=494&rev=a6bbcf7870514aefacb31862e298f933&hash=142A093DDD2BDDE1309A74BD5F1A0FB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/20-custom-brie_hammock_bend_st-020.jpg?as=1&w=494&rev=7379a13966e54334a4627da4000a90b1&hash=4ABF99CA239C74283564DBF639E78FF9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/21-custom-brie_hammock_bend_st-021.jpg?as=1&w=494&rev=86ea9946d3d04cbd94b9fd274b85ddc3&hash=C55A9D46D47AF616559A17821367A37F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/22-custom-brie_hammock_bend_st-022.jpg?as=1&w=494&rev=2f014b66adee4915bb2fec08f5712d83&hash=0ED5191EC90BC915FA349F6EDC190A1C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/23-custom-brie_hammock_bend_st-023.jpg?as=1&w=494&rev=e02e789bf8144c808bdae40645b01495&hash=CE81BB8EECE48592389AEC79F6A83553",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/24-custom-brie_hammock_bend_st-024.jpg?as=1&w=494&rev=b922c5a369b2481dae96619136952303&hash=4CA3E8E98C0B8824CF2096FDA441C0B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/26-custom-brie_hammock_bend_st-026.jpg?as=1&w=494&rev=c5c3435d87db447685aaf36e7abd0709&hash=C61BB4A955EAB0A0901DE592DE927D9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/27-custom-brie_hammock_bend_st-027.jpg?as=1&w=494&rev=92ca7bf381114b92b2a8a91165ff4c4e&hash=9BF18AD359123AC4CD5E7F7BF3A14452",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/29-custom-brie_hammock_bend_st-029.jpg?as=1&w=494&rev=938c5086dfd942eba81e6d99e5006a22&hash=04147F2A0CD4663853C605BCBC817A34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/30-custom-brie_hammock_bend_st-030.jpg?as=1&w=494&rev=03b932a5ce2747a3927f8cc2ed8e5df6&hash=82314C736E617C43804625956AAF7944",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/31-custom-brie_hammock_bend_st-031.jpg?as=1&w=494&rev=2dfc450d124f4242b50b4039e17ff442&hash=B93BAA64A052A1184C66A1D8D9DA1883",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/32-web-or-mls-brie_hammock_bend_st-032.jpg?as=1&w=494&rev=80f2df24746c44d4acfa6a67727e5ca0&hash=D24FF3C2ED52011855F565C9217EE2C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/pearson_b_no_logo.jpg?rev=bd9ef558e21c4e7fa28805127598aa9f&hash=5BA7D2FE65DD4937409A65BC57B192E6",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "556 Zinfandel Drive",
+      "plan": "Pearson - Interior Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/556-zinfandel-drive",
+      "id": "556",
+      "address": "556 Zinfandel Drive",
+      "price": "$262,690",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20b/0099-556-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?iar=1&sc=1&thn=1&w=425&rev=ceb248edced34f52a86ca79197d2fcfc&hash=802EB6A679E4A3D47B75C78E6ABD0576",
+      "latitude": 29.23109,
+      "longitude": -81.04769,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?as=1&w=494&rev=a74292057a874955ad8f2e0b62051e58&hash=5C4410E04C275294EFC7516BEA416E5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/4-custom-brie_hammock_bend_st-004.jpg?as=1&w=494&rev=c58629f5e6f740a4a6143407cf49a8a1&hash=8C463F4A90DA6B47D04FA3CCA58C5245",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/5-custom-brie_hammock_bend_st-005.jpg?as=1&w=494&rev=87cc7ffc4dac4150a674b6f20e62bb8d&hash=30E897FA7C86AC8D9C12D6C58F9A45F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/6-custom-brie_hammock_bend_st-006.jpg?as=1&w=494&rev=32266c059096407689628d3900a5dbf1&hash=EA57E78E80B49B68D0318C2E3B4481BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/10-custom-brie_hammock_bend_st-010.jpg?as=1&w=494&rev=2c4e2472f3234b6a9d8fd1b3c4564202&hash=A43E0318210E0E51C172E198100EB43D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/14-custom-brie_hammock_bend_st-014.jpg?as=1&w=494&rev=1481ef98284946f0a457828756d6b2f6&hash=9B93F078AE54288324EF1D19B05CA6C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/21-custom-brie_hammock_bend_st-021.jpg?as=1&w=494&rev=ffb07cf388db413bab841c64bbdaedd6&hash=4EC9EC7A557303EC413A6F0E9C945D36",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/22-custom-brie_hammock_bend_st-022.jpg?as=1&w=494&rev=0a77150b779040e29a1ade4e1a5732a3&hash=62F08272F59175B2F166020F85756521",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/24-custom-brie_hammock_bend_st-024.jpg?as=1&w=494&rev=338f639fc8044e81832bf261d3f28c58&hash=991BE9E5C329E92F22DC71B2B5D58326",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/26-custom-brie_hammock_bend_st-026.jpg?as=1&w=494&rev=3598b1e51e8a4fb8a88c0969a12a413e&hash=2B6C458B5E17EEC33BFAB9DF6CFAAD2E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/27-custom-brie_hammock_bend_st-027.jpg?as=1&w=494&rev=7535f3bb80b245e988da692d7a59e3bd&hash=1B103A1F22C684A6B6CFC57A455B156D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/30-custom-brie_hammock_bend_st-030.jpg?as=1&w=494&rev=ea2c235d74804e4dbcdfa7bed2478221&hash=E69325997988DC281FD8E1521E9AAD06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/32-web-or-mls-brie_hammock_bend_st-032.jpg?as=1&w=494&rev=f6fdebffdc444186b800c92c46201884&hash=EF0390A0298EB5B410E42094F0282C10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/pearson_a_no_logo.jpg?rev=5493abd377174ad1a051320a951a11a3&hash=E20F8AE146AB67CB71B6603E2EEC9DDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/pearson_web.jpg?rev=a5bf24c7210041c8877b5eb5098fe6f7&hash=C7534DA0DE2B651AFEC0E0692B12C7B4"
+      ],
+      "name": "558 Zinfandel Drive",
+      "plan": "Pearson - End Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/558-zinfandel-drive",
+      "id": "558",
+      "address": "558 Zinfandel Drive",
+      "price": "$276,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0100-558-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?iar=1&sc=1&thn=1&w=425&rev=a74292057a874955ad8f2e0b62051e58&hash=F8BE15E12B53EBB4EE0D66980850EEA7",
+      "latitude": 29.23109,
+      "longitude": -81.04769,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?as=1&w=494&rev=d24308c92bc04dd9ab84b1f331e730dd&hash=D4B8E97AAAC31EE387C3F0B942274770",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/3-custom-brie_hammock_bend_st-003.jpg?as=1&w=494&rev=b946e6a5edff40bdbea3123afbcd1fe3&hash=A4DE86DD21D5589043C65774FB93B2F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/4-custom-brie_hammock_bend_st-004.jpg?as=1&w=494&rev=d77ac55306904ad2b9e308e3b92f2275&hash=D1F3F1127CDBA8515FE17211E5118A21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/5-custom-brie_hammock_bend_st-005.jpg?as=1&w=494&rev=687d65bbddb242af8f8bb299aa973092&hash=0B8B7051F053B4CFB0DBAB191E062562",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/6-custom-brie_hammock_bend_st-006.jpg?as=1&w=494&rev=f21366e85caf40e9bbf8d826d1409788&hash=166E1D28CC67D50A1355948DA9E3DB5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/10-custom-brie_hammock_bend_st-010.jpg?as=1&w=494&rev=1abcb01fe28a41d98a69a6e34bad1a39&hash=6EEA0D632C10B34CFEF8D669E19DE33C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/14-custom-brie_hammock_bend_st-014.jpg?as=1&w=494&rev=3f0bba323aa9436fa8d9fb1038872ed8&hash=8ED2C3C8BCF2E060BF06FCAA215F8678",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/21-custom-brie_hammock_bend_st-021.jpg?as=1&w=494&rev=2fcfb9f632c144d994c870ea4c7bc878&hash=D2260259E4A5319E0BF8D1D709A7B0C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/22-custom-brie_hammock_bend_st-022.jpg?as=1&w=494&rev=804a5614100e44c58d67f0097d17ef4d&hash=9C0A569C7D1CB6FE4BB98C61DE70A995",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/23-custom-brie_hammock_bend_st-023.jpg?as=1&w=494&rev=e13df7e197ae44b1bee4048ba82bc0a6&hash=E697944BA89F2DD7A576F330E309E0FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/24-custom-brie_hammock_bend_st-024.jpg?as=1&w=494&rev=97ecc2fcca6a40529e0bd6fdfbff53bb&hash=68B152217C4D616A72F841B58BFC0C88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/26-custom-brie_hammock_bend_st-026.jpg?as=1&w=494&rev=ffe56688d7b74a8696588445fb9b0d7c&hash=D8113259C0FF5DE0074E6D657226FAB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/27-custom-brie_hammock_bend_st-027.jpg?as=1&w=494&rev=8bbdb1d2cf644640afc5355118e164c0&hash=14D06331013BBCA9151AD2FB282B4589",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/31-custom-brie_hammock_bend_st-031.jpg?as=1&w=494&rev=b47925c0e11a48bca5e0ef48c1f6ff71&hash=E68F99F573FCCEC874330F0BED039B1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/32-web-or-mls-brie_hammock_bend_st-032.jpg?as=1&w=494&rev=6f2ad075dc8f4a988e976672636f86e2&hash=A49A255218D6600CF38FBE5D0CE0024A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/pearson_a_no_logo.jpg?rev=5493abd377174ad1a051320a951a11a3&hash=E20F8AE146AB67CB71B6603E2EEC9DDA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/pearson_web.jpg?rev=a5bf24c7210041c8877b5eb5098fe6f7&hash=C7534DA0DE2B651AFEC0E0692B12C7B4"
+      ],
+      "name": "548 Zinfandel Drive",
+      "plan": "Pearson - End Unit",
+      "url": "https://www.drhorton.com/florida/volusia-county/holly-hill/the-vineyards-townhomes/qmis/548-zinfandel-drive",
+      "id": "548",
+      "address": "548 Zinfandel Drive",
+      "price": "$277,690",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34542-the-vineyards-townhomes/345420000-the-vineyards-townhomes/t20a/0095-548-zinfandel-drive/1-web-or-mls-brie_hammock_bend_st-001.jpg?iar=1&sc=1&thn=1&w=425&rev=d24308c92bc04dd9ab84b1f331e730dd&hash=54643BDC4B196A77B96A069A84011001",
+      "latitude": 29.23109,
+      "longitude": -81.04769,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Holly Hill School",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Campbell Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Mainland High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

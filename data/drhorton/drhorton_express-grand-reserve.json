@@ -1,0 +1,431 @@
+{
+  "timestamp": "2025-06-02T03:23:40.627319",
+  "name": "Grand Reserve",
+  "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve",
+  "status": null,
+  "price_from": "$271,990",
+  "address": "504 Grand Reserve Dr.,Bunnell, FL 32110",
+  "phone": "(386) 260-3990",
+  "description": "Find a new home in Bunnell, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/335-jacksonville/33740-grand-reserve/337410000-grand-reserve-express-fl/01.jpg"
+  ],
+  "location": {
+    "latitude": 29.48113,
+    "longitude": -81.25072,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$271,990 - $315,990",
+    "sqft_range": "From 1,402 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Golf",
+      "description": "Golf",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Bocce",
+      "description": "Bocce",
+      "icon_url": null
+    },
+    {
+      "name": "Fishing Pond",
+      "description": "Fishing Pond",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Fire Pit",
+      "description": "Fire Pit",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    },
+    {
+      "name": "Outdoor Kitchen",
+      "description": "Outdoor Kitchen",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Adele",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/floor-plans/1402",
+      "details": {
+        "price": "From $272s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,402 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/1402-adele-craftsman-day-elev_day_mar2022_web.jpg?as=1&w=425&rev=55ef5816096e4928a3b55135f02ddd7e&hash=784F6D04FFAF66C8DAD66436B2E6E950"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/1402adele_fp_web_2020.jpg?rev=4e3e2a84d38a42f1a27286d22dbb160d&hash=CDC4F9FFCFA4C4C9B8F4670483B56DE9"
+        }
+      ]
+    },
+    {
+      "name": "Berkeley",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/floor-plans/1655",
+      "details": {
+        "price": "From $284s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,655 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/1655-berkeley-a-elev_day_mar2022_web.jpg?as=1&w=425&rev=0010648ffd0e4ef383be807466b60972&hash=8DE6430229E41C7940F01435CBDC3AB8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/1655berkeley_fp_mar2023.jpg?rev=f72af3f8abcf43debea127f86f7da2ba&hash=2E290F7E8D868555446E6BD81D0DB0FE"
+        }
+      ]
+    },
+    {
+      "name": "St. George",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/floor-plans/1778",
+      "details": {
+        "price": "From $300s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,778 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1778/1779-st-george-a-elev_day_mar2023_web.jpg?as=1&w=425&rev=40ae1cdf23834ef08df35ab6a759fa51&hash=A41F045C61AD17383E47A6930D782A2C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1778/1779stgeorge_fp_mar2023_web.jpg?rev=d4eeb53649834f89892517b3d34bd160&hash=677380A5F49D295BEEF25D89AF5B79BE"
+        }
+      ]
+    },
+    {
+      "name": "Willow",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/floor-plans/1526",
+      "details": {
+        "price": "From $275s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,550 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/1528-willow-a-elev_dsk_mar2023_web.jpg?as=1&w=425&rev=ad40b82acea045e3abb47351ab8756a0&hash=0B2E71F20E4C4BA1FEB6705783DD4A99"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/1402-adele_a_-traditional-day-elev_day_mar2022_web.jpg?as=1&w=494&rev=512a0e6f8bee4bca85f3bcd2573e3839&hash=DA527620ACFB151D64A891A77ACAB791",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0000_kitchen_2.jpg?as=1&w=494&rev=1084421eb6eb44188cf8bfd02c27d270&hash=797DC7C1D76B8D7C1E9B7401E359ADFA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0000_kitchen_3.jpg?as=1&w=494&rev=bd2ab6799a114e8face62ffeb172e892&hash=CA315C8F06D3897FF47F78D45643A7D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0001_kitchen_1.jpg?as=1&w=494&rev=b111a88d707c43bf8bbd35423e41b62a&hash=3BE5B1482873CD19ADED633836447F93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0001_kitchen_2.jpg?as=1&w=494&rev=f0c9c8045f7d440fb806b5d561402d2f&hash=41585734E064EAD6EC3A05B62326CB3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0002_gathering_5.jpg?as=1&w=494&rev=52a5404ad7a844f4a9769c0a4e6ad425&hash=CE41A0B5588902AAE37C16D03BD0381B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0002_gathering_6.jpg?as=1&w=494&rev=10eda6177e6b43d5b7432e88afaa7c9e&hash=A48DE51490E56649A1B22C6175720AD4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0004_gathering_3.jpg?as=1&w=494&rev=a80ab088b7b74faab6e66ddd6e263117&hash=7764F5707197921622255EB2F18785D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0004_gathering_4.jpg?as=1&w=494&rev=8205933955c641cf928814b9e45829de&hash=320517DF9DFFAEFB9FC0922741E2F5E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0005_gathering_2.jpg?as=1&w=494&rev=eb46c04fdbde4563a447eac13f763991&hash=7BE11F7442CC5A7ABE4510FF2389AD47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0005_gathering_3.jpg?as=1&w=494&rev=324523e17ec049c3bcdc358af54a3db9&hash=30113C0D29D84E3950E46BEE77BA7E8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0006_gathering_1.jpg?as=1&w=494&rev=484a8b5794cf4c3f8480453de0cb078f&hash=53816A8FABCF3BB0C6C7E18E7600B619",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0006_gathering_2.jpg?as=1&w=494&rev=d976a878f4e946058db0f927b2b87455&hash=37FB0B055CBC9C1DFA56B2AE297A30D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0007_bedroom_1.jpg?as=1&w=494&rev=95bf50ae59104228b051eac8a364e5e6&hash=C457FB7E7F42A735F8276DA854182A48",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0008_bedroom_1_staged.jpg?as=1&w=494&rev=c0f71c817e33448ea2bf1b0e1e978a4d&hash=3AEE3F8D70E126C91D4B1872C0792D9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0009_bath_1.jpg?as=1&w=494&rev=3da17464790946dab77f98956a657cec&hash=A6FFAEBBB4BC6C6FC3D3CEC590F3E56C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0011_bedroom_3.jpg?as=1&w=494&rev=9503907a1f79497691e9d61c7ec25ea7&hash=4DEFA64F8E8F6E75A7DA8491131CBDB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0011_bedroom_4.jpg?as=1&w=494&rev=0f59c163f8c04a6b82a670aeb3213dd8&hash=0477EF28848539F870EEDEE4748889CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0012_bedroom_2.jpg?as=1&w=494&rev=6f1e7ff054c345e1ad226662da1d8915&hash=9FA4AEDFA152B0B0D93CA44E2C7478C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0012_bedroom_3.jpg?as=1&w=494&rev=449472bae2764b16bae5ac29f477561e&hash=6041DA03491F0D0CF6A4E42C3F21A111",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0014_bath_2.jpg?as=1&w=494&rev=53e924558d7d4505bce6d3c8463ffd25&hash=8E92BC3D0BD6A2506172761992209C83",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0016_laundry.jpg?as=1&w=494&rev=0124c1af418343dc9c7a92b833b06a01&hash=7C49A7E638C2F6F27F2B215B41F46379",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/untitled-1_0017_exterior_4.jpg?as=1&w=494&rev=68391635d742455b854a20ebdd36bbdf&hash=613DF2D716B0E976CF70DB72091105EE"
+      ],
+      "name": "815 GRAND RESERVE DRIVE",
+      "plan": "Adele",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/815-grand-reserve-drive",
+      "id": "815",
+      "address": "815 GRAND RESERVE DRIVE",
+      "price": "$279,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1402",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0112-815-grand-reserve-drive/1402-adele_a_-traditional-day-elev_day_mar2022_web.jpg?iar=1&sc=1&thn=1&w=425&rev=512a0e6f8bee4bca85f3bcd2573e3839&hash=3CFE1CD6338846D294A0EA31EEC64F2A",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/1402-adele_a_-traditional-day-elev_day_mar2022_web.jpg?as=1&w=494&rev=bc08e1bd5ee44ba9a065ed7d3cc06920&hash=8B44E6084F64F10F7FF711C95BF1EF86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0000_kitchen_2.jpg?as=1&w=494&rev=275c1c0e2a4c4771ace0fb2951652a4f&hash=918CF175040CEDEE8BF92EFD8C06BFC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0000_kitchen_3.jpg?as=1&w=494&rev=9e5a6bc81e434136b1feee1d0283ec5e&hash=E9D3A9F5EC513B9608206C33CA961253",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0001_kitchen_1.jpg?as=1&w=494&rev=019952d83cb2411a93f8be3e76c7a1b5&hash=399225E344E25615D1C07C38142E765E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0001_kitchen_2.jpg?as=1&w=494&rev=0b3e1d4fa4e440df9f40f86580a8b138&hash=497196ED84011A1E4C359AF8C34B4BB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0002_gathering_5.jpg?as=1&w=494&rev=b7b98160de034a2395b9c6b054c9b2bb&hash=92E132A16DA911C5B5434D7D799887ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0002_gathering_6.jpg?as=1&w=494&rev=e9799dc37ec846cd848475936d0c86c3&hash=ADCF08A1477DBB8DF611C25B904E382D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0004_gathering_3.jpg?as=1&w=494&rev=764e07984e4a4a6d9f49f687a8ae3836&hash=1A6BE514E0128DFDAB55B8DAB037342A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0004_gathering_4.jpg?as=1&w=494&rev=9b435cb0cc56476ea6b25e9c5304b2f8&hash=749A7511F63F52E218F72357EC18379A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0005_gathering_2.jpg?as=1&w=494&rev=49c953497fe4475994f5495e0b7153ac&hash=7B5710E4ABE4CE1E46CF521953F05AD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0005_gathering_3.jpg?as=1&w=494&rev=d8a9f3a77e8a4efcb11e1fbb81f9a3db&hash=6754CC3D83716B50C09A66A709A4C628",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0006_gathering_1.jpg?as=1&w=494&rev=1203b148d5ff4dd8a4aa228215297106&hash=1729EB570F1D26430D221F65FE6053C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0006_gathering_2.jpg?as=1&w=494&rev=a1048591aeed4d8d980c32107500af38&hash=C83C7CB6FE7ACA7862871EFF2D5194CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0007_bedroom_1.jpg?as=1&w=494&rev=d18380138645436ba76118b99270e768&hash=249A1BEAC36A87A4B2123BA7F70C3CA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0008_bedroom_1_staged.jpg?as=1&w=494&rev=8949518def074de38760837c265f9e25&hash=E41509AC55AE45416EE962F985C5920D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0009_bath_1.jpg?as=1&w=494&rev=a61e732212684f54a24797920e66e8a0&hash=39E905819B90C0388B63680C3BBB321A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0011_bedroom_3.jpg?as=1&w=494&rev=d6f063e3021547a4a3ef52faf7ffba88&hash=C78D376A3A2B334E1E65ED6ED22BC747",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0011_bedroom_4.jpg?as=1&w=494&rev=29eee27892ad48708f272528d8232e6c&hash=8AFF5CA2AA6AB4A1D7A516147CF0DF6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0012_bedroom_2.jpg?as=1&w=494&rev=8b800500da7c48468ca99366cfb855c2&hash=232A5645D72BB8E5D84C4C7638E3AF7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0012_bedroom_3.jpg?as=1&w=494&rev=b7e6a8b433b64543b8b1eec88f530f24&hash=788DA81A2E39616CBCF3FCD424176C3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0014_bath_2.jpg?as=1&w=494&rev=8863e88a8e9346af9c1289fa286d939b&hash=05A2C752A3B550E481DED3E14A14AD28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0016_laundry.jpg?as=1&w=494&rev=9d07cd09f6d44938980f051288305b9f&hash=3C9FC44CC694C123CC9012FABB90B3BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/untitled-1_0017_exterior_4.jpg?as=1&w=494&rev=4b6a38b2cb4f43db8c0065c61f5612cb&hash=9720B4360160B6F9432E845BD95D0F36"
+      ],
+      "name": "803 GRAND RESERVE DRIVE",
+      "plan": "Adele",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/803-grand-reserve-drive",
+      "id": "803",
+      "address": "803 GRAND RESERVE DRIVE",
+      "price": "$283,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1402",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1402/0106-803-grand-reserve-drive/1402-adele_a_-traditional-day-elev_day_mar2022_web.jpg?iar=1&sc=1&thn=1&w=425&rev=bc08e1bd5ee44ba9a065ed7d3cc06920&hash=A979276407D82169929E7910E0B84F00",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/1528-willow-c-elev_dsk_mar2023_web.jpg?as=1&w=494&rev=43f7839367a04168899ddb1f7f0d264f&hash=BBFB7D81B172547DABCF082EE87EE6FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i1.jpg?as=1&w=494&rev=4e4592b697bb4b79aa1b50ade0a30555&hash=0A2FAAF069833A40AF7B568848031F99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i2.jpg?as=1&w=494&rev=d2e43863104145b29884095e2cd4218a&hash=F9112DEF6141F7F66F56E89041F88760",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i3.jpg?as=1&w=494&rev=5979b674f7604d47a059a6ea8e355ec8&hash=0059C2C489426DCE640493E784D8E58E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i4.jpg?as=1&w=494&rev=a9c6705d3f514a77bf6025f1186b8322&hash=24D24236BF09A8E4AC2295402B014191",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i5.jpg?as=1&w=494&rev=9f9d85e4a8bb42299b309f53df7ffcab&hash=1CAE66E2DF60307CC6329CAB2436CF56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i6.jpg?as=1&w=494&rev=3f9b84b86cb94516a36ee6fc7d0c4e0c&hash=50C68533C896BD40B24A73434A3BD58D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i7.jpg?as=1&w=494&rev=6b1e575e17404a599665ba6feaf02b74&hash=F109A68FECD06222EB509E5C79A32E6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i8.jpg?as=1&w=494&rev=d0e6cfd4d17b495389c531f386bdedc3&hash=0F8D39C9ABFEBE34ABA79DF13B49A40D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i9.jpg?as=1&w=494&rev=f5ca09e2357346ec84367cef70d970b5&hash=453857C0B6E0F907E395DDB4AC3D96B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i10.jpg?as=1&w=494&rev=46da3826ad0341b4909c9a5b7b7d86f0&hash=E30423EA5DAAC4CE71D17E445760C981",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i11.jpg?as=1&w=494&rev=ffc502cd32ef43b29fc9c81cacb28859&hash=1E17E2DC97D4688DC8B6A722504D5B7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i12.jpg?as=1&w=494&rev=6e7ec579c1d0473fa9e1557235fbfefb&hash=D43AB6ACDA25FE9E80438618CED9EB0E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i13.jpg?as=1&w=494&rev=b5b8324991c949478f5d95f149d40e5f&hash=D5F027D63208B1585A0D1C49EAC56974",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/i14.jpg?as=1&w=494&rev=fc76929347bb4dfbb79a4fb1729c3b04&hash=F90769D476CD409D0A49CA23D0665F0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/z-homeisconnected_1920x1080.jpg?as=1&w=494&rev=611f3bc4d0e148739f2b0561aed9401d&hash=585396046EECB30EC9243C59BB0139F6"
+      ],
+      "name": "817 GRAND RESERVE DRIVE",
+      "plan": "Willow",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/817-grand-reserve-drive",
+      "id": "817",
+      "address": "817 GRAND RESERVE DRIVE",
+      "price": "$303,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1526",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0113-817-grand-reserve-drive/1528-willow-c-elev_dsk_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=43f7839367a04168899ddb1f7f0d264f&hash=E51A03F3D546F628BEF664CF63F91986",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/1655-berkeley-b-elev_day_mar2023_web.jpg?as=1&w=494&rev=6750d180a1dc40908a3ab8f08029dbda&hash=1F92B41AF75B9AFDC9E08E11D1CA93AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/6.jpg?as=1&w=494&rev=89993d58ef8f40d7ba276de833b5eb74&hash=899AAD1042DD9C78E2BE1D8AB928CC57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/7.jpg?as=1&w=494&rev=543fbb76f14f4a37944d09745db99360&hash=4783EA69244E9F25EC35299454426DAD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/8.jpg?as=1&w=494&rev=c0137cb9888b4a62a5eef6a844397024&hash=61ACED3DF2EDB77AC92C3C89DA2759C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/9.jpg?as=1&w=494&rev=2e0cee25db48482d9141894df60393c2&hash=589E77D71BF41E63E70C1D1F37256CA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/10.jpg?as=1&w=494&rev=fd7f09c7fb6f45a09eadb37cf3b66d85&hash=26CEBC8A4B6429F93914CE65B7470B51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/11.jpg?as=1&w=494&rev=fdc4037d0f7246869e524edc11028d0d&hash=EB585FA5F8CF39ABB41D91FDD20D3B9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/12.jpg?as=1&w=494&rev=508b943eb0fe4723a3392ac37661f362&hash=A444E240E7B17AEF22BF68836194AD34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/13.jpg?as=1&w=494&rev=96ef02a0a94f4bc4beb8972d580848c0&hash=F87207290FDFA073C68F032D83C3AEE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/14.jpg?as=1&w=494&rev=f0f2d23fcbc047bfbdf4fb1eb323ffaf&hash=6FA7FD3FDCF5B8FFE6F57DB990CAD8CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/15.jpg?as=1&w=494&rev=e339df2daa714816aff3944ba65ac22b&hash=7430C5B628E70E14DE683204989886E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/16.jpg?as=1&w=494&rev=6d57d9a646914233a2fac13d7bc4ad88&hash=E4EDAAA4575FAC5586E3B2843DB857E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/17.jpg?as=1&w=494&rev=bb265cdcc82945b583c737d1bda02cd7&hash=8491E4939476150B9509557C99F15F40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/18.jpg?as=1&w=494&rev=0d80220c919f49988efac34e2cae4d9c&hash=5CDB0F666CF738DBF2B4309219E863B6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/19.jpg?as=1&w=494&rev=a16815ea744e4472a9af04545bcf8ba0&hash=E2DFC10B873B183128BE8E73AD82BEA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/20.jpg?as=1&w=494&rev=b54c177df9d74b9185e8f0a28ec20280&hash=EDE67EF61A74DB2DFABF52EDEAC31A1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/21.jpg?as=1&w=494&rev=095c505209fb4d8a8f55a7544992fc87&hash=DFFA5D39A16E5F73D4C3ACF7FBFF3691",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "798 GRAND RESERVE DRIVE",
+      "plan": "Berkeley",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/798-grand-reserve-drive",
+      "id": "798",
+      "address": "798 GRAND RESERVE DRIVE",
+      "price": "$308,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1655",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0090-798-grand-reserve-drive/1655-berkeley-b-elev_day_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=6750d180a1dc40908a3ab8f08029dbda&hash=0BB341920A1F58B469FF7184B7A4D03B",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0104-799-grand-reserve-drive/1655-berkeley-c-elev_day_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=cbb7fb25241741dfa3b839febd48572b&hash=BE72DD656B5615F25ECB33242A9ECDE1"
+      ],
+      "name": "799 GRAND RESERVE DRIVE",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/799-grand-reserve-drive",
+      "id": "799",
+      "address": "799 GRAND RESERVE DRIVE",
+      "price": "$308,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1655",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0104-799-grand-reserve-drive/1655-berkeley-c-elev_day_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=cbb7fb25241741dfa3b839febd48572b&hash=BE72DD656B5615F25ECB33242A9ECDE1",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/1655-berkeley-c-elev_day_mar2023_web.jpg?as=1&w=494&rev=b46cc1a20ace4ef68734a88be001bba4&hash=17DF7D7CD7275E776A3A7BDED778D2DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/6.jpg?as=1&w=494&rev=501ac31a306c45deb26507db2d183027&hash=9DE8FEDF0F9C9C80C293677A942DAAE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/7.jpg?as=1&w=494&rev=23f53253a49f4f9f8a0ac4eb3f17dda4&hash=F51FC9B6B67635178BF1146A125EAF8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/8.jpg?as=1&w=494&rev=a27114ca7e7841608ca5fccf096cd8bc&hash=FCAA3CB4877056F3BE91179E3CEC80B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/9.jpg?as=1&w=494&rev=e764cc65a6de4ad89b7362d1bb49709d&hash=02EE7A0B1421D5049587E2F5B3AEE18B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/10.jpg?as=1&w=494&rev=6eff8181461e45eeb746c6dfc1dc3de1&hash=EECC960776BFDF652ACB4FE8731F75AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/11.jpg?as=1&w=494&rev=53790ee44c1a47ec8d0002d10d77f3a1&hash=517BFA0C4B2410BB512E32F808795628",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/12.jpg?as=1&w=494&rev=70f9988e91fd4437a46e92ab068d5250&hash=1A4D03098BF261F85CD5313470864A86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/13.jpg?as=1&w=494&rev=2c66aeed623c47c39040cf70c90fe38b&hash=0ECD8E1E00FCFCD1CDAA9D711325C436",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/14.jpg?as=1&w=494&rev=9d96bc4952a64886816b5f8dd4936bee&hash=6E0E2D2FE2170A97DDE2C7F4B40DF5E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/15.jpg?as=1&w=494&rev=2676e8b4a5b346e9bc8148270bd4f8b7&hash=19A081CF08BC24E54FA2A3F270D354CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/16.jpg?as=1&w=494&rev=00d36d3b48f64b4cb02f0a4108ff68db&hash=C59E8FD4465036C5ACA89920F5CA2D6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/17.jpg?as=1&w=494&rev=66c138ade82b426f999ee873cf50fd0a&hash=80E76A2BD0B764D0C0898BD5359F1A40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/18.jpg?as=1&w=494&rev=02b53df9b7cf4bc3a66db8f31bf5117f&hash=A834BCA603F5DF7E10690937024129B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/19.jpg?as=1&w=494&rev=d78f47cebb0447de9a4ca8e706e4418f&hash=D6958637E1675E0D32A24295BC4C7394",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/20.jpg?as=1&w=494&rev=dbc3702a6b6c42d6821c86a44fbc5961&hash=1CF72FD9D3D4BAF49A9E6BA7EAA67B03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/21.jpg?as=1&w=494&rev=348dc7d220b3431b9719e73ece1c2298&hash=7AFD6CAA8E145AE9ED01CF1BA898D46B",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "804 GRAND RESERVE DRIVE",
+      "plan": "Berkeley",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/804-grand-reserve-drive",
+      "id": "804",
+      "address": "804 GRAND RESERVE DRIVE",
+      "price": "$313,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1655",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1655/0093-804-grand-reserve-drive/1655-berkeley-c-elev_day_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b46cc1a20ace4ef68734a88be001bba4&hash=C3CFD1B88F081F071E39EF92EFBD30DD",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/1528-willow-b-elev_dsk_mar2023_web.jpg?as=1&w=494&rev=b8ce809bdcd341c6b52bd52a65b6b5aa&hash=FFB40998B686ECEB90FCEDEA63365A49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i1.jpg?as=1&w=494&rev=f1335fd8581642d088def0f84e711b29&hash=E44F655CAD952C5A937D8D4B5AB45ECF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i2.jpg?as=1&w=494&rev=ba148075511442ec9f4c7aaf8a9e0c16&hash=F277FCD4AD56970FAC7DEC6442E35635",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i3.jpg?as=1&w=494&rev=0221093626f940b4a5a36097ec414739&hash=82DD77FCE0A56AE6059AF0EF9DE214FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i4.jpg?as=1&w=494&rev=f52752f90dfc44a2b0800a1782532e83&hash=41483AB4CA8BBCF5911378E7FEF01C53",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i5.jpg?as=1&w=494&rev=56c81b6ac38e4e50a1ec120893e9eb2f&hash=5A1FEE3FDAEF2080D0962ADC0F856915",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i6.jpg?as=1&w=494&rev=8d4a801fe5a3432e80e84cdb0a9fb0cf&hash=4EFE83A7C90D7A48E84D1A831C89E888",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i7.jpg?as=1&w=494&rev=b30bd83f528b4b0180ed706be59fd1d4&hash=E6538465597B4870AAF0D30A2AD685F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i8.jpg?as=1&w=494&rev=b5844dd29d51482b9ed0e7a83cceb5b2&hash=DAE4E6D3D448B12368019F951F363973",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i9.jpg?as=1&w=494&rev=3367b150a4024febba03b111e9646c3a&hash=809FC133847109B83E6063A69BB44556",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i10.jpg?as=1&w=494&rev=94edf2a65e064de18bbad1880e2e243f&hash=374963E6D7C18AF9F478AE78B7FD97F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i11.jpg?as=1&w=494&rev=66387138cb77420897944cf0a2b42b7e&hash=03F245F62AFF38577FDB2D664CD2149D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i12.jpg?as=1&w=494&rev=01c485fd55d24fefa5ba9c49956920b4&hash=CE03566377C22929956B2A757EFA3200",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i13.jpg?as=1&w=494&rev=2e63aee6d81649a79170c44434935fa2&hash=B987CA8F350F344633137C3C5507AC20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/i14.jpg?as=1&w=494&rev=21679ac875ed491993fb6b7c0aaab200&hash=08755678A794F192FF559933C0C2289E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/z-homeisconnected_1920x1080.jpg?as=1&w=494&rev=4d027d5b2f964ced827be33ceccf0512&hash=7A080D672765FC2F306D1D96A103C70B"
+      ],
+      "name": "812 GRAND RESERVE DRIVE",
+      "plan": "Willow",
+      "url": "https://www.drhorton.com/florida/north-florida/bunnell/express-grand-reserve/qmis/812-grand-reserve-drive",
+      "id": "812",
+      "address": "812 GRAND RESERVE DRIVE",
+      "price": "$315,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1526",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33741-grand-reserve/338290000-grand-reserve-express-40s/1526/0097-812-grand-reserve-drive/1528-willow-b-elev_dsk_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=b8ce809bdcd341c6b52bd52a65b6b5aa&hash=C710F440A50D8B9F21D167033DA1FEA0",
+      "latitude": 29.48113,
+      "longitude": -81.25072,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Bunnell Elementary School",
+          "type_and_grades": "PK-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Buddy Taylor Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Flagler Palm Coast High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

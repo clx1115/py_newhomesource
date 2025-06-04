@@ -1,0 +1,328 @@
+{
+  "timestamp": "2025-06-03T15:44:27.358448",
+  "name": "Meadow Ridge at Epperson",
+  "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson",
+  "status": null,
+  "price_from": "$299,990",
+  "address": "32409 Welling Blade Loop,Wesley Chapel, FL 33545",
+  "phone": "(813) 491-8435",
+  "description": "Find a new home in Wesley Chapel, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/390_tpa_n_taw_vale_quartz_0019_ancient_sage_rd-002.jpg"
+  ],
+  "location": {
+    "latitude": 28.27425,
+    "longitude": -82.28207,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$299,990 - $343,990",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "7",
+      "description": "7-Acre Crystal Lagoon",
+      "icon_url": null
+    },
+    {
+      "name": "Basic Lawn Maintenance Included",
+      "description": "Basic Lawn Maintenance Included",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete Block Construction",
+      "description": "Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Golf Cart Paths",
+      "description": "Golf Cart Paths",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/floor-plans/1674",
+      "details": {
+        "price": "From $305s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/fl_tampanorth_drhorton_glenvale_sch1.jpg?as=1&w=425&rev=5df518c2d2d649e5ada7812c489c2794&hash=6AAED471B5C7003185E5D028B3F9AEC1"
+      }
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/floor-plans/1759",
+      "details": {
+        "price": "From $325s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/fl_tampanorth_drhorton_glenvale_sch1.jpg?as=1&w=425&rev=105c8597e0244629b9d824277a8a3344&hash=7FE6E529D0B52CF166B4FED783C82AAE"
+      }
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=00b519d9d8134b4d9b8af2948d1b1122&hash=B5557B2480A2C8115033698024E43615",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch2.jpg?as=1&w=494&rev=003bc2fea06b4facad703912509ec92c&hash=F4DAE201C8BACF532EF8EA0A6DF7A6E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch3.jpg?as=1&w=494&rev=2b3478a6490142ba89cf69982b24d3df&hash=362367A4005DFBC658CC3916DF1F5B4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=111529745f37410e94b8c3650d90d4c5&hash=3D1BC9E3587E8CA3BF0BD9123B538074",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_1tpa_n_taw_glen_quartz_0034_ancient_sage_rd-030.jpg?as=1&w=494&rev=288fd289ca05411ebd35328f913e07e9&hash=C9056716243FAABD0B25F710190DE4D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_2tpa_n_taw_glen_quartz_0029_ancient_sage_rd-035.jpg?as=1&w=494&rev=199cb269b0a24e9d80814819a846c467&hash=85840ED559272E6A9A64DE5DBE484DE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_3tpa_n_taw_glen_quartz_0028_ancient_sage_rd-036.jpg?as=1&w=494&rev=db9cd25ff15845d3b1d486bec68e397a&hash=F7172D23539ED9D494C4904E78170EAB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_4tpa_n_taw_glen_quartz_0025_ancient_sage_rd-039.jpg?as=1&w=494&rev=5b046bc285964190894be26fcc38b22e&hash=FF986A791F993755A6BA02967445456B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_5tpa_n_taw_glen_quartz_0023_ancient_sage_rd-041.jpg?as=1&w=494&rev=118fd6b324c64bda992301df354ba2b9&hash=DB3000539209C73D7DAAB08F09572A8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_6tpa_n_taw_glen_quartz_0018_ancient_sage_rd-046.jpg?as=1&w=494&rev=0a38540883b842a1bcbe95a9873f2748&hash=AA9CA6ED0841AEF72F9BDA146182424B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_7tpa_n_taw_glen_quartz_0017_ancient_sage_rd-047.jpg?as=1&w=494&rev=aafbbee7d2214cd28241c1355b89c689&hash=D4D66EA9B47766BBD5CCAA5465C6696D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_8tpa_n_taw_glen_quartz_0013_ancient_sage_rd-052.jpg?as=1&w=494&rev=ea227ecfda0f47d9b53e1e1c1ecc0006&hash=2F77AA7734ECD214BC44328B8AC0E78D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_9tpa_n_taw_glen_quartz_0009_ancient_sage_rd-056.jpg?as=1&w=494&rev=88dbc2120e2a40dcad7f91b9e084d7f2&hash=71B351FCFBBA62F0253DD032DFD3E207",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_11tpa_n_taw_glen_quartz_0005_ancient_sage_rd-060.jpg?as=1&w=494&rev=670a430c15144987b4e129e6a8b18842&hash=6353B47E9D2CC83A14A328C5283329EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_12tpa_n_taw_glen_quartz_0003_ancient_sage_rd-062.jpg?as=1&w=494&rev=0d8745eafdea4da0bc2d578bc456f426&hash=04A65231D8CDB6728D3B2DF67928949F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_13tpa_n_taw_glen_quartz_0002_ancient_sage_rd-063.jpg?as=1&w=494&rev=63c0609479994e50badde70a7cb8062f&hash=71DA57E3D62988292D523AE0061B8D95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/390_10tpa_n_taw_glen_quartz_0006_ancient_sage_rd-059.jpg?as=1&w=494&rev=b17eff10c46b486780bc207c4090308b&hash=E53C1CF78391E682A2AC9A6997344B82",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "32417 WELLING BLADE LOOP",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32417-welling-blade-loop",
+      "id": "32417",
+      "address": "32417 WELLING BLADE LOOP",
+      "price": "$321,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0230-32417-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=00b519d9d8134b4d9b8af2948d1b1122&hash=3AC0D4995DF7B1D0094BA768B9434714",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0229-32421-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=db4a975218874ccf999cb60c024f71a3&hash=56BAB65ADD922BE722F5209E0BFDDE73"
+      ],
+      "name": "32421 WELLING BLADE LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32421-welling-blade-loop",
+      "id": "32421",
+      "address": "32421 WELLING BLADE LOOP",
+      "price": "$321,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0229-32421-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=db4a975218874ccf999cb60c024f71a3&hash=56BAB65ADD922BE722F5209E0BFDDE73",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0228-32425-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=048f512944ce4aa489f2c6331d41faad&hash=BB869F726777FE18B31B2352AD2E121C"
+      ],
+      "name": "32425 WELLING BLADE LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32425-welling-blade-loop",
+      "id": "32425",
+      "address": "32425 WELLING BLADE LOOP",
+      "price": "$316,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0228-32425-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=048f512944ce4aa489f2c6331d41faad&hash=BB869F726777FE18B31B2352AD2E121C",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=075838869b404f4e9259bb6389df7476&hash=2722DFD177E745C3CAF077F54EC4B296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch2.jpg?as=1&w=494&rev=fdf1f81deabe4a8f84128c26e5106e0b&hash=7D65FA2E70DFFCB148F10679A99F433A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch3.jpg?as=1&w=494&rev=46f19faba4a340e587c4fb12259fb9a1&hash=CF0825A6A6E4C2224A66EE835CB40F28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=ac363efef3484b079f444518b559fcdf&hash=0920DF7C6CD651886BFE3F3428D717B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0000_ancient_sage_rd-021.jpg?as=1&w=494&rev=7ea6a491a1c4421ca3239deb6863b66e&hash=AFB7180E4AD46D5202E8F75B0166867E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0001_ancient_sage_rd-020.jpg?as=1&w=494&rev=fffbd4bec3fb4d47b456effe18e07899&hash=909E972BADDB117D22AF24BA0C0C2B15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0006_ancient_sage_rd-015.jpg?as=1&w=494&rev=48bc655049b14aa0822036f0f5f6b3f1&hash=454DD72159F32F0F35B83CF34AA866AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0008_ancient_sage_rd-013.jpg?as=1&w=494&rev=d064af35084e4faf9af3e94a6518d886&hash=581D28E30181D38CAD343EC6C972FB10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0010_ancient_sage_rd-011.jpg?as=1&w=494&rev=5df1e2cf6806411db57c28fee6c29428&hash=119A18A7DFADD6A1A6DC622CD714949A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0014_ancient_sage_rd-007.jpg?as=1&w=494&rev=24fe2583b28e4179943c8825a5cf1026&hash=FEB06EF63F7F77CAAB4750DD8CB005A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0016_ancient_sage_rd-005.jpg?as=1&w=494&rev=71a60d50980a4f5ab636fa5d5acf3a71&hash=21EB60DE57DD4FD1565D4B6CB45D7208",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0017_ancient_sage_rd-004.jpg?as=1&w=494&rev=c93aef4064564b39af0fda40974ae9d9&hash=34099F1C463BC6B54457A034C3A95F74",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0019_ancient_sage_rd-002.jpg?as=1&w=494&rev=d2bea34b3414437ca1a16633f56997b7&hash=6BA18727888438C8FFE5478ADBF61486",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/390_tpa_n_taw_vale_quartz_0020_ancient_sage_rd-001.jpg?as=1&w=494&rev=b5d4cd13a9dc4821be9384b732f3a4e7&hash=79D2E5F659B19D30ED822EF826AB4770",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39153-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=1e26b8de82754e76a02c47dfb5d657ec&hash=E1E77C8704C9CBA9C5EA8DEAEF0F2468",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "32429 Welling Blade Loop",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32429-welling-blade-loop",
+      "id": "32429",
+      "address": "32429 Welling Blade Loop",
+      "price": "$343,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0227-32429-welling-blade-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=075838869b404f4e9259bb6389df7476&hash=9F338846FE7D9E6453634BA9EF8CA381",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0008-32591-turtle-grace-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=675783be71894ac5a4cd437ac1d07969&hash=35875270BB0FCEF2491AE2FC9EB3B137"
+      ],
+      "name": "32591 Turtle Grace Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32591-turtle-grace-loop",
+      "id": "32591",
+      "address": "32591 Turtle Grace Loop",
+      "price": "$334,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1759/0008-32591-turtle-grace-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=675783be71894ac5a4cd437ac1d07969&hash=35875270BB0FCEF2491AE2FC9EB3B137",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0006-32599-turtle-grace-loop/fl_drhorton_tampanorth_glenvale_greenscheme1_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fea946e4da364ab4b7f83600d7bed5e4&hash=7A06B6C6A06F3706D0B3A0DD54B46AC8"
+      ],
+      "name": "32599 Turtle Grace Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32599-turtle-grace-loop",
+      "id": "32599",
+      "address": "32599 Turtle Grace Loop",
+      "price": "$299,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0006-32599-turtle-grace-loop/fl_drhorton_tampanorth_glenvale_greenscheme1_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=fea946e4da364ab4b7f83600d7bed5e4&hash=7A06B6C6A06F3706D0B3A0DD54B46AC8",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0005-32603-turtle-grace-loop/fl_drhorton_tampanorth_glenvale_greenscheme1_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=5fa496a010ba42529fba5d5d8fc84869&hash=D1D3041699A7E75A066E396534247691"
+      ],
+      "name": "32603 Turtle Grace Loop",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32603-turtle-grace-loop",
+      "id": "32603",
+      "address": "32603 Turtle Grace Loop",
+      "price": "$304,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0005-32603-turtle-grace-loop/fl_drhorton_tampanorth_glenvale_greenscheme1_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=5fa496a010ba42529fba5d5d8fc84869&hash=D1D3041699A7E75A066E396534247691",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0066-32608-turtle-grace-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=6a09645021ae43de84b94004fc546528&hash=73D3A3645B9321CA917A25CA488749CB"
+      ],
+      "name": "32608 TURTLE GRACE LOOP",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/tampa/wesley-chapel/meadow-ridge-at-epperson/qmis/32608-turtle-grace-loop",
+      "id": "32608",
+      "address": "32608 TURTLE GRACE LOOP",
+      "price": "$314,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39269-epperson-ranch/392690000-meadow-ridge-at-epperson/1674/0066-32608-turtle-grace-loop/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=6a09645021ae43de84b94004fc546528&hash=73D3A3645B9321CA917A25CA488749CB",
+      "latitude": 28.27425,
+      "longitude": -82.28207,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Innovation Prep",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Watergrass Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Thomas E. Weightman Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wesley Chapel High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

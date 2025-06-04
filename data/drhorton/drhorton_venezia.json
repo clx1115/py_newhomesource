@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-06-03T20:24:44.117395",
+  "name": "Venezia",
+  "url": "https://www.drhorton.com/florida/lake-county/howey-in-the-hills/venezia",
+  "status": null,
+  "price_from": "$286,990",
+  "address": "994 Lido Drive,Howey-in-the-Hills, FL 34737",
+  "phone": "(866) 476-2601",
+  "description": "Find a new home in Howey in the Hills, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Lake County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38448-venezia-th/384480000-venezia-th/venezia--glen--994-lido-drive--howey-in-the-hills--fl-34737--fl-34737---01-edit.jpg"
+  ],
+  "location": {
+    "latitude": 28.7046,
+    "longitude": -81.77398,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$286,990",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/lake-county/howey-in-the-hills/venezia/floor-plans/1673",
+      "details": {
+        "price": "From $287s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38448-venezia-th/384480000-venezia-th/1673/venezia--glen--994-lido-drive--howey-in-the-hills--fl-34737--fl-34737---01-edit.jpg?as=1&w=425&rev=29a88aa4363448ca8ca656abde92cefa&hash=592136FED466C0246F9B3C91D8712F3B"
+      }
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/lake-county/howey-in-the-hills/venezia/floor-plans/1758",
+      "details": {
+        "price": "From $307s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/782-lake/38448-venezia-th/384480000-venezia-th/1758/cropped_0002_venezia--vale--994-lido-drive--howey-in-the-hills--fl-34737--fl-34737---02.jpg?as=1&w=425&rev=c09f239cd4114ef481c70844be915672&hash=C34F61E04A7DCDB485387235A48018F0"
+      }
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Astutula Elementary School",
+          "type_and_grades": "Pre-K-5th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Tavares Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Tavares High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

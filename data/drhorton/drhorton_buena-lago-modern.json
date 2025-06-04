@@ -1,0 +1,172 @@
+{
+  "timestamp": "2025-06-03T14:02:08.118821",
+  "name": "Buena Lago Modern",
+  "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago-modern",
+  "status": null,
+  "price_from": "$400,990",
+  "address": "3928 Magenta Place,Saint Cloud, FL 34772",
+  "phone": "(407) 584-8518",
+  "description": "Find a new home in Saint Cloud, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Osceola County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384740000-buena-lago-modern/buena_lago_hayden_modern_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 28.17634,
+    "longitude": -81.23946,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$400,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pool Cabana",
+      "description": "Pool and Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Covered Gazebo",
+      "description": "Covered Gazebo",
+      "icon_url": null
+    },
+    {
+      "name": "Multipurpose Park Space",
+      "description": "Multipurpose Park Space",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Oversized Lake View Homesites",
+      "description": "Oversized Lake View Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Top",
+      "description": "Top-Rated Zoned Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Direct Access to Lake, Public Boat Ramp Next",
+      "description": "Direct Access to Lake, Public Boat Ramp Next-Door",
+      "icon_url": null
+    },
+    {
+      "name": "Lake Nona Medical City",
+      "description": "Lake Nona Medical City Just Minutes Away",
+      "icon_url": null
+    },
+    {
+      "name": "Close Beaches Attractions",
+      "description": "Close to Beaches and Attractions",
+      "icon_url": null
+    },
+    {
+      "name": "Grocery 5 Mins Away",
+      "description": "Grocery 5 Mins Away",
+      "icon_url": null
+    },
+    {
+      "name": "Just 25 Mins Orlando",
+      "description": "Just 25 Mins to Orlando International Airport",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria Modern",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago-modern/floor-plans/4eab",
+      "details": {
+        "price": "From $401s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384740000-buena-lago-modern/4eab/aria_modern__mc__resizedweb.jpg?as=1&w=425&rev=f9a9d63d9e4c43aa8d4503c4669e9900&hash=52A028B12F4CEC13B309632C12D327C1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38474-buena-lago/384740000-buena-lago-modern/4eab/aria_modern_no_logo.png?rev=c93d3f52e64349fe893e4ed7d932f9e0&hash=C6B74C2B51C6F9D3C61A56BAF16B836C"
+        }
+      ]
+    },
+    {
+      "name": "Cali Modern",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago-modern/floor-plans/4ebb",
+      "details": {
+        "price": "From $410s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384740000-buena-lago-modern/4ebb/cali_modern_mg_web.jpg?as=1&w=425&rev=4a7bfc56ebef4eba8494e5b271b74c89&hash=C62BD94D06EA203E5C1FA31D2582F3E3"
+      }
+    },
+    {
+      "name": "Hayden Modern",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago-modern/floor-plans/4ehb",
+      "details": {
+        "price": "From $449s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38399-buena-lago/384740000-buena-lago-modern/4ehb/hayden_modern__mh__resizedweb.jpg?as=1&w=425&rev=b269008e59c24080b18ada99a6f80078&hash=6D15D3F6984AB6C0D62923C943CB7810"
+      }
+    },
+    {
+      "name": "Robie Modern",
+      "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/buena-lago-modern/floor-plans/3efb",
+      "details": {
+        "price": "From $450s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38474-buena-lago/384740000-buena-lago-modern/3efb/robie_modern_mc_web.jpg?as=1&w=425&rev=f52df4c46a1848ecac092c30dfd0e3c5&hash=763B4F28CC376697A36247A219D44836"
+      }
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

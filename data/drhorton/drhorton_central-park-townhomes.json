@@ -1,0 +1,160 @@
+{
+  "timestamp": "2025-05-31T11:38:31.623418",
+  "name": "Central Park Townhomes",
+  "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/central-park-townhomes",
+  "status": null,
+  "price_from": "$324,990",
+  "address": "12958 SW Forli Way,Port St. Lucie, FL 34987",
+  "phone": "(772) 356-1788",
+  "description": "Find a new home in Port St Lucie, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the East Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/cptowns_web_rev.jpg"
+  ],
+  "location": {
+    "latitude": 27.29631,
+    "longitude": -80.45573,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$324,990 - $341,935",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Ten",
+      "description": "Ten-acre Recreation Facility",
+      "icon_url": null
+    },
+    {
+      "name": "Clubhouse, Pavilion, Restroom Building",
+      "description": "Clubhouse, Pavilion, Restroom Building",
+      "icon_url": null
+    },
+    {
+      "name": "Resort Pool/Lap Lanes &",
+      "description": "Resort Pool/Lap Lanes & Splash Park",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Parks, Playground &",
+      "description": "Dog Parks, Playground & Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball, Tennis & Sports",
+      "description": "Pickleball, Tennis & Sports Courts",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/central-park-townhomes/floor-plans/1673",
+      "details": {
+        "price": "From $325s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1673/cptowns_web_rev.jpg?as=1&w=425&rev=7318ae97bdb64b82b0aed741f941aed3&hash=738CE365D657CE90D1802DD1861EEB2C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1673/glen_fp_web.jpg?rev=c5b3a9108b374da19ebc6a051bb5eb0a&hash=F651EFB43B7A97361C3AF479EDAC9588"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1673/glen_fp_web.jpg?rev=c5b3a9108b374da19ebc6a051bb5eb0a&hash=F651EFB43B7A97361C3AF479EDAC9588"
+        }
+      ]
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/central-park-townhomes/floor-plans/1758",
+      "details": {
+        "price": "From $345s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1758/cptowns_web_rev2.jpg?as=1&w=425&rev=bbf1f2c77f644a91aa00c41d49468363&hash=8C2D18A9A71E60DAC61707003A85BF62"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1758/vale_cp_fp_web.jpg?rev=c6cab8ab42a549fe8dc5b2db9302d563&hash=A573F8BE1C5F894D9FEDCA1C0AA210D5"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1758/vale_cp_fp_web.jpg?rev=c6cab8ab42a549fe8dc5b2db9302d563&hash=A573F8BE1C5F894D9FEDCA1C0AA210D5"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1673/0031-12865-sw-forli-way/cp_towns.jpg?iar=1&sc=1&thn=1&w=425&rev=76f73dea2fa74aa381f0061e857b9d71&hash=052081A6F490ACA27F07D5782ED4D156"
+      ],
+      "name": "12865 SW Forli Way",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/east-florida/port-st-lucie/central-park-townhomes/qmis/12865-sw-forli-way",
+      "id": "12865",
+      "address": "12865 SW Forli Way",
+      "price": "$341,935",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/348-east-florida/34968-central-park-townhomes/349680000-central-park-townhomes/1673/0031-12865-sw-forli-way/cp_towns.jpg?iar=1&sc=1&thn=1&w=425&rev=76f73dea2fa74aa381f0061e857b9d71&hash=052081A6F490ACA27F07D5782ED4D156",
+      "latitude": 27.29631,
+      "longitude": -80.45573,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Allapattah Flats Elementary",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Bayshore Elementary School",
+          "type_and_grades": "K-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "St. Lucie West Centennial High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

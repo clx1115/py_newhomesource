@@ -1,0 +1,286 @@
+{
+  "timestamp": "2025-05-30T15:14:52.641006",
+  "name": "Rivers Edge",
+  "url": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge",
+  "status": null,
+  "price_from": "$273,990",
+  "address": "2741 Silver Canoe Drive,Edgewater, FL 32141",
+  "phone": "(386) 200-9676",
+  "description": "Find a new home in Edgewater, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Volusia County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-airpark-village/345150000-airpark-village/glen_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 28.9577,
+    "longitude": -80.919,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$273,990 - $297,300",
+    "sqft_range": "From 1,671 Sq. Ft.",
+    "bed_range": null,
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pool & Cabana",
+      "description": "Pool & Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Waterview Homesites",
+      "description": "Waterview Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Convenient Low",
+      "description": "Convenient Low-Maintenance Living",
+      "icon_url": null
+    },
+    {
+      "name": "Granite Countertops",
+      "description": "Granite Countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Stainless",
+      "description": "Sleek Stainless-Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Two Story Concrete Block",
+      "description": "Two Story Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from New Smyrna",
+      "description": "Minutes from New Smyrna Beach",
+      "icon_url": null
+    },
+    {
+      "name": "2 Minutes from SR",
+      "description": "2 Minutes from SR-95",
+      "icon_url": null
+    },
+    {
+      "name": "Local Dining & Shopping",
+      "description": "Local Dining & Shopping",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Oasis",
+      "url": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/floor-plans/1842",
+      "details": {
+        "price": "From $289s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,840 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-rivers-edge/345150000-rivers-edge/1842/2741-silver-canoe-drive--edgewater--fl-32141---01.jpg?as=1&w=425&rev=ae66360b00cf4c4d99b8bfb78bba8eba&hash=1604B1DC1D18A55AC199BE4B7FFF60B7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/oasis_web2_unbranded.jpg?rev=8c7198eacd634d95af5524a4dec70c44&hash=ADF2E57245855018C124BAC67A5305C8"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-rivers-edge/345150000-rivers-edge/1842/oasis.jpg?rev=2c4383d0ccf24df5bc4cd4a47a6e8dc8&hash=0620EA52E9FDEF996D1C643E1CC69BCA"
+        }
+      ]
+    },
+    {
+      "name": "Seabreeze",
+      "url": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/floor-plans/1672",
+      "details": {
+        "price": "From $274s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,671 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-rivers-edge/345150000-rivers-edge/1672/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?as=1&w=425&rev=c1ff17b312094a7a8b06331011db8507&hash=3F623F78E0549D2EAF17441D3E17992B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/seabreeze_web2_unbranded.jpg?rev=237c1944be414527b62a7c4b4e0fe41d&hash=C31460BDD2543FDFBEADB8E09BE76A69"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-rivers-edge/345150000-rivers-edge/1672/seabreezefp.jpg?rev=a63c95f549dd4c4f9486d76a74e6618a&hash=37B4A80C506A85E675D04EA32F00797C"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?as=1&w=494&rev=c1da0a9302a64ab5a4b267b9889694ba&hash=1E4F71ECDA2AA2CC90795F664434AA3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---08.jpg?as=1&w=494&rev=69742106871b486bb06f25e41171c9b9&hash=3E3C011ED0C344361FBDA40089394A11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---11.jpg?as=1&w=494&rev=667fe81777284a1e9def0bbab970a80d&hash=FEAF812F9D72A348771C6B3D44F9F1E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---13.jpg?as=1&w=494&rev=ea2e33d6b738474bbf4b92a618247b9d&hash=891966583E792F88AC6E99375BC188DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---15.jpg?as=1&w=494&rev=8ca39bd8200742d5a914cd198b20a4f4&hash=477F2195A711A53E9DF4BDC2D5113992",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---18.jpg?as=1&w=494&rev=23e181a940264b9ca045ada7358c7a3b&hash=F2E5AD265BE57C9FEFAB3A779A2D2314",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---20.jpg?as=1&w=494&rev=94b4c8e53825414eafcf71200d3594ac&hash=0E02A31EF742383FA1DC8A1790C7AA86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---22.jpg?as=1&w=494&rev=6d5a7aef982c458e9702f88fbd1962a6&hash=A9FE4539B61B0CE264BBF1FD1A857799",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---25.jpg?as=1&w=494&rev=df21b11134b04d73a863a0253d27f112&hash=4AB4A0864FDB71AD2FE6628976918A78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---31.jpg?as=1&w=494&rev=ff96eaf114fe4c219644d48c142931bb&hash=5F8BD6E7B585C60DB39F1DB26F92920E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---33.jpg?as=1&w=494&rev=12ed1887d1c844f89bbb70841b47232d&hash=2B7ECE6134DBE444919A42801C691332",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---34.jpg?as=1&w=494&rev=718e40766f174fe2bdb83e770cc44aa3&hash=DEC18B7236690FE1862CE8EBEEA01F40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---35.jpg?as=1&w=494&rev=6fb16effe1f04a6985b321b774eaddd3&hash=E9D6341F7747033BCA91914A612F4EF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---36.jpg?as=1&w=494&rev=e0f962cce4a74dceb3fe5f1e87c3869d&hash=D40913678A3B318C3206DCB0DB8D0099",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---37.jpg?as=1&w=494&rev=eb52336fdf9542aea80eeafd4592dbd0&hash=C77668E7F4F746D12DCC24F21E1AF58C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---39.jpg?as=1&w=494&rev=f0262008f1ba49bab4b7165ae7534c91&hash=1B97062845F0B3D91BC52706C480EC01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---40.jpg?as=1&w=494&rev=08d3eba892a141caa7ed613dc8208ef1&hash=A8EADAC00D065ED5B152E90C72A081FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---41.jpg?as=1&w=494&rev=3b31d2cddc1947378bef6c1e2df9cdb1&hash=4030E5E4F906570BC1608784B4D0B68B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---42.jpg?as=1&w=494&rev=61fab382f97b4c5b8152657d6d4bb07a&hash=BE3A697AD109F17150AF22E7C02FC0A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---44.jpg?as=1&w=494&rev=adc396bdf0924c49ba99bf87ef824bd2&hash=E180CF2087817C1A5C76E319675EA881",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-rivers-edge/345150000-rivers-edge/1672/seabreezefp.jpg?rev=a63c95f549dd4c4f9486d76a74e6618a&hash=37B4A80C506A85E675D04EA32F00797C",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "2710 Golden Trout Lane",
+      "plan": "Seabreeze",
+      "url": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/qmis/2710-golden-trout-lane",
+      "id": "2710",
+      "address": "2710 Golden Trout Lane",
+      "price": "$276,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1671",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0104-2710-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?iar=1&sc=1&thn=1&w=425&rev=c1da0a9302a64ab5a4b267b9889694ba&hash=6B3A9A22D9DEE0A610BFF72006B2AD14",
+      "latitude": 28.9577,
+      "longitude": -80.919,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?as=1&w=494&rev=dd2952ca833f4cc68a275f35c364a879&hash=0EA382D9FF42BFA2421CFA708DD5BA0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---08.jpg?as=1&w=494&rev=b9a333564d5c472695a3ef846edf8af0&hash=FA82166C10AFB52238A59946C93BD3B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---11.jpg?as=1&w=494&rev=e66929acb89346f583b89541ba150813&hash=EDB44A69267511D2C736D41B377B7099",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---13.jpg?as=1&w=494&rev=2f6467b747e04b6dbdf8ed30d3066890&hash=262001646064104CF0AA391FEEF06D09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---15.jpg?as=1&w=494&rev=031329f27f524d2d9713f82e74eb534c&hash=CC2207FD5C5FDD1D59C7D188A3639DD0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---18.jpg?as=1&w=494&rev=25501bf739e94a978d7fcade0387a5f3&hash=EF54C0593F77E24AC03D55F80405BF2D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---20.jpg?as=1&w=494&rev=21bd174188ea4f2d9898bffe1606cec3&hash=39EFE9B10BEEBA2B72648C826EDDEC06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---21.jpg?as=1&w=494&rev=0dd36a21675643dab770230f4bbaf6b2&hash=49835197FDFFD27DD07BD2CB8C226718",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---22.jpg?as=1&w=494&rev=7da98b02a280491fa7473280260a4fa4&hash=50AE890150378677F3242FCBC3AD667B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---25.jpg?as=1&w=494&rev=c44aa2b1240b44589fcf1ea1b3679119&hash=8B5C16DDD87CAD60C7D2ECDE3191B79D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---31.jpg?as=1&w=494&rev=95d6c526d23345008abf0a0952aead55&hash=3F411759C1251EDDA46F6033D5DD87A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---33.jpg?as=1&w=494&rev=10106ad364b84e3391005a8d1c4c9101&hash=DE5EF58528E515852C5D63A6A7FEDCA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---34.jpg?as=1&w=494&rev=9c70697d0ffe4694ab91a0ce5544591e&hash=5A628407E4B0D8EC0784737C0A8D9BCC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---35.jpg?as=1&w=494&rev=7e1f572c2abf48a083e7aa82fa186295&hash=AA261959C7B892D14D7863FE1211BCE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---36.jpg?as=1&w=494&rev=7f18de9240e54886a68378ec7d5613ee&hash=67B09D7F9963763F4CF4E349A96FDA1C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---37.jpg?as=1&w=494&rev=244c31378e8849dfb346e497abbede7f&hash=210396C919F3CDB618FA607C621E6A9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---39.jpg?as=1&w=494&rev=aed37b56196c4928a4b51e308a104804&hash=93389C8F42E83D741C3C7CC42DD0C1C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---40.jpg?as=1&w=494&rev=a2e57e94c76149829a16f1d8c4a2c9c7&hash=54945495F569EBC2284AA5F78D43BDA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---41.jpg?as=1&w=494&rev=9052f3fe4ba246af878f90eb5228bf41&hash=979715BBAF1EE2B3855934C80EB69411",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---42.jpg?as=1&w=494&rev=19c83cc1e5144d3b876bf8235a0e6195&hash=3CFB50A46270047893C440CAFDAEE452",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---43.jpg?as=1&w=494&rev=8dc0eb00412b459396feddfbaa436a0e&hash=1A0E1E5D027BC2AE57517A627336B06B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---44.jpg?as=1&w=494&rev=6501d60185ba484181b4ef798e166444&hash=76A7E63E9C1EA2723914A43966D143EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34515-rivers-edge/345150000-rivers-edge/1672/seabreezefp.jpg?rev=a63c95f549dd4c4f9486d76a74e6618a&hash=37B4A80C506A85E675D04EA32F00797C",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "2712 Golden Trout Lane",
+      "plan": "Seabreeze",
+      "url": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/qmis/2712-golden-trout-lane",
+      "id": "2712",
+      "address": "2712 Golden Trout Lane",
+      "price": "$276,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1671",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1672/0103-2712-golden-trout-lane/2739-silver-canoe-dr--edgewater--fl-32141---06.jpg?iar=1&sc=1&thn=1&w=425&rev=dd2952ca833f4cc68a275f35c364a879&hash=3BDDCD00256F6CF703A81440BCD56A76",
+      "latitude": 28.9577,
+      "longitude": -80.919,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---01.jpg?as=1&w=494&rev=921b224d33404586b07b5862c1d0d64f&hash=785D340FE3805CF15768A5010832C857",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---07.jpg?as=1&w=494&rev=add4894072434f6695426ee2b11da71b&hash=34BF0D649A30EDF67AC76C0DF19F7922",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---12.jpg?as=1&w=494&rev=0cd8f15255b149569e113c72a211b5b6&hash=1F0F5B0CF7FD8BF191777E64A9335605",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---17.jpg?as=1&w=494&rev=44e3448f82754b96896f09966348c4c5&hash=1060CF36390931686E1B403C2A8D6647",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---18.jpg?as=1&w=494&rev=f884c954758a41df8c917a99a9220237&hash=ECA089201C545B7C7D0A6E80B0CD4C5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---23.jpg?as=1&w=494&rev=24459fd7b81846aaa1c69702312bc392&hash=667C9DDAC7A4276D7543197D1A491D72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---24.jpg?as=1&w=494&rev=1a0f02717004416fbd91bd86292b796c&hash=8BDD56E2FC4115ED65A5507BE0C94C0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---26.jpg?as=1&w=494&rev=139477b3a8894f57a0b6ed167b835023&hash=A69BEB0244E972587067622A8037A6F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---28.jpg?as=1&w=494&rev=cba7626fca2045f28ed13740ae7ef4f3&hash=40098EFF76E7A0A9DB4A426AEAEE6600",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---29.jpg?as=1&w=494&rev=a999eb1345854e55b95f342f7c74ce38&hash=EF00BC24B1BDFC9AB9977389CBA1F679",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---31.jpg?as=1&w=494&rev=d8ff0c7ef28c4015acecfafa7abf0699&hash=E96E07B091A3F39C961E0BCAADD331B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---32.jpg?as=1&w=494&rev=db1fd3b36cc4408c93439e47a69503c2&hash=A4337F6182A45BE966E1185B5F04CBE3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---33.jpg?as=1&w=494&rev=28d75c877b554716a26b24fbae0c9f2e&hash=21F801082EA9EE7AD147475090766F27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---34.jpg?as=1&w=494&rev=ea82b0d0d32945f2a971b15bf0bca76d&hash=1286767AD1887141F8ED44894A8CFB11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---38.jpg?as=1&w=494&rev=275f324347e74c83b9da8b46765110eb&hash=7E47F27B0DABBFE0CDFAED019AFEDBFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---39.jpg?as=1&w=494&rev=40781015c4a242279d49c61dbc3d8482&hash=D0905DEA554D4CB2BB786D01C7278DB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---41.jpg?as=1&w=494&rev=1a2dd1eb0dee4f64ab6b28504ab322f2&hash=8C897A713A8CCE5F1FA9B59028CF5391",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---48.jpg?as=1&w=494&rev=a8262465cd2044fabbffbf8bbf084d51&hash=E8E26BE8F9FA4EA3D8CAF3C620328D0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/oasis_web2_unbranded.jpg?rev=8c7198eacd634d95af5524a4dec70c44&hash=ADF2E57245855018C124BAC67A5305C8",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "2729 Golden Trout Lane",
+      "plan": "Oasis",
+      "url": "https://www.drhorton.com/florida/volusia-county/edgewater/rivers-edge/qmis/2729-golden-trout-lane",
+      "id": "2729",
+      "address": "2729 Golden Trout Lane",
+      "price": "$297,300",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1840",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34515-rivers-edge/345150000-rivers-edge/1842/0072-2729-golden-trout-lane/2741-silver-canoe-drive--edgewater--fl-32141---01.jpg?iar=1&sc=1&thn=1&w=425&rev=921b224d33404586b07b5862c1d0d64f&hash=BE41A7641EE41BDD34F1313E591AB486",
+      "latitude": 28.9577,
+      "longitude": -80.919,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Edgewater Public Elementary",
+          "type_and_grades": "Pre-K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "New Smyrna Beach Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "New Smyrna Beach High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}
