@@ -1,0 +1,306 @@
+{
+  "timestamp": "2025-06-04T23:22:56.261788",
+  "name": "Titus Park",
+  "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii",
+  "status": null,
+  "price_from": "$316,900",
+  "address": "4780 Windrow Way,Panama City, FL 32404",
+  "phone": "(850) 775-2027",
+  "description": "Find a new home in Panama City, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/_0001_1-4780_windrow_way_25.jpg"
+  ],
+  "location": {
+    "latitude": 30.23805,
+    "longitude": -85.58464,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$316,900 - $409,900",
+    "sqft_range": "From 1,637 Sq. Ft.",
+    "bed_range": "4",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Aisle",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/3edf",
+      "details": {
+        "price": "From $330s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,960 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/3edf/1-4436_riparian_ln-1.jpg?as=1&w=425&rev=f8173be140a94315a85a224ed2c28c31&hash=E21CCCAFEF8AE43284EF5951CE306CAB"
+      }
+    },
+    {
+      "name": "The Cali",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/4ebf",
+      "details": {
+        "price": "From $345s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/1-web-or-mls-4466_riparian_ln-27.jpg?as=1&w=425&rev=74ecc99bd1234fc2838cc3918273daed&hash=49454AD47254CE88E1251581EE425217"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/cali_floor_plan_1920x1080.jpg?rev=5e01f835edb74adbaeca21d63fee8478&hash=E5CE911B5CDE8355A82A7CE87EEE0958"
+        }
+      ]
+    },
+    {
+      "name": "The Delray",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/delr",
+      "details": {
+        "price": "From $386s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,044 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/delr/delray_tituspark__0001_1-web-or-mls-titus-park.jpg?as=1&w=425&rev=78d661ee5c484e8c80b6d19a700f3690&hash=125D0FB79EC66AB7654E3779A29BC484"
+      }
+    },
+    {
+      "name": "The Jemison",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/jemi",
+      "details": {
+        "price": "From $317s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,637 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/jemi/jemison_b_1920x1080.png?as=1&w=425&rev=6932a07b32614003a578ec362fd43d2b&hash=D85BA65B04EDB735406132DEBC23FAD8"
+      }
+    },
+    {
+      "name": "The Madison",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/madi",
+      "details": {
+        "price": "From $390s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "1,968 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/madi/1-web-or-mls-4990-prater-rd.jpg?as=1&w=425&rev=170abcbb7d0c483ea7965a195a26b47a&hash=71DB13C6855D70578857E7CFB71DAE96"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/madi/madison_b_floor_plan.jpg?rev=0f68ea11216d449ab6a86a5ec9cccc38&hash=494DDDC9D988E466D69098F0B314CD89"
+        }
+      ]
+    },
+    {
+      "name": "The Rhett",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/rhet",
+      "details": {
+        "price": "From $359s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/rhet/_0032_32-web-or-mls-titus-park.jpg?as=1&w=425&rev=d923a47f5c784aa58128da1d75ec39c2&hash=3B4A2D146ABEEFD4C034B6ACCD3A8535"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/rhet/rhett_floorplan_1920_x_1080.jpg?rev=ce980b3fab5f406d8fa12a5a32af8c5e&hash=AAFB2ED9BC2F6AF2D58050D7B38362AD"
+        }
+      ]
+    },
+    {
+      "name": "The Victoria",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/floor-plans/vict",
+      "details": {
+        "price": "From $410s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,275 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/_0002_2-web-or-mls-titus-park.jpg?as=1&w=425&rev=e1699aeec6154e3194d01ad852301d53&hash=29E17E5A16495702FC89F677551286B6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/victoria_g_floor_plan_1920_x_1080.jpg?rev=00cbfc00dac04996ac25745d61cb09ac&hash=81AE653EEBC0C07AA94F264114F002B5"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0002_2-web-or-mls-titus-park.jpg?as=1&w=494&rev=8b47471d1e3d47c2b5c284d40782fc76&hash=0D4EF6C698815C6FB94211CA9374CB33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/victoria_g_rendering_1920x1080.jpg?as=1&w=494&rev=0a130df403e24af79a603f08dc13dab8&hash=507CC450D9476EE670853C4F9B7F2B70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0003_3-web-or-mls-titus-park.jpg?as=1&w=494&rev=a172f96c6dd74bcbabf92708f7ab19bf&hash=7F3D36D6A7DD84C7FAFB9395140BD115",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0004_4-web-or-mls-titus-park.jpg?as=1&w=494&rev=d59c3d1b53bf4aa7aae6966bc49c15c4&hash=CFD0090693472FB2315F1501A2A68009",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0005_5-web-or-mls-titus-park.jpg?as=1&w=494&rev=2804414103dc4a0a8a7ebe8053540235&hash=46F297BF65EA190BEFBE82ADA9EC42B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0006_6-web-or-mls-titus-park.jpg?as=1&w=494&rev=b8b6d9b908ae48aaa577e6edca97f3a4&hash=723702E40811120790D8E0A5B3D82FA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0007_7-web-or-mls-titus-park.jpg?as=1&w=494&rev=130db551a3774329bc535bdbcbbfb957&hash=D44CEAE7A967F2D82A09A143E22854A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0008_8-web-or-mls-titus-park.jpg?as=1&w=494&rev=40e76b9e84f7426cbbdae044964b477a&hash=7D3D60316ACD3D4F6D056A171A085EF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0009_9-web-or-mls-titus-park.jpg?as=1&w=494&rev=54783173e7dd4fa8a2f5b215fab058f2&hash=ADB76C80788130E59D018683C8FF183C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0010_10-web-or-mls-titus-park.jpg?as=1&w=494&rev=b37295f5d84c489dbc7d10d1229643c0&hash=6539C9A2E1061F5D36AE09C2EE781034",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0011_11-web-or-mls-titus-park.jpg?as=1&w=494&rev=a191121c060f4ee4836cf082020db51b&hash=B24A50D3B56D506D3221D23B6FF0ED24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0012_12-web-or-mls-titus-park.jpg?as=1&w=494&rev=f663e5a2c67e4bdd897092016cba5f5b&hash=9C6FA5E002A2A0F7F8D3A49C764501D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0013_13-web-or-mls-titus-park.jpg?as=1&w=494&rev=1dc63c72003947acb555d22730e0596c&hash=C762A88AC6F615A65DB0430EA48D3AD0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0014_14-web-or-mls-titus-park.jpg?as=1&w=494&rev=d5a4672bc91d454ca753dc305bd2a948&hash=32FF7BCEEC85E7CC42A898AC36925554",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0015_15-web-or-mls-titus-park.jpg?as=1&w=494&rev=13e20a90c8e04f5fa563f28de24d1508&hash=3AE4D12A0C37C56CE722167C6CBD5D25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0016_16-web-or-mls-titus-park.jpg?as=1&w=494&rev=be501826b769459f9360930c2711c09c&hash=98F1EE67FFA132AB2BBFC0D99392B601",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0017_17-web-or-mls-titus-park.jpg?as=1&w=494&rev=a324ebe38be144e5a2bb8d4c6f839252&hash=015F92ED2C385C54CBB27FC9F2CC1E2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0018_18-web-or-mls-titus-park.jpg?as=1&w=494&rev=0986691546124c1a99cfe8f44df2abad&hash=8A8F86937FC3B40056265409CBD719E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0019_19-web-or-mls-titus-park.jpg?as=1&w=494&rev=38738d3f483d4e40b9d5e1510039ccf2&hash=284554F46CF0EF8A0138272EE890E456",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0020_20-web-or-mls-titus-park.jpg?as=1&w=494&rev=796badbc1b4e4db19f8b3edd8c3b59a5&hash=F1234E60456C0EBAD9E73B0D19C1F39F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0021_21-web-or-mls-titus-park.jpg?as=1&w=494&rev=43c77547478e42908ac7e532eab2701b&hash=2D7A9C5EEA78FA3D8A4F3CA85D7BCEBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0022_22-web-or-mls-titus-park.jpg?as=1&w=494&rev=703fdc7fb74e4e84be13ea37822dcf9e&hash=AF175480ACAEEF8000F7178BB76C75C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0023_23-web-or-mls-titus-park.jpg?as=1&w=494&rev=9b5dc53c7b984a459131b54b5e73a0ac&hash=D17014F09E6187370CC5B03AD0CF6F80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0024_24-web-or-mls-titus-park.jpg?as=1&w=494&rev=82b58cfa8420441d824a761ae1058160&hash=8149B5766008484F5DCB35758BAED591",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0025_25-web-or-mls-titus-park.jpg?as=1&w=494&rev=c50666d89d404103891c76c5deb44e15&hash=91817B41D3F7A01482B11266D3A46770",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0026_26-web-or-mls-titus-park.jpg?as=1&w=494&rev=1fb8aeb830c94e018cb5aa242cc919e2&hash=BEF1C4DD4F7D2136BE7009F174195C6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0027_27-web-or-mls-titus-park.jpg?as=1&w=494&rev=3a7cfbaee72649fda8b718a81eca54a5&hash=47A94328C62CF420DF057D3BAF890D52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0028_28-web-or-mls-titus-park.jpg?as=1&w=494&rev=66319e0c199e48b1bba851c1a15959fc&hash=359F818C223E11092E6EEA54B70D1F32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0029_29-web-or-mls-titus-park.jpg?as=1&w=494&rev=f55cfb6962644bb890d4a619381e03be&hash=9F9D8D750BF54FD3BF3367ECF99ADE20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0030_30-web-or-mls-titus-park.jpg?as=1&w=494&rev=653534eb871a472aa637cdb9c8dc5dd9&hash=99D4E88717CFD08421D09DBE1F2B391A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/victoria_g_floor_plan_1920_x_1080.jpg?rev=00cbfc00dac04996ac25745d61cb09ac&hash=81AE653EEBC0C07AA94F264114F002B5"
+      ],
+      "name": "4886 Forest Dunes Drive",
+      "plan": "The Victoria",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/qmis/4886-forest-dunes-drive",
+      "id": "4886",
+      "address": "4886 Forest Dunes Drive",
+      "price": "$409,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2275",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29717-titus-park/297560000-titus-park-ph-2-65s/vict/0153-4886-forest-dunes-drive/_0002_2-web-or-mls-titus-park.jpg?iar=1&sc=1&thn=1&w=425&rev=8b47471d1e3d47c2b5c284d40782fc76&hash=BAFE82E6B0C05D04FE0A1AE292A72045",
+      "latitude": 30.23805,
+      "longitude": -85.58464,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/3edf/0250-5068-windrow-way/1-4436_riparian_ln-1.jpg?iar=1&sc=1&thn=1&w=425&rev=164998d159cd4a31a9e5991bfdf923ff&hash=B755E7A331B5BECC4A90EABD0939CA4F"
+      ],
+      "name": "5068 Windrow Way",
+      "plan": null,
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/qmis/5068-windrow-way",
+      "id": "5068",
+      "address": "5068 Windrow Way",
+      "price": "$329,900",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "1960",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/3edf/0250-5068-windrow-way/1-4436_riparian_ln-1.jpg?iar=1&sc=1&thn=1&w=425&rev=164998d159cd4a31a9e5991bfdf923ff&hash=B755E7A331B5BECC4A90EABD0939CA4F",
+      "latitude": 30.23805,
+      "longitude": -85.58464,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/1-web-or-mls-4466_riparian_ln-27.jpg?as=1&w=494&rev=3aa12199e73e47d7b4d24a97577862d2&hash=6488C1484EF187CABBC5C5A59BC04324",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/cali_d_rendering_1920x1080.jpg?as=1&w=494&rev=20e9af5f716b4d5daf6d254ba816bd7f&hash=9AA9A2EBC30484D577B0D1D75C8C3C46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/2-web-or-mls-4466_riparian_ln-28.jpg?as=1&w=494&rev=79b09265e9154e4489c2d02962ccfc65&hash=080429BF01835ADA94E189643858EB16",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/3-web-or-mls-4466_riparian_ln-1.jpg?as=1&w=494&rev=133413279e2f437cbfb715fbf6d80b65&hash=133562A4FE7F33EF4A6501AD43F3992C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/4-web-or-mls-4466_riparian_ln-2.jpg?as=1&w=494&rev=f6b8b4ad2cb64243a51d4791e2eee3f9&hash=107709BCB521B4854C911F264CEA7F36",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/5-web-or-mls-4466_riparian_ln-3.jpg?as=1&w=494&rev=4d221fc5d30a477c8bcee9a8a6aca72b&hash=81C766ED3B0737BDB48A34ACCDCC5605",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/6-web-or-mls-4466_riparian_ln-4.jpg?as=1&w=494&rev=e26213ea0eab43febdee43d067cf0416&hash=BB83554690FB3BB06FE7B26EA7D09B49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/7-web-or-mls-4466_riparian_ln-5.jpg?as=1&w=494&rev=fe154bed74324902a1cd0c14b764a109&hash=11FC81B09BD86A532185102268A86150",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/8-web-or-mls-4466_riparian_ln-6.jpg?as=1&w=494&rev=808f379b8a604800ad10c5b44c138150&hash=771F1DECB025C3C85C47195C231D15B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/9-web-or-mls-4466_riparian_ln-7.jpg?as=1&w=494&rev=149e043266ca4d01b3d92ad48c4e7500&hash=744EE05C8B589494CA4FFF1A0CBD3E92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/10-web-or-mls-4466_riparian_ln-8.jpg?as=1&w=494&rev=52d7aa3406df460e9137d31baa38de14&hash=6142AF6F471F0888F7AADFB00C104F52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/11-web-or-mls-4466_riparian_ln-9.jpg?as=1&w=494&rev=ffff07c2d5794a7fba0efa9b4b7ccdca&hash=2F1EF544A8A8BAE7D191D2AF598B314A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/12-web-or-mls-4466_riparian_ln-10.jpg?as=1&w=494&rev=39e0131fb788444185508a504bea77ba&hash=6DB46B3AD9A6ACA7C49E38D71676F1D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/13-web-or-mls-4466_riparian_ln-12.jpg?as=1&w=494&rev=db239d21af12440390ff459a4ba48e28&hash=8FFC198066F0FAA06E781D92A4EDABD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/14-web-or-mls-4466_riparian_ln-11.jpg?as=1&w=494&rev=fc243b373f0d4d39913930d7f8ebdd22&hash=9231D555F7C8AA290586B08379814BF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/15-web-or-mls-4466_riparian_ln-15.jpg?as=1&w=494&rev=27b6b4c1551b49d783e2bda94f186165&hash=A30935D0529892D10D7F9C277CC39921",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/16-web-or-mls-4466_riparian_ln-13.jpg?as=1&w=494&rev=c51c8b3d68a6441faca192ed23a8eee7&hash=DFD0270C181B2EFB661C2DF2530394BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/17-web-or-mls-4466_riparian_ln-14.jpg?as=1&w=494&rev=206c8f1ef99545b4bb0e1cae3aba7225&hash=1EF5560F5DC0623D6874E8C3A410E1E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/18-web-or-mls-4466_riparian_ln-16.jpg?as=1&w=494&rev=548cf2bb0bfe41f2b7af7656d33a4113&hash=208FCC798B7DCDB3CF0770A413F92C39",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/19-web-or-mls-4466_riparian_ln-17.jpg?as=1&w=494&rev=b375f507165e44eb80659a3f7e0b45dc&hash=8A8C948C7C7A0DB973E9410317D15D40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/20-web-or-mls-4466_riparian_ln-18.jpg?as=1&w=494&rev=59e15ae8d1fb480881e0c1a45d6dfd95&hash=91217843A5668697BBCB80A01A9DA04E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/21-web-or-mls-4466_riparian_ln-19.jpg?as=1&w=494&rev=d517b710e7404de2add396456c827532&hash=13CB1CB9EE208F292D60529A6C59332E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/22-web-or-mls-4466_riparian_ln-20.jpg?as=1&w=494&rev=c53fcec6ea994c18b9491a14b38069b5&hash=73AC26CD3712533C4685CE2DB852A568",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/23-web-or-mls-4466_riparian_ln-21.jpg?as=1&w=494&rev=aa6434a53e9a41828742fb0b493a87be&hash=32F2161F3FAE952DAF04CA7ABF0ABD57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/24-web-or-mls-4466_riparian_ln-22.jpg?as=1&w=494&rev=a15b4f87e73b471888e353600ccf9723&hash=03AAFF9C9FB108CBB6F65A2191012057",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/25-web-or-mls-4466_riparian_ln-23.jpg?as=1&w=494&rev=1e168a61a98e4177b2997595aa66548e&hash=2DF1F53DC31CC917440D9A767CA793BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/26-web-or-mls-4466_riparian_ln-24.jpg?as=1&w=494&rev=3f36243a94e641f4a21449f0a2e8e6e7&hash=42D5649E2F69D8D4FFB7D9E522FAA912",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/27-web-or-mls-4466_riparian_ln-25.jpg?as=1&w=494&rev=33d2fa57060c4693a72a55c2607f40e2&hash=CB6FA72D636571D886CFBF8313C34139",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/28-web-or-mls-4466_riparian_ln-26.jpg?as=1&w=494&rev=a344ce39c8644517961bafa2689c8a47&hash=E111C46A268B963D790D1F734EA0EA20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/cali_floor_plan_1920x1080.jpg?rev=5e01f835edb74adbaeca21d63fee8478&hash=E5CE911B5CDE8355A82A7CE87EEE0958"
+      ],
+      "name": "5076 Windrow Way",
+      "plan": "The Cali",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/titus-park-phase-ii/qmis/5076-windrow-way",
+      "id": "5076",
+      "address": "5076 Windrow Way",
+      "price": "$350,400",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1799",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29755-titus-park/297550000-titus-park-ph-2-50s/4ebf/0248-5076-windrow-way/1-web-or-mls-4466_riparian_ln-27.jpg?iar=1&sc=1&thn=1&w=425&rev=3aa12199e73e47d7b4d24a97577862d2&hash=7C0A3474694251E7C29B259462B37789",
+      "latitude": 30.23805,
+      "longitude": -85.58464,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Deer Point Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Merritt Brown Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "A. Crawford Mosley High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

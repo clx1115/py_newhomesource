@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-06-05T02:13:00.062928",
+  "name": "Sailfish Cay",
+  "url": "https://www.drhorton.com/florida/southeast-florida/stuart/sailfish-cay",
+  "status": null,
+  "price_from": "$0",
+  "address": "715 SE Central Parkway,Stuart, FL 34994",
+  "phone": "(855) 647-4247",
+  "description": "Find a new home in Stuart, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/project/drhorton/common/776-myrtle-beach-south/community_ph.jpg"
+  ],
+  "location": {
+    "latitude": 27.17937,
+    "longitude": -80.24322,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "timestamp": "2025-06-05T11:37:19.576259",
+  "name": "Sawmill Branch",
+  "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch",
+  "status": null,
+  "price_from": "$346,990",
+  "address": "4 Summerwood Rd. S.,Palm Coast, FL 32137",
+  "phone": "(386) 854-4670",
+  "description": "Find a new home in Palm Coast, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/entry.jpg"
+  ],
+  "location": {
+    "latitude": 29.60608,
+    "longitude": -81.28841,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$346,990 - $446,990",
+    "sqft_range": "From 2,042 Sq. Ft.",
+    "bed_range": "4",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Exercise",
+      "description": "Exercise - Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Splash Pad",
+      "description": "Splash Pad",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Camellia",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch/floor-plans/2115",
+      "details": {
+        "price": "From $347s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,115 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115-camellia-k-key_west-elev_dsk_mar2023_web.jpg?as=1&w=425&rev=05438e1160f0493a814a1c046cb63758&hash=5EF73B94C8E799F0BF17B7140EE2D28D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115camellia_fp_jun2022.jpg?rev=0d93a183190541c6a04de1c02226e47b&hash=DC79517698A46ADF018F17D855B1F75D"
+        }
+      ]
+    },
+    {
+      "name": "Lantana",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch/floor-plans/2044",
+      "details": {
+        "price": "From $354s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,042 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2044-lantana-k-elev_day_mar2023_web.jpg?as=1&w=425&rev=a6131b3c97214313ab5d2e27c63e219f&hash=38805589DC3B26CCE9072FCED7F4E101"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2044lantana_floorplan_jun2022.jpg?rev=31b96f3ad7a246e19e773a34fc68f28b&hash=477A29856FB642D98219211E74FC1536"
+        }
+      ]
+    },
+    {
+      "name": "Destin",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch/floor-plans/2368",
+      "details": {
+        "price": "From $395s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,363 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2368-destin-k-elev_day_mar2023_web.jpg?as=1&w=425&rev=573e9884f3ad40ba99c4faec37670414&hash=3DEDA74F90D19F0F59C7E4692D98BEC8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2363destin_floorplan_jun2022.jpg?rev=a89da1e0fab14566a769b04439d44ece&hash=750FB1AB84C2AA0AAD6274E7D9B20EB7"
+        }
+      ]
+    },
+    {
+      "name": "Miramar",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch/floor-plans/2498",
+      "details": {
+        "price": "From $417s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,498 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498-miramar-l-coastal-elev_day_mar2023_web.jpg?as=1&w=425&rev=db650bd6a2e24e6691b9b4f0ebd48ed5&hash=9D7991FD6DBA65BA05BC17D8F9FF71E2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/2498miramar_fp_aug2024_web.jpg?rev=67e48785dccb425c99dd9f2ca1d6a69a&hash=03242FB3406FB7989654334C51074FB4"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/2115-camellia-k-key_west-elev_dsk_mar2023_web.jpg?as=1&w=494&rev=640efa8e9fc546a19a406e93eada8c93&hash=88114C386829BF08E9D58C8689A12CFB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/01camellia.jpg?as=1&w=494&rev=355b863eaf5b4092bbe4655a62cdd31f&hash=CE6D0D87329B2DFC2E89AABCE49C2BED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/02camellia.jpg?as=1&w=494&rev=cd4acbadbf52463c9a55cf5564a36926&hash=DEE5AE044FE0F5E215BDB7617D1B5F6B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/03camellia.jpg?as=1&w=494&rev=35cdc793409e49b39e0e3d02ec97dc7f&hash=2E57785E1BA6936171F2E89894429E0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/04camellia.jpg?as=1&w=494&rev=7cff7ce4ea6542df978249d399cd063a&hash=9BF5C5A33C3ED03C59005C6DBDF6ED7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/05camellia.jpg?as=1&w=494&rev=cf293f473a114e729d3c89a5acfece31&hash=DCE8B522A65C39E21D2E03ACE7837A0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/06camellia.jpg?as=1&w=494&rev=1d919bcac19d473e850a3c9bfd193187&hash=9A5CDF90A9DFBDB53BDC3C260129CE25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/07camellia.jpg?as=1&w=494&rev=de3ababc462b46a19fd9b1c80b15b862&hash=602F4BC8AA9C3F57144C52621E9CFEF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/08camellia.jpg?as=1&w=494&rev=38addb602f354e9880e346294f74d80f&hash=876F6761C60DAC7540AAC9DFDBF8667F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/09camellia.jpg?as=1&w=494&rev=6101b501e675473685da1e92e468fff0&hash=98B5B08AC99FE2C27FC67C8496AD4A4C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/10camellia.jpg?as=1&w=494&rev=552e8d43de3a4f0d9352de7c86d1df3a&hash=F6D0E3953D782056C99018A53447FAF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/11camellia.jpg?as=1&w=494&rev=b7e6074a566f403993a315214f90e6f1&hash=88565EF856B2BE4768B51A521491CA9C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/12camellia.jpg?as=1&w=494&rev=2041555bafd74232a1e0e6192a4a345c&hash=DBB83557D4195AD19E561853DCC79794",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/13camellia.jpg?as=1&w=494&rev=2fa750ccc16c4e0584378d5112b149e0&hash=2A1DD8C8FAF4379B6F82CB3048966CF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/homeisconnected_1920x1080.jpg?as=1&w=494&rev=8db5e3ee9db046ba8c505823976e1887&hash=1610178A743D05DEBE1903943AC2BED4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "20 Summerwood Road North",
+      "plan": "Camellia",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch/qmis/20-summerwood-road-north",
+      "id": "20",
+      "address": "20 Summerwood Road North",
+      "price": "$394,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2115",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2115/0420-20-summerwood-road-north/2115-camellia-k-key_west-elev_dsk_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=640efa8e9fc546a19a406e93eada8c93&hash=235CB836C16A3ABD1FA4B17347D3ECFC",
+      "latitude": 29.60608,
+      "longitude": -81.28841,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/2498-miramar-l-coastal-elev_day_mar2023_web.jpg?as=1&w=494&rev=882930adde9441b6a7ca7cdb550e0d07&hash=8EDE15B105AFA9FEBC137464C2FE1006",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/01.jpg?as=1&w=494&rev=8e7dcbf1b6ce48f6a2c55ded18fb3bb7&hash=E21F7A8E6BE7923874478A8354DF024A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/02.jpg?as=1&w=494&rev=71babc991a0147ba9c6e9b3c64e47553&hash=0A31C09D655F6138CEF91C4A9DE76C9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/03.jpg?as=1&w=494&rev=e7fc68f182d546f1ae3c8b74e74ccad9&hash=DF75AA0FCF02B04F9E525AFC9D1F4072",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/04.jpg?as=1&w=494&rev=ff445cc213f748ff960dd27560ca2b28&hash=8E2ABABF5477C3066E0BFECED9285E64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/05.jpg?as=1&w=494&rev=126dd74ad2484531b90809ce83f4e0e4&hash=A5F9BC2A4D3DC58B66F835F65108F0E8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/06.jpg?as=1&w=494&rev=4deb4f01c9e74df18f0d3d3925d15a23&hash=5DF38DDEEE756C433DD1E141F140BACF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/007.jpg?as=1&w=494&rev=d75cf8e974a348d2920810693b5e8466&hash=C22BF731CB6E09F9C8DE7E6AEEDB1785",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/07.jpg?as=1&w=494&rev=84dd1e1698b74e2482522df014427a6a&hash=F7C5549132ED9B8BB2C9AAB18F71FDF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/08.jpg?as=1&w=494&rev=37a272809f034d8a8fa22c0b067fb652&hash=C81C3DABCCE75EFE9CD3A1CA80B62DE5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/09.jpg?as=1&w=494&rev=a1c63130cb5746f5a58bc1d99cd35ef4&hash=9E848A59B1BC7C61D0FCAC5F42C52335",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/10.jpg?as=1&w=494&rev=08358b7be2d94482b2aa8733272930f1&hash=81389F075C38E3D7780047FAEB78A2CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/11.jpg?as=1&w=494&rev=3637a7683ea74d3aaf7d363114de0be6&hash=1AA16B2314DBF731F0643BDD404268E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/12.jpg?as=1&w=494&rev=8319ab9fd0144658964d36ac3b6c8041&hash=AA427EB4BE7860EE906062E06CF06B73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/13.jpg?as=1&w=494&rev=cd6e5428d07d424589a855aec3c1fc4e&hash=7FDEDA17D6AF4E7A0B640BC920E5F74A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/14.jpg?as=1&w=494&rev=959a95a31ee2454d8a60e584ab0d4a79&hash=2A399C1700F8B6E089B7FECFF3D20644",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/15.jpg?as=1&w=494&rev=9c832355b95b45dc81828c6d708b1833&hash=0DD6352E76079E3AB109998D2E5C9C03",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/16.jpg?as=1&w=494&rev=c562e49b01fb4dbaa1a291017915118b&hash=F20F4E0B816399FAF7E256BA4B7D902A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/17.jpg?as=1&w=494&rev=20b39fa0e1aa4134927839a54465d3b1&hash=770480E585E7524E5E17E8B6DFC01643",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/18.jpg?as=1&w=494&rev=4a08bdf31f2b43139a948100b2fb58ea&hash=EF9C32CC73C8F4E0D03752A5B83010B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/19.jpg?as=1&w=494&rev=2d6b8e67e2e34ec89d5dabffd3ac831e&hash=C1238106554990B12B5D7CE0A01F934E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/homeisconnected_1920x1080.jpg?as=1&w=494&rev=a817ab2cb3aa4ba19c2d924966533016&hash=0AB57A0C1BC13C2B45864A6159887BD2"
+      ],
+      "name": "5 Summerwood Road North",
+      "plan": "Miramar",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/sawmill-branch/qmis/5-summerwood-road-north",
+      "id": "5",
+      "address": "5 Summerwood Road North",
+      "price": "$446,990",
+      "beds": "4",
+      "baths": "3.5",
+      "sqft": "2498",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33831-sawmill-branch/338310000-sawmill-branch-for-horton-60s/2498/0406-5-summerwood-road-north/2498-miramar-l-coastal-elev_day_mar2023_web.jpg?iar=1&sc=1&thn=1&w=425&rev=882930adde9441b6a7ca7cdb550e0d07&hash=529239657112BE6D7B8585700DEB5117",
+      "latitude": 29.60608,
+      "longitude": -81.28841,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Belle Terre Elementary School",
+          "type_and_grades": "PK-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Indian Trails Middle School",
+          "type_and_grades": "7-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Matanzas High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

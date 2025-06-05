@@ -1,0 +1,220 @@
+{
+  "timestamp": "2025-06-04T22:26:03.615359",
+  "name": "Westridge Park",
+  "url": "https://www.drhorton.com/florida/orange-county/zellwood/westridge-park",
+  "status": null,
+  "price_from": "$399,990",
+  "address": "11142 Amber Ridge Drive,Zellwood, FL 32798",
+  "phone": "(407) 512-8598",
+  "description": "Find a new home in Zellwood, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Orange County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38305-westridge-park/383050000-westridge-park/westridge-hayden-model-drh--11136-amber-ridge-drive--fl-32798----42.jpg"
+  ],
+  "location": {
+    "latitude": 28.72747,
+    "longitude": -81.5671,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$399,990 - $399,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Park",
+      "description": "Park",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "Pool & Cabana",
+      "description": "Pool & Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Granite Counters",
+      "description": "Sleek Granite Counters",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile Flooring",
+      "description": "Ceramic Tile Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Proximity Zellwood Station Golf",
+      "description": "Proximity to Zellwood Station Golf Club",
+      "icon_url": null
+    },
+    {
+      "name": "Great Location, Easy Access",
+      "description": "Great Location, Easy Access to 429",
+      "icon_url": null
+    },
+    {
+      "name": "West Orange Trail Nearby",
+      "description": "West Orange Trail Nearby",
+      "icon_url": null
+    },
+    {
+      "name": "Close Shopping, Dining Entertainment",
+      "description": "Close to Shopping, Dining and Entertainment",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/orange-county/zellwood/westridge-park/floor-plans/4eab",
+      "details": {
+        "price": "From $406s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38305-westridge-park/383050000-westridge-park/4eab/aria_c_web.jpg?as=1&w=425&rev=6d5ff69b7020459c80efa7bb0bf48cda&hash=7BE93D202067C5AB644A1FE56E732614"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/aria_floorplan_no_logo.png?rev=931a230b997649ce9fb362b3871ca714&hash=9F67CFC5728AA11A9DA50E29FBBBE782"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/orange-county/zellwood/westridge-park/floor-plans/4ebb",
+      "details": {
+        "price": "From $416s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38305-westridge-park/383050000-westridge-park/4ebb/cali_c_web.jpg?as=1&w=425&rev=8f22ae2e921747178c0ac55933f65660&hash=CAAE953AC27A1BDB7EE0F9E91185122A"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4ebb/cali_floorplan_only.jpg?rev=30516c7daf1448f8ac09bd443efcd051&hash=DA59E227C348D361395054B57B93B9FB"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/orange-county/zellwood/westridge-park/floor-plans/4ehb",
+      "details": {
+        "price": "From $477s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38305-westridge-park/383050000-westridge-park/4ehb/hayden_h_web.jpg?as=1&w=425&rev=8256b5f7fab94b7aa53ce8c4ce135aa3&hash=9374B71CBFFB0870090A5F0BE9C66057"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4ehb/hayden_floorplan.jpg?rev=f47fa1aa93764696a4ecd509baeaddfd&hash=60345A385D82B4FF918031F773AEE529"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-florida/38305-westridge-park/383050000-westridge-park/4ehb/hayden_3d_floorplan.jpg?rev=69e3120c02b848df8aad47e65b7d5453&hash=D892F45DD45E8E72615D0DC709BD78E3"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/11_5369-hayloft-drive--apopka--fl-32712---02.jpg?as=1&w=494&rev=1d41d159d0f0453380b13f0ccd9d1c53&hash=3C1AE0D6A1CB32A73FECA1BE3F35BB34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---04.jpg?as=1&w=494&rev=f3bb6a40b43341be808e92519901ed2f&hash=1AE39379B1310029A8D539F19232284C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---11.jpg?as=1&w=494&rev=cf007ccd61274a60bab765ddd9a1f6ec&hash=1952C7A86DD6A5715AB641227A8A0380",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---13.jpg?as=1&w=494&rev=f56fb6c7aef041c6b03ffaeaa737f8ff&hash=0CF498DA25DB836B46808BABF905F5E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---16.jpg?as=1&w=494&rev=bca84b35d8b34c10893adda5cf456411&hash=7C09761C11BAEEA1E6CC2CCA33E3AEDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---18.jpg?as=1&w=494&rev=67fdc8f1bf3d4cfa88f76a6e9526a397&hash=B38DDE38E6A91EFC9E148762B747E30B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---20.jpg?as=1&w=494&rev=8ffb687068d94e7086caffd470709574&hash=EFF63DC1FFFEBA41F8134DF2A36774BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---22.jpg?as=1&w=494&rev=9a188699eb984df4bd57b6d49c52cf65&hash=6A982C3A20141F98E91E38F742D52AF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---24.jpg?as=1&w=494&rev=c755393ece8b4a11a7ccaa7df9f52156&hash=CFE2FC33155461CC52FA3EF02AB6BF01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38305-westridge-park/383050000-westridge-park/4eab/aria_floorplan.jpg?rev=d8e48f473ade4c72935d07b143ec5a53&hash=7D98FE92A8A27F2FE1708E3945785545",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38305-westridge-park/383050000-westridge-park/4eab/aria_g_web.jpg?rev=b1f358d110564077becbb907e9b7c7cb&hash=9165A59A92C068F6D275DC5752B7F54A"
+      ],
+      "name": "11143 Amber Ridge Drive",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/orange-county/zellwood/westridge-park/qmis/11143-amber-ridge-drive",
+      "id": "11143",
+      "address": "11143 Amber Ridge Drive",
+      "price": "$399,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38305-westridge-park/383050000-westridge-park/4eab/0619-11143-amber-ridge-drive/11_5369-hayloft-drive--apopka--fl-32712---02.jpg?iar=1&sc=1&thn=1&w=425&rev=1d41d159d0f0453380b13f0ccd9d1c53&hash=4861B2B426BE772DD520A918875E5283",
+      "latitude": 28.72747,
+      "longitude": -81.5671,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Zellwood Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wolf Lake Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Apopka High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

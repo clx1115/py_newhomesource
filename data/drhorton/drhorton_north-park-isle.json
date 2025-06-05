@@ -1,0 +1,610 @@
+{
+  "timestamp": "2025-06-05T13:05:49.478632",
+  "name": "North Park Isle",
+  "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle",
+  "status": null,
+  "price_from": "$336,990",
+  "address": "3514 N Maryland Ave,Plant City, FL 33565",
+  "phone": "(813) 521-8725",
+  "description": "Find a new home in Plant City, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/391250000-north-park-isle-60s-drh/eagle_rock_dr-003.jpg"
+  ],
+  "location": {
+    "latitude": 28.05275,
+    "longitude": -82.10963,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$336,990 - $414,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Basketball Court",
+      "description": "Basketball Court",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball Court",
+      "description": "Pickleball Court",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete Block Construction",
+      "description": "Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Kayak Launch",
+      "description": "Kayak Launch",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/floor-plans/4eab",
+      "details": {
+        "price": "From $337s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/fl_tampanorth_drhorton_ariac_stone_nocl.jpg?as=1&w=425&rev=04a22fcf77dc41d4a19e0e11ed02973e&hash=6829522CF47F0FC63436F938B04C28AE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=d6e50fae8bbb40688f2bc4abdcd73908&hash=B9A0F6C02E8005E3A02F97322C9DCFC7"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/floor-plans/4ebb",
+      "details": {
+        "price": "From $360s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_d_8.jpg?as=1&w=425&rev=b9a4d0a70bc644ea88ca1acc7ae11043&hash=9E34C30260096D27C09585AB38EDF88E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=f43ee56b34064e6085de2bea0d221b63&hash=027A7AF78EF2F9290A2776E13511D6C4"
+        }
+      ]
+    },
+    {
+      "name": "Ensley",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/floor-plans/e401",
+      "details": {
+        "price": "From $371s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,371 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/e401/fl_tampanorth_drhorton_ensleygstone_nocl.jpg?as=1&w=425&rev=1926b80750ee42d4b17cd0b1f4f3dd89&hash=721DB0501F5B4C8E4654CD500D9479AA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/e401/fl_tampa-sarasota_dr-horton_express-series_ensley_gh_patio-block.jpg?rev=2611985e37b44f7f8fbe14ffe72eef6f&hash=34404424071EE1BF4509F5F8A45FDB25"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/e401/fl_tampa-sarasota_dr-horton_express-series_ensley_gh_patio-block.jpg?rev=2611985e37b44f7f8fbe14ffe72eef6f&hash=34404424071EE1BF4509F5F8A45FDB25"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/floor-plans/4ehb",
+      "details": {
+        "price": "From $396s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,605 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/fl_tampanorth_drhorton_hayden_g_stone.jpg?as=1&w=425&rev=f0d2138648d341ffa3c476c70da0f2e7&hash=2724C9E531308E6D84237DD1AE4C739F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_as_bs_patio_new_11_6.jpg?rev=73b914a4c3c34495952636ee0e554062&hash=288E32E67511CE0A11598987C05923A6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/fl_west_florida_dr_horton_express_hayden_as_bs_patio_new_11_6.jpg?rev=73b914a4c3c34495952636ee0e554062&hash=288E32E67511CE0A11598987C05923A6"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/fl_tampanorth_drhorton_ariad_nocl.jpg?as=1&w=494&rev=f9636e01ab86469397737f71f4251b11&hash=295409DFAA4C1ECC607C54BF2612E22D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/1fl_drhorton_tampanorth_ariamodern_kitchen.jpg?as=1&w=494&rev=6318918642164309b7c6e60d0b5eca1f&hash=829EE71A97276D02FBEA57ED798C355A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/2fl_drhorton_tampanorth_ariamodern_kitchen2.jpg?as=1&w=494&rev=8abcffaefbff462ab3018c3141e32837&hash=40539630CD7A6002A2C507172BE38DEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/3fl_drhorton_tampanorth_ariamodern_livingkitchen.jpg?as=1&w=494&rev=7bbaebeb9c4848929011fda2ee2c397b&hash=EAEE5CD9FC8DF2493100292C301AFF0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/4fl_drhorton_tampanorth_ariamodern_foyer.jpg?as=1&w=494&rev=4bd4ae51931c44bd9581ae5ac530bd9a&hash=6EB43A70E888158F25F0807055996723",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/5fl_drhorton_tampanorth_ariamodern_bedroom1.jpg?as=1&w=494&rev=e0db51448e1e4696b9075bed2cf68a7c&hash=2C87FD5B8B624C730A2AD51ADB6E3846",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/6fl_drhorton_tampanorth_ariamodern_bathroom1.jpg?as=1&w=494&rev=527d104b3cb94dec8eca68ba7f1d2299&hash=64C8529E9CA3F93B1E4CBAB43EB84888",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/7fl_drhorton_tampanorth_ariamodern_bathroom2.jpg?as=1&w=494&rev=373e404eb99e41e1a05ffa6fa0d91087&hash=AF5ED4DA81AC07DF8080C830010F1ACB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/8fl_drhorton_tampanorth_ariamodern_bedroom2.jpg?as=1&w=494&rev=e2e54100511b4468988a4b0223812222&hash=FE96305D926B3A2022B9ACB12C45F187",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/9fl_drhorton_tampanorth_ariamodern_bedroom3.jpg?as=1&w=494&rev=681021e9a88e4a9d9bef30d290a741d9&hash=85A2C3AA495747CA2A3E3CFF85C879E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/fl_west_florida_dr_horton_express_aria_cd_block_new.jpg?rev=d6e50fae8bbb40688f2bc4abdcd73908&hash=B9A0F6C02E8005E3A02F97322C9DCFC7"
+      ],
+      "name": "3511 Capital Reserve Dr",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/3511-capital-reserve-dr",
+      "id": "3511",
+      "address": "3511 Capital Reserve Dr",
+      "price": "$343,795",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4eab/0359-3511-capital-reserve-dr/fl_tampanorth_drhorton_ariad_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f9636e01ab86469397737f71f4251b11&hash=B59D1C72500E509D5C767B871C30788C",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/fl_tampanorth_drhorton_calid_nocl.jpg?as=1&w=494&rev=0a852292771f436fb2b68399e33d7817&hash=54E8F9FBFA664A238FFA636405340C12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=eeb2702f17184769b8cd1396fce32068&hash=8C6708ECECEF48C1AFDCC4A1B1E9D33B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=9c319fb9a79947458bed5dc54369885a&hash=B8D870794DEDF1E799FF2902A320D816",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=682a3fb28796452ca6e3d9319a59a5f2&hash=7D316194925D0172FEE2AE0A999A39D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=8687ad77b91c49c0ae34ad3227c2a84c&hash=5D31C807C7FA39C3CB07AF294E82FFA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=11374946a96f4c3691e24225c7226124&hash=FAED9A799B9B1FD1509C2CEE6D2A8345",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=1e7efd0f36a04456adf5ba7cf97c8269&hash=276AB0096497A1291AD70FE1B78AB40A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=499f818fc26a44769eb308786faf1332&hash=12F1078FFA059C2B63CAF19A0F1E482E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=38861b3f11b2431a84402c49be9e103d&hash=B246B24861F7759349F33AA8FF51591F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=f7474f0dfdd04773bd62a6114401ca29&hash=D9BC360386FAFBE35C686DC4FEBAEEF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=d7f70421b10a472fa185580387bfa33a&hash=7A2A2C4E593D9DF45C89551A3B713750",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=4b93251aa70e4ccd90d44d1e5f6d159a&hash=AE26E35833C4570671A51592C8391435",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=01ef5ef4071f45cd9b1b9a8abd147915&hash=3654252926F54226360F3B729568DCFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=b4e8190598164f93b34f62cb5146952c&hash=46AEB9FD6D1F050C6F9D15D468E9BD7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=4d2eced40a784b9da23305df1ae20ba6&hash=98355B012DF74B33B58DA8892E10EF84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=afd3697f1ebd44fb8b8ee482d8d506b9&hash=EF73DD99EEC03067D115EBF5E93353DA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=5289186b430d43198b54cce25f58fd90&hash=6DB25842E7975B281FE259ACF1FCCA19",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1702 Tahitian Sunrise Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1702-tahitian-sunrise-dr",
+      "id": "1702",
+      "address": "1702 Tahitian Sunrise Dr",
+      "price": "$369,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0370-1702-tahitian-sunrise-dr/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=0a852292771f436fb2b68399e33d7817&hash=CACB1A1F2004E54B2A3A2CBC5CE7F1AB",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/fl_tampanorth_drhorton_calic_nocl.jpg?as=1&w=494&rev=f1a6f5c621c3412693331cd13ace2974&hash=ADDEC422E5E12D9B60E9083A76C61D88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=04e2e20e6b714f7ba86f1ebe652551ab&hash=E79B6BD62DF488CB4AFF93E320586BC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=eb25e576cb5a431b98984c53dc747506&hash=B86F7FC5D1FF942B30C8E6B617C2BF44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=e8e94041aa304339ba5797d29617c90e&hash=2AE5A62A24226BCC67EBFADA447ADFA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=01c4deb514cd431b95e2fcd294fb3aa9&hash=939B3C4DDBF674A118D76CA04297E77A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=5ba88e582325442b8d28a14ba2da6a2e&hash=F340E8160D7372A755A1A95507051870",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=540e5ef7c3f74920bb39ea27ca3c19d9&hash=8FAC60814408990DA2F38F6C74D568C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=3a2238faef9a4ad59970a6d3e9e00eeb&hash=0AE54C93E3034671E611284A6DF45E9D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=235369cf8c9940bc984be340165c7fd0&hash=8FCEF00679CA3D008AAA2860E7F5D3BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=93676dc987864fad8332b4b1d95ecf38&hash=8F57BF256C8D8A1726FFBD4E531A9638",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=fca138ed8d9b496b86424533dc4e9e04&hash=B6542891F4AD8A619D24287223C9824F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=6a9f625fe2ef4e7fbb3af560edb6bf98&hash=1862143DD959491BB9EA2A10EF832A60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=fe1dc101ed004c9bb69592cb48c9c5f7&hash=C104AAEBD8612357F67E5C89A6C18677",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=264681159e6e484f89a7d985145b11d8&hash=DB8F7E6544C4BBCB33221293D8C6CFC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=51c88c243dfb40ffb6c456e2c6d25cd2&hash=4DE0C947EBC948F8F93D82C7F4DEABB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=c9d57b47534740eb9c6f75a25a12ab7d&hash=D5113EDE7AD91E5E1F819128309262C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=19e73e96476d4f76bfd2f852aaff9b98&hash=357EA5EB5F8402F876FE16B2190F42F6",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1704 Tahitian Sunrise Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1704-tahitian-sunrise-dr",
+      "id": "1704",
+      "address": "1704 Tahitian Sunrise Dr",
+      "price": "$369,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0371-1704-tahitian-sunrise-dr/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=f1a6f5c621c3412693331cd13ace2974&hash=FA43F3CCFF76D2789561F8390851C727",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/fl_tampanorth_drhorton_calic_nocl.jpg?as=1&w=494&rev=48a561520b3d48788bf8dd1dcdca2386&hash=4232BA3FE70142C679FDEE09BA25BF7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=49218fbd5fd8462a8e2d36fd7afe818b&hash=8E98D2A984D7469BFBB124031AF67C59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=568eb559d5a5441d9a949bd2f13e5df1&hash=5A7388E40F7ABC5E8610803EC51C91E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=4132d8071ce34e0a8034d2bb7a3843aa&hash=84D0E5760A1156187E1093E12DBDC480",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=005ef24fd95e4ae5a7315c5fd039c857&hash=75BD526A7B16EFAB246D72EA7AEA5382",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=e3ecfa6e0350446f82c5a212bdd7216a&hash=2421073B7E949C481D10FDD9A3FD179F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=54b67a9abd3c4ba888c70a8862677755&hash=6DCD1F0C9BE0554C29FC9C4E070F6FD0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=7f6d300b69d342408d7b61bcbea83819&hash=91796691CA7F15FE77D1828B9CE6A132",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=5906dc42f06d41f2b0e0164b856d4cf2&hash=A8E84B023E4EFC915FFB46611EEEA697",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=5209d7ca8a0e48b5aa4a68a70ffa578f&hash=BE95DD34D7AAC371D603DF8C2B2D6521",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=12da17d06b5442b9bcce643fc6a10aff&hash=8027D16E22B7FFF16BCFADBB2BA581E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=ba55d47dd0cd48f089998657d7713c87&hash=799596BDB5E8975CDB9127169E0DD842",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=825c1e0b197547b7bdec59b44c87d3a3&hash=9B919C57835555B546A4F22482FAFA80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=9a876ad1fbf044d5aa817f3b8dab2e56&hash=4EE73D9CF1D048D71E9E589B1AFAC3F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=04294dce54774a8cba26e737458f345e&hash=327B6F67ACB56BBA8AEA6B51DCF6B426",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=d3c3a63bc02846dda7d6a63800f69732&hash=9D215F4E2B0131AD10C45BD7721D20EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=124e3e692ed444f0bec89c1c40152971&hash=8B8B3005A97EC30ECEE0F4E9D5C4C7C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=f43ee56b34064e6085de2bea0d221b63&hash=027A7AF78EF2F9290A2776E13511D6C4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3507 Capital Reserve Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/3507-capital-reserve-dr",
+      "id": "3507",
+      "address": "3507 Capital Reserve Dr",
+      "price": "$366,995",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0361-3507-capital-reserve-dr/fl_tampanorth_drhorton_calic_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=48a561520b3d48788bf8dd1dcdca2386&hash=BF22225B153A2F9DBD422199F49AAFD8",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/fl_tampanorth_drhorton_calid_nocl.jpg?as=1&w=494&rev=530ed63f6bae43fd85f6175a20ff4ee3&hash=F3A854B5AD25BD0804834074C31437A3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/1_tpa_cali_quartz_tile_foyer.jpg?as=1&w=494&rev=8c1af08823424b41b1d24bfa7b60d9fe&hash=40A7BC8BFDE6B989B7DD5D39716A0340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/2_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=aad14799288a464aa782882c03e1e68d&hash=F6914E264F9E9E439D86D432AB1032AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/3_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=9b6b20977b13467b9291ee1f6d87356e&hash=70DC168F096C3388ECC326A68CB1233E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/4_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=6021d4c44e4245909475a10ca7378c17&hash=FF915DF1EBCA879EE06B8679D5652A95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/5_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=6231463bdc3f40169f2f518ad9921c7e&hash=FD6785CBC70244AC2FF8DB79884F68B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/6_tpa_cali_quartz_tile_kitchen.jpg?as=1&w=494&rev=dede094d7a034063947edd8e914b399d&hash=485C5F37BA23421D03A8308CF56BBDAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/7_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=15607fb7a57d48c4a00d0b9f2a84048c&hash=3A5646E3F83093DB91517310DCC94418",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/8_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=8238a52555cc42cab1a1b2547ae6c726&hash=DBF5FE2CB868D75801C42FA513CB9AE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/9_tpa_cali_quartz_tile_dining.jpg?as=1&w=494&rev=be456cb58db64abdb9a1f7cbebc8ebe6&hash=DCE2809227825BBCA111A7B9F4AE8AC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/10_tpa_cali_quartz_tile_living.jpg?as=1&w=494&rev=bc0fd3cdc45b4a4a93d239d60654eddf&hash=24E8AE778F54B83461C763C80429063E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/11_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=d500d2fd4c2f49a9b2b3a95e6e8b6d8c&hash=0577512B7FBAC0BAA1579468F89C00D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/12_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=b08ffb0ce7294f2a80c297a19682465a&hash=BE6625023A1CA678E8D174D91951E05E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/13_tpa_cali_quartz_tile_bed.jpg?as=1&w=494&rev=c352a7a93ec44e43a31cd41baf6739b6&hash=78B807C486680D323D7E451C70D9D7AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/14_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=c156cf8f8958452cba4aa2e93aeaf14a&hash=0BCA53F526BDD8706D310C2E322F2C1A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/15_tpa_cali_quartz_tile_bath.jpg?as=1&w=494&rev=0460e1823f394d5d91afd0adfb094327&hash=52E8120788A480ECF17B5A0519FDEE9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/16_tpa_cali_quartz_tile_bath-closet.jpg?as=1&w=494&rev=9e3f56e8d22d47cab0560c411099f70c&hash=501173373306EE63445C5CDF60BBC3BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/fl_west_florida_dr_horton_express_cali_cd_block_floorplan_new.jpg?rev=f43ee56b34064e6085de2bea0d221b63&hash=027A7AF78EF2F9290A2776E13511D6C4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3509 Capital Reserve Dr",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/3509-capital-reserve-dr",
+      "id": "3509",
+      "address": "3509 Capital Reserve Dr",
+      "price": "$364,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ebb/0360-3509-capital-reserve-dr/fl_tampanorth_drhorton_calid_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=530ed63f6bae43fd85f6175a20ff4ee3&hash=DDBCF26B86DD756D412C5B600BFD9220",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenk_nocl.jpg?as=1&w=494&rev=345b3747cf72415984a90c791add8e76&hash=F44EA4553E1894718BB078C15531ACCF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=79ef9b6c455b4bae91eb96af7f2e22f6&hash=002D2C7D85EF6A9771E5057D3C39FF82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=e75aa41a11404f2494c62d02ebf4b09c&hash=74124F83F83DF8F6BBBFEE0DBEBC24FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=193019822c7f455bb8a15c49f0e7112b&hash=C696A2484AA600225638F41BC34434C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=96651f6738b94819bb6607078f19596d&hash=C0E312BD67B4780919D3A9339E37EB8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=af4d78577f564e4687f2dc30946479f9&hash=AC70546E8FEE885A0D241A4852B4451F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=d4b20641c46243b3a7d1456dcdbadcb5&hash=F4BD543380CE2D4D66B3DDF36F0A2104",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=6dc7e8a226fe4e829574983822cef73f&hash=4523AC3C144E109B4FFE2FE1F87DD4FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=5745ddd7068f439da205a5dbf18e1ca8&hash=F0D21F22A2B16D592019D7BC6C1A7574",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=0c3dfb9cce98409095004784f720f2b0&hash=DC5D40989B8A176D0AAECD130AA7D498",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=6ccb365c38044e74a08d4a65d0edc92f&hash=BDC521EEF999AC22F773A70A8CF198DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=65b5c7d1a04f4e1ebe81700523b582f0&hash=D2BD70A5CFD01E271E3D66A673414B86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=d0be31f305444d17bb8e784c1d8089ff&hash=C75C221C2AA790159B969369000DDE88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=10077e9d42ef484b99cf48b7f845b5bb&hash=6440772D8AA3ABE402E151E06838059B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=3d593ae687734cf39ecfc364e3299bbf&hash=EB0C4A7566040C2D5EAC20C4EFE5F9D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=e7ad79f530064004a3aa87ad244bd3c4&hash=57D355515759CDD6D873FCA234CA3DF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=a215231f0f6041b1b052e575447e7b1b&hash=EF9EF9A6C3B5CBD25D50259E28402B88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=577f6e7cb0c84cdeb0dd9e5fd1aa6cd3&hash=AFD8D191975406FA1A6F49603F8F7629",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=9a336f2884fc45bbbb34d414f137a8d2&hash=3FF665C8BF4C760E02702ED057887999",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=7a35287f0cc047f9aaf465749c69f807&hash=0C28ADC4FEFBA0243A3006D32F737C7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=f1f9460c95584080874c95eda0bca5cf&hash=FB562DE2FE047DB543DF06F7B59149A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=a70473e008f34875b0d93be32cfb1c8b&hash=797EFD7450397FEC08D716C45A526764",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1610 Tahitian Sunrise Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1610-tahitian-sunrise-dr",
+      "id": "1610",
+      "address": "1610 Tahitian Sunrise Dr",
+      "price": "$414,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0368-1610-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenk_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=345b3747cf72415984a90c791add8e76&hash=57A8B75B78B78576DBBCA90E1C09BADD",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenh_nocl.jpg?as=1&w=494&rev=05fcd5ec6bb642838741066d2cb3276b&hash=9247E5632D608AF7448DA2DF7BBEB23E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=207708c0d3864066924d4093fb479b30&hash=FD2643513F71A2FFF300CD99719FD57D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=abc3876282d4417aba52e431df9355d0&hash=9AA54274E8C340256E784CCA59395E94",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=175b749804f9452fb3baf70173419dc0&hash=39723A7EF89E55ACF5B056A82D766910",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=d0985b45c511487abc1344a1a01b40dd&hash=AE8D97CEA5EEB6FEC0F1CFB4363A3DBA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=65365cb3664a4975be26ac512742bc52&hash=964CDAE74D2ED373BC26BE2658B58363",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=d6762a9be81c4a5bbc00446c31ec64d3&hash=D235892DF5AF92FA5E7E16FA1E2DB894",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=99f3e4dd214e4c58b306973a3efe047e&hash=8C2681E5C8B64C4CE8B049CAE0CBB739",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=6cfd9e9da76b4825b25b14f2812d07ca&hash=F5D63ED115A8D7EE2F46FCF2998FB6A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=2fba922fa9de475f865ca2dbefa06967&hash=1E838AA1B0AAFA241FA3877795DF1F95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=3d44e9389cd046f1bf6c79e73f4cb4d8&hash=5216C063A77CABF0E7FEC3A93011AF44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=f83f1e7a58a84bbf8829dc69abaf1369&hash=12F727811C8E1A619E6620917CBD6945",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=d63c00f23770448bac2dffbab0780129&hash=0BC59E91198038806AE949BAC1065F7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=5393e163d7a64883ae874ef2d6f70496&hash=133E237BC47C26AF9394F2F23D1AF73B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=bffb25c9b022452f89cbb281d5aa642c&hash=8ADDE2504B8551D2AE8B91065E720CDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=7a87455652424ab481cf50d88f254e07&hash=0E6E6E226BDB414EFEE29B6EFDE59778",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=21019156d3cb4723b179d416d56a3962&hash=5DB8D7A8AF2E34123023680DE2FE9566",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=7246ee691b474fac8ec59c39bd58723a&hash=6C7970B42A0832AF642D46F98B2FA873",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=7098b9ef245347f5b87348c705eaa6d6&hash=E82B1D6BEF056DE434FE7DB5C2D11793",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=f0992e7956714f2d846d672d0d79f325&hash=DE486A5B66A1925F311ADB77ABDF2D95",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=8fb938b3227f4b988d153660f03e9870&hash=67002FA0D3CCD678AE837D13CFF9E584",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=289684130f87433e8807df5d5b093b54&hash=B9F52B3C9591E8B7596E5C5E4C7F7A0D",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1612 Tahitian Sunrise Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1612-tahitian-sunrise-dr",
+      "id": "1612",
+      "address": "1612 Tahitian Sunrise Dr",
+      "price": "$413,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0369-1612-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=05fcd5ec6bb642838741066d2cb3276b&hash=47FA9FFD763697578E39D4148E49634D",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenj_nocl.jpg?as=1&w=494&rev=a607208dfb1746a59eebb411236582ab&hash=03D1DE2E6C7C076112B00AC62C5E14D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=3df5d20a0c904d459907650aabd23640&hash=AEEDD860868FD8F887C7C5FF48DC026C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=51ad64e435d54ef2a6fac099c5e8c41e&hash=48D7549F04F063C478CEA8EE12292FAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=aba11e4b2767491184de355c1ee1cf63&hash=C5B98BDEAF7B0566B70992BFC277F894",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=ac54e063fc6544e6b2fc75462f305ac9&hash=6F4645CAFE351CA238484F70A35E6A8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=844a4291fee94bfeb195e1236e3e0578&hash=43820C57EBC946848D68B16E17F60797",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=f1ad902ee52a4c9a99e1f4013d5e2d4e&hash=A8F5AD4923CC054D252C33CD5A0D31A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=703e68644b86496abbe4fb378e6af39d&hash=057F53A9B2348E5F737C5BC2FFCA2E4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=2dd1be55bf9d483dacf8ce16e7d95301&hash=8C5C1AD262B7A9538B3338E8AE9247BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=1c8c369a67564df6a1ab80337d52897b&hash=BF3C64645F1B25810C3A9990BE64A640",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=c6751ed5779e4ba89949b34d7844ea50&hash=163009A6DC298AA92C8ADCFC361CD453",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=a26dc00472054c5d813031d6e04119d6&hash=67179A6CFE7DBBC89BE0A8FE891D3AD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=876128ee740249d48b3cf6af98fd881d&hash=C6A3EF4AF0CFA9B9BCE711284F4E9A59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=3d1f150d6b7846158ac9947412b17590&hash=D6609828E76F5AC0EE82070D54B62A2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=8623298e38fb4bc2a9c98c7b70328db5&hash=E06620F8DA77699C4003D66826C4ADDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=638fff365f024d78bcb18224d9d98d6b&hash=381C2549354839FFEF36CC7754FB9C52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=a341998609d74630a7a22375411f055d&hash=320419CEBD2A9489EC8012C73E944D4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=c5355f241e2b477993909576a5949523&hash=88F2DFE08A176F2BFF7A96897BD18433",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=2d0441684f7542aa9bb0bc03e94d518e&hash=6B40C7A807A214F071826EE9C561CCA1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=7d56b1e765d94147ae0228dcf0a87b47&hash=D8FCF27192AD3729A68E6F1F0CC5CC6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=8662009b27974840befeae039d8c1bd4&hash=665AC52DE1CD8D25004EC76AE1CDBF96",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=f419a0080a09452e91c487a044659c37&hash=C8ABACC117CA8FCA7676879432B450AC",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1703 Tahitian Sunrise Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1703-tahitian-sunrise-dr",
+      "id": "1703",
+      "address": "1703 Tahitian Sunrise Dr",
+      "price": "$404,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0356-1703-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=a607208dfb1746a59eebb411236582ab&hash=2CA448BA80B33EC65033F95FE0458864",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?as=1&w=494&rev=b75ecd59df12492fbe83d5869eb60766&hash=E246C6FDDAACC64D776B28201F2A9439",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=b2234320962a4ddaa09e4d9a815bdf29&hash=E39A0F1918CC31D176FEBEE794D1EFE4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=79d20dd09d134687b4cb218bb45bbf01&hash=2418CE412C980300A6A989FD66BA63F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=8451aaad08774377b72c4236c4d3fa7e&hash=B62EDF1ED785FBE5794CF4FD58F8347E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=1ec7699412064d4f8142a3136f82c737&hash=2316620A69D9A9588257AFBC83AE1C69",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=a8257ad81d9249288a6a3d31882c53a8&hash=BC1BF577A257E9E3D0A14C81B89CB7E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=2965968a6b0a43d1b71199b7059a3e0d&hash=4637CF17DEA77DAF383E3444ADCA4D2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=8203b455035e41a4914353fcf46d90a5&hash=DCE0BA5DF19966CCABE4729B1E6F7778",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=217cd0f56d744f53a950ba0ee11278c7&hash=DEBFA4DCFEA60B5E68845307CE6E8309",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=49edc02058024759b605a28f23b4d1fe&hash=A76DF47964A241740A15717A7608E569",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=54ef376430f94d2eb83f90a6a6fe905c&hash=007832A526495E82E7F2AD24E7C6F4FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=90400ef0642d4ec4a1c6966ef4464ec2&hash=FE0FCE62E0EADBE40223395B374789A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=40d45b8c62e348e7b7ac659df1234e5f&hash=D4F74BA519DA2E911A869D88A53D829B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=ae328a0d33244b89b9120379a068f722&hash=FBF2D5CC296537A1F0BB177CB873DEAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=32b69226ff76474d9002b362f44a6783&hash=D46F73338EB842649B4D9B866EEE1901",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=7f605dfbabd34bb7b15c1e97c31da9b9&hash=560573BFC0DEF61F1397CA4728E31247",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=a71211d18b4e4394a9011f228f3d46da&hash=512D20C43EB5C5A55402063B6FE76A8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=7bf5e4261b6e4bd798a096b56f233073&hash=64B8F530ED02AEDDEF248AB9407C6296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=88c77bd079e94f36934efb6d157d8eed&hash=684B2F07681E3039CCDA5876957D3F97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=46f85e40d5894257848bf02c02cb0a72&hash=5F22527E751752E1DF5C2C6E22035C07",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=f61adf47a7494e219a98bf64bef40d28&hash=2B19FC7578D73AFC2BD3E675ED126EBD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=7bc96f670d754473bffa23ff9f95c56b&hash=B0D535FB788E6497AA165B1F4C478859",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1704 Light Gardens Ave",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1704-light-gardens-ave",
+      "id": "1704",
+      "address": "1704 Light Gardens Ave",
+      "price": "$404,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0314-1704-light-gardens-ave/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=b75ecd59df12492fbe83d5869eb60766&hash=083372606BB9305E41CEF25C24A6F621",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenh_nocl.jpg?as=1&w=494&rev=4421ff136b474916ac7289b2b1626466&hash=58A40A740CE25E7BE01601CB64145B54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=bb5e521455b3419eb6f3de947f5297d0&hash=A4149E2E172FCBFFAC9546D5CB67F33B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=71f762bfe8994d4e8fce27ed07e91fd5&hash=861890B5AFDED6782B34E132C3C49840",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=8219f0cedc8342c89091e1e4047ef7f6&hash=9AB749CC3E33F98E56A73D2DBA7185D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=f5e2367c8c1d4a2ebe76e7a9a7ce1b70&hash=D2DC667EFAAD566D354C567BC1895CD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=b7e2c2f9378c4022bc5ea313ac7b277d&hash=98D2CAB0F40AD43433BDE29004BD20BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=23bd2cfc506d4082abea44dfdaf8b44e&hash=464D5E07FF7FAE43EE1998C41F1B2D33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=a0151228ca3a479baae78d6d6277c3ad&hash=AEEBDE10503A2395417349E63F33D4F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=443f084191ea45379c7abd96f1a36454&hash=E6A088DF7601B6C87647287E5C913495",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=9a7ee6b897fb4e5d872ee1e80ea9e270&hash=809461AC6C350253059E01F992EBA34D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=8483b0278321430a9e0f3f4286c6ba79&hash=76989FCC582A88567FC8BB24D0B1C00F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=9d16dba08303445ab29605d910a99a2a&hash=D48F6AC7416AAE32D527C2E536C02905",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=49ae9d2433b54654aca58b263e7c5b09&hash=E34E5DC0593C7C849590798BF304DADA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=5373d84b680247a7bcecc0edf2ba417a&hash=A850B0DBA778AFFC91B83469562AB1C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=bd84b4ddb6f843d9b0c51267b2c86e5b&hash=3CA44390C120F96E5CC0B091237B2A10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=efb3654353844be58c064e8e8ab9f3bc&hash=4F73A24FF1F257CF57A7B6DC46FA4616",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=4defcdae09dc49efbb797402c395a104&hash=94103EF7DAA238BB66DDDFA0E4963097",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=919feae35a5448f5823e45966dab6d15&hash=5FAEBC19579D4B6B7674B7348777B5BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=3d36f9dc997f437595bc810f3a49a271&hash=66BFDA9188734C5483FC8FC4AC43F0EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=dcd305c1b75d422ca92a404e64a73f16&hash=C76B51E21885497F5540B947E7798A99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=9b4ffc82840140a5ad8e41cb917300be&hash=9C87F68168E2EBA70726676C4553B989",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=c451c3c6188d4808a204d6bfdd2a7db9&hash=966AC21A33C7B069655A640A00B73484",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1707 Tahitian Sunrise Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/1707-tahitian-sunrise-dr",
+      "id": "1707",
+      "address": "1707 Tahitian Sunrise Dr",
+      "price": "$399,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0354-1707-tahitian-sunrise-dr/fl_tampanorth_drhorton_haydenh_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=4421ff136b474916ac7289b2b1626466&hash=2A9675CF9335B91FD39BD1FD24392D40",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/fl_tampanorth_drhorton_haydenj_nocl.jpg?as=1&w=494&rev=7ec048c7a7fc440eae0f88c0dcfb71e1&hash=A417627D062A9330A566DF8394940761",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/1_tpa_hayden_quartz_tile__front_office.jpg?as=1&w=494&rev=1141d506dbb64596b9b8d64ef200b6d3&hash=FB85988DBBF3A6B4AE2C6A0F58CE9FF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/2_tpa_hayden_quartz_tile__kitchen.jpg?as=1&w=494&rev=78be065099204db5aa9b0e8be0dd1b71&hash=F2D7D81C0E3DD390319524E3DAB67EC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/3_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=52860d546f6f46d7a359e241d5d0ef4e&hash=8811A6F641E947AB62586CE0F3F20D8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/4_tpa_hayden_quartz_tile_kitchen.jpg?as=1&w=494&rev=d47abc9a448f4b4191eec14e6c85ac00&hash=0CC3AB9C63F4FE5D5FA7E9776D5C0DFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/5_tpa_hayden_quartz_tile_dining.jpg?as=1&w=494&rev=7069bdffe7084c48a9ea3413d6a8c041&hash=3D64D9AF65EB26CFD4297EDDFECF4966",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/6_tpa_hayden_quartz_tile_living.jpg?as=1&w=494&rev=33bea90cf1ae4d87a85fd2b6a0ee1037&hash=E9D04787CD5EA102496EC138ADAEC3E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/7_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=8a868c7a099347a5bb1ee60cefdb5dbd&hash=746A06C0452667D07C94C8300CF0E119",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/11_tpa_hayden_quartz_tile_loft.jpg?as=1&w=494&rev=e5020098d7f74b9db310be036f041796&hash=715721C7656F7315561C8031E2170B7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/12_tpa_hayden_quartz_tile_master_bed.jpg?as=1&w=494&rev=83c6c27f8b894130bbc25d07546dbe6f&hash=A35A4125707E43B5BA58C2B68EFD618F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/13_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=d50de73c666348d8a1c88698545e3e6e&hash=B65D0053BBE69C00869D1F6027BBDA7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/14_tpa_hayden_quartz_tile_master_bath.jpg?as=1&w=494&rev=57083e41bd9c46c599b65f4e1b8aafea&hash=734ADF35727E1B77303C255A559E83B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/8_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=058b51d30bf943a08b5ed4f14dfcf265&hash=9E7261F5D0E482B33B653EBD1F08583F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/9_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=595905ef88cd4049b601ff74cc60f7f3&hash=C6AAC312CA2AA7D1BA126744495081C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/10_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=28ec793b2fdb49c0957d7443cd175357&hash=B8049061FF208BB4E5D829F98EBE0027",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/15_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=cfe14f35057e49939abe6c0a178ba5f1&hash=F445D27241333F1AA28FD1B210138E25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/16_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=633e0c3ee2254550978faf28a8f4822f&hash=90CCBAD1C226C9DD6D7D3BDDF82EF792",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/17_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=1deb3956a18d41bd86c900c343704a43&hash=A658B14AF6795D69923B1D48AE45DFC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/18_tpa_hayden_quartz_tile_bath.jpg?as=1&w=494&rev=83e1a12883374f3694ec852f665bfdbf&hash=5EFAADF3A2BC80557A33A0797D85DCA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/19_tpa_hayden_quartz_tile_bed.jpg?as=1&w=494&rev=6f97ca540f0344c1b4fcffc0614ebffe&hash=0ABEA1389D4196A2A0C11BCA9D78699D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/20_tpa_hayden_quartz_tile_washer-dryer.jpg?as=1&w=494&rev=e39c0a5c410246d193569ded72ed4ecd&hash=653D717D22F4FA876506DDA16B9FFDC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/21_tpa_hayden_quartz_tile_lani.jpg?as=1&w=494&rev=35a9c3ad4abe4c149d81a7d0ffeea91c&hash=CF9B9EEEF8BE029D75B4D5E816058C77",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "3505 Capital Reserve Dr",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/tampa/plant-city/north-park-isle/qmis/3505-capital-reserve-dr",
+      "id": "3505",
+      "address": "3505 Capital Reserve Dr",
+      "price": "$403,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2605",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39124-north-park-isle/392770000-north-park-isle-50s-exp/4ehb/0362-3505-capital-reserve-dr/fl_tampanorth_drhorton_haydenj_nocl.jpg?iar=1&sc=1&thn=1&w=425&rev=7ec048c7a7fc440eae0f88c0dcfb71e1&hash=60B09B831776E3723C1D15F2EBEFD079",
+      "latitude": 28.05275,
+      "longitude": -82.10963,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Knights Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Marshall Middle Magnet School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Plant City High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

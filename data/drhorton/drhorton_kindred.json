@@ -1,0 +1,811 @@
+{
+  "timestamp": "2025-06-05T03:30:59.782666",
+  "name": "Kindred",
+  "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred",
+  "status": null,
+  "price_from": "$355,990",
+  "address": "1508 Park Side Ave,Kissimmee, FL 34744",
+  "phone": "(407) 978-6035",
+  "description": "Find a new home in Kissimmee, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Osceola County area. global",
+  "images": [],
+  "location": {
+    "latitude": 28.26628,
+    "longitude": -81.35973,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$355,990 - $539,620",
+    "sqft_range": "From 1,504 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Master Planned Community",
+      "description": "Master Planned Community",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Granite & Quartz Counters",
+      "description": "Granite & Quartz Counters",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Plank Flooring",
+      "description": "Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile Flooring",
+      "description": "Ceramic Tile Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pools, Clubhouses &",
+      "description": "Community Pools, Clubhouses & Cabanas",
+      "icon_url": null
+    },
+    {
+      "name": "Fitness Centers",
+      "description": "Fitness Centers",
+      "icon_url": null
+    },
+    {
+      "name": "Children's Playground",
+      "description": "Children's Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Pavilion Picnic Areas",
+      "description": "Pavilion Picnic Areas",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park & Soccer",
+      "description": "Dog Park & Soccer Field",
+      "icon_url": null
+    },
+    {
+      "name": "Beach Volleyball Court",
+      "description": "Beach Volleyball Court",
+      "icon_url": null
+    },
+    {
+      "name": "Green Spaces & Walking",
+      "description": "Green Spaces & Walking Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Bicycle Racks & Benches",
+      "description": "Bicycle Racks & Benches",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "ALLEX",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/3eab",
+      "details": {
+        "price": "From $396s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,504 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/allex_d_resizedweb.jpg?as=1&w=425&rev=a59ccbc0f68543959980c9470bbb2f67&hash=EEA444A1782CBE78F8AB999171B9384C"
+      }
+    },
+    {
+      "name": "ARIA",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/4eab",
+      "details": {
+        "price": "From $427s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4eab/aria_c_web.jpg?as=1&w=425&rev=7f54595b696942e7803c4e7c6d889b1d&hash=158F5653FADB732FB50D57723F1DD194"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/aria_floorplan_no_logo.png?rev=1c781bdaf57848de987a925ac75ac493&hash=65B90C65FA0AE63CEDDD6AF4733D82BF"
+        }
+      ]
+    },
+    {
+      "name": "CALI",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/4ebb",
+      "details": {
+        "price": "From $437s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4ebb/cali_d_web.jpg?as=1&w=425&rev=27032fad6d434f1cb8eeef6d1d391049&hash=01AC3962118FDDA25088D1FBCA90132E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/cali_floorplan_only.jpg?rev=650ebb681d5a4e6392bbab9140b920a1&hash=D8E4806ECC9BE2252890DC55AE0DE341"
+        }
+      ]
+    },
+    {
+      "name": "CAMDEN",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/2795",
+      "details": {
+        "price": "From $553s",
+        "beds": "4 bd",
+        "baths": "3.5 ba",
+        "half_baths": null,
+        "sqft": "2,787 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383020000-kindred-drh-60s/2795/camden_b_web.jpg?as=1&w=425&rev=252bc4d868bd440fa77e78b0e3c9cbf5&hash=65FDBEAF0C7277D1A873088C4DD56A0E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2795/camden_no_logo.png?rev=c493cb5e035c41a8be2ad0a587bad259&hash=3CCCE4C452E3C2938F9461779DA51AAF"
+        }
+      ]
+    },
+    {
+      "name": "DESTIN",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/2383",
+      "details": {
+        "price": "From $508s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,361 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383020000-kindred-drh-60s/2383/destin_a_web.jpg?as=1&w=425&rev=a84eec1a4d8749799e55c382c5337857&hash=342EAA11D16978F2985126BF19A6EDD5"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2383/jemison_no_logo.jpg?rev=d708da3bd733410aac433ebc5918b6a0&hash=B5E904C0C37E1A66A736DFDF62555AD5"
+        }
+      ]
+    },
+    {
+      "name": "ELSTON",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/3eeb",
+      "details": {
+        "price": "From $428s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,260 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3eeb/elston_g_web.jpg?as=1&w=425&rev=1863ff088e2d451db17a1000f48f0d37&hash=EFFB1BDDB5DB40956945A2C344A29FFE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3eeb/elston_gh.jpg?rev=1420c28f6c554edf9c919e581f0e4a2f&hash=55A625A5C9FA27962B6448B34282F6D2"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3eeb/elston_g_web.jpg?rev=1863ff088e2d451db17a1000f48f0d37&hash=D0C3A6E21D29D12DEECABA08D772D127"
+        }
+      ]
+    },
+    {
+      "name": "GLENWOOD",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/3egb",
+      "details": {
+        "price": "From $406s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,649 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3egb/glenwood_d_web.jpg?as=1&w=425&rev=ead709a9e77b4525a269f6447b5ad772&hash=3D20E2C8B7D74EE26B2728705FECC3BA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3egb/glenwood_floorplan.jpg?rev=cb7a75f519a8412792f15bf01f04fbe3&hash=7D84D455115C0D5DFFBE853740744CCF"
+        }
+      ]
+    },
+    {
+      "name": "HARPER",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/3emb",
+      "details": {
+        "price": "From $414s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,665 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/harper_c.jpg?as=1&w=425&rev=aa6ee26b4e524c33af747b5d72c41d44&hash=7AB82AD142B76341FC9B65DFF489CC9D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3emb/harper_no_logo.jpg?rev=5a9b23a9cadd422cb23e9235331065e2&hash=CD56703D0658536F702FFD60930C75C1"
+        }
+      ]
+    },
+    {
+      "name": "HAYDEN",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/4ehb",
+      "details": {
+        "price": "From $482s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4ehb/hayden_h_web.jpg?as=1&w=425&rev=32299bd212b740e5a58c2d75077c884b&hash=CAAB8FDE077BB5C2A566F24BC77FF92E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/hayden_floorplan.jpg?rev=827bb847f4624eb7a7d04bf4de262d2b&hash=5346CAA18D4AC21BF676C5CF1633511D"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4ehb/hayden_g_web.jpg?rev=1af2ff78bb044b3d80994e66940d1abd&hash=C84E5EC77DEC921589726CA57F16C623"
+        }
+      ]
+    },
+    {
+      "name": "IBIS",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/1567",
+      "details": {
+        "price": "From $356s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,568 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075exp-kindred/380760000-kindred-th/1567/ibis_express_web.jpg?as=1&w=425&rev=04f54123d5b9458381edf016fefa406d&hash=B75AEA7E905E40F9F4AB406965562BBE"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/380760000-kindred-th/1567/ibis_floorplan.jpg?rev=29330815ccc84e42b4add77f5a0fb75b&hash=130D2FC4C6A7D35FD27B8BBFAFFD4F53"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075exp-kindred/380760000-kindred-th/1567/ibis_express_web.jpg?rev=04f54123d5b9458381edf016fefa406d&hash=B349C3E263EC8D9A684538137B81CA9D"
+        }
+      ]
+    },
+    {
+      "name": "JEMISON",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/3ejb",
+      "details": {
+        "price": "From $401s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,614 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38075-kindred/383820000-kindred-40s/3ejb/1a_jemison_exterior_5.jpg?as=1&w=425&rev=f0b3bf56d1d84a74b0a1e4650b4f0d75&hash=9B38ADA0056A66A7E8758D06064BF269"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/jemison_no_logo.jpg?rev=9d64964192f54a299154840e0409a2fa&hash=E2FA27C1592A841D07057F76719A8CFD"
+        }
+      ]
+    },
+    {
+      "name": "ROBIE",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/3efb",
+      "details": {
+        "price": "From $453s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,447 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3efb/robie_h_web.jpg?as=1&w=425&rev=46254e043b40415599fda69c30f5aaba&hash=42C28BC963A27C40DE4EEC36933A8B1B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3efb/robie_floorplan.jpg?rev=eade46c5dbab4c80bef18024ebf8bd2e&hash=459E71B64308D97382AFE9B6C7F4C3E3"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3efb/robie_g_web.jpg?rev=46cfbbdf33f2480896863a0819458233&hash=667DB023BBFD97031B822E8F9DF6580F"
+        }
+      ]
+    },
+    {
+      "name": "ROBINSON",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/2107",
+      "details": {
+        "price": "From $503s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,108 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383020000-kindred-drh-60s/2107/robinson_e_3car_web.jpg?as=1&w=425&rev=20b8818801ff40afbb7f3f5702fab825&hash=183B7F9F46C1E90324209037C1C6B3EF"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/robinson_floorplan_unbranded.jpg?rev=36998f2073804704b879ff221b8d1ca2&hash=5E5591CF669C3DDC2B4C8921AA67EE9A"
+        }
+      ]
+    },
+    {
+      "name": "SANDHILL",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/floor-plans/1817",
+      "details": {
+        "price": "From $371s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,816 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38075-kindred/380760000-kindred-th/1817/sandhill-003-4-exterior_front-mls_size.jpg?as=1&w=425&rev=25c5cc16334b46f09d8063574d839fe5&hash=347C0BF8F25563B45C1832E2CE0A74EA"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/380760000-kindred-th/1817/sandhill_town_avian_pointe_windrose_only.jpg?rev=123b6df8e9a84ee68e0f885911f222e2&hash=C5D0D7C13A8328BC91EC44BED34A57BF"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075exp-kindred/380760000-kindred-th/1817/sandhill_express_web.jpg?rev=4dda8e155acc4b46b2e90502219f180c&hash=6E1F90ADD8005AF84E1E44D2652BBB78"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1-1-allexexterior-elevationd.jpg?as=1&w=494&rev=c7856ac5c84542e8a8cbc67a439975f7&hash=0296874149265BAF0A3A166DBFEF81BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---03.jpg?as=1&w=494&rev=c6bc11fc55024e0f874419a06fcca0a8&hash=9B5F882607B570F43A02A98687D98010",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---04.jpg?as=1&w=494&rev=49913e66e1364bc580b2a36fc8c5d7dd&hash=098D457917505A718BE4C78B24C81A6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---05.jpg?as=1&w=494&rev=96e0da595a234acf866e73aaa993d4cd&hash=11D8B59A9A6E69BE15EA0175FB9BF263",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---06.jpg?as=1&w=494&rev=7990028f24b34da498a10c6bc369f5b7&hash=231A8C4D1F626B79EAC4033310BD990C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---07.jpg?as=1&w=494&rev=5fb6d225379d48c7a0e0c5a3a41dace3&hash=291E1532077D709944A254901ED75A7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---08.jpg?as=1&w=494&rev=3265dccb839d4630a48bdb83433ebf17&hash=ABD405900A510E22EA8DD4F175B97AB4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---09.jpg?as=1&w=494&rev=01e51294bb9d4b9b98764be34aeb568d&hash=35A26831B2771D1F5C0206EB0A47AD8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---10.jpg?as=1&w=494&rev=85d2cc2a6a0a4ce18ff6f6e110db12c5&hash=22F016EEF34964813B86ED1B15B059C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---11.jpg?as=1&w=494&rev=c899419bc1204a7eb9f85b5a12447d94&hash=B682FC4CC87AFBC634C3C768015003F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---12.jpg?as=1&w=494&rev=aa8260fba7134f0abf7fda143b101beb&hash=FD7FD969AF635F549D2A00D837A93D51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---13.jpg?as=1&w=494&rev=ce49f32ce73c41739e84f376edc42563&hash=98CE9F449B23538C29AA4CEC2AD70CAE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---14.jpg?as=1&w=494&rev=7415f78e31cc469c89fe78100899c6ad&hash=84EED63BE551792820EAEF7F86B3C334",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---15.jpg?as=1&w=494&rev=00f2f1727d2f4b98a321549bbd6f8af6&hash=34B6A34D8B7FCF56493CE5B94155C703",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---16.jpg?as=1&w=494&rev=909a9754952c433eaafb0bbe8f3957bb&hash=0D010356783357DF404671544867DAEF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---17.jpg?as=1&w=494&rev=6677e28e77e246a182892d47befaad11&hash=E4627D502CE19E77ED9717EB34D8FA8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---18.jpg?as=1&w=494&rev=7a5b2e3bef4e494a831f3067e967af49&hash=0D4B6CD6304450B5B9F8F27D92F66838",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---19.jpg?as=1&w=494&rev=9c94a8a1481c4509b4f3dbd11f805afc&hash=12EB6CCCA7D1A29053CB24D6D9A8C341",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---20.jpg?as=1&w=494&rev=b227c4b161ad48928596239a25c665b4&hash=5593651C16E08042450905EFAB1A8D69",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---21.jpg?as=1&w=494&rev=d4ec55e452844a5d94577d43bb5e8237&hash=301C281DF54A21955C96C7C78AACB3CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---22.jpg?as=1&w=494&rev=ad6ac536fb074fa6b835a71f462eafd3&hash=60D727E37A92D1378005AE33F78EB367",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---23.jpg?as=1&w=494&rev=21a36c379b0140559790c61f754e045e&hash=7AEF74F49CFE0181564CDC0CC3B659A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---24.jpg?as=1&w=494&rev=8e5cc6e55c6d403cac4d1f7455ae9b77&hash=EBC54DD6491D0E82C38C80D45976BCA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---25.jpg?as=1&w=494&rev=da19f195f217420699742d28856ebd13&hash=0F6B42D59CA93DABB6399BD956DAAA87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---26.jpg?as=1&w=494&rev=99b74d55d3eb43e5ba59519af0644732&hash=E233F82D212FC9C36540034787A16270",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---27.jpg?as=1&w=494&rev=082917afcfdf487f83ab96346d22f3b2&hash=EB9F102BEB20AAD804FCADCA12AD28A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---28.jpg?as=1&w=494&rev=c8fe6ce053bf4462a9137ceb45d0f829&hash=A9323AAC9B807F3AF1F41900A1DE0B21",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/allex_no_logo.png?rev=c639a377ad7541e7bcfc3593830d6ae3&hash=0CC2C1F86449F0B081CB957CAFBAEBC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3eab/allex_d_web.jpg?rev=04ab9a74b2114981a22fb46834542c2c&hash=7DA81FA06ED851C9DC5E9E89CECA224D",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1666 Badger Creek Road",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1666-badger-creek-road",
+      "id": "1666",
+      "address": "1666 Badger Creek Road",
+      "price": "$401,350",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0424-1666-badger-creek-road/1-1-allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=c7856ac5c84542e8a8cbc67a439975f7&hash=3AC1F9C70271022C1D062AAA8D47490E",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1-1-allexexterior-elevationd.jpg?as=1&w=494&rev=96cd47e2d1e8443980fe1265e94a34a2&hash=EA6BD30B6E18FB83312D1CCC7F6DE205",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---03.jpg?as=1&w=494&rev=6fbbc1640e5b44ce83225adeb6eab7c0&hash=60A0AC27E2C158A1C233D28999C9376F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---04.jpg?as=1&w=494&rev=feed2b5b75f2401788c30c22292b644a&hash=46F107C3323D11C510FE561A6685C964",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---05.jpg?as=1&w=494&rev=ce0d84acc80c48de8514d5f9be79f96f&hash=9C84A615CBFD676DF25EDF5F424DCC80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---06.jpg?as=1&w=494&rev=3d0c6e9f9e4a4d159d7aa9a45257ec73&hash=D84BD7D192CFB3F935D229E064CFBD23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---07.jpg?as=1&w=494&rev=c7c0cd41a7014213a3ee2b1ae4437f0e&hash=2297383258E51AC6FCAC1AD5FA22B288",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---08.jpg?as=1&w=494&rev=165dc12dfcac4bf39c53a62fcb82f2ad&hash=E763F3D3692080C32CF105D72741257C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---09.jpg?as=1&w=494&rev=b15d18fb286d4476bcc211a46dd0e3bb&hash=D075381DD4AE6CA4684D5F3658A508C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---10.jpg?as=1&w=494&rev=9cb25f79a58b4fd4a2ba868f69def1f8&hash=A800AF706225731C6ABC49CB82C59EB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---11.jpg?as=1&w=494&rev=90f18453866a4f748a7a35184c2d2bd3&hash=8C65A31B79684B38D1D2850B3D5466E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---12.jpg?as=1&w=494&rev=2f87db85cba34fcbb8375239cbe27a3b&hash=AE2D943B2C3719BE170BD52182C26371",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---13.jpg?as=1&w=494&rev=ad855ccc7ddb4bf59780c1685c15e092&hash=C324F3B231C27CC50812264A5BE39105",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---14.jpg?as=1&w=494&rev=b103fa8b239d41e58bc61fd6d47077a2&hash=C0BFCBBA35406CF976764D19369E265E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---15.jpg?as=1&w=494&rev=c31431af904540f9b913aa4e88fad75b&hash=55823730F1C509FC3090FFAFF2C25E74",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---16.jpg?as=1&w=494&rev=e180d063d8ee4248b4887bc15bbbf75c&hash=45804914B8A2F04CADAB1A656E063C6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---17.jpg?as=1&w=494&rev=e7ea4b3d80cc4422a4875e1e96cdc97c&hash=B1966683727E61AB16949D3B6423E6C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---18.jpg?as=1&w=494&rev=a9c6646428534f80b5518f8aa38beb8d&hash=8970F2A39BD38273278C98B516E89BAD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---19.jpg?as=1&w=494&rev=bf230ed56e6c49ff9885da0db3dac5de&hash=2ACBAEBBB5B58877182FC49910274349",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---20.jpg?as=1&w=494&rev=acb5df397c0143cc8f5d193c3e10c702&hash=E3F4AEDA3E3A2C4AEDAA9F09E29AA5C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---21.jpg?as=1&w=494&rev=2dc56f2203ec414bbcd02c375450cb2f&hash=B58552B173E2A3E2170175D6A243C527",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---22.jpg?as=1&w=494&rev=863798a2312546aa8f5d4f36b06cda35&hash=675630B7F62561FDCDAE77295F2D2902",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---23.jpg?as=1&w=494&rev=dcbe5caedaad42119aa583e8011d681a&hash=ABF965E6CFA5224C384D273B45DA8367",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---24.jpg?as=1&w=494&rev=37fda8c4ddbb4b63a30a359325d5ecd1&hash=0112AFF12B599D56AC9A23C26BFE55B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---25.jpg?as=1&w=494&rev=7646287495844796909980552b61d869&hash=B2DC323A978D1639F20CE9693CAEC2CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---26.jpg?as=1&w=494&rev=a39f970630634f04b72e87314ec81c9f&hash=3FFD3A5563A6DBFA57F580CB33E7BF9D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---27.jpg?as=1&w=494&rev=676731763a6142e19144021381f887f9&hash=FF69A22D9DFA220F444FF18B120553CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1508-park-side-avenue--kissimmee--fl-34744-allex---28.jpg?as=1&w=494&rev=398caf66b76e4e8eb750df29975aeda4&hash=0A5D9CA4976BF1E702AAC64806D2F32D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/allex_no_logo.png?rev=c639a377ad7541e7bcfc3593830d6ae3&hash=0CC2C1F86449F0B081CB957CAFBAEBC7",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1678 Badger Creek Road",
+      "plan": "Allex",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1678-badger-creek-road",
+      "id": "1678",
+      "address": "1678 Badger Creek Road",
+      "price": "$399,350",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1504",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3eab/0426-1678-badger-creek-road/1-1-allexexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=96cd47e2d1e8443980fe1265e94a34a2&hash=EC2F54FF831B0DC35F0275B5DE62585A",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/robinson_e_3car_web.jpg?as=1&w=494&rev=c34ce2b952f94a149dc273bf171db3d7&hash=F08F1F937BCB84A64854D9D558912A07",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----29.jpg?as=1&w=494&rev=ab373cd98b034287bee2947832868237&hash=0488EB82F911A61B43BE28669105E98E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----30.jpg?as=1&w=494&rev=c8b72a4c8fb643638487d7bd9d293bf3&hash=DF7DFB6157E908775A1C0C6E58109CF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----31.jpg?as=1&w=494&rev=ec6d9460cb184f699a10368bd041ae8a&hash=0575BE7A1FDFEA9232922B18DDAFE714",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----11.jpg?as=1&w=494&rev=bf177fb5421a4f67b3b26adba3c11402&hash=F0FFAB3238936E458F28D53E1B51FDB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----12.jpg?as=1&w=494&rev=b4bd391c68394a008742ce20eccec99c&hash=472CFD129FD3BD82FCAE5FA42237D813",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----13.jpg?as=1&w=494&rev=0488edfb694140fb9d8e92bd8209eb9b&hash=B28D18CB021A59930983DB26E0CA3401",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----14.jpg?as=1&w=494&rev=59b024a796f64647998ba59eb75f7ed1&hash=C4A69457A252ABA5FA4CEBE5D5C1A77D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----15.jpg?as=1&w=494&rev=07876e7b681e477a9e46ecb61009496a&hash=8CAEE5BF09DB31DAC0F8824D6155194D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----16.jpg?as=1&w=494&rev=6741a348fd6042c882c60fc5a4c1ce52&hash=F62E6B5CE1B3A271F6E97015EF64B02B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----17.jpg?as=1&w=494&rev=851dee4daf5b4e01bebf3618419506f9&hash=EB9E0568AEB41F11F64C5F3C34C8A10A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----18.jpg?as=1&w=494&rev=155ce3ca43de4bd7b885ae79da59bbc7&hash=0880705887D83B17CCF07478ED8AFE0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----19.jpg?as=1&w=494&rev=f9dd6a2d52f14d03bb815e6d214bdc28&hash=AA3C833227DD5E2C11C29B85FEDEB763",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----20.jpg?as=1&w=494&rev=0901b53cfc82409ab1f5d214de85ae53&hash=5A9589F40656B1560A6484D07A080393",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----21.jpg?as=1&w=494&rev=8f8f217e4c1248faa7df2d6e7f03bde3&hash=BCD055CD7A177DB486A3792E3177C3E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----22.jpg?as=1&w=494&rev=52f487c5409d4170b7dfc6a6a91f0571&hash=91C4AC28AE9C32DC0F2B9EF303F7EE8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----24.jpg?as=1&w=494&rev=f739241d438b47d98b00fda893156445&hash=BCA572700654F82F70B9E1AD774E0B7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----25.jpg?as=1&w=494&rev=e21316d2fc5348e28dcbd85615df4ef8&hash=E26811BB5FD7F488BD263817F86DBA63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----26.jpg?as=1&w=494&rev=f62d833c1472498eaee324be0f5b5adf&hash=75E7C5EA6003A91F29C533523E159A1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----27.jpg?as=1&w=494&rev=f9d7c92c195540c2925b24c9578a20f4&hash=6ED528E80F018B19AF077619A7B34FB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----28.jpg?as=1&w=494&rev=894a4de6f9d14cfa85d108f5c7bd5873&hash=8ECE596EEDAF0F03C611706B3C92CC27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----06.jpg?as=1&w=494&rev=66127b564fbe49c6b22ea118a5e54eb5&hash=00DB264C27297E1B46D14A9A182AAA63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----07.jpg?as=1&w=494&rev=e0df9c68c6034363a21f2fc172458411&hash=228DBA9C2CE55221BA949C8E9DAEEE75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----08.jpg?as=1&w=494&rev=919a30727c604f349cee04951f3f63c3&hash=2EE4DE1A3D2A721F2B0E9147314C612E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/kindred-robinson-model-drh--1528-park-side-ave--kissimmee--fl-34744----09.jpg?as=1&w=494&rev=0c12fe9f1cf0436991466df0d8fac73f&hash=8FE8B0437BED7D32986654F0F39D5DB1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383020000-kindred-drh-60s/2107/robinson_floorplan.jpg?rev=978072773f8b481885544dc855444186&hash=B42CD68813E2A247D8295483508FC310",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383020000-kindred-drh-60s/2107/robinson_e_3car_web.jpg?rev=20b8818801ff40afbb7f3f5702fab825&hash=5220D199D8F881085CA7294F6D900855",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1771 Three Bars Road",
+      "plan": "Robinson",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1771-three-bars-road",
+      "id": "1771",
+      "address": "1771 Three Bars Road",
+      "price": "$530,230",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2108",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0397-1771-three-bars-road/robinson_e_3car_web.jpg?iar=1&sc=1&thn=1&w=425&rev=c34ce2b952f94a149dc273bf171db3d7&hash=D96A7D790EE5A0EF7EC4BD4D27724722",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/1a_jemison_exterior_5.jpg?as=1&w=494&rev=e2b0daab94194a5b9ffbd97a848212fd&hash=B66A989FA38DF220F84205F3D704E3FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/1b_entry.jpg?as=1&w=494&rev=23427e4e0d6e40fd94dda780b80b82ee&hash=3339BD05D1FB7419CE74240B9FF63673",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/2_entry.jpg?as=1&w=494&rev=2b670accc6134fa8be5b6ce77438360a&hash=2ED13A95C5664D7E349E22687CFDEB1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/3_living_room.jpg?as=1&w=494&rev=2c6a0decc8a94372af1f71b1667e62b9&hash=54B5A283B2BC869C1919CB1EE06CD6DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/4_living_room.jpg?as=1&w=494&rev=f7f1dcdc08e74ac78a1d7637cfdf900c&hash=19B8718E7038660FD40B179041239864",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/5_living_room.jpg?as=1&w=494&rev=8bbfbfa29fa34df482fbdd636c608e80&hash=2B4EABAB0BE99E1491FA4B4C1075FCD4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/6_dining_room.jpg?as=1&w=494&rev=5b6bd52259e14657bb7a25bfa2edd6ce&hash=B377CEB98FBA9116558F7EC66E4E91EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/7_dining_room.jpg?as=1&w=494&rev=a143f6a22d3a445b93e62269b08f102c&hash=C25CC200B6A7C070BFF811AF89FF7CEE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/8_kitchen.jpg?as=1&w=494&rev=6affb0dd259e46ba9f2fa4c9d15a63d1&hash=717FADF0B4CE700D5C8CE6EC498291A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/9_kitchen.jpg?as=1&w=494&rev=aef8a125fc704916be3d81fc95fa96e3&hash=3FE3127E591BA04C6939F25CFF3E216B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/10_bedroom_2.jpg?as=1&w=494&rev=dbc4c0d37cf747e7a3cb8225dd0a68cd&hash=0024F07555F72D1C56D20DD9CFC7FC68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/11_bathroom_2.jpg?as=1&w=494&rev=05d1dfd3b0174e6a8a36959027b87b32&hash=DDE6AEC89439930627A25B756AB4E28E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/12_study.jpg?as=1&w=494&rev=a80cc70f6c4d4631bc35554536447c83&hash=8FB5EA339D027DA17BB76D4BA246EFDC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/13_bedroom_1.jpg?as=1&w=494&rev=d1b97ec341374616a4e469156fee2c02&hash=10DA338A7C89DF469E80AC7D5F8EA557",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/14_bedroom_1.jpg?as=1&w=494&rev=f32ffd0989124d12a19b42d7f3993653&hash=8AC70A50EDBAB31FBE5640FAF1B4021A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/15_master_closet.jpg?as=1&w=494&rev=c23520e91a8a435dac41d2ad0ce635a6&hash=B616CB29E6A4AF0AC9FF11A84EC41866",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/16_master_bathroom.jpg?as=1&w=494&rev=2f559b37a5ea47adab602d19fb70e6d9&hash=E57B0BEC752F6F938D3B0A0855F98C17",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/jemison_exterior_6.jpg?as=1&w=494&rev=8a1a4f6567214bae9e61d3112809d76b&hash=E86A54CBA73627DA2829A878563497FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/jemison_no_logo.jpg?rev=9d64964192f54a299154840e0409a2fa&hash=E2FA27C1592A841D07057F76719A8CFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383820000-kindred-40s/3ejb/jemison_c_web.jpg?rev=c8e2eee7707249e69a13d1cdeb27020a&hash=65271FB13A11DBDB1096A2B4608842B5",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1834 Geronimo Street",
+      "plan": "Jemison",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1834-geronimo-street",
+      "id": "1834",
+      "address": "1834 Geronimo Street",
+      "price": "$420,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1614",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383820000-kindred-40s/3ejb/0432-1834-geronimo-street/1a_jemison_exterior_5.jpg?iar=1&sc=1&thn=1&w=425&rev=e2b0daab94194a5b9ffbd97a848212fd&hash=A38CD87AF8D4D3E0EDE427E60453D0A4",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/1-1-caliexterior-elevationc.jpg?as=1&w=494&rev=f29c2e251f854723b7edbf62f03dd408&hash=25F966F85FDB3D6FF52F4B1DE0EF233D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=0c577ca5ca6d4692928681902ad2a734&hash=3620A68F12D494AA9C529DC532ED49C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=0ac8eb0d8fea4d119afd1e4bdb8fe15e&hash=8C1CB83A463F43C63E473E98DEB680AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=b36b2abc544140ed99b93967ffaf35ad&hash=9ADD5E590421264F70F159F0B1AD36C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=2a599b0b0e714bbd912958bdc2d25cf7&hash=F221CE2BD78DB413DF5051BB62A0FD1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=c7aec4aa9c9c42d1bc39590130158e99&hash=2F2E07D99E1D78BBB0B19851FA0638EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=863762ef13b14c8ab1e6fd1406306075&hash=E0104FEB373120F3FDA041978C6D82DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=e021f90d42a04bf695ad7eb3280e9d39&hash=B378DBF1D3BAE42CEC035F9BB6438C60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=ee6153ff60654c30a9a475848220eabd&hash=B9793727378F0B9D72CF5EB2387D4D67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=33f1b7fa8ddf4c899c34b9a8ab4c02bc&hash=72D674C6CCCBB79DDB05161EEE2F07D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=0505d657f56647fe89c600b15f99002d&hash=47424F02AF310D6AD521097873AD4431",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=360957a135a34fb0a75faa67e84ff943&hash=AF3A39F68B843D40B492E956AA2E007A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=0a31b8403281428f9057ae2aeac7a40c&hash=58B561462D70560FC4412D58DEE34BE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=21c645a346d042dbbc45c757443eb37a&hash=C26FE43A9B0F1BA2BDD222DFA1E9FFDD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=6b17b41b0b05431d97b489eaa052f071&hash=E1FE53B5A48B1744F6A6BEC099C831E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/cali_floorplan_only.jpg?rev=650ebb681d5a4e6392bbab9140b920a1&hash=D8E4806ECC9BE2252890DC55AE0DE341",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1861 Walnut Creek Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1861-walnut-creek-drive",
+      "id": "1861",
+      "address": "1861 Walnut Creek Drive",
+      "price": "$459,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0335-1861-walnut-creek-drive/1-1-caliexterior-elevationc.jpg?iar=1&sc=1&thn=1&w=425&rev=f29c2e251f854723b7edbf62f03dd408&hash=2FFFC9800FE2B0EB916C3FB8CD8022AB",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/1-1-caliexterior-elevationd.jpg?as=1&w=494&rev=6bdd7222f8b74db3838432f3efea27fb&hash=0768C711D1E0D9CA37ABAA00FE7F5F9D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=ff18a05177bd43da9297101b59e0fb26&hash=54A3A572C63386BF1372E6D053D9BBE6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=1d337a8d8c3446cc993d8135a1319c6b&hash=B1BE58CA7EC405487B03769FE0C60175",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=684e58fbc484409092a4aeecc5e88f70&hash=F0A44CBFEE956E9B1AA17B44B051B11E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=9d77a0d0d4b04800975b159e1abb0df9&hash=8F93737A1EAD7BBB39E030D82393F7F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=1d6a5ceaafc1416a84b3ad954478ee3a&hash=A9F8EA87E952DEA7D04FB142631F8685",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=1bb7655b22dd4ccda7aea22e4f37384f&hash=09153601660EBAD68DCEFD892DD20C47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=8c3f9b90698b4fe9998a4cf3eb8a3527&hash=2697B399DDD14097F5951A482F2ECB2B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=6841c13e318344a499dda2932280cf62&hash=EFAC102B966C48C6C5EB3E71ADED9706",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=ebad869d16904e338cdc19be43abd164&hash=B476EDEFF49121B2D93D9DF270967AAD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=d90042875d114e539438c9baafcfdbd8&hash=A0010E31EF9BA8B857755101D8CC33C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=47f6f3c460ca46d3b0655e5a874bb656&hash=567AC03ED0CDCF14C2CABAA6184455C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=9224f45bf5f44b8190d2dd8ac679d328&hash=306BFE225B77F10EA860387EFD835BC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=0ee48bcdbe034613883a237d5953cf90&hash=20406D1692209BCE4D4F0B0B94D6281E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/5277-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=3920823df2944b7289aaef6c509f3e29&hash=3B901F2E220425726AFC4AD57F44325D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/cali_floorplan_only.jpg?rev=650ebb681d5a4e6392bbab9140b920a1&hash=D8E4806ECC9BE2252890DC55AE0DE341",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4ebb/cali_g_web.jpg?rev=18dc26d076664ab89ae7e3b1a4f94d5c&hash=77E40580BE02FA2C1C41CC6C8AD71216",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1869 Walnut Creek Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1869-walnut-creek-drive",
+      "id": "1869",
+      "address": "1869 Walnut Creek Drive",
+      "price": "$454,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ebb/0333-1869-walnut-creek-drive/1-1-caliexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=6bdd7222f8b74db3838432f3efea27fb&hash=75188EEB9E03ECADF803155280114DC1",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1_1_haydenexterior_g.jpg?as=1&w=494&rev=9aeafb15b8e94eb7864be4e86cc582d9&hash=BC27E23C3B8C2AC0A4B4F4C9C4B2A40B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---08.jpg?as=1&w=494&rev=4e3052dbafd440f4b85814b7743e036b&hash=E17A4EC28C369186A98A8FD374631F78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---09.jpg?as=1&w=494&rev=0d24eb083655454c978e5763dca19e8c&hash=E0DF6E113A2AA60FE3CC80643158A279",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---12.jpg?as=1&w=494&rev=8f85af14eae349fe9c53b88936317e2b&hash=A88B3074AA51312F94B417368570D3F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---13.jpg?as=1&w=494&rev=1947ceeb99dc409d8b7140ebb93ee392&hash=B9CD897E43503AB2389A90D9FC2CF296",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---15.jpg?as=1&w=494&rev=a287ea5cbdb8411db3d74076b8220d7a&hash=5C58C158B4F2087A90818B34DE74897A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---19.jpg?as=1&w=494&rev=9fa44cc326c049cf9f4ae71ee222dd8f&hash=D200272A6D057BC60799239CB10430AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---21.jpg?as=1&w=494&rev=122e59f1b0b34de89289bc91eb3ac128&hash=F83D0E6ED3E2AFF6E08A6FA444273C98",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---23.jpg?as=1&w=494&rev=c8424b20cb2e4ec88216de69eb67f074&hash=C49BC96AE6FE99CD3169404052C084BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---25.jpg?as=1&w=494&rev=a5e4889bad6a497facc7b30fcb5fe231&hash=6114019706D697EB9EDB4FC62FB30292",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---26.jpg?as=1&w=494&rev=9556fd86602848649630c1e57d59e186&hash=3F8795730541D306CC59DD608F5A73AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---28.jpg?as=1&w=494&rev=a0934925b1c347f680a3ca5760408039&hash=C3132617BD9899A14FF9BC7689AA7F9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---29.jpg?as=1&w=494&rev=21d357eef9c04f6daa3931a327ec7f80&hash=E17F7BEBBA89A7DA6F435B4A3704F544",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---30.jpg?as=1&w=494&rev=3fbb6bab837c4baf8db1d2cee986640c&hash=75B7C56F8F9979618B90701D8B286006",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---31.jpg?as=1&w=494&rev=3c7430fe97d640978db704d04b860ad6&hash=3065865EF37134074E80DBCC21FFDBF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---32.jpg?as=1&w=494&rev=6052180be536418281a1cc6b21ad7193&hash=5621A9C0D67EB3A285A1FDA94890BAB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---33.jpg?as=1&w=494&rev=a2644a8681ec4f2084d242738b4dcc98&hash=3C55250697F06A9667456369AAD8BF6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---34.jpg?as=1&w=494&rev=9450422ca15e45ff923a9e3eb9817c2b&hash=4EAC51CE6F4F86B0475ADBDACC0C038F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---36.jpg?as=1&w=494&rev=14c28d337e0b4e2b97733e24a175ab9c&hash=F1B1E64392322D572916F52689D56E91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---37.jpg?as=1&w=494&rev=f6df4fa5c70047e6bafab68373985dc1&hash=1C9889F481F3D395721DB8E7D37AA7D3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---38.jpg?as=1&w=494&rev=1256d3d4af8c4265adf7c7987dc0aa1f&hash=F8F8DB460879F7630865A4F0D63B82F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---39.jpg?as=1&w=494&rev=44e1863c34fd43cab3a66ce14f2f1de7&hash=B827630E27C8011F6FE80A90FF3BF51F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---41.jpg?as=1&w=494&rev=86999f90258c4812bb82666267207ecc&hash=DA980466AE2BEC72CFAD3AA7A49E3AE1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---42.jpg?as=1&w=494&rev=f6cc5b013ca247dbb85cc2cce142f9bf&hash=4BCE8D8B149CBC0638F2B8E34C25EDCA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---43.jpg?as=1&w=494&rev=6d5d7d280f2d45bfbde7afad472355d6&hash=D5E6F481ADEADA61A6957503A6EA535F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1524-park-side-avenue--kissimmee--fl-34744---45.jpg?as=1&w=494&rev=bb8d1144c3c54e21b2921a1340b0f3c2&hash=EF5A48162E95CC1E6C289A6FE95C7803",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/hayden_floorplan.jpg?rev=827bb847f4624eb7a7d04bf4de262d2b&hash=5346CAA18D4AC21BF676C5CF1633511D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4ehb/hayden_g_web.jpg?rev=1af2ff78bb044b3d80994e66940d1abd&hash=C84E5EC77DEC921589726CA57F16C623",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1894 Walnut Creek Drive",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1894-walnut-creek-drive",
+      "id": "1894",
+      "address": "1894 Walnut Creek Drive",
+      "price": "$503,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2601",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4ehb/0280-1894-walnut-creek-drive/1_1_haydenexterior_g.jpg?iar=1&sc=1&thn=1&w=425&rev=9aeafb15b8e94eb7864be4e86cc582d9&hash=65ADDF23BAF28294565E4DD4B41094B2",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/1_1_aria_exterior_elevation_d.jpg?as=1&w=494&rev=01ab44c5943e4bc78871145b91c421d1&hash=E07FEF577F47360A29E40D81EABDD831",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/1aria_lvp_kitchen.jpg?as=1&w=494&rev=e79925ab9d1545bf8f0b7177bdcfbe2d&hash=7AECACCDF55CE4A037EFD0FB521A2BAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/2aria_lvp_dining.jpg?as=1&w=494&rev=1fe143a1175847849dc9ceafac51764b&hash=B2BDD846C567F4AAD91C91BEDDBEE141",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/3aria_lvp_livingarea.jpg?as=1&w=494&rev=6a456964bb214e34808591f8c3ccf4fd&hash=CC71AA7021BD8815088C090AF622C7CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/4aria_lvp_livingarea2.jpg?as=1&w=494&rev=9dbd2e7f9d8048608cddbe18c9dcacb4&hash=5CBF54B810713374DF1DBCBC2125BDFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/5aria_lvp_guestbedroom.jpg?as=1&w=494&rev=d06f26088b4c4b3aa2625ca0aff6286d&hash=111123382AFE0154017D2DA10627D463",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/6aria_lvp_guestbathroom.jpg?as=1&w=494&rev=983c4be7a4564cec88b1b397c1ba5d50&hash=E2FA37E23825C93C40CCD5FCBD26276D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/7aria_lvp_guestbedroom2.jpg?as=1&w=494&rev=d27903655d484c3eb653d6d6630d337e&hash=7BDDA5B635DC855CC23676D84251FB0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/8aria_lvp_primarybedroom.jpg?as=1&w=494&rev=22d2dce425214354b200268f727d7049&hash=DB1F8D0123580880FC8060437A652F13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/9aria_lvp_mainbathroom.jpg?as=1&w=494&rev=9258419e5b564d0182f580ca53e65c50&hash=887C14C0F561AAAACE82898229DF9999",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/10aria_lvp_mainbathroom2.jpg?as=1&w=494&rev=ca9b630cedf9437c91eb81a91564d02b&hash=6DD33913835F7F58AB8A66FAD105061D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/aria_floorplan_no_logo.png?rev=1c781bdaf57848de987a925ac75ac493&hash=65B90C65FA0AE63CEDDD6AF4733D82BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383920000-kindred-50s-dre/4eab/aria_d_web.jpg?rev=b39459f95913458fa18245aff7bfffdb&hash=2B2237CA19BD1B32C226CFD85D277484",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1921 Walnut Creek Drive",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1921-walnut-creek-drive",
+      "id": "1921",
+      "address": "1921 Walnut Creek Drive",
+      "price": "$454,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383920000-kindred-50s-dre/4eab/0320-1921-walnut-creek-drive/1_1_aria_exterior_elevation_d.jpg?iar=1&sc=1&thn=1&w=425&rev=01ab44c5943e4bc78871145b91c421d1&hash=EDE06AD94FA9A6361925737669C94170",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1_1_robinson_exterior_elevation_e.jpg?as=1&w=494&rev=1cb4db5208484a5e879be3c423966b41&hash=608D760DE820A36556E4CC798F66E316",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---08.jpg?as=1&w=494&rev=a18054fa3d1649b8b47f4fa79d71b4fe&hash=CE05D708A76D6A3A7CF87486F536D060",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---09.jpg?as=1&w=494&rev=47d78e9deca540bd8c776055ff92aeaf&hash=B3A30E0290EA21EAB2082AE865D673D2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---10.jpg?as=1&w=494&rev=f93fd6375a4b4a639d1650ea763161cf&hash=E87B2DC0B11B0B48B7E8D50A5A9DBBB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---11.jpg?as=1&w=494&rev=4fc928ded6ac49b3817502de1fce22b3&hash=4D025C85113A2C3C646DAA1CA609B3F0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---12.jpg?as=1&w=494&rev=4726671de8ec4e8abc8672feab843556&hash=AB267726F475784B947903AC5F994136",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---13.jpg?as=1&w=494&rev=235ce3ccb6e24493ae244df2b884cdde&hash=FF8F665563D2683561480E8596DEA5F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---14.jpg?as=1&w=494&rev=0d8633b679ef4e89a5b62c3fe6fe545d&hash=1D6E65C038D83B3C255860BCFE823A87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---15.jpg?as=1&w=494&rev=3669be02a0864971a0710701391cd31d&hash=E22382EA7A13A4291DCAFADC0E947181",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---16.jpg?as=1&w=494&rev=194f8ad60a5e4f72bc5de5dabf6cc273&hash=1BE33E50D8710E6CCF1F722D23AE873C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---17.jpg?as=1&w=494&rev=b2681cc931634bfba7db285b80d4464b&hash=A04A326A0ED7AC612795789DC4D43D27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---18.jpg?as=1&w=494&rev=f3ddfe233e644af7ba3a50d27432c4c2&hash=BD2686F54D60E1E41D28B02B2EA25CA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---19.jpg?as=1&w=494&rev=28314ae4bfd84aa5a124762a1f8dc5d1&hash=AE4289515ACC45EA1150F1A314CD1945",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---20.jpg?as=1&w=494&rev=4130e1b47b64416eb03c33b4c399e99b&hash=767DDE8176DBB8F280E931E1664B4D08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---21.jpg?as=1&w=494&rev=d351e63bf6d64c57a4d1e3b455ec6b10&hash=55CFD67D0B7421FDE9398EFBC04E1007",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---22.jpg?as=1&w=494&rev=c26c788a61054d3aaeb4accf246ec63f&hash=5B58F5CD020CFF3CA4BD87B57B7525ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---23.jpg?as=1&w=494&rev=c0dd01b6ae8246f283cadd25eb6c856d&hash=000D3761D6C9EC6145D9D2FC03F4E8C5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---24.jpg?as=1&w=494&rev=048fee3e622142c190aaba5db1ef71e6&hash=AB876CBCF91832D2CFC04F6A590854B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---25.jpg?as=1&w=494&rev=12e2af7ae9664409bedfba5e27d785f4&hash=417DB709845A5F7DB55E76B742C1B8D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---26.jpg?as=1&w=494&rev=882f739d443446979f6442923256b6b1&hash=1EA98C10E8DA3C54EBF1F520245E78DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---27.jpg?as=1&w=494&rev=c7e126d031d64efba9ea5186aa91f8a0&hash=EC4549D9F2C80559EF2F83CDD1765803",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---28.jpg?as=1&w=494&rev=657865c8592946eb9afa26220c2f2b06&hash=BD82323D815A7E905994E43B2A1B08C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---29.jpg?as=1&w=494&rev=4d280097680b4d0493a15eee640b2647&hash=B9B01C9EABBE3B6D10FFD606C4032C58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---30.jpg?as=1&w=494&rev=770263e4bb8e4785ac419fbf7e5683fc&hash=1E9AAAF1611F65BA2ED320D68F35A2D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---31.jpg?as=1&w=494&rev=bf7f0b6ef1f74d98bd1328438407dddc&hash=0FE8394130880A2F29DEB1CD84FA55AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---32.jpg?as=1&w=494&rev=6f7e6a1023344184a7962dc91d747f5c&hash=EAF82C0FC1395B3505F8289A18AC9ED3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---33.jpg?as=1&w=494&rev=d2c436a29a3a4dfab48151380fa7708a&hash=6EA84D783EE95FA7EC5DE9D0DE6BC990",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---34.jpg?as=1&w=494&rev=af0f129980f54bcbb145a504e9fff3a7&hash=29DFFE10C3CED3C591E35CB4A4220034",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---35.jpg?as=1&w=494&rev=f5b0362b5cdf4864a667b53aff956aba&hash=47C712C1900A9EBC36751FAAC834C8E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---36.jpg?as=1&w=494&rev=7704d60754104531bcf308abe9237f0c&hash=CB030BC445CD19A7B643DEC225D33AB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---37.jpg?as=1&w=494&rev=b037874315d546049b0af5e3e6295da5&hash=5258258E3159EA97D53DDB12A6FF2C8A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---38.jpg?as=1&w=494&rev=de813be100d344179a77ab168a20b4d6&hash=FA8024F0EE2AB79137FBEE0F70CA4AE0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---39.jpg?as=1&w=494&rev=f644044190a74428bbc8bb83315b2f57&hash=5AC9D1900788A021883C8883F57E7ED5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---40.jpg?as=1&w=494&rev=a741ec71249e4b6dbfbc2e0a637e1211&hash=6BE433BAC8D364892E59FFC2CA7AAC8A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---41.jpg?as=1&w=494&rev=4a5c0075793c40a6b64983fd7cb1ccfb&hash=8A0BB0302E090659907D0ABF2BE29B53",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---42.jpg?as=1&w=494&rev=af4292fb444345b993dd3b98c36c79bd&hash=D75CB30953C177266EAF016A2C515EEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1528-park-side-avenue-kissimmee-fl-34744---43.jpg?as=1&w=494&rev=a9cb331d05d84a8ca362cc2179de21b6&hash=4E2FC3B41D573051F697F409009F9C93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/robinson_floorplan_unbranded.jpg?rev=36998f2073804704b879ff221b8d1ca2&hash=5E5591CF669C3DDC2B4C8921AA67EE9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38075-kindred/383020000-kindred-drh-60s/2107/robinson_f_3car_web.jpg?rev=4467be4883b844529118035fb40d7c62&hash=AA9D6DD79879E8B407CB54E9EDA6E61E",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1974 Walnut Creek Drive",
+      "plan": "Robinson",
+      "url": "https://www.drhorton.com/florida/osceola-county/kissimmee/kindred/qmis/1974-walnut-creek-drive",
+      "id": "1974",
+      "address": "1974 Walnut Creek Drive",
+      "price": "$539,620",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2108",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38075-kindred/383020000-kindred-drh-60s/2107/0402-1974-walnut-creek-drive/1_1_robinson_exterior_elevation_e.jpg?iar=1&sc=1&thn=1&w=425&rev=1cb4db5208484a5e879be3c423966b41&hash=2928CA3F36CE9D91C0C375C36991FF0A",
+      "latitude": 28.26628,
+      "longitude": -81.35973,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Neptune Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Neptune Middle School",
+          "type_and_grades": "6th-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Gateway High School",
+          "type_and_grades": "9-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

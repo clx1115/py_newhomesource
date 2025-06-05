@@ -1,0 +1,562 @@
+{
+  "timestamp": "2025-06-04T22:46:14.590290",
+  "name": "Preserves at Park Trace",
+  "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace",
+  "status": null,
+  "price_from": "$599,990",
+  "address": "6510 SE Park Trace Drive,Stuart, FL 34997",
+  "phone": "(772) 222-3873",
+  "description": "Find a new home in Stuart, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Southeast Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/6520_se_park_trace_drive_-_web_quality_-_005_-_06_living_room.jpg"
+  ],
+  "location": {
+    "latitude": 27.12343,
+    "longitude": -80.22369,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$599,990 - $791,990",
+    "sqft_range": "From 1,641 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 4",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Lake",
+      "description": "Lake",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Entry Tower",
+      "description": "Entry Tower",
+      "icon_url": null
+    },
+    {
+      "name": "Community features",
+      "description": "Community features",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Avon",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/a4ab",
+      "details": {
+        "price": "From $600s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,641 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4ab/6671_se_park_trace_drive_-_web_quality_-_000_-_01_exterior_front-2.jpg?as=1&w=425&rev=67251ea6a38e4584ada3f23f9a6c130b&hash=752D892BA762569F03F9E83C5E78CB73"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4ab/avon_fp.png?rev=e76870a0d6d74862a841795eccb5e218&hash=FED9D7EC763C95EC5BF9E2728959589E"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/4ebs",
+      "details": {
+        "price": "From $606s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4ebs/1_0016_6691_se_park_trace_drive_-_web_quality_-_000_-_01_exterior_front-2.jpg?as=1&w=425&rev=78acff92058b42428dbb94cb7579024a&hash=4C834F3E4413FCAD25A3A7F9345746FB"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4ebs/cali_fp.png?rev=950874119d764dac8b30876de97d8c5c&hash=9817719A17DBF22479AEAC7C6CD10E45"
+        }
+      ]
+    },
+    {
+      "name": "Delaney",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/2034",
+      "details": {
+        "price": "From $625s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,034 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/6681_se_park_trace_drive_-_web_quality_-_000_-_01_exterior_front.jpg?as=1&w=425&rev=efdf9ad2957f4f65978872a50367d084&hash=F415D1DAA7CFFF25FF0E40A3524C0891"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/delaney_fp.png?rev=8a414d39ec554bbfaf6155bbc9793856&hash=A5BEEF56AC5D46A2E63C2FA39AA4C938"
+        }
+      ]
+    },
+    {
+      "name": "Delray",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/a4db",
+      "details": {
+        "price": "From $623s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "2,034 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4db/6651_se_park_trace_drive_-_web_quality_-_000_-_01_exterior_front-2.jpg?as=1&w=425&rev=2df1d33337b44bbcbcd5f08cbd0db197&hash=AE74A90271D6CFF48DB2761744D8E198"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4db/delray_fp.png?rev=4c99852472e44ae89f3a75b88ba670af&hash=810EEDB25BF54CB51D7842B61DDC1F40"
+        }
+      ]
+    },
+    {
+      "name": "Galen",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/4egb",
+      "details": {
+        "price": "From $644s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,470 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4egb/6520_se_park_trace_drive_-_web_quality_-_000_-_01_exterior_front-2.jpg?as=1&w=425&rev=6131d43927ed4ce69e8f369ef598e1f8&hash=15FCF27ECC3EE4B9C92CF70E9E9448B7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4egb/galen_fp.png?rev=147bd14997e44f539964506d16b611cb&hash=B728303DE14A5BBE1F4CD45A69D14A0E"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4egb/galen_fp.png?rev=147bd14997e44f539964506d16b611cb&hash=B728303DE14A5BBE1F4CD45A69D14A0E"
+        }
+      ]
+    },
+    {
+      "name": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/3072",
+      "details": {
+        "price": "From $744s",
+        "beds": "5 bd",
+        "baths": "4 ba",
+        "half_baths": null,
+        "sqft": "3,072 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/lot_23_0021_7141_se_park_trace_court_-_web_quality_-_001_-_01_exterior_front.jpg?as=1&w=425&rev=b4b7cbb484774b5e9a376d253d196f82&hash=7E6951DB805F1CBDB4FA2301B8EC7B0E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/ponte_vedra_fp.png?rev=88e8cb02e21b4dfe8851b89e3bf55182&hash=B2D3ECDF9D59F524675B1FE84182A102"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/ponte_vedra_fp.png?rev=88e8cb02e21b4dfe8851b89e3bf55182&hash=B2D3ECDF9D59F524675B1FE84182A102"
+        }
+      ]
+    },
+    {
+      "name": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/floor-plans/3efs",
+      "details": {
+        "price": "From $650s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,456 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/robie_shingle_classic.jpg?as=1&w=425&rev=12b639cd6253413588a8886f4db29cfd&hash=379DA79DE75BA07247CC25BA47E15873"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/robie_fp.png?rev=03386fa3e0da42a59d5b06d8072960e7&hash=21B17B0FDB7EEBDCA44F04E0C5EBD283"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/robie_fp.png?rev=03386fa3e0da42a59d5b06d8072960e7&hash=21B17B0FDB7EEBDCA44F04E0C5EBD283"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0032-6740-se-park-trace-drive/pontevedra_modern_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=c6b68a0371a646228b8affde581e679c&hash=996856E7C7F3C48F3A455429B2230D65"
+      ],
+      "name": "6740 SE Park Trace Drive",
+      "plan": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6740-se-park-trace-drive",
+      "id": "6740",
+      "address": "6740 SE Park Trace Drive",
+      "price": "$749,000",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3072",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0032-6740-se-park-trace-drive/pontevedra_modern_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=c6b68a0371a646228b8affde581e679c&hash=996856E7C7F3C48F3A455429B2230D65",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0034-6760-se-park-trace-drive/pontevedra_contemporary_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=bf0d61a6afc84e23a3daef1eeabcc2d8&hash=89658C31124570D6BC109F9A2C7FA565"
+      ],
+      "name": "6760 SE Park Trace Drive",
+      "plan": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6760-se-park-trace-drive",
+      "id": "6760",
+      "address": "6760 SE Park Trace Drive",
+      "price": "$699,000",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3072",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0034-6760-se-park-trace-drive/pontevedra_contemporary_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=bf0d61a6afc84e23a3daef1eeabcc2d8&hash=89658C31124570D6BC109F9A2C7FA565",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0037-6790-se-park-trace-drive/pontevedra_classic_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=1bfc9c38d94b45bba0e55570b896d6da&hash=F76D88757A9DE8526FFE2E5988121490"
+      ],
+      "name": "6790 SE Park Trace Drive",
+      "plan": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6790-se-park-trace-drive",
+      "id": "6790",
+      "address": "6790 SE Park Trace Drive",
+      "price": "$739,000",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3072",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0037-6790-se-park-trace-drive/pontevedra_classic_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=1bfc9c38d94b45bba0e55570b896d6da&hash=F76D88757A9DE8526FFE2E5988121490",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4ebs/0090-6791-se-park-trace-drive/cali_contemporary_3-18-22.jpg?iar=1&sc=1&thn=1&w=425&rev=f708c0e164fa48aaa95f0db0945f3fed&hash=09317BDCDB46D343153072A47F104241"
+      ],
+      "name": "6791 SE Park Trace Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6791-se-park-trace-drive",
+      "id": "6791",
+      "address": "6791 SE Park Trace Drive",
+      "price": "$629,000",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4ebs/0090-6791-se-park-trace-drive/cali_contemporary_3-18-22.jpg?iar=1&sc=1&thn=1&w=425&rev=f708c0e164fa48aaa95f0db0945f3fed&hash=09317BDCDB46D343153072A47F104241",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0039-6810-se-park-trace-drive/pontevedra_contemporary_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=c00c0ebc01184ca9a55b44869dec6b39&hash=12AE2D00F0E7950FE421CE9AC2E22D7B"
+      ],
+      "name": "6810 SE Park Trace Drive",
+      "plan": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6810-se-park-trace-drive",
+      "id": "6810",
+      "address": "6810 SE Park Trace Drive",
+      "price": "$769,000",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3072",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0039-6810-se-park-trace-drive/pontevedra_contemporary_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=c00c0ebc01184ca9a55b44869dec6b39&hash=12AE2D00F0E7950FE421CE9AC2E22D7B",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4db/0040-6820-se-park-trace-drive/delray_classic_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=885548c927804ed6b88c2023b743f3ff&hash=B39620FF0DE02C9DD41D8F7DD25A483D"
+      ],
+      "name": "6820 SE Park Trace Drive",
+      "plan": "Delray",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6820-se-park-trace-drive",
+      "id": "6820",
+      "address": "6820 SE Park Trace Drive",
+      "price": "$619,000",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4db/0040-6820-se-park-trace-drive/delray_classic_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=885548c927804ed6b88c2023b743f3ff&hash=B39620FF0DE02C9DD41D8F7DD25A483D",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4ebs/0087-6821-se-park-trace-drive/cali_modern_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=e76f6544c9eb420dbd502a370137a7f7&hash=1E3C9EC7687C5B553D30F3D9FCAAB322"
+      ],
+      "name": "6821 SE Park Trace Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6821-se-park-trace-drive",
+      "id": "6821",
+      "address": "6821 SE Park Trace Drive",
+      "price": "$634,000",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/4ebs/0087-6821-se-park-trace-drive/cali_modern_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=e76f6544c9eb420dbd502a370137a7f7&hash=1E3C9EC7687C5B553D30F3D9FCAAB322",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0041-6830-se-park-trace-drive/pontevedra_coastal_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=9e508ff27649402494a254b5896f6c6d&hash=926CCA6E1A9C1DF68515E07C7083F88C"
+      ],
+      "name": "6830 SE Park Trace Drive",
+      "plan": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6830-se-park-trace-drive",
+      "id": "6830",
+      "address": "6830 SE Park Trace Drive",
+      "price": "$783,990",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3072",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0041-6830-se-park-trace-drive/pontevedra_coastal_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=9e508ff27649402494a254b5896f6c6d&hash=926CCA6E1A9C1DF68515E07C7083F88C",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0086-6831-se-park-trace-drive/delray_coastal_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=29ad2842421d4b7f89fb831d3b0ff48e&hash=50698BC925F08594E854825505FB4802"
+      ],
+      "name": "6831 SE Park Trace Drive",
+      "plan": "Delaney",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6831-se-park-trace-drive",
+      "id": "6831",
+      "address": "6831 SE Park Trace Drive",
+      "price": "$679,000",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0086-6831-se-park-trace-drive/delray_coastal_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=29ad2842421d4b7f89fb831d3b0ff48e&hash=50698BC925F08594E854825505FB4802",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4db/0042-6840-se-park-trace-drive/delray_contemporary_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=1647f93fe63d4d9196aa5b8ae4f8e705&hash=72E75A1F596EEF16A624A6C2EE51C7BE"
+      ],
+      "name": "6840 SE Park Trace Drive",
+      "plan": "Delray",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6840-se-park-trace-drive",
+      "id": "6840",
+      "address": "6840 SE Park Trace Drive",
+      "price": "$649,000",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/a4db/0042-6840-se-park-trace-drive/delray_contemporary_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=1647f93fe63d4d9196aa5b8ae4f8e705&hash=72E75A1F596EEF16A624A6C2EE51C7BE",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0046-6880-se-park-trace-drive/pontevedra_coastal_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=614127f8a03c45dbb950f613b86ea8cd&hash=21981B29B1EB9F2300B61C2A075DC419"
+      ],
+      "name": "6880 SE Park Trace Drive",
+      "plan": "Ponte Vedra",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6880-se-park-trace-drive",
+      "id": "6880",
+      "address": "6880 SE Park Trace Drive",
+      "price": "$791,990",
+      "beds": "5",
+      "baths": "4",
+      "sqft": "3072",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3072/0046-6880-se-park-trace-drive/pontevedra_coastal_shingle.jpg?iar=1&sc=1&thn=1&w=425&rev=614127f8a03c45dbb950f613b86ea8cd&hash=21981B29B1EB9F2300B61C2A075DC419",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0080-6891-se-park-trace-drive/delray_contemporary_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=3be232664bcc4d86a8c630fdf72c5b0d&hash=D31D5C8DB58825BB681B06B4912CF91B"
+      ],
+      "name": "6891 SE Park Trace Drive",
+      "plan": "Delaney",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6891-se-park-trace-drive",
+      "id": "6891",
+      "address": "6891 SE Park Trace Drive",
+      "price": "$639,000",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0080-6891-se-park-trace-drive/delray_contemporary_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=3be232664bcc4d86a8c630fdf72c5b0d&hash=D31D5C8DB58825BB681B06B4912CF91B",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0074-6951-se-park-trace-drive/delray_modern_3-18.jpg?iar=1&sc=1&thn=1&w=425&rev=b14390ee7a9c46db838c3d38d909a4a2&hash=A550F27A6C4E6088119427FB4B581875"
+      ],
+      "name": "6951 SE Park Trace Drive",
+      "plan": "Delaney",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6951-se-park-trace-drive",
+      "id": "6951",
+      "address": "6951 SE Park Trace Drive",
+      "price": "$678,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0074-6951-se-park-trace-drive/delray_modern_3-18.jpg?iar=1&sc=1&thn=1&w=425&rev=b14390ee7a9c46db838c3d38d909a4a2&hash=A550F27A6C4E6088119427FB4B581875",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0051-6960-se-park-trace-drive/delray_coastal_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=d6f8fd9647e549dba146ecf843dd82fb&hash=B0DD73FAB9255423A4CA215232CCBF86"
+      ],
+      "name": "6960 SE Park Trace Drive",
+      "plan": "Delaney",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/6960-se-park-trace-drive",
+      "id": "6960",
+      "address": "6960 SE Park Trace Drive",
+      "price": "$663,490",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2034",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/2034/0051-6960-se-park-trace-drive/delray_coastal_3-16.jpg?iar=1&sc=1&thn=1&w=425&rev=d6f8fd9647e549dba146ecf843dd82fb&hash=B0DD73FAB9255423A4CA215232CCBF86",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/0068-7011-se-park-trace-drive/robie_shingle_coastal.jpg?iar=1&sc=1&thn=1&w=425&rev=3049b280fe8944ef9e48c5474acef6de&hash=DD742993ACB5A08A285CD31B05CBD2BD"
+      ],
+      "name": "7011 SE Park Trace Drive",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/7011-se-park-trace-drive",
+      "id": "7011",
+      "address": "7011 SE Park Trace Drive",
+      "price": "$708,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2456",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/0068-7011-se-park-trace-drive/robie_shingle_coastal.jpg?iar=1&sc=1&thn=1&w=425&rev=3049b280fe8944ef9e48c5474acef6de&hash=DD742993ACB5A08A285CD31B05CBD2BD",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/0062-7070-se-park-trace-drive/robie_shingle_contemporary.jpg?iar=1&sc=1&thn=1&w=425&rev=18f3eafbe4c04444a01124a600b07b3b&hash=AA35A7AE22DAB8355443CB5040C4FD28"
+      ],
+      "name": "7070 SE Park Trace Drive",
+      "plan": "Robie",
+      "url": "https://www.drhorton.com/florida/southeast-florida/stuart/preserves-at-park-trace/qmis/7070-se-park-trace-drive",
+      "id": "7070",
+      "address": "7070 SE Park Trace Drive",
+      "price": "$686,490",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2456",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/570-southeast-florida/57151-preserves-at-park-trace/571510000-preserves-at-park-trace/3efs/0062-7070-se-park-trace-drive/robie_shingle_contemporary.jpg?iar=1&sc=1&thn=1&w=425&rev=18f3eafbe4c04444a01124a600b07b3b&hash=AA35A7AE22DAB8355443CB5040C4FD28",
+      "latitude": 27.12343,
+      "longitude": -80.22369,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sea Wind Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Murray Middle",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Dr. David L. Anderson Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "South Fork High",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

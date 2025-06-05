@@ -22,7 +22,7 @@
   "details": {
     "price_range": "$299,990",
     "sqft_range": "From 1,985 Sq. Ft.",
-    "bed_range": null,
+    "bed_range": "3",
     "bath_range": "2",
     "stories_range": "1",
     "community_count": 1

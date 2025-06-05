@@ -1,0 +1,113 @@
+{
+  "timestamp": "2025-06-05T09:18:23.920812",
+  "name": "Tara Esmeralda",
+  "url": "https://www.drhorton.com/florida/west-central-florida/newberry/tara-esmeralda",
+  "status": null,
+  "price_from": "$0",
+  "address": "Call for information,Newberry, FL 32669",
+  "phone": "(352) 660-1134",
+  "description": "Find a new home in Newberry, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the West Central Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/347-west-central-florida/34789-tara-esmeralda/347890000-tara-esmeralda/fl_west-florida_drhorton_express-series_cali-ks2.jpg"
+  ],
+  "location": {
+    "latitude": 29.66438,
+    "longitude": -82.49322,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless",
+      "description": "Stainless-steel appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz countertops",
+      "description": "Quartz countertops",
+      "icon_url": null
+    },
+    {
+      "name": "Lofty ceilings",
+      "description": "Lofty ceilings",
+      "icon_url": null
+    },
+    {
+      "name": "Washer & dryer",
+      "description": "Washer & dryer",
+      "icon_url": null
+    },
+    {
+      "name": "Stone accent exteriors",
+      "description": "Stone accent exteriors",
+      "icon_url": null
+    },
+    {
+      "name": "Smart home technology",
+      "description": "Smart home technology",
+      "icon_url": null
+    },
+    {
+      "name": "15",
+      "description": "15-minutes to I-75 and Gainesville, FL",
+      "icon_url": null
+    },
+    {
+      "name": "Close HCA North Florida",
+      "description": "Close to HCA North Florida Hospital and UF Health Shands Hospital",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Tioga Town Center",
+      "description": "Nearby the Tioga Town Center",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Meadowbrook Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Ft. Clarke Middle",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "F.W. Buchholz High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

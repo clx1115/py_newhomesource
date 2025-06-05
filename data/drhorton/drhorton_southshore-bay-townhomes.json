@@ -1,0 +1,364 @@
+{
+  "timestamp": "2025-06-04T21:32:12.819821",
+  "name": "Southshore Bay Townhomes",
+  "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes",
+  "status": null,
+  "price_from": "$286,990",
+  "address": "5112 Captain Davis Drive,Wimauma, FL 33598",
+  "phone": "(813) 605-1153",
+  "description": "Find a new home in Wimauma, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/390_tpa_n_taw_vale_quartz_0019_ancient_sage_rd-002.jpg"
+  ],
+  "location": {
+    "latitude": 27.71078,
+    "longitude": -82.32741,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$286,990 - $316,990",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Multi",
+      "description": "Multi-Acre Crystal Lagoon",
+      "icon_url": null
+    },
+    {
+      "name": "Concrete Block Construction",
+      "description": "Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "ULTRAFi",
+      "description": "ULTRAFi",
+      "icon_url": null
+    },
+    {
+      "name": "Golf Cart Paths",
+      "description": "Golf Cart Paths",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/floor-plans/1674",
+      "details": {
+        "price": "From $287s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39289-southshore-bay/392890000-southshore-bay-th/1674/n-01-fl_west-florida-dr-horton_express_glen-vale-scheme-1.jpg?as=1&w=425&rev=33e66b051493444ca1fb4553954c5931&hash=2CD57D7338DE982975998745F6A71824"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39233-southshore-bay/392890000-southshore-bay-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=033e5dce7e5d4de0ac633792554fe6e1&hash=74AB2B3915D125C5DD8B102391C718DE"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39233-southshore-bay/392890000-southshore-bay-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=033e5dce7e5d4de0ac633792554fe6e1&hash=74AB2B3915D125C5DD8B102391C718DE"
+        }
+      ]
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/floor-plans/1759",
+      "details": {
+        "price": "From $307s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39289-southshore-bay/392890000-southshore-bay-th/1759/n-01-fl_west-florida-dr-horton_express_glen-vale-scheme-1.jpg?as=1&w=425&rev=2d909d3d25f6496bba5d5bec3c0a08b2&hash=CFEC53CE817751B628C7BBE71C7E2C87"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39233-southshore-bay/392890000-southshore-bay-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=81d95e3fd8ed4b76a288b055d99884cf&hash=EE8F4B1163A7AE11A7A46CA417FC3CD2"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39233-southshore-bay/392890000-southshore-bay-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=81d95e3fd8ed4b76a288b055d99884cf&hash=EE8F4B1163A7AE11A7A46CA417FC3CD2"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=f8e79c1d019a412e9863f1e7ead43f39&hash=77A85057E8906A5018F5D7AE716097D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/fl_tampanorth_drhorton_glenvalesch2.jpg?as=1&w=494&rev=c934332187f147a796788b4cbfa0380d&hash=72439B466DA5C21725F47020104864F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/1fl_tampanorth_drhorton_glen_foyer.jpg?as=1&w=494&rev=e6c9d034a02f41fab3fb32b9fcbc0939&hash=073742130D6DF60877CFF9F3058CB495",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/1fl_tampanorth_drhorton_glen_halfbath.jpg?as=1&w=494&rev=ab2a56949d864dc8afd02ddb10dd3074&hash=35F36A711206B4C937CB53F0A3F94264",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/2fl_tampanorth_drhorton_glen_dining.jpg?as=1&w=494&rev=43fe26d4d9f94582a0b9ae5c3489770c&hash=78F3033F92E6D5D27E054187F52FE703",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/3fl_tampanorth_drhorton_glen_kitchenliving.jpg?as=1&w=494&rev=816c2ccdb0f14608b616b82f7a043e8a&hash=A6EA26561192B7CE524BF9F386CCFBBB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/4fl_tampanorth_drhorton_glen_kitchen.jpg?as=1&w=494&rev=0c2b838ea61940f9862b607d665a9198&hash=FCBA340E837C9788E9BEE2E7C9F1BB4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/5fl_tampanorth_drhorton_glen_living.jpg?as=1&w=494&rev=fb6df304d9d6410cb0c77d3a21c9d68d&hash=A051480F40BAFD2009CC1867162163E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/8fl_tampanorth_drhorton_glen_bedroom1.jpg?as=1&w=494&rev=d636eaba738a4e7486d334eae3189899&hash=C772F18B9E454E463B7FD327920C8045",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/10fl_tampanorth_drhorton_glen_bath1.jpg?as=1&w=494&rev=6fca4ddfe7e049bbb7231d3f3065c31d&hash=A98407A173FD7B49F978BF1AAC07C504",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/10fl_tampanorth_drhorton_glen_bath2.jpg?as=1&w=494&rev=260e711aa5a54c328f79edfe09a5046b&hash=1E4307F38D806A600D89F7BA3E433801",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/10fl_tampanorth_drhorton_glen_bedroom2.jpg?as=1&w=494&rev=360b0e1609724f099683c3ff871de328&hash=3970B627194D8DBBD459E56BD6A0CD91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/12fl_tampanorth_drhorton_glen_bedroom3.jpg?as=1&w=494&rev=943c4399748e4eafb703b6e5ac0341bc&hash=2B648AD705DDB32401F93C3CC9EEBBFC",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5017 Gilded Bard Ct",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/qmis/5017-gilded-bard-ct",
+      "id": "5017",
+      "address": "5017 Gilded Bard Ct",
+      "price": "$292,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0118-5017-gilded-bard-ct/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=f8e79c1d019a412e9863f1e7ead43f39&hash=4E24DE437F54EB95B22BAD1F858F5F99",
+      "latitude": 27.71078,
+      "longitude": -82.32741,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/001fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=51d09d9500e7480c90a484346b79dcd7&hash=B80C4432B855EE9E07E1B8D4259EFE5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/01fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=a9340890a808419f9593105c6ddccc0c&hash=261355372C1EB810193C14911E8A2489",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/1fl_westflorida_express_multifamily_vale_living_dining_kitchen.jpg?as=1&w=494&rev=4a7936aca22a485e8e500c00113aba5f&hash=7B4DDB1BE035E9C64B6E66377607784D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/2fl_westflorida_express_multifamily_vale_dining.jpg?as=1&w=494&rev=1c09f3fde6b74272bd96db57b60d66b8&hash=D6F4F8D3A4A906E1387DBF7F6FD8750D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/3fl_westflorida_express_multifamily_vale_table.jpg?as=1&w=494&rev=474e69e2aa5d4059a78a82cd751ef360&hash=914A39733BF208B68D22ADB584BEF152",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/4fl_westflorida_express_multifamily_vale_kitchen.jpg?as=1&w=494&rev=0fa4a59fc5b94c788ce85d0a540dd06d&hash=B48C289504740F5A693CC5F73BE86BA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/5fl_westflorida_express_multifamily_vale_cabinet.jpg?as=1&w=494&rev=4d42b288d4fc48b781fdc79047a1a4fb&hash=41BAF9259B15E24B0F597A07BED229B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/6fl_westflorida_express_multifamily_vale_kitchen_dining.jpg?as=1&w=494&rev=a1fdb23888714e95907f4867d3b3c077&hash=3DDBF573C5BB57AE517340093F4209CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/8fl_westflorida_express_multifamily_vale_living.jpg?as=1&w=494&rev=ca21382bba77439eb418ae5c307b8ff3&hash=07796B1D1302C680A842893534C862F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/9fl_westflorida_express_multifamily_vale_living2.jpg?as=1&w=494&rev=514898adf94c43a886d208c3cbc1cc4c&hash=BC388A3679377D15B999E7D8D1737F5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/10fl_westflorida_express_multifamily_vale_bedroom.jpg?as=1&w=494&rev=abe80c6cff9b4a2e9b4711c56e71dea1&hash=DD07578A11A8A6AE5295CEE02DA8DC9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/11fl_westflorida_express_multifamily_vale_bathroom_sink.jpg?as=1&w=494&rev=312e41e2d37449db95cb10f00c6c4304&hash=D496C5A82687A4D7E9BDB95B644FF122",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/11fl_westflorida_express_multifamily_vale_bathroom_vanity.jpg?as=1&w=494&rev=4f8d5a632be0432593a7c0a9dbc92d6b&hash=7D3A543A8C161264F736AD40C0851535",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/12fl_westflorida_express_multifamily_vale_bedroom2.jpg?as=1&w=494&rev=d929418e5b2e41ad892c791e81dbf0b0&hash=8F1B4E2A78560BB909C5B1D2EFC36790",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/13fl_westflorida_express_multifamily_vale_loft.jpg?as=1&w=494&rev=418b2595bc4e44afb79727e15a774f32&hash=DDC66283131B1201CC1D2101A976AC85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/14fl_westflorida_express_multifamily_vale_bathroom2.jpg?as=1&w=494&rev=0b9fae14293247b89e3df25b8ecea1ab&hash=02E87F100BDA987C8E0595CA70E703F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/15fl_westflorida_express_multifamily_vale_flexroom.jpg?as=1&w=494&rev=81b58ab8fdb14e83a7f06352f4b47f61&hash=7B9678F6CFF5C07AEE707ECC5D920AC7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/16fl_westflorida_express_multifamily_vale_lanai.jpg?as=1&w=494&rev=97efb0e91a0245a5bcbf97de0ec2b451&hash=E0C7C78C5CC23F7AF60C57E5FABEF79A",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5019 Gilded Bard Ct",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/qmis/5019-gilded-bard-ct",
+      "id": "5019",
+      "address": "5019 Gilded Bard Ct",
+      "price": "$314,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0117-5019-gilded-bard-ct/001fl_tampanorth_drhorton_glenvalesch4.jpg?iar=1&sc=1&thn=1&w=425&rev=51d09d9500e7480c90a484346b79dcd7&hash=DDFE97138B0BD207ADE8100BB47D08D2",
+      "latitude": 27.71078,
+      "longitude": -82.32741,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=0d2c07ed32014256921d0ae5862ba889&hash=FB987A0EE9D2EE63BBEC4946B50A460C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch2.jpg?as=1&w=494&rev=8537c84cf5b244ea95beddfcf9079b10&hash=7F6F2D3F1C57CD76E0E1B3ED0B506760",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch3.jpg?as=1&w=494&rev=ac7e3e33c1d04164954fd449564acc44&hash=C2F0969C2E2445EE8788C916CBD1744C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=2294297d969541d6b69eae53b5fb90e1&hash=4149726620BEACB9A46587837D414E26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_1tpa_n_taw_glen_quartz_0034_ancient_sage_rd-030.jpg?as=1&w=494&rev=1e7a013630db45f88da5b07909de37af&hash=8E2BD48D3FE198641619A5C78A4EF281",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_2tpa_n_taw_glen_quartz_0029_ancient_sage_rd-035.jpg?as=1&w=494&rev=669e545b4ec94a19bca30c882e674186&hash=BFB7E53DED77F131E24D09227414BC0B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_3tpa_n_taw_glen_quartz_0028_ancient_sage_rd-036.jpg?as=1&w=494&rev=7f2f5524591b48979d5a776f003f1b8b&hash=2072FB31B825485287A1524C7F8E5655",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_4tpa_n_taw_glen_quartz_0025_ancient_sage_rd-039.jpg?as=1&w=494&rev=ba65e6bf65bf48378276e892310826f7&hash=04523368058379DB0338676681421DF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_5tpa_n_taw_glen_quartz_0023_ancient_sage_rd-041.jpg?as=1&w=494&rev=05ae51ab432640db8177655269861209&hash=123C63601B23574F5894D170B57EC8FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_6tpa_n_taw_glen_quartz_0018_ancient_sage_rd-046.jpg?as=1&w=494&rev=431f8a5dd5a1413a93b72f9b397f823b&hash=9C793314BE49F2158EE3D6B0DBD08E30",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_7tpa_n_taw_glen_quartz_0017_ancient_sage_rd-047.jpg?as=1&w=494&rev=b4b64d6187dd47e1b225fd74d686d64e&hash=C5155A0B2BFF40C898C0B7F244B52FC9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_8tpa_n_taw_glen_quartz_0013_ancient_sage_rd-052.jpg?as=1&w=494&rev=17c919d1c2bb46e58eead543e537b552&hash=2FB3243DB59D522625456269DC87A8DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_9tpa_n_taw_glen_quartz_0009_ancient_sage_rd-056.jpg?as=1&w=494&rev=07c96f1fc2f24f1b9ec2e408d380c950&hash=A7A54CC7EFFB0BF7893A6A44A8B9E98A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_10tpa_n_taw_glen_quartz_0006_ancient_sage_rd-059.jpg?as=1&w=494&rev=27f1554cc3d14577a6406df401d75267&hash=D1453CA70D4BB0EFBE69C250129012CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_11tpa_n_taw_glen_quartz_0005_ancient_sage_rd-060.jpg?as=1&w=494&rev=6a456eda10944ff18d3774c212b0f4fa&hash=E287A18A093135A5F045175C0F76792F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_12tpa_n_taw_glen_quartz_0003_ancient_sage_rd-062.jpg?as=1&w=494&rev=48f891eb978b426896fc0e6387436dfa&hash=E1BD4E4EB94AD1C00DFC3AACE11A20DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/390_13tpa_n_taw_glen_quartz_0002_ancient_sage_rd-063.jpg?as=1&w=494&rev=1fb6f24c32c5433bb10fdea8fbde1b3b&hash=D13306C7738B1B8FD482C60D8A34B2D5",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5052 Captain Davis Drive",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/qmis/5052-captain-davis-drive",
+      "id": "5052",
+      "address": "5052 Captain Davis Drive",
+      "price": "$289,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0015-5052-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=0d2c07ed32014256921d0ae5862ba889&hash=C2A9388B3E3A73716E4E9848328F0651",
+      "latitude": 27.71078,
+      "longitude": -82.32741,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=87ebc4de902743f4ba764068ffbd4b83&hash=5A5DF8AB324A70D662CE9BFCAA73D018",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch2.jpg?as=1&w=494&rev=7284c37c7fb749daa557a4bedb53de8f&hash=117C576EE351E38BD387ABF5E71FED6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch3.jpg?as=1&w=494&rev=943070c8dd544dda9b9afeec2b389395&hash=D640DD074F4C22EE4221400CD54E5DA3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=b9699c3782024ba7a29cd2c7648fb537&hash=1A80FBD8DE616348DB39C68F11476325",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_1tpa_n_taw_glen_quartz_0034_ancient_sage_rd-030.jpg?as=1&w=494&rev=072a0fc99af94bf9901a528611566a9f&hash=B2BA1534A10FB623FA26994AC9221258",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_2tpa_n_taw_glen_quartz_0029_ancient_sage_rd-035.jpg?as=1&w=494&rev=13269ae64fc44609b7d88fa7537276b7&hash=E2A3F3F754F0B115EDABCE63F307FBEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_3tpa_n_taw_glen_quartz_0028_ancient_sage_rd-036.jpg?as=1&w=494&rev=0a460767391844bd83e1ef8c786f8955&hash=19EC959A45F8EE04B4681366694117A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_4tpa_n_taw_glen_quartz_0025_ancient_sage_rd-039.jpg?as=1&w=494&rev=42e22ed4977e4e39a2876000c2e9cc53&hash=98A736528BCBD6DE4CC369AB45AEF3FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_5tpa_n_taw_glen_quartz_0023_ancient_sage_rd-041.jpg?as=1&w=494&rev=65490fc26f0d4736ad9b6142472001a1&hash=E02C69AD2105A18C3AD44EF68F961594",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_6tpa_n_taw_glen_quartz_0018_ancient_sage_rd-046.jpg?as=1&w=494&rev=bc9da74242a441609de04ca79fb9378a&hash=D4ED39AF56FF7C608923DCDD38D8E42D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_7tpa_n_taw_glen_quartz_0017_ancient_sage_rd-047.jpg?as=1&w=494&rev=ef49e67587c24488b4d8058722e49a9f&hash=A943A04E71B03D3A19AA7245266759C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_8tpa_n_taw_glen_quartz_0013_ancient_sage_rd-052.jpg?as=1&w=494&rev=8b5e6354f2b747c38e4bde6051f6196f&hash=FE019B7A8E93B0502F7E805E2E82E430",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_9tpa_n_taw_glen_quartz_0009_ancient_sage_rd-056.jpg?as=1&w=494&rev=b2851bf43a9d4980a6b7e31209d037d3&hash=F140A4CA77C2B3CBF5B77AE6226C8EDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_12tpa_n_taw_glen_quartz_0003_ancient_sage_rd-062.jpg?as=1&w=494&rev=556571b146634c7193b5318f9aa7ac49&hash=2B2698DF629769F9076611BF2C4D7B3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_11tpa_n_taw_glen_quartz_0005_ancient_sage_rd-060.jpg?as=1&w=494&rev=489c26b5ece84ed5bc3c851c3984f264&hash=8A33FB50CB712CA8C9A2B6A882D201DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_10tpa_n_taw_glen_quartz_0006_ancient_sage_rd-059.jpg?as=1&w=494&rev=f59c7f4459cc4f20bef76dfb0174d9fa&hash=9F85C2CFD80B570B22B09FF27AFE9FB6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/390_13tpa_n_taw_glen_quartz_0002_ancient_sage_rd-063.jpg?as=1&w=494&rev=6abc192a1c0a40dea1b8be0996963a44&hash=DB833E338B66C242DBDB50427ABC0282",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5108 Captain Davis Drive",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/qmis/5108-captain-davis-drive",
+      "id": "5108",
+      "address": "5108 Captain Davis Drive",
+      "price": "$288,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0003-5108-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=87ebc4de902743f4ba764068ffbd4b83&hash=EB92D62C972C99BB2AE24DFA9AC51AB8",
+      "latitude": 27.71078,
+      "longitude": -82.32741,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=6ac1ea0957d543a495e9fbda6fe58184&hash=38740C12CEBF0D6589B975A818295F73",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch2.jpg?as=1&w=494&rev=36c2354683f14c81a25736165aee7ad6&hash=2BD5926E65D80D13D89002C96F642117",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch3.jpg?as=1&w=494&rev=d1d755c6d9724a448dd25846845fbd74&hash=0E948182A76C0B7F2EEDC0D5D0DAFC8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=cb6045b69f25437b95f4aa86b02056a0&hash=3F9FAC30085493A5EFED1C36E713C123",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_01_kitchen_and_front_entry.jpg?as=1&w=494&rev=58a5d52fbc7649c3a47ebd17ab2e3310&hash=3D2BE34C9F8B13A12A1544A57E872CAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_03_kitchen_dining_and_front_entry.jpg?as=1&w=494&rev=44107d64b2ca4fb68d855ae8a6c66c93&hash=13CF83723BE74AEA8BA5B27DC72B2EA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_04_dining_area.jpg?as=1&w=494&rev=28204f7c3ba04e82becc4421af41ce91&hash=4FD8F8ECF2C17CB5014B1E5070CADF1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_05_living_area.jpg?as=1&w=494&rev=35e6877bd6cd448e81e7cea58ac38f26&hash=7670E8AE9D59A7106AFCBCEA04F585BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_06_living_area_and_kitchen.jpg?as=1&w=494&rev=dc1068c42cd0405aac27aea2e2cff0c0&hash=8CA3C51824071DF617D03982AB343CF4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_07_living_area_2.jpg?as=1&w=494&rev=eea567d5e2bb4379b6c271d0be790bd5&hash=8991B55E46C6AD832320B341ED83861E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_08_bedroom_1.jpg?as=1&w=494&rev=16b8eb2ab8974eaa912e1095534c6e10&hash=18444749F1F6E4AF4E0F745BC1F3A46C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_09_bathroom_1.jpg?as=1&w=494&rev=bfd98e90912948c6bcf59b2f7fc74b8d&hash=8AAA9FAF7EB1FD0522BC62AC51BDF9BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_10_bedroom_2.jpg?as=1&w=494&rev=cac5da9b77084ffdb3d1db612b86d1fe&hash=C97A59DAEE65D5BD9E0E0D247F8EFCF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_11_bedroom_3.jpg?as=1&w=494&rev=f3e29854dcae4801a5ecf26c85760b35&hash=F97E9057E204C279DE349F83D686F237",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_west_florida_dr_horton_multifamily_glen_12_bathroom_2.jpg?as=1&w=494&rev=b0888934c96e483196a7bd5234ed1532&hash=59117DEE8D775C6953506E2276CAB78B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39233-southshore-bay/392890000-southshore-bay-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=033e5dce7e5d4de0ac633792554fe6e1&hash=74AB2B3915D125C5DD8B102391C718DE",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5110 Captain Davis Dr",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/qmis/5110-captain-davis-drive",
+      "id": "5110",
+      "address": "5110 Captain Davis Dr",
+      "price": "$293,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1674/0002-5110-captain-davis-drive/fl_tampanorth_drhorton_glenvalesch1.jpg?iar=1&sc=1&thn=1&w=425&rev=6ac1ea0957d543a495e9fbda6fe58184&hash=95C1C3B3B9C0EB905EF6C477CA70C469",
+      "latitude": 27.71078,
+      "longitude": -82.32741,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/fl_tampanorth_drhorton_glenvale_sch1.jpg?as=1&w=494&rev=6e46519574d546c4bfe0b391e6e7fe01&hash=B9EEDBAD791BD5FA5A58BB514C64CF38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/fl_tampanorth_drhorton_glenvale_sch2.jpg?as=1&w=494&rev=39143f96446740ef88c7a08f1778506f&hash=994EDA8EFC9B4A59DE5CB432079FB8A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/fl_tampanorth_drhorton_glenvale_sch3.jpg?as=1&w=494&rev=dae8930228fe4d33932be951124d721c&hash=F77036C0AB95C8578F42238A11B6E349",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/fl_tampanorth_drhorton_glenvale_sch4.jpg?as=1&w=494&rev=922f0302aed448108455c4d58d8e65ae&hash=519137C92D5123F2EF09F249488615ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/001fl_tampanorth_drhorton_glenvalesch4.jpg?as=1&w=494&rev=59ca166635bc4ff684b0448c05111385&hash=18427D5E3E15A679049B0939FEBDA342",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/01fl_tampanorth_drhorton_glenvalesch1.jpg?as=1&w=494&rev=2174eab2d99f4697a9600d8a24742c36&hash=C202EFEA440E9C6EE345D51F24BCEA27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/1fl_westflorida_express_multifamily_vale_living_dining_kitchen.jpg?as=1&w=494&rev=41b9cf3083544244a4d1e6f4444eeddb&hash=6A31C8CE2CC424A4323530D8990E2757",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/2fl_westflorida_express_multifamily_vale_dining.jpg?as=1&w=494&rev=83a826c2b6404297beabd301cbd96563&hash=AF6FF7C91EA0B713D788571F6476BA70",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/3fl_westflorida_express_multifamily_vale_table.jpg?as=1&w=494&rev=e7634a7a2a35435daeb892f112cfb19a&hash=AAFCB3748B13D7235C809B935F6E7884",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/4fl_westflorida_express_multifamily_vale_kitchen.jpg?as=1&w=494&rev=bfdf2f628fbe46baa69b29481bd32ea1&hash=F22C1A4E992B0FC40C66D532C1089B2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/5fl_westflorida_express_multifamily_vale_cabinet.jpg?as=1&w=494&rev=f4fa8409709444488335293cb474600d&hash=8268B538DD9442EF6BDC18304B1E450D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/6fl_westflorida_express_multifamily_vale_kitchen_dining.jpg?as=1&w=494&rev=5b13df10a0434f85a987fc169349a188&hash=F56938745B3808D7E8ACF554A0A4016D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/8fl_westflorida_express_multifamily_vale_living.jpg?as=1&w=494&rev=50ebce7ae5bf4234ac98d6e45aab5704&hash=86A555E381A310AF4945BDD48CA3CBDB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/9fl_westflorida_express_multifamily_vale_living2.jpg?as=1&w=494&rev=284aaf52113d4b339c6eb651f6014f92&hash=9B6FDF814C891392505A0761EDAD2A7D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/10fl_westflorida_express_multifamily_vale_bedroom.jpg?as=1&w=494&rev=37535a24967b4c3185ce4c20133a812b&hash=B916BD22E942CD92C4F530CB4C4DC19B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/11fl_westflorida_express_multifamily_vale_bathroom_sink.jpg?as=1&w=494&rev=f65fe0f7dbc94734acc7bdbc2daa5833&hash=3A08CC8B854FDB98780112DEBBC58A89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/11fl_westflorida_express_multifamily_vale_bathroom_vanity.jpg?as=1&w=494&rev=da7024664a9f40d09af361e7b6432fe2&hash=805089B6DA69C0C8DEB608E475FDD69B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/12fl_westflorida_express_multifamily_vale_bedroom2.jpg?as=1&w=494&rev=f7364c46fb0140ab874ae041eaadf94f&hash=EBB691A4EF53E859AD22E27AC70F31DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/13fl_westflorida_express_multifamily_vale_loft.jpg?as=1&w=494&rev=4903e06b0702475e921b63197e559ff6&hash=CC301E0F689AD16756C2DDF004EB86AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/14fl_westflorida_express_multifamily_vale_bathroom2.jpg?as=1&w=494&rev=abd133dc5beb49d4b8ae1a54f4661b5b&hash=F1008FADB2AECA4F22CAA8E5963DB807",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/15fl_westflorida_express_multifamily_vale_flexroom.jpg?as=1&w=494&rev=0e1df718171c4c3e985def1a95cd1336&hash=2C25238438E84D4EAA748810472D5325",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/16fl_westflorida_express_multifamily_vale_lanai.jpg?as=1&w=494&rev=6fa62a20bd3242399267dbd455cad6de&hash=A50122A1E970D61A302B3369878ACE38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-north/39233-southshore-bay/392890000-southshore-bay-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=81d95e3fd8ed4b76a288b055d99884cf&hash=EE8F4B1163A7AE11A7A46CA417FC3CD2",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5112 Captain Davis Dr",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/tampa/wimauma/southshore-bay-townhomes/qmis/5112-captain-davis-drive",
+      "id": "5112",
+      "address": "5112 Captain Davis Dr",
+      "price": "$316,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/390-tampa-south/39289-southshore-bay/392890000-southshore-bay-th/1759/0001-5112-captain-davis-drive/fl_tampanorth_drhorton_glenvale_sch1.jpg?iar=1&sc=1&thn=1&w=425&rev=6e46519574d546c4bfe0b391e6e7fe01&hash=7477176415D73E50D375A0409D438093",
+      "latitude": 27.71078,
+      "longitude": -82.32741,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Reddick Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Shields Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Sumner High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

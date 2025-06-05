@@ -1,0 +1,821 @@
+{
+  "timestamp": "2025-06-05T14:21:18.050037",
+  "name": "Windrose",
+  "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose",
+  "status": null,
+  "price_from": "$344,990",
+  "address": "5277 Hayloft Drive,Apopka, FL 32712",
+  "phone": "(407) 634-2453",
+  "description": "Find a new home in Apopka, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Orange County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/5277-hayloft-drive--apopka--fl-32712---02.jpg"
+  ],
+  "location": {
+    "latitude": 28.76268,
+    "longitude": -81.56115,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$344,990 - $495,990",
+    "sqft_range": "From 1,568 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Single",
+      "description": "Single-Family Homes and Townhomes",
+      "icon_url": null
+    },
+    {
+      "name": "Resort Style Pool &",
+      "description": "Resort Style Pool & Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Walking Paths",
+      "description": "Walking Paths",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Sleek Granite & Quartz",
+      "description": "Sleek Granite & Quartz Counters",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile & Luxury",
+      "description": "Ceramic Tile & Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Proximity Zellwood Station Golf",
+      "description": "Proximity to Zellwood Station Golf Club",
+      "icon_url": null
+    },
+    {
+      "name": "Great Location, Easy Access",
+      "description": "Great Location, Easy Access to 429",
+      "icon_url": null
+    },
+    {
+      "name": "West Orange Trail Nearby",
+      "description": "West Orange Trail Nearby",
+      "icon_url": null
+    },
+    {
+      "name": "Close Shopping, Dining Entertainment",
+      "description": "Close to Shopping, Dining and Entertainment",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/4eab",
+      "details": {
+        "price": "From $415s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38353-windrose/383530000-windrose-50s/4eab/aria_c_resizedweb.jpg?as=1&w=425&rev=fe13f27c4a084d5084292eafa68e28b7&hash=D5B76C1400652A64C5A4F67F7B87DBB7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/aria_floorplan_no_logo.png?rev=cf147ecdda124e98a49bd2d56e88ba66&hash=E61792E26966EFB083CEFDF7451E85CD"
+        }
+      ]
+    },
+    {
+      "name": "Astor",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/3rab",
+      "details": {
+        "price": "From $382s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,571 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/384600000-windrose-40s/3rab/astor_a_web.jpg?as=1&w=425&rev=312faa81e44f45f48b421f7df51eed62&hash=70EB45AA962E80EB655DB54A5080172F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/astor.png?rev=8dfa57c0e3d740bfbe7957b5690802df&hash=88722380EA8BC04201E453045174AEF7"
+        }
+      ]
+    },
+    {
+      "name": "Baldwin",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/3rbb",
+      "details": {
+        "price": "From $394s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,720 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38353-windrose/384600000-windrose-40s/3rbb/5508-stable-mate-drive--apopka--fl-32712---01.jpg?as=1&w=425&rev=312f8936c9c5493ab1a4d936a101b1c8&hash=6113CB9F3D27C6A2EF6F0237E36E4A03"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/baldwin_ab_no_logo.png?rev=438857e43f044747ad31f5d9b5c7d17d&hash=D43E28D0490697338F5E117615BC4B5D"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/4ebb",
+      "details": {
+        "price": "From $427s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38353-windrose/383530000-windrose-50s/4ebb/5277-hayloft-drive--apopka--fl-32712---02.jpg?as=1&w=425&rev=7daf26ff48634859b36e154b2846c12a&hash=A90B39D974C98CB27481896D42899EA5"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/cali_floorplan_only.jpg?rev=fa3bea3437eb4b14a0d2a19e3cedd6cb&hash=61CB595099B47C7EB1CE571EB698E3CF"
+        }
+      ]
+    },
+    {
+      "name": "Campbell",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/3rcb",
+      "details": {
+        "price": "From $426s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,308 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38353-windrose/384600000-windrose-40s/3rcb/webpackage_0000_6304-canter-circle--apopka--fl-32712---01.jpg?as=1&w=425&rev=111fe9d1bf0244a99af91ded62b65dd6&hash=AC88E3FFAE579C967299C6CF1A142869"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/campbell_ab_no_logo.png?rev=77a46cb42c63471ea7dff93fbc19d26c&hash=86DA8932BFA0CA51DDCD3CBCC99C0A0E"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/384600000-windrose-40s/3rcb/campbell_a_web.jpg?rev=f3f37180832a4611b2597086cae55a06&hash=B942A65A54A97F73C65E8BF772471E70"
+        }
+      ]
+    },
+    {
+      "name": "Ibis",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/1567",
+      "details": {
+        "price": "From $345s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,568 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38353-windrose/384590000-windrose-ths/1567/22sandhill_0008_6208-galloping-drive--apopka--fl-32712---05.jpg?as=1&w=425&rev=09f35de01a374db9a82606af25820eb9&hash=9359FB62FD16954A5D1D182152437C5F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384590000-windrose-ths/1567/ibis_floorplan.jpg?rev=fa7d1c73502d466e8144b560b12a8ae0&hash=D20B25BCF4021FB80AF36853225C3E83"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384590000-windrose-ths/1567/ibis_floorplan.jpg?rev=fa7d1c73502d466e8144b560b12a8ae0&hash=D20B25BCF4021FB80AF36853225C3E83"
+        }
+      ]
+    },
+    {
+      "name": "Parker",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/4ezb",
+      "details": {
+        "price": "From $489s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,663 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4ezb/parker_g_web.jpg?as=1&w=425&rev=2f441c557d6c4255a6e045a5d7ce771d&hash=79C849DBAD93584A4DE1DE95D34ACB36"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/parker_no_logo.png?rev=cc8703efd79046a1b273eb76fb857bb5&hash=DCBBF6531A0880BD0D7D6DF5C3835158"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4ezb/parker_g_web.jpg?rev=2f441c557d6c4255a6e045a5d7ce771d&hash=2B23D33B8F26D69394BD7833AEBF86D3"
+        }
+      ]
+    },
+    {
+      "name": "Sandhill",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/1817",
+      "details": {
+        "price": "From $363s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,816 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando/38353-windrose/384590000-windrose-ths/1817/1sandhill_0010_6208-galloping-drive--apopka--fl-32712---01.jpg?as=1&w=425&rev=020bd6ed3bde43758acb29d08e282436&hash=E0117626EA9AF5CC368527978C11F11C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384590000-windrose-ths/1817/sandhill_town_avian_pointe_windrose_only.jpg?rev=c0f9e3e5b3934b509d034e0bc69d9c27&hash=8A9AAC78DDA00429E2D7FE706FCF333C"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384590000-windrose-ths/1817/resized_0000_3d_floorplan_sandhill.jpg?rev=2a2cd36ef54b4e368ad5a3c7f9bd30eb&hash=A35E8D1EBA2ED269063FE6AEEC4B2C12"
+        }
+      ]
+    },
+    {
+      "name": "Stamford",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/floor-plans/4eyb",
+      "details": {
+        "price": "From $469s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "2,404 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4eyb/stamford_g_drh_web.jpg?as=1&w=425&rev=dfb3eda18423405f9e19c42b2a8f5176&hash=06038045A66CCDE41E57A21013CC938D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/stamford_gh_no_logo.png?rev=3e62bc747beb4f7bb3a1a796030dfe3b&hash=A5A24D5988B99FDDBC6D8D25511434D6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4eyb/stamford_g_drh_web.jpg?rev=dfb3eda18423405f9e19c42b2a8f5176&hash=FC34AB6CC0CB077B7CDEDC93F0829002"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---01.jpg?as=1&w=494&rev=d19afc625f944eaf81aaf01be00f8564&hash=60957E985C07F1868C53B179D4573D82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=860ca1e6a3084310bb86d19292f66469&hash=9DA91020DAA5837D407DF103E2EEAF1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=8df729859a164cfbac21815687ebf83e&hash=7979A4BB68671777BDDB04017BDB2ADC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=4dab635097324d32b25b84d0df0385a9&hash=CB0C243C2E5A4FC57159854027FFF0D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=ad9d13fa75fd43cd86e4d147bd45aeaf&hash=DA1787DD38AA05F004CD93157B09B2D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=978edffb865041f48b90b0b085ac684c&hash=B38CAE0F9760D4725AC0900A1A68B64E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=7a630be644a949088c3b532a06e871b8&hash=410B5235ACB35AA8E5701F06D299C908",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=356aab34e8c94673b3e90c8f9ff3df75&hash=AC4359BE6558C306C17462C9603BCEEA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=04031125624540ffb7bea8b6ab1f27ae&hash=3462BC8F6E5516EF04C65E0246B5DE6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=5b6adde2b7d440ab8df45f20329861fb&hash=1A2A93FD51D372DA68B2BDF60DD8CF2E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---24.jpg?as=1&w=494&rev=aa1f54693ceb4b6ebbc999695756e295&hash=DDD63CB355E22CE8258EC9AFE3C4ECA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---28.jpg?as=1&w=494&rev=8fc0c9ac7a14428081e455d03e8bde7a&hash=D84FE73F66A034D545FC8E48A827FB89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---29.jpg?as=1&w=494&rev=b9c735dd2c1e4d1da328cbc5288226b5&hash=286B78758D34D7E8DEFCB50085B56D41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=86e4fdfc74254117917ba6f3c8ac1b93&hash=E120CB769D9D6BBC86CE574A6C20BF4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/parker_no_logo.png?rev=cc8703efd79046a1b273eb76fb857bb5&hash=DCBBF6531A0880BD0D7D6DF5C3835158",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4ezb/parker_g_web.jpg?rev=2f441c557d6c4255a6e045a5d7ce771d&hash=2B23D33B8F26D69394BD7833AEBF86D3",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5531 Hayloft Drive",
+      "plan": "Parker",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5531-hayloft-drive",
+      "id": "5531",
+      "address": "5531 Hayloft Drive",
+      "price": "$495,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2663",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0029-5531-hayloft-drive/5385-hayloft-drive--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=d19afc625f944eaf81aaf01be00f8564&hash=4350F1AF3B3C704A1D1A46D9A0CB5D8C",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---02.jpg?as=1&w=494&rev=9681309e0d5a41ac8914070a6848f76e&hash=F09AA393AEA5DAA6F73A6FF4587583EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---06.jpg?as=1&w=494&rev=cbc8da3cbb264d1491f8c6ea2236e0d7&hash=7C2361AA036CF1DB141F5CAB0C4029A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---08.jpg?as=1&w=494&rev=ccf1ad4efb8f4c78bf447d969eff5365&hash=55406D94F94CFC1FBA88598F51060F0E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=8d82c4ab664f49509a25b49a4c435276&hash=9FBBCA81D1FEAAC2149F0DDD0055D9F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=2ead385be0574e1ab84e381f4720a3c8&hash=F815AAC8E03EF4619175CDAD04AAE877",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---11.jpg?as=1&w=494&rev=262b53bd03764ebd9c841cd470b15b24&hash=C2CF9A00B2CEC3E5DEFF7C8C85562F55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---12.jpg?as=1&w=494&rev=1b76f588ec464cbc9364cb7f90e71ae1&hash=225921C5C6A36B589E90CE3A0C6B6546",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=c2de60d6f1e94226b25562cf56585d35&hash=585E978A6DA76459A8325A86BD6C1A42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=cf0dff36e9e146a18bb9a3943b69b773&hash=8EB4AD8E38B662512BB02698D7CA449A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=2eb38c5b09e3460da679d2ad4657163e&hash=D63E262003291222039752EB8D122747",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=ccdd9c3e44264cbc8e9adbfdb67fc50f&hash=DF4C6DCA7ECE39E34B66556CE308FB84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---17.jpg?as=1&w=494&rev=b7c5a5b8117349579a1672f0762f8717&hash=17B1C1F14C174FF8FEA6BDD5B94DBC82",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=915e725afbea45f38526140b68ea1365&hash=17B6767B9EBF0C9242C4BCBE3990D88E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---19.jpg?as=1&w=494&rev=3637ea08b2da4e4b94f356bffebbe033&hash=D80ED5BA90ED46C21068CD21214CB600",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=7c51953683684571934bccc32d9e6deb&hash=62CA9BC55713121305F44E2102A18ABB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=3ba7be591f3249bfbcbd811c9938efdb&hash=8C24C6BC09F618CEC7DEE253D289BC35",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---22.jpg?as=1&w=494&rev=3a7e59731bdd4653855c46ba13e38eea&hash=128F1C5E79DF541858E66CAB8A3B05EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=54713d6c71744efc994ff1934591fdca&hash=E2E3073C401496EC95DD9B14CF7B33F3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---24.jpg?as=1&w=494&rev=792f0528fdf04f6684619ee679758fc5&hash=6546A539436725A8C6A08232744293DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---25.jpg?as=1&w=494&rev=41d64c3e97364db887a3add11b58a2b3&hash=25FFFD676E033D7C7F008E4CEC815178",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---29.jpg?as=1&w=494&rev=87615af46c67463abe69fb4a80f026c8&hash=D1F9A8609FBEFA5494183A43D7D5CC67",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=09fad07351294a91a3374af5a8c10456&hash=1A97FB3DA69B2FAB79E442EBAC501773",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---31.jpg?as=1&w=494&rev=0b65e5d32033453fa8ddde044bc6951f&hash=6F9B5ECE35EF15D1FC470B8AB8CE7F28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---32.jpg?as=1&w=494&rev=1c19f24d418d41e8b5ff4c5cd551a94a&hash=0F218064BE8BF59C1E08675B9A84FE28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---33.jpg?as=1&w=494&rev=509ca13b9b4b43ffa5fc132f73ab7afe&hash=CD2EAE5AADC2F6D528EA6B9AC61A44BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=a895f5cc2781431d983c41faacf138e0&hash=594859C946A5384092E84657286B34A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---27.jpg?as=1&w=494&rev=f5375a63a7254debb54b82fb6480db69&hash=62E5D11757D7D3B87159F0362D1581E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=b8dcae9e14124eecadbed2182399a413&hash=158491AFB11F2B726274B902438A0E13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---40.jpg?as=1&w=494&rev=8963cf7999f649cb9ac333f3280b1e2c&hash=00132B4B23DE0C7B530FE7C82D598E8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/aria_floorplan_no_logo.png?rev=cf147ecdda124e98a49bd2d56e88ba66&hash=E61792E26966EFB083CEFDF7451E85CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4eab/aria_c_web.jpg?rev=921afc3cf6db413689050e6d22312a79&hash=DA3F6BA457E039B9D7774B5EE9FAA00D",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5539 Hayloft Drive",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5539-hayloft-drive",
+      "id": "5539",
+      "address": "5539 Hayloft Drive",
+      "price": "$428,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eab/0030-5539-hayloft-drive/5369-hayloft-drive--apopka--fl-32712---02.jpg?iar=1&sc=1&thn=1&w=425&rev=9681309e0d5a41ac8914070a6848f76e&hash=7720E79AE0813053A6A13898B7F6B2A4",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---01.jpg?as=1&w=494&rev=7b494e6a55124766bc2077aa01a04f2f&hash=94A04F80BF8EE425C184986CC8880AF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=0a02c35b7bc844aa9ed5fd8e1fd08584&hash=8E395799A72BCBD18AB640FECD22786A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=2fdce1f5cf674d918b4c9eb24fe5c08f&hash=A9466E4702A5FDCD658C72E3CE26145E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---05.jpg?as=1&w=494&rev=5c32ab07b3124aee86fc3e8f144e54d2&hash=75C1785F4A7D2354690CD6B6B01B009C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---06.jpg?as=1&w=494&rev=ed30e58e42514ae2a4a0757d9d9742ed&hash=F6359A23C35A649C5B43A67759D0CE2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=fe6dd08a907c4181803ec32c8ef764d6&hash=FBF0932F4D9024E867DEBC64F3A02C8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---08.jpg?as=1&w=494&rev=2ac7b520ecbf46cea677549c2f5e2d94&hash=67D49D0014E641CD268B0124CDC90E7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=ddb6bb4870a34f988f9bd7a5b5c5d0c7&hash=B2B4B92264204FFCB803A5A8E93801C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=c428c1f73ddd4a218e344a9ba4a9adce&hash=3ED110F939BCB3EB4AE65685AC19B54B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---11.jpg?as=1&w=494&rev=b6f8a29f12e444868e67207ea402f311&hash=C13B824340870558140E4BCBAE18D319",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---12.jpg?as=1&w=494&rev=23a9c94cedda406b875e7ae2cf626d59&hash=23934952F660703834161B3EA30074B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=b85e9090ab0743b89690276353dc735a&hash=27DC8460C6A33C7729249F2333C44C84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=89681f8b76fd421ba040f240175ec79c&hash=CDA6B3812FE5A1128AB2957D674CEBD1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=5a5044d331c64a338dcf548b937e5a50&hash=0437820BF1640A3C07CF857FE5103F4E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=c83acbbfcd034239af2840bbac828442&hash=858B8931778C05A4153D53DF52679410",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---17.jpg?as=1&w=494&rev=fa246ce03145449e9ca5ae21e04ece8f&hash=7F3248C45C9EB4157CB0F08195EFAE0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=26432e31eb034fd5998db5702c96d89c&hash=61099CD8C8E6EA835C759A87CEEA016D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---19.jpg?as=1&w=494&rev=b888299beb7e4dd2aa2534cde943d7d9&hash=9BECD9FBF718C3FB60917D77D3368366",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=358607c10368428b9066a492a709bd29&hash=E34281920A7D349D2533DA6B105BF4B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=f17600b79eeb4fd995a71c518ff8c7bb&hash=3209A94DCA44F39F3ABDC0DFBD86C630",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---22.jpg?as=1&w=494&rev=7b7c5cc94b294dc28c8a7d6a50ddb29f&hash=D7D7F05F560349FE035D7AA40663C7F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=5a53c5bb0ec04a5abda5beea8d3269c0&hash=10457411789D7F22DC8AF7F5C37BF869",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---24.jpg?as=1&w=494&rev=a492e1c41bc042c49801627bf912d06a&hash=B7D0B0B2D2BD0723A381D72FD9226915",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---25.jpg?as=1&w=494&rev=3a462a4b09f24e78a188892430d5a0b5&hash=2B1A79452ED821A1BC55801A21A3A6ED",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=28708168096944408a38a4b0d12632b3&hash=318D1ABA68D7EC3B81CFE0A6A7D4D6B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---27.jpg?as=1&w=494&rev=8b573ce42bc045859781a967d007bf4f&hash=FA83484C4BA6109C86B98511A21D3668",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---28.jpg?as=1&w=494&rev=57410af333de4ecab0f4cee69ae599e3&hash=45F34FE62C1B3D9F738AE3921534BA6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---29.jpg?as=1&w=494&rev=4dcd0ff6017b482d86ba1ddab749b74a&hash=C4BAD3542955F7B07CC9819D3E68111D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=c74ac08e91fb42b2a5c0cedeb70f9ec2&hash=9664E58690FEFFD87945BF887B5739A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---31.jpg?as=1&w=494&rev=057edb22d68d45b5ad996184d1428b91&hash=CD5243ABEC094837F3046310D015804C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=3236766b363c4d2eb8dac46d87b386ee&hash=AAC690073D2BCE8A124FC5B31D4FBA87",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/baldwin_ab_no_logo.png?rev=438857e43f044747ad31f5d9b5c7d17d&hash=D43E28D0490697338F5E117615BC4B5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/resized_0000_baldwin_lvp_3d_staged_floorplan.jpg?rev=397d6a2d60fc40d786823b7a87189438&hash=56365104AEBE83D5D9D0AB8662684182",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5608 Paddock Fence Lane",
+      "plan": "Baldwin",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5608-paddock-fence-lane",
+      "id": "5608",
+      "address": "5608 Paddock Fence Lane",
+      "price": "$394,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1720",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0059-5608-paddock-fence-lane/5508-stable-mate-drive--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=7b494e6a55124766bc2077aa01a04f2f&hash=F7E59FB748879A7E7FC4A191B18F0195",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/1_1_astorexterior.jpg?as=1&w=494&rev=96dd61c312f64059a3d8546a31040061&hash=84740CA4ECA6033D3CC64FABEE9A87AC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/1resized_0001_6119-galloping-drive--apopka--fl-32712---22.jpg?as=1&w=494&rev=eaf1ff7b974a4afba6ff914aadbbbf0f&hash=9FD1D618A1DA065E28AF016AB9B99FE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0000_6119-galloping-drive--apopka--fl-32712---08.jpg?as=1&w=494&rev=93f552ea662448c4be198db7ce5bf7f3&hash=85C064B3102F3B19C8B9D59A4A5C047D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0001_6119-galloping-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=bf876166fe4440a9902e16717a3de563&hash=24F6CF778235DDCC9C1AC3DBFF71608F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0002_6119-galloping-drive--apopka--fl-32712---05.jpg?as=1&w=494&rev=e8fc748f26114db7ae78f2746e0481ac&hash=BBF9278E9E64469922F3050FF664BDC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0003_6119-galloping-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=83c7bf6fab424107aff6d9a5786722e5&hash=8C876106CDB27328DBC2239714892E7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0004_6119-galloping-drive--apopka--fl-32712---19.jpg?as=1&w=494&rev=15dd862af1bb4029942cc82f5d8af234&hash=46D9BDD842ED6176D5CFF3A39C676FD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0005_6119-galloping-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=3b916314dbfd4f5590a6ccd4fe12231d&hash=8501FABB9616E57F9B3A4EDFB7B1D827",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0006_6119-galloping-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=ebf8778f1ac24f71adac9790ecff7d5f&hash=4CC0816C99B2B30C12B88431EFCF3606",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0007_6119-galloping-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=0522fe28cc73486ebdfdac3a18297ce8&hash=48EEA69BE38FD3E6BBB753617C3BC158",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/resized_0008_6119-galloping-drive--apopka--fl-32712---11.jpg?as=1&w=494&rev=2b3e9fabac624bc79a87ff4a10cdc643&hash=69EB87A1D465AED6042C1020C3E5A876",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/astor.png?rev=8dfa57c0e3d740bfbe7957b5690802df&hash=88722380EA8BC04201E453045174AEF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/384600000-windrose-40s/3rab/astor_b_web.jpg?rev=1fdce681bc544e128cb25c74c098f341&hash=45EC8E2ADD0FA571003F6195B4D0A7AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/resized_0000_astor_3d_floorplan.jpg?rev=cb17e420e9b24750a8fcef5c55c2831f&hash=763838C98E60F520F0EFCF04BEF22FD5",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5626 Paddock Fence Lane",
+      "plan": "Astor",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5626-paddock-fence-lane",
+      "id": "5626",
+      "address": "5626 Paddock Fence Lane",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1571",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0056-5626-paddock-fence-lane/1_1_astorexterior.jpg?iar=1&sc=1&thn=1&w=425&rev=96dd61c312f64059a3d8546a31040061&hash=F142A854C34D873DF4E857F4B28EA4B5",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/1_6304-canter-circle--apopka--fl-32712---01.jpg?as=1&w=494&rev=e7b0c8fee56149e281c46da4331af068&hash=A0B58B62A87146E60D5240FCF0D85CA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---08.jpg?as=1&w=494&rev=bdd8e789454541baaf0f8c679f96f015&hash=30B676A8EEBF4BBBE582ABFDF5F3ED85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---11.jpg?as=1&w=494&rev=b083e6b5e1324df5abb63aab195021d6&hash=7894688F477F21989FC151550FBF2E85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---15.jpg?as=1&w=494&rev=9b22a5c31334488cb2f8f2445bb3393e&hash=EEE28A5D52E3D5C5C6A600F9D5E8995E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---17.jpg?as=1&w=494&rev=d06771d53258427089829b297cbc03c7&hash=894DF7C1703148531395A4620EBD56A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---18.jpg?as=1&w=494&rev=3df2df5fde4a486bb3376ba401a72ccf&hash=2DB08E797575F64EC8376A80AD7DB7BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---22.jpg?as=1&w=494&rev=41a0b0223c4e4a888a3ca7c96c956f75&hash=94894E51ADE20CCA3F0DF9BB098DE870",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---25.jpg?as=1&w=494&rev=8e83e052888d44a7ab0c69cdb5b5e239&hash=B3D15797E178E42C9E21BE8EBD4362E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---28.jpg?as=1&w=494&rev=8c464a2aaf844d7cbbbef835fbb79299&hash=A8C24026FD8DAE3B8CF5D64D179D3973",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---31.jpg?as=1&w=494&rev=67566dc0f691427685bb884228338df0&hash=F4B4A20480B8545732742F139E2955BA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---33.jpg?as=1&w=494&rev=8c9e97ce39e94cb786f12a0fc3a49a9c&hash=3BE1AA277CF1F6AA8EA5517AC8E70D3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712---36_1.jpg?as=1&w=494&rev=be4043328487431ea892e08748eda8dc&hash=6EAA1F638CC3DF97623AD8F9909EEA7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/6304-canter-circle--apopka--fl-32712--36_2.jpg?as=1&w=494&rev=3052e3323df2492ab37888cf1fe194bb&hash=878CEC72714E834989B995C9B2F049BF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/campbell_ab_no_logo.png?rev=77a46cb42c63471ea7dff93fbc19d26c&hash=86DA8932BFA0CA51DDCD3CBCC99C0A0E"
+      ],
+      "name": "5632 Paddock Fence Lane",
+      "plan": "Campbell",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5632-paddock-fence-lane",
+      "id": "5632",
+      "address": "5632 Paddock Fence Lane",
+      "price": "$432,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2308",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0055-5632-paddock-fence-lane/1_6304-canter-circle--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=e7b0c8fee56149e281c46da4331af068&hash=D6B002EEEFFFFB757C57F31BB41C1DB0",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---01.jpg?as=1&w=494&rev=e29b37496bd84b67baa5e76036e19387&hash=A689852B3331AE812C366E51F4D3F877",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---05.jpg?as=1&w=494&rev=3c0eb13a20764ba8b1f9415a0744ebda&hash=F60122B187A563C112494D21E8EBCE3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---06.jpg?as=1&w=494&rev=cc8aed3d8ed44022849bb0e72e4db534&hash=598571D3C0715A6A2167B1BC44A20E60",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=32e90d95be5740d2b7f96ca5c972a8eb&hash=CBFE2374B16FDA86B409808FF4FD1E52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---08.jpg?as=1&w=494&rev=25c6145876ee4122b1e0e79a7bbde1e1&hash=1901BF558D10E139F5D51FBC003ED75E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=c0499e8d288746c097a5170d63cc89e2&hash=36958FC0913B78FFE3985B293D65B569",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=8b5598db120346d7a288e1fbbe0698ef&hash=71A57BBF270CB9F51A10921935531CBE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---11.jpg?as=1&w=494&rev=8c7798b037df4c6c82d4b5f58890b4af&hash=89F361FD36967B239B797D904E7740B0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---12.jpg?as=1&w=494&rev=e71e1c7b81024ddda5d6c1a177e67e9b&hash=CB128E28258C098DBD88750ADE23BD64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=ce68f423523c4338b77d952057a7cfdd&hash=0EA6C116377AB2DD0B94F6AA3FEB7AF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=12bb199854d445ad8640ee8b565429ac&hash=FE9EC1E216277DB04E8C21EBA220054F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=b1fe76522afe460b9fb7eb50a030fc36&hash=7DCEB3164267028BEC129AD530EED123",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=1863b195a6a2469db4fd74ab1cbd4fc7&hash=5F9F41147636306AB5FF28E09259CF1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=225e4ecc0acd4b75b52f3ff501698dd4&hash=2CB9A1F0F88610A5858037F9F2620930",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---19.jpg?as=1&w=494&rev=0d7dc7f5035344bd89fdf10e8c6e6835&hash=FDE79320543F09F807AED069C2ED6F50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=0480e1fa9c85428f9ff5d11cfa8e03d1&hash=C009D971EF2B9D8A8084DEEE253CB564",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=b3f5507702f24310990b5f33ec190c2b&hash=235309E62638C4493F8EF572D54E60B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---22.jpg?as=1&w=494&rev=280baf774d9c4f558e256ba4908d7263&hash=BC8F634CAA819CB0F11944AC19C88A92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---24.jpg?as=1&w=494&rev=bbeab72dd6e5451297d0b83f5398364d&hash=786CD4F6B0A833AD4DB959506AFF5B25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---25.jpg?as=1&w=494&rev=98d5051eb0274033ae5df94b87b894e7&hash=1913D35863AC2E08E8B267D11D75E907",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=ad8371109df04962b49a0a117a37ef97&hash=1991283330B9C93AB83D858991644E3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---27.jpg?as=1&w=494&rev=24b47e2dc09242c39382d9573ab002ae&hash=AB5056B48E81A3BE0762120FF888636D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---28.jpg?as=1&w=494&rev=474a49828bc04d01b9632088eac75028&hash=62FEE5D6BFAD34B2E83C60A40F2192C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---29.jpg?as=1&w=494&rev=93d095b1407440cf8d34955ff5798130&hash=D83440CB372EFEE7F258FE84DFBEAC8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=34055367d43e45a69b199f5a2bebea3e&hash=20477663F8E9690E26A9DA0450EA080C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---31.jpg?as=1&w=494&rev=42d44c7691a24b2a9ef56544a9b23ed4&hash=72CF6F6801C2BA5870C39DDCADA6A340",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---32.jpg?as=1&w=494&rev=8850b139b9e743c9b776a76a5c9a6e74&hash=38B88BEB31688BAA2927710732F27CBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---33.jpg?as=1&w=494&rev=ac964476465a4775a1587ebaf163f689&hash=0C10189192EA0935616479E4D23D0121",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=ed10041d1d5b4e7ea85c2ef7b58dec78&hash=4775CBC9986EC9E7C124549ED781433F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=a1aaed34f65c48a196d752ea26abcec3&hash=9BE86FAE79D19EEA651A73268CB93D58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---36.jpg?as=1&w=494&rev=5ab43748aba84804b0d422c8f17fdfab&hash=68354DEB658CCA6154A52935306CAF23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---37.jpg?as=1&w=494&rev=cb1139fdbbff4cc8ad1306476c24ae0b&hash=6B4EC764A427923317A50FD01FD52374",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---38.jpg?as=1&w=494&rev=d5ad86ed2bb2403eac98bf3185f3666a&hash=7A72BD05FD4AF7B0A90DB0769B3E6686",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---39.jpg?as=1&w=494&rev=2904975f5a024aa48b5fbd7a0cdf47fb&hash=EE6BEF87B0B86465B32724AEF772D0A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4eyb/stamford_gh.jpg?rev=3378fec370e54cecb49a4300e07d4602&hash=F1E873B042D601DB61CE38CD3F55448D",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5800 Galloping Drive",
+      "plan": "Stamford",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5800-galloping-drive",
+      "id": "5800",
+      "address": "5800 Galloping Drive",
+      "price": "$473,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2404",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4eyb/0072-5800-galloping-drive/5426-hayloft-drive--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=e29b37496bd84b67baa5e76036e19387&hash=9CA55A9DE0E39E28E6A996BB5B851ECB",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5385-hayloft-drive--apopka--fl-32712---01.jpg?as=1&w=494&rev=7d4f2cbf6bfb475ba0162eb5eb152918&hash=0114297DB3538E0582D409A251C80220",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---05.jpg?as=1&w=494&rev=aab34aaec79d40a4889da055ee858ce7&hash=E5B4834FCB62A858F03E14E2C8AE45B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---07.jpg?as=1&w=494&rev=6d2dfc249c794b1c85c689ffb8535f35&hash=D7C52F4DFD0D40C6E139BA1E5B837762",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---08.jpg?as=1&w=494&rev=682493ebf92b40058e4bfcef2eb5d777&hash=6B359B5D6A12A22A6BB53A608AC2504F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---09.jpg?as=1&w=494&rev=78387839bb784bfaaa0faa611076b512&hash=6335BEBC9EF22509A449CF1865547BD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---10.jpg?as=1&w=494&rev=0263d18bbf3c405daefc6bac8a22271e&hash=3E8B9B6153054AE7EDF981DD559D8B56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---11.jpg?as=1&w=494&rev=fe3f5bf3f07b40b085eb066f11f40665&hash=F889612B177AB0E3201EBD24F4CB0771",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---12.jpg?as=1&w=494&rev=7cf4a99e7a5546399b8d5b8cc5fad9dd&hash=691725E7B7AB4D22964AF3238CDE487E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---13.jpg?as=1&w=494&rev=1d6629fa7a054e76bdac6e5b207833ed&hash=FCE23FBF4A03CB1CB7934FAF3AEC551A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---14.jpg?as=1&w=494&rev=4219e2dffb6a4bda896006f52767aec7&hash=7C7A02D3538F7ACE4FCF69AD276AF61E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---15.jpg?as=1&w=494&rev=a67563bca7a142a5839900711cc8c532&hash=FB6B5BB42422F32C5DBD0F9C5DA37C99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---16.jpg?as=1&w=494&rev=636f7ab482c84574ad4e1baa05095d52&hash=66E5848281E0CB0FB742A47C2D0E92D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---17.jpg?as=1&w=494&rev=6ee2cdbd22af4052a0f2066ad7c43362&hash=D6550D335018EEB9750699800A22ED20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---18.jpg?as=1&w=494&rev=c01fd489ac2c45d09dab13376151fb9a&hash=7D44FD4D9F21CB9F0AAFFFBBA50EBCD9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---19.jpg?as=1&w=494&rev=13390b8a3603482ebfbab31ab5ff323d&hash=5BB8FFD846BC4103C6B6D6F6F8E047E5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---20.jpg?as=1&w=494&rev=48d27663f00e4e59bacd300c7432bdad&hash=42BDDC161D0B304455F0BF1FE5F1FC33",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---21.jpg?as=1&w=494&rev=2a45f595aaf143e9a4f4102f434c63d4&hash=0FF91AEB888CBC4A4B9B7A6CD1094581",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---22.jpg?as=1&w=494&rev=d73e914ac77045489eb01fd634657195&hash=C4C780D59CF70A580A36F4AC555EA675",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---23.jpg?as=1&w=494&rev=f848f27762fd440eb3c503df2b5818f4&hash=69556CF5FBF5CB79E943DBBC75D4FF5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---24.jpg?as=1&w=494&rev=05227434a737424fb852d3e8ba417099&hash=80122F7131DCDB99675D6DCA331E45CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---28.jpg?as=1&w=494&rev=e84a8b14ae2c44159c261dcdb0fa787a&hash=56E51520BB137F74B2DE42A49E2B5797",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---30.jpg?as=1&w=494&rev=41d346a93b9c47ac834537352cc073b0&hash=DE504374F034196635B345AEC94F3719",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---31.jpg?as=1&w=494&rev=a53f530613fe4f669a09d34fe9a490a4&hash=75B7338736D6AE2D02EC5C244D2098C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---33.jpg?as=1&w=494&rev=03741e0cbca34c66a07b148452d41fb6&hash=2DB31ABFFAF838F56A423E5A202D7961",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---35.jpg?as=1&w=494&rev=40fc059eac7e40bdbfa89fefbc8a836b&hash=2039A39F40E96C13697D7D9288BD437C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---36.jpg?as=1&w=494&rev=d635fadf74994fd293ecc88b1248ae94&hash=B0D5DFAE42768E3EC9D2D265B7650A85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5258-marshelder-street--apopka--fl--32712---38.jpg?as=1&w=494&rev=f2013ac3973849a4a06cc38b935e9943&hash=7D70EF4CC3D63CB13196DF2449ED70D9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/parker_no_logo.png?rev=cc8703efd79046a1b273eb76fb857bb5&hash=DCBBF6531A0880BD0D7D6DF5C3835158",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5844 Galloping Drive",
+      "plan": "Parker",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5844-galloping-drive",
+      "id": "5844",
+      "address": "5844 Galloping Drive",
+      "price": "$492,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2663",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ezb/0067-5844-galloping-drive/5385-hayloft-drive--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=7d4f2cbf6bfb475ba0162eb5eb152918&hash=C63D4E8709B4B028BE373F2EC5D31070",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/1-1-caliexterior-elevationd.jpg?as=1&w=494&rev=d7d70e2049dc428884248d465e3cadcd&hash=DC9BE966A075D4B2229C14F8DDE6D455",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=072b8da9a8f041b4886435539a0200f4&hash=2D551106C0AEF5FC660C43F31BF84009",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=a04cc1bd298b4b1cbc6d68d6a707aa2f&hash=6D7702A68A61F3E2BE59DB248F5C643F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=d087fae5435d4b7f93197e155233a923&hash=7A59E4631224DC0C49020018D1ECDA57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=de0705a658794ef2b7890c48f37df82b&hash=DDE6849F9B2AE44C908A7EBA47A60E0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=63dc20cc61154f4dace6d01af32a3cc2&hash=3A0B4D1135EB8F1403908A7DF91B9657",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=120e2498217b4fdba75704bf08e7f885&hash=C0832DD89F51FBC208012765A957C3D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=2a31ce12d22f4d159765d4c0e9aad85d&hash=4B61E751656BE334B29F9EA82ED37238",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=a5baf02987b3479682f6be4853652e66&hash=AFBD6F6DE7C10CC5348BF0423A0B695F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=957c3ccf10064bbb8c9a6b9ba116b78f&hash=9292B22E6164D62E9EAF05151757BA7C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=b0519cd75dd14033b569f90df5e785e0&hash=2F3CD29C8105F187C456574C9AC1589E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=d2550ac09f6a4c89b931c4abb6389b0c&hash=44D50D52319F17804BD6C7B94695BC68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=3bc08ee9390e4dff960f28bbdff5477b&hash=BBE555DBA36AEBBF8B93E986E7744438",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=ee5b20a867bf414e885e8fa702148913&hash=658204EF9BCF488CE3A48544650FA6D6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=e25cd373acc14491b266e28139032cda&hash=6B62C4A1B494712329B2A415137F29A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/5277-hayloft-drive--apopka--fl-32712---38.jpg?as=1&w=494&rev=e3f379c6b3c84fce8692f9b8ce6c431f&hash=5F35EADC1C4E35898DAB7DF4EB7385CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/cali_floorplan_only.jpg?rev=fa3bea3437eb4b14a0d2a19e3cedd6cb&hash=61CB595099B47C7EB1CE571EB698E3CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/resized_0000_cali_3d_staged_floorplan.jpg?rev=d269f8cfa859460c95a9cb7c0e1aa4a3&hash=41DB83898527DC12D80535F09D684DC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4ebb/cali_l_web.jpg?rev=05cbca2edd9e44848490928fecdb7653&hash=F5F083CEECF3E03B8C5153912E4751BB",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5852 Galloping Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5852-galloping-drive",
+      "id": "5852",
+      "address": "5852 Galloping Drive",
+      "price": "$438,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0066-5852-galloping-drive/1-1-caliexterior-elevationd.jpg?iar=1&sc=1&thn=1&w=425&rev=d7d70e2049dc428884248d465e3cadcd&hash=CF2127660222AA52B90FB97D2CEF64F0",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/1_exterior.jpg?as=1&w=494&rev=2fa07f9edc554bea9c778f887fc82af9&hash=13798E0B32CFC57075E04FE34B14E2CA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0000_6119-galloping-drive--apopka--fl-32712---08.jpg?as=1&w=494&rev=fe30f065fdbf416e95c77c6bf716f00b&hash=C8DFEE98D421C04574DB380EB95BCBCE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0001_6119-galloping-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=1ad5f6c9b77445c6a460764e3f312722&hash=671BD4071252F87122114C706FDA4304",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0002_6119-galloping-drive--apopka--fl-32712---05.jpg?as=1&w=494&rev=0a19a7efb4d84c5eb788ac94e7a4d183&hash=18D0ECDF39C109841D9EC23887D9DD2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0003_6119-galloping-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=c80615b6de924cf8bb2711badb95cd11&hash=963CC051122545CC9FA5C15B38056780",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0004_6119-galloping-drive--apopka--fl-32712---19.jpg?as=1&w=494&rev=b37d3cae817e4011bbc887d4d3675863&hash=ABF6B5E6C38D2B3D7F620CAFFD6FD22C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0005_6119-galloping-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=6a60983d64fc41baa356bef208cba898&hash=360C83AD40093DC690934249778A5738",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0006_6119-galloping-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=4513e0a34ca343bfaa86be336c56725c&hash=21AE705752D20ED29EF3BF8CA6E271AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0007_6119-galloping-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=825e271805df4a86b69301a680c29259&hash=A4BBCB08BEBE2B5D2F5A47BD5A237779",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/resized_0008_6119-galloping-drive--apopka--fl-32712---11.jpg?as=1&w=494&rev=6255be17216f41dfbe2cdc256e481607&hash=C9B52D77DFAFFBB61F0E7BD3BA18EA9A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/1resized_0001_6119-galloping-drive--apopka--fl-32712---22.jpg?as=1&w=494&rev=b6ae92c491a641b8b01e7b2a247448ef&hash=8425D1768F1443904C78A92F9EF5B6AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/astor.png?rev=8dfa57c0e3d740bfbe7957b5690802df&hash=88722380EA8BC04201E453045174AEF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/384600000-windrose-40s/3rab/astor_b_web.jpg?rev=1fdce681bc544e128cb25c74c098f341&hash=45EC8E2ADD0FA571003F6195B4D0A7AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/resized_0000_astor_3d_floorplan.jpg?rev=cb17e420e9b24750a8fcef5c55c2831f&hash=763838C98E60F520F0EFCF04BEF22FD5",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5855 Galloping Drive",
+      "plan": "Astor",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5855-galloping-drive",
+      "id": "5855",
+      "address": "5855 Galloping Drive",
+      "price": "$379,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1571",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rab/0064-5855-galloping-drive/1_exterior.jpg?iar=1&sc=1&thn=1&w=425&rev=2fa07f9edc554bea9c778f887fc82af9&hash=68EFFBAD334D3D46AC568FC341B8A1F0",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/1-1-caliexterior-elevationd1.jpg?as=1&w=494&rev=24f44d9757164e24b165688217074797&hash=4BF9D0D1FC08EDE5800F1DD2039AFC27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=c460da77aa6f43579f0f86233075f045&hash=03E6AD5C08B48B07E25B6808D3672854",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=b5584b153d5c427cb05a71646ed166ec&hash=74E8C133D0AB94DCC4EDA7659583D998",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=3a050483fd6e4e5e921f2f5980211c59&hash=D6F4409D7DCE510D9190E245EEB662B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=9c898ec1bbb342dfad70c4f46335d510&hash=B90F57C1586A35098864302B0135D28E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=678d08625d4e4246a6d7fecff2c8783f&hash=64810874A920900595E673299E5A8CD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=ebbbb3292ee84f1baecc4c339b517dad&hash=927BEB1332F42514AB90AF3BAACD0194",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=57366a11a6a44fd1af772a90f7bda0b2&hash=9B0256F236EF0693DE6FE493B7B4BB59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=c0b478681ded49ec99d03597a1238949&hash=256A0D86F6066DBA6C167242E2FE0314",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=5200ceae857241eb8b50e9717c2bdd3b&hash=0AF8F5C8B217E9153DF679EC093331F6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=a003b93a7c4d406a89424a03b6634dd0&hash=45030AC820ADEFD995BEEAB4ECE938A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=832359349407400e841fdda877a6b293&hash=E8277266F73263AB8298860ED53D00FA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=9a7b92f1877d496b84c4f5e28fb7ac78&hash=65353D52FEE7C2932A1899A9421F6734",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=cba3864d8a5a403e9405fbf1acc2b954&hash=E7F4A6016ABDEF6CED664421AF8B5E96",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=ec6ee176f26540c6afd24a36743be00b&hash=231D922BF498B1FADB47FBAFE802BD75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/5277-hayloft-drive--apopka--fl-32712---38.jpg?as=1&w=494&rev=6b519bd0c8d24ac28b0f867b355aafcf&hash=4DACAEC7AFADACF7B2C51BCBB510E070",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/cali_floorplan_only.jpg?rev=fa3bea3437eb4b14a0d2a19e3cedd6cb&hash=61CB595099B47C7EB1CE571EB698E3CF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/resized_0000_cali_3d_staged_floorplan.jpg?rev=d269f8cfa859460c95a9cb7c0e1aa4a3&hash=41DB83898527DC12D80535F09D684DC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/383530000-windrose-50s/4ebb/cali_h_web.jpg?rev=7af5657511b940e5b2418debdc305689&hash=22EE14D3E5957A4CB92AB2748A31D7AF",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5860 Galloping Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5860-galloping-drive",
+      "id": "5860",
+      "address": "5860 Galloping Drive",
+      "price": "$428,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/383530000-windrose-50s/4ebb/0065-5860-galloping-drive/1-1-caliexterior-elevationd1.jpg?iar=1&sc=1&thn=1&w=425&rev=24f44d9757164e24b165688217074797&hash=BF6DE31F448D1139A86C91BCD346F219",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/1_6304-canter-circle--apopka--fl-32712---01.jpg?as=1&w=494&rev=c2a911b7bc65413d9c89984f535a544f&hash=3ACB53AD548ACA869602363548A9F359",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---08.jpg?as=1&w=494&rev=849fd8cae7d14d0387b5cecf9805ae79&hash=AAC107B97F2873E75CA415D57C614106",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---11.jpg?as=1&w=494&rev=d84d7d47d1ff4aa38c1be3fc04039c06&hash=53953F61427FD243861E6218BC45332B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---15.jpg?as=1&w=494&rev=871d24b9cf5c495c84970f0fef89e296&hash=75C09823353AB3679FAA7ADCDD99D160",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---17.jpg?as=1&w=494&rev=23c8d9e7269a47258436c24fb38a92c5&hash=4D80D35ADB79B2364B70C68307045A89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---18.jpg?as=1&w=494&rev=5cbaf2ae0f9d4ff3bb0d3c415e9666b0&hash=AF41BC0E8C63CBAF52F2062BB7B96DA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---22.jpg?as=1&w=494&rev=7ca761e575cc4b13a81bea5b2d0addc9&hash=C2C30F184149C44E054E25E3030EC151",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---25.jpg?as=1&w=494&rev=b4de9239129349f1a2a9dc5f2c8f8dd0&hash=D9F05AC014CC91A5153FAB2BADC45877",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---28.jpg?as=1&w=494&rev=07b60ad50c484da08d2f6ac8b17950d4&hash=2174B86E3801D9ADB6B071383C5096B1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---31.jpg?as=1&w=494&rev=9531530cb81b4fddac89aef3626ec846&hash=276472DB613C7F6DCA83D00E4F005C3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---33.jpg?as=1&w=494&rev=ce04f4cc6ab74982aa626c40f14704af&hash=D5D83B4AB8DD10D25F7C892F2F7AE306",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712---36_1.jpg?as=1&w=494&rev=5fbdafe3b5474fb1b40f52e8adf24532&hash=147D3D1555ECD3161BB9E01814CD79F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/6304-canter-circle--apopka--fl-32712--36_2.jpg?as=1&w=494&rev=38dd6efe65cd4995883a64749ab45f67&hash=0063B395DDE572CD04BFDF99E17C8866",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/campbell_ab_no_logo.png?rev=77a46cb42c63471ea7dff93fbc19d26c&hash=86DA8932BFA0CA51DDCD3CBCC99C0A0E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-east-city/38353-windrose/384600000-windrose-40s/3rcb/campbell_b_web.jpg?rev=4afec2c7f5074b83bca590e5443f57a9&hash=5514934AF1FDF5450973AEF8C0B03CD4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5871 Galloping Drive",
+      "plan": "Campbell",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5871-galloping-drive",
+      "id": "5871",
+      "address": "5871 Galloping Drive",
+      "price": "$435,990",
+      "beds": "4",
+      "baths": "2.5",
+      "sqft": "2308",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rcb/0066-5871-galloping-drive/1_6304-canter-circle--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=c2a911b7bc65413d9c89984f535a544f&hash=F157B752B83F704BA7F5C43384F7DA1D",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---01.jpg?as=1&w=494&rev=a2bfec8f9c0c42e58749c4528b59abe7&hash=B22D039CEB84DB2406CDBD4F6514802B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=91953c43cd744dfd8b6ecb8b9ed7e300&hash=CCDEC90A7578F0443D25850BF42C6279",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---04.jpg?as=1&w=494&rev=dd146899c4dc4c308ae7f8b5aaa206c9&hash=53576DF8E95AF366DCB35689A2377591",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---05.jpg?as=1&w=494&rev=c08006b85e35467ea0b280eb712547bd&hash=6410C66741D8EE30CE130E704AA6AD4D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---06.jpg?as=1&w=494&rev=a1f3d935d41a41e6a641c5189c9780b3&hash=29628F5848619B163E068DA2D68806F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=dea7eddccbc84b61a896fbdca8d31ae6&hash=9BD8A3BD3372E59855A16F0EE9432868",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---08.jpg?as=1&w=494&rev=1d28bcfcaa104dcf9482b285318c775b&hash=9428C412E3AD224E7D4A351C39E25818",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---09.jpg?as=1&w=494&rev=a0551143bf264bc9aaf1f10a6e1e94e6&hash=A8448D132AE0C2EF75117C43CD4CEC13",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=dca0708f69194c7e9a09f493a7be7b92&hash=3D52FBA2D9E21A723ECD8281D7DBE432",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---11.jpg?as=1&w=494&rev=62ccc013529c45ebbba127a9ca788f12&hash=FADFFA2C318A37F664B3B457966FC22A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---12.jpg?as=1&w=494&rev=664011ff9c704ff28ef35d88f8d1d4d9&hash=C228F5C81A6C87D78409988971973ADB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---13.jpg?as=1&w=494&rev=0fd3d5fb351845598e1db5d6b0cbc4eb&hash=66AC135BD990FA3555000D1D6D8ACB18",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=6f925a7853a74f3e9c17a7a92e139e9d&hash=B175A9CA101E0EEF8D217BF5469D5C5A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---15.jpg?as=1&w=494&rev=1e30005eb8d34a0fa4564731ca5cf4f5&hash=6B65AB081E53AE84DCD08EABFE9673A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=da1f7f9927284da2bb2f866b6c26bf43&hash=63B9CD0484782BB049146834B5E6CCEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---17.jpg?as=1&w=494&rev=78ac57079ceb43718741e4a517bb307a&hash=4124407ECCA3D97152FF9E2720C1BF78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=daf96d6637e3414f89113c5700343478&hash=2E7C610BACF0AA4E9E5848DB762BA0E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---19.jpg?as=1&w=494&rev=25d123dbafd8499a8d67f043c15f1005&hash=AC155EC6CDB5B6DC1CE3AE676C2EA95E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---20.jpg?as=1&w=494&rev=e21f3f970d4745d0a3eb7c3b3ace7e62&hash=A05FD76D3E57B07F5342677AC19AB58D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=9b2f650194a04324a09841fba6e7d2bc&hash=2C81C63BCEEEE61EA41D94ADF16D7A7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---22.jpg?as=1&w=494&rev=7b7eecd206aa44b6abcad71b38440f45&hash=C5DBF84E8E7DCE2E96C29A74BA8BA32D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---23.jpg?as=1&w=494&rev=28970f38475649bfaccc16dcd17b3af2&hash=A591BFD4450257958DE54823AD49F431",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---24.jpg?as=1&w=494&rev=a1aee2c318d6411381e82812e8def844&hash=BCDBEA1BDF9D81E24675B19C5B3C99DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---25.jpg?as=1&w=494&rev=d05256a13c604cc1b1c8fae1a774599c&hash=61352E54524BBF2154E72221AADD3AE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=00d72345aa8d44668d67bc6099c5a8c0&hash=7DA9EE0269DE1893669CCCB2C5F2E5EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---27.jpg?as=1&w=494&rev=e6d8cf4781ff48ef800130e55fd67e07&hash=A5089893341141ED37D859DFE36B9114",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---28.jpg?as=1&w=494&rev=9962188df07442c0a44ab00a888edb60&hash=8E7720D9126FA514733BEC0AB8843D24",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---29.jpg?as=1&w=494&rev=2196502b72954fcd9e971ff7ff633690&hash=55D34822F83BAD7E81143FA52E549BE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=d02f70fe4d774d9485fe6f636046ceb6&hash=EBA0932D250DDC59DAB37179E8659F9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---31.jpg?as=1&w=494&rev=ccac1caae6e3400cb8682dad23af8dea&hash=ED4A60585DEEB82853E5AD7D43094631",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---32.jpg?as=1&w=494&rev=4d9eb8295f564f7f89139b5dff75ade3&hash=5AB535867E9E0337162ADE581A3FAA26",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---33.jpg?as=1&w=494&rev=c5bfe1606eb0415fa54e8de7153a27f2&hash=0693A819E2D358FAE2C03018B4B4EDC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=cbcc5ad117034bc596c6224165a21f84&hash=14FA5257AD486F51F24E2003DD817D23",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/baldwin_ab_no_logo.png?rev=438857e43f044747ad31f5d9b5c7d17d&hash=D43E28D0490697338F5E117615BC4B5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/resized_0000_baldwin_lvp_3d_staged_floorplan.jpg?rev=397d6a2d60fc40d786823b7a87189438&hash=56365104AEBE83D5D9D0AB8662684182",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "5879 Galloping Drive",
+      "plan": "Baldwin",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/windrose/qmis/5879-galloping-drive",
+      "id": "5879",
+      "address": "5879 Galloping Drive",
+      "price": "$401,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1720",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38353-windrose/384600000-windrose-40s/3rbb/0067-5879-galloping-drive/5508-stable-mate-drive--apopka--fl-32712---01.jpg?iar=1&sc=1&thn=1&w=425&rev=a2bfec8f9c0c42e58749c4528b59abe7&hash=E19548B7B86DE12B2BBF01CA0FC1ECE8",
+      "latitude": 28.76268,
+      "longitude": -81.56115,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Kelly Park School",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Kelly Park School",
+          "type_and_grades": "K-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Apopka High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

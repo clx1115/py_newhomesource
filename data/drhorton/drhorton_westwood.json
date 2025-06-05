@@ -1,0 +1,508 @@
+{
+  "timestamp": "2025-06-05T09:25:31.015366",
+  "name": "Westwood",
+  "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood",
+  "status": null,
+  "price_from": "$324,990",
+  "address": "3777 Burmese Teak Place,Land O Lakes, FL 34638",
+  "phone": "(813) 669-0410",
+  "description": "Find a new home in Land O Lakes, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Tampa area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/390_5tpa_n_taw_glen_quartz_0023_ancient_sage_rd-041.jpg"
+  ],
+  "location": {
+    "latitude": 28.21172,
+    "longitude": -82.52937,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$324,990 - $354,990",
+    "sqft_range": "From 1,463 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Cabana",
+      "description": "Cabana",
+      "icon_url": null
+    },
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "Walking",
+      "description": "Walking - Nature Trails",
+      "icon_url": null
+    },
+    {
+      "name": "All Block Construction 1st",
+      "description": "All Block Construction on 1st and 2nd stories",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/floor-plans/1674",
+      "details": {
+        "price": "From $342s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/fl_tampanorth_drhorton_westwood_greenscheme1.jpg?as=1&w=425&rev=99592cd9d2f340d2828c30940077b9ec&hash=669D40B3C5FF4EAB12FE6CEF6D3A5C83"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=9d5c9ba6b439405cbb3aa26098b6b1cd&hash=0EF5B9D1AD2DF383CE2FC996022B29EE"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=9d5c9ba6b439405cbb3aa26098b6b1cd&hash=0EF5B9D1AD2DF383CE2FC996022B29EE"
+        }
+      ]
+    },
+    {
+      "name": "Pearson A",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/floor-plans/t20a",
+      "details": {
+        "price": "From $340s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,463 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/pearson_d_tan_1.jpg?as=1&w=425&rev=ae909471ba0f407fac9b92230b091319&hash=2341D454EFF619EE71B9D8B3162AC926"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=5846347097534569b30bb61163d9241f&hash=AA0B25B4FA722FBA9F22FA2C625859E9"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=5846347097534569b30bb61163d9241f&hash=AA0B25B4FA722FBA9F22FA2C625859E9"
+        }
+      ]
+    },
+    {
+      "name": "Pearson B",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/floor-plans/t20b",
+      "details": {
+        "price": "From $325s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,464 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/pearson_d_tan_1.jpg?as=1&w=425&rev=9690c311f0314e4b9c0bf76ef35ee395&hash=97E38730FC07766ECC3B0043870040E2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=36915edb627d44189639294a6d5ad0f2&hash=B63FAC373ED1A0A313A6F3E17A352FF6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=36915edb627d44189639294a6d5ad0f2&hash=B63FAC373ED1A0A313A6F3E17A352FF6"
+        }
+      ]
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/floor-plans/1759",
+      "details": {
+        "price": "From $366s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/fl_tampanorth_drhorton_westwood_greenscheme1.jpg?as=1&w=425&rev=7d122109eb9f4ef99c63e1128aeec592&hash=BC1C19B30AFB73B296E703100507D16E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=ea0fd50ad402495b83b491630a33c1ed&hash=E6D766D143D39A3C1F13BAF0EC6D33DA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=ea0fd50ad402495b83b491630a33c1ed&hash=E6D766D143D39A3C1F13BAF0EC6D33DA"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=91ba92b30adf4b8cabb6f04d1c970339&hash=1990083681F5C0C75D7B43F79B531A8B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=c496054b533a41e9a54b20b86f8a1dac&hash=9F8053DFC26CB4D8364427106813128C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=006720b365c54ae4b210522f72372e66&hash=5230110B310703AABDAF7CEB090355B5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=01b83e26283a4f909935b8d3be36adc1&hash=9198E31DD3C579900171263F48365487",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=bfe65544c50e4e30b1a691e50084204d&hash=5371F536131E310B3E3829D5823F3B75",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=394af98d132442a688e9ff5bef1f3b70&hash=8C33507E254D11AAA6407BF7C24B2A11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=88872a233c6b48dea68bf87ade08411a&hash=A39657E9F7204CD0E6274B561E884C5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=3b3573af78614d7883d774aa7d395fd3&hash=83A9D5934243BE4F2CFE7D6F265D5787",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=9e4e4f9e4495438e883f01bbe9b92b4a&hash=BF4A79624982BEB82DF44A1865944626",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=2b20473fc0e74dcf8d3744ca8a032598&hash=AD1C0B6898670C838955547D73847A6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=b1b7afcc038047f1b2d81322c76ef9d6&hash=265E45AC33EBA0BF8FE350FAA543545B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/9fl_tampanorth_living1.jpg?as=1&w=494&rev=ea5f231882d644c59c9d400406560eeb&hash=D9EC3D5098AE7DA545662B4100D467DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/10fl_tampanorth_living2.jpg?as=1&w=494&rev=41880c3f85784650a262fdfee2605dda&hash=C0F5FE364B12AB115A6B279FA54FD082",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=48be27db051a46c482281d0cc1191cd7&hash=3A4B91FDDF6EB3DAF7387761D15708EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=3fa5d30e989c409aa394822a5bc06f68&hash=7660C16563BC9FEF3B5F0F9BE6F32597",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/13fl_tampanorth_office.jpg?as=1&w=494&rev=0d6d303f1198438bab4417c8a81fa259&hash=FA3ECF6DBA370C28F1D51FFF7A8AEEBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=6be81ac30531434089994c50885ed545&hash=99798183CE10C5F5FE58BCB527642B7E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/16fl_tampanorth_master.jpg?as=1&w=494&rev=62c571984546483cb71c1636a411e3b6&hash=94FA98FDF39627AA89C476751CBDD80E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/15fl_tampanorth_master.jpg?as=1&w=494&rev=d3ac1440824442a7b1e978981ba9b090&hash=403EE2F751F4491238FDD1051684573E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=c490b7aa4e5d46e6b2edb7f79521844c&hash=BED09F0D77559948912742F5F45DE437",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=1d38d27623ab4a9ab53f93e31bf785ba&hash=CC8D3877A60E27B3FBB4EDB0701770B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=36915edb627d44189639294a6d5ad0f2&hash=B63FAC373ED1A0A313A6F3E17A352FF6"
+      ],
+      "name": "3629 Copper Beech Dr",
+      "plan": "Pearson B",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/3629-copper-beech-drive",
+      "id": "3629",
+      "address": "3629 Copper Beech Dr",
+      "price": "$327,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0036-3629-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?iar=1&sc=1&thn=1&w=425&rev=91ba92b30adf4b8cabb6f04d1c970339&hash=8B1A2F553AEE9A72AA2E826D57FFEF2F",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=b8169329de8a445095aa95e5d5c97dcf&hash=8E7EE9F88501132588B6DF256CF8CF56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=d33f707c78884fda96588531713fd742&hash=AC1171A2311FEBC53FE7847204153514",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=74a6090c22194e2e850dd09b44b74224&hash=F529325C60EB0CC9AB0012224A85621A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=452c20eb9e05400595fe403e68255dc9&hash=8CE59A45A451241458EC4CE8C5DEBF10",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=c420114b3bfe48fa834c333ad9112b64&hash=E04AEF8D7753A9E75602E1D58D4996A2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=6965f14f3f83431e94b28ad12fdc385e&hash=785F4FA82C9A973529CC89EA7B484ADA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=9a6c8c776235404a96734af01dc33c48&hash=3438B857D202195B49AFD04240B7223A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=7146dc103ac7401095f35c55910c3564&hash=5453AE560A4D08D5E7B9C4D44B7F4A5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=e7fd05fff9444b29829ce03805ddeb88&hash=64683BCE186FD644C42E689F99C52D59",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=e5e29088e70c4d4085768a69261975c4&hash=A7E54B4742B963CFA9FF0890C3B065A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=d608eda0fc0d41de80579719602ca7e3&hash=65454071D7A4B7B95B3CCBC7F430DE28",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/9fl_tampanorth_living1.jpg?as=1&w=494&rev=43821f23285340a3a1397c9caad6b180&hash=D918B3354D0C46421BDE5EC319FAD454",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/10fl_tampanorth_living2.jpg?as=1&w=494&rev=d0bb524efd1149c59e4ecf9ca2f46840&hash=3D24E6CF975CB830421426D175EE9352",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=69d3ed4f304f4e999ea49a7946da7027&hash=1581BDF04A3C144C92E7A13EEFECFF49",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=b9fc3fd97b744657afec59eda1118705&hash=DBC18BF152C6E35555D40DD4E04530C3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/13fl_tampanorth_office.jpg?as=1&w=494&rev=84be63c726ba4881a8edb4f7368eaeb2&hash=BFAD8323045AF809711C2CDAF96244DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=90dd27f8010a4e5782411619f7046544&hash=4A30478624ECB8362035126900F9FB97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/15fl_tampanorth_master.jpg?as=1&w=494&rev=50948e10242e46b2a38a891fc7840b79&hash=A3C698784D7C1EADCFAA920A6174173F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/16fl_tampanorth_master.jpg?as=1&w=494&rev=c12348edc9984d60a038ffc7bdaf1d7b&hash=7F0B2E19039C63659FF46E9E68214EE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=d3bfc85659534a8e8e41202aca3a0459&hash=FDAC2749B09061FC0F13BB258FFD7199",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=265986180855488f967e953b407e8199&hash=753CA92613044A7CEFE070B7287259E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=36915edb627d44189639294a6d5ad0f2&hash=B63FAC373ED1A0A313A6F3E17A352FF6"
+      ],
+      "name": "3633 Copper Beech Dr",
+      "plan": "Pearson B",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/3633-copper-beech-drive",
+      "id": "3633",
+      "address": "3633 Copper Beech Dr",
+      "price": "$327,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0035-3633-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?iar=1&sc=1&thn=1&w=425&rev=b8169329de8a445095aa95e5d5c97dcf&hash=48C8837956557576132B023DC893500D",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=d0168334db7045dab9f57a81dbf04a67&hash=7C9D58CF35F30AD09F969D93FBE69477",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=ead46bd9e1904d8481cb8e6dce6ab3ae&hash=C7554F108436F54FD4E3F5228C468DF3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=9505eac1385746448e80b810e0807d0b&hash=F1E74AA8F8F95D13E2144FEB07384289",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=2dec0c7dd2154f24b88ffc65905b8ef7&hash=1F3364F74E40182B6460698066232D7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=0a5c69135bbc419cbbe2999482ebcad5&hash=884AC1882E27D44E111F062EF3B45D0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=42780e6125104381aa51ba6c5c9c4633&hash=5B2C6745B254F4DD7A5A98E0DDD66E08",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=41da35430f644df6b0066ad695865fc6&hash=0032B2AE8C9F0F6B2031DCF58DE2C115",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=6d83a28743074957b55e627b8f2e72a1&hash=0B925E11EE6730514D8AF99092D3CE44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=e194adf9858e4df49903d8f3638d4747&hash=595F343F9098C79758E8F97A886BBE06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=ffa86f6418834bdab8766d69c6c34e51&hash=EB228AC6543F3E89F9AE6523F0283483",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=c57ae9d1702740aa9cf973159d44f1e3&hash=D8D98FB3BCE38DA0650C3BFFB76F1AEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/9fl_tampanorth_living1.jpg?as=1&w=494&rev=9cab7254a2544c4a8ff103c0a1198a5c&hash=0D7BB6DFA7289A793D478BC16674EB0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/10fl_tampanorth_living2.jpg?as=1&w=494&rev=d120d83e9653479eae1645f2dbdc9133&hash=34B4C1753226A243F3A3E4242437F306",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=8f9aad1739a34a5d8f08cec1a1475598&hash=6B6295FBBF1BC2671F9F60E7E77D5938",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=1277bea4cd9a4e4cb530028416c206ad&hash=2AC626267BF27B9A0E78273A3AB3A23E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/13fl_tampanorth_office.jpg?as=1&w=494&rev=66511f1d76564af0a0d52a4fda292b01&hash=24D3B8BB75129478999170ACFE2B7A56",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=4dd217c94dc344748b4a600554379993&hash=2792202ACA1C67FDEE0357BB983D1850",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/15fl_tampanorth_master.jpg?as=1&w=494&rev=322f45529f044fb8b0e0b1c2409ae33d&hash=71E709123706D06CFC1CF0A40A000C78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/16fl_tampanorth_master.jpg?as=1&w=494&rev=d4db76c91f3c421e9b647cf1bdc87ea0&hash=F6AC4FAE7A6E4B3EF175081002965E0C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=bc6362e5c4b5410c8f35ce06ed6cbbeb&hash=6FFAD3DBC33E94CCE3B56F7E8E3EEF1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=453f943cff91459c9aff4b1edb5b5bbe&hash=51F31AB301CFEFEE33BDC405833E71D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=36915edb627d44189639294a6d5ad0f2&hash=B63FAC373ED1A0A313A6F3E17A352FF6"
+      ],
+      "name": "3637 Copper Beech Dr",
+      "plan": "Pearson B",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/3637-copper-beech-drive",
+      "id": "3637",
+      "address": "3637 Copper Beech Dr",
+      "price": "$327,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0034-3637-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?iar=1&sc=1&thn=1&w=425&rev=d0168334db7045dab9f57a81dbf04a67&hash=11CF6672461D8F1264C9029265AD2938",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=7510cd45703b4715ab80c43b73485ed5&hash=C26FEFE959953B685E55834AA6F5BCF5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=e4b22a66314045ca9f98c049461c568e&hash=FA1C9628EFDE8ED0CA8E47179C53811C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=800ab2dc5c1047a0a81e82b7ee4c4d43&hash=28CF2DDFB0593B852E8B2378F273D53E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=bd34129d62e647249923ddbb8ed3333b&hash=EC7DB9CD4CB461007CB8CDF3B699E1D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=b3660ce602e24fb8825f290cc0404596&hash=DE6365A9B7FA506FD1A046DF84F8FE9B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=b69566197dfe4b5d815e199a4090bd17&hash=2F17F45E94ECF71EC4A2F01585CE4512",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=40b29b2cc2b74e05a348f27f8a626ec8&hash=5944BC3AB2188EF6993F7112E00622B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=b2779d0004bd4df78adeb592baed2810&hash=E0E55A9E1086CCF47394BFB113EDB670",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=2753b165350743c8bb51f126b2f13500&hash=26657BA300E7042A0CA5C47E18CF02AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=861fb9276c664d84b1c71d249ff7cc89&hash=71A25559BCFA6059D9A97B7A44411817",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=b67f34910b4c4fb384c5226cf58612a7&hash=EA7B28A2F32456246E65C9CA1C5381AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/9fl_tampanorth_living1.jpg?as=1&w=494&rev=f2373675a0cc410eb90ec95911644f88&hash=FF003190C7C35349D77CD993E2B8615A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/10fl_tampanorth_living2.jpg?as=1&w=494&rev=98dbec9211b944b9980f62b21ba2342d&hash=30DD3EC261D7FAD9FAED2A7D102A2B97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=2c8a05ffe73b48b6820caad93dfdb740&hash=9AAB369510ACFF885E08F4F3614283E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=0eb72086275c42128dc1c7bc44dff125&hash=6E5FC757B156E4748F3EDB9E8DD7176B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/13fl_tampanorth_office.jpg?as=1&w=494&rev=ed39bbb7702f45418b36cf29d30070b4&hash=26D1E64915FC3B49963DAFE77B1A9B55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=1f63603f09434357953ea5997010539e&hash=A8595797D41FF509C84D0FD86E8E052D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/15fl_tampanorth_master.jpg?as=1&w=494&rev=05ae3b75063144a1a4802db8722eaffd&hash=C7B40DEDDE912DC158E496C0B29EC7F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/16fl_tampanorth_master.jpg?as=1&w=494&rev=0fe4351b26464587bf997fe04a37f3e7&hash=CF9A3C691B92E319673E9E3A65848F1C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=6e605988accf419697040aeee28ad2c0&hash=FBD69E0BE50FC4B7232B4D177919B358",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=55adb6355f6e4d2fb24beab8c396a533&hash=C61D47AA3F64D9DDC919D296A06B6457",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=36915edb627d44189639294a6d5ad0f2&hash=B63FAC373ED1A0A313A6F3E17A352FF6"
+      ],
+      "name": "3643 Copper Beech Dr",
+      "plan": "Pearson B",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/3643-copper-beech-drive",
+      "id": "3643",
+      "address": "3643 Copper Beech Dr",
+      "price": "$327,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1464",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20b/0033-3643-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?iar=1&sc=1&thn=1&w=425&rev=7510cd45703b4715ab80c43b73485ed5&hash=47E87252A800DDC3EEB2AE964F46BDEB",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/fl_tampanorth_drhorton_glenvale_sch1.jpg?as=1&w=494&rev=9c9c5902e7724978bf5a976ef9027f29&hash=9B74EFD0BFCB367461FE21DB600E269E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/fl_tampanorth_drhorton_glenvale_sch2.jpg?as=1&w=494&rev=ca61b7c6c1814096bcf4aac302e7e3c1&hash=E7386B5C4D2FFA6FA06B2E0BC19C1D88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/fl_tampanorth_drhorton_glenvale_sch3.jpg?as=1&w=494&rev=de29af525477401aa109b85946b457c6&hash=9356FA2111F992E0DC8AD45995A18B65",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/fl_tampanorth_drhorton_glenvale_sch4.jpg?as=1&w=494&rev=db55cd6b6888498698a04d7352ca464c&hash=77463B8997E5C5B5F0DE7035EAD40CCF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_1tpa_n_taw_glen_quartz_0034_ancient_sage_rd-030.jpg?as=1&w=494&rev=037e1bfeccc74ee79760f67979f98ee2&hash=25D3C844DAB42CCF6DCFEF59EC6E3CC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_2tpa_n_taw_glen_quartz_0029_ancient_sage_rd-035.jpg?as=1&w=494&rev=f02f375f53c04012815472c38c6e93a9&hash=5A887EF822A75009396C55547663020F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_3tpa_n_taw_glen_quartz_0028_ancient_sage_rd-036.jpg?as=1&w=494&rev=4c78066984bd4efd8e4ed645faab1eff&hash=8D888BF3D03720DF691038B41F0F6D5F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_4tpa_n_taw_glen_quartz_0025_ancient_sage_rd-039.jpg?as=1&w=494&rev=e91b09b6128043429ff1ed128e7768d0&hash=DEABC5C5651ABA9F15D2AB5E6856CF6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_5tpa_n_taw_glen_quartz_0023_ancient_sage_rd-041.jpg?as=1&w=494&rev=acd37b951d8e4a688364dcbc5eba6db7&hash=9E7D28114FC29B63878960493E88CD35",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_6tpa_n_taw_glen_quartz_0018_ancient_sage_rd-046.jpg?as=1&w=494&rev=ff58cccd92a64d01b811976fb4bbcad8&hash=1865D8E0BDDA61A2BFC660CB48C8C1CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_7tpa_n_taw_glen_quartz_0017_ancient_sage_rd-047.jpg?as=1&w=494&rev=6c532c598bb94466b464db4d91c12b1c&hash=D61B61E093462A1A33D9577D9E3B1F6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_8tpa_n_taw_glen_quartz_0013_ancient_sage_rd-052.jpg?as=1&w=494&rev=85fa8cfe5c9e43a487ab0b87a3e4c8dd&hash=2ED8CB25AC9579B3DEF3F2504AE3F8B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_9tpa_n_taw_glen_quartz_0009_ancient_sage_rd-056.jpg?as=1&w=494&rev=606262aa6e3342df99fa9253db780ecf&hash=5E5F99B0A678CAF0725DA939007980C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_12tpa_n_taw_glen_quartz_0003_ancient_sage_rd-062.jpg?as=1&w=494&rev=197dd069eff14e99b10f9fe2a19f9493&hash=A523CFAABB9774D9F27253DBD8E3686B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_11tpa_n_taw_glen_quartz_0005_ancient_sage_rd-060.jpg?as=1&w=494&rev=d47ac6e84216430ea7438f366b4ba5ae&hash=1AB8B51E4E7EFA4BC1C3046DAF5C9B2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_13tpa_n_taw_glen_quartz_0002_ancient_sage_rd-063.jpg?as=1&w=494&rev=231c81e73ce04cfb9a205536f33fe141&hash=786D1EA149792848B54F927C9997093E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/390_10tpa_n_taw_glen_quartz_0006_ancient_sage_rd-059.jpg?as=1&w=494&rev=37bbad27f27e40cf948fc4ed8a430276&hash=C5A0FE091A56CAEB0C70BC8F63BD35A0",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "17265  Bigleaf Mahogany Lane",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/17265-bigleaf-mahogany-lane",
+      "id": "17265",
+      "address": "17265  Bigleaf Mahogany Lane",
+      "price": "$344,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/1674/0132-17265-bigleaf-mahogany-lane/fl_tampanorth_drhorton_glenvale_sch1.jpg?iar=1&sc=1&thn=1&w=425&rev=9c9c5902e7724978bf5a976ef9027f29&hash=F8C02CF47D08732FFEEA5A56FA077713",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=04d2f98a9d3a436a9e652c0375f440aa&hash=024056DB0BB523C5B2413EAF1AE38F61",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=ca77159192844628b4d159381ee22725&hash=247B34BD0406554B373F7682F83ED71F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=4b6d1e276fd04261ad33c7fa8787f383&hash=A5E28751F8E88B2238BF42B1A1328F4C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=4c0c48489ff64a908de720be8edfbc2b&hash=09F8C2F1E8C4FA9E6AE0C6822D4012BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=9cf974ff277a4f5ab52b048b7bcc2ff9&hash=3BAA396C483D38BBAA7BF09C88C423C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=b3f94fb9906847d3b654f7dd156ded94&hash=7CCABC14B2D92432C4F0D5C852202330",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=31c7eb90c74941c5b1b6dd2d984cddb5&hash=04FB535728F1BCD87D8844476888EF7A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=d9b5e6bacbf44527a9a64f1d65d3f034&hash=15E65214CF7FFEDADB4178C1FB7BDCE7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=06dcbdd2b2a14f99b75efb50ac4d9663&hash=C5B1D864787A954E055EF1EA4CBB2A4F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=932b432d2bfc46aa99f4a0899863df60&hash=E53A21992A046CB1819F4BB6EC721CAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=f87ac45c930148788d18dadcc88b59e5&hash=F7AE0235018D068245649283856BC16B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/10fl_tampanorth_living2.jpg?as=1&w=494&rev=f3bda31095da4133a9a755c7d463dfdf&hash=45CF71985D76B1069201BA79291DC6F2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/9fl_tampanorth_living1.jpg?as=1&w=494&rev=dbac18ab98fe4e3c8077c4df25e89804&hash=24F119CB50ECC38738FC547DF7355C44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=2af5cc37323046cf8ac51058058b0874&hash=96A42E3BCFA93E07A1457B7FDCA5564F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=c99d900f11ec45feb1c6895e3cae2174&hash=ADADF0A0E546543FE06E6CD45B95A390",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/13fl_tampanorth_office.jpg?as=1&w=494&rev=11606fa4e0d24ba1baf0b44d12c81d93&hash=D27483685CD517DDF3B3CBAAE8BB9E6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=128a41ae28904abe9a1350fb1fe07ed4&hash=81B87A25F50AA8A42A31D0095AA7AB45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/15fl_tampanorth_master.jpg?as=1&w=494&rev=7e102588a99b47d7a558cf6cc9234b45&hash=1C00D68F073C44FBA13CA1F568AE8813",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/16fl_tampanorth_master.jpg?as=1&w=494&rev=d5952d9f6e84499a992542917229d6f8&hash=BD3376DF3D39383DE7F623334A535B32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=89d0d0b2354442b8bc14bff712c63e3b&hash=03CBD59559CFE314A3E2E7E141E2A7E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=685626564fa74839a76d41be083a81d1&hash=D07C66BC93B276996A02D29DB226CCEB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=5846347097534569b30bb61163d9241f&hash=AA0B25B4FA722FBA9F22FA2C625859E9"
+      ],
+      "name": "3647 Copper Beech Dr",
+      "plan": "Pearson A",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/3647-copper-beech-drive",
+      "id": "3647",
+      "address": "3647 Copper Beech Dr",
+      "price": "$347,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0032-3647-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?iar=1&sc=1&thn=1&w=425&rev=04d2f98a9d3a436a9e652c0375f440aa&hash=6BA2D4C364A25C18CD00CB269CAD8A17",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=eec076c430694d3eb9fd853aeb944912&hash=E43CCC2DC9AFE3B65E0785AFB9578EAD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=4bbb5e3639ed46b7ad6adf5a7b205982&hash=F2DE1A246E37532AA84A5F036B158984",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=a2355acea3ca4a84ae0d49a69f08af51&hash=8DCA96F882C8637382F6DA80C4B792E0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=255695e29a334b1ba08c9c3ab2f95964&hash=E142A81B98D24F95817FBDCDD405372F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=289fe98b61934454b5b0d9c6f6aee953&hash=4B1B4BB69D2B26D65D725AFB543006CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=d1d2d1fd819d4e80b1cd1943c4370445&hash=E402405DB86E3B6F5DCDB3AFAB56D21C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=a47a4942f52342678277ea8d3aae98e9&hash=6F7E9AD45253C4913CB631608DC6C6E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=0635b10fe8a7435cbc57ed542f96be6c&hash=58C1FED364220E9AB5A6FFE824A899BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=ca2d7756f0394d0bbb5b77d1a58bfafa&hash=4E27634B17A78E5B9CD5EAC7F8CB89C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=452af8d3d8d246c59bd651e1b7a82d88&hash=0E34271F195907F5DCCE3A7AF3BD5A02",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=9e3910c873dc475e9e1ef5e10ad301ac&hash=D8E0EF00F1BB90763A8188DBBCFD6196",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/9fl_tampanorth_living1.jpg?as=1&w=494&rev=8bae4711584f43f9923caa97f268980c&hash=002D0C1BC1B5B373F44A28BBFC15E91C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/10fl_tampanorth_living2.jpg?as=1&w=494&rev=978dd5246ff54bbf90f59fa37f735232&hash=0A7D8CA7DEC603942DDB8441B8C72054",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=08cb631af79d4822b9d8ae47f1fadd5a&hash=844896777AE21F599CCA3F2391EBBD84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=942ae1b997fe480ebd1e14b2fb92048e&hash=505C92083F6EDF9A0C52BE1CB56C75D7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/13fl_tampanorth_office.jpg?as=1&w=494&rev=78247ba2f5ba47dd9562eca0538d3f83&hash=BDCF07B2A9C25744310A80E242CB02AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=88136ce74fb34119a967150b75cd647b&hash=BCB8805887E6808952C67D7AF6A84901",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/15fl_tampanorth_master.jpg?as=1&w=494&rev=eb064fc3e3d649b697ab1c5c0a864668&hash=00361AC9B3F9765696D5AA59DE02D2C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/16fl_tampanorth_master.jpg?as=1&w=494&rev=5b413f2fa6264fb2991302e429059dcd&hash=5DC1D76DC980E736FD8FCEF62D34813D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=cb1cba448bb74462ba5fa4c7ea0e4537&hash=94909531E69E77FE9E8728A3A4C8A5E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=2168f4f101674b35be411dbfc864659f&hash=FD5859A59E35C7D59E16F57796EA7913",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=5846347097534569b30bb61163d9241f&hash=AA0B25B4FA722FBA9F22FA2C625859E9"
+      ],
+      "name": "17257 English Chesnut Way",
+      "plan": "Pearson A",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/17257-english-chestnut-way",
+      "id": "17257",
+      "address": "17257 English Chesnut Way",
+      "price": "$354,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0170-17257-english-chestnut-way/fl_tampanorth_drhorton_pearson1.jpg?iar=1&sc=1&thn=1&w=425&rev=eec076c430694d3eb9fd853aeb944912&hash=366C3126B456A6CDF0E05A9A3678B642",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?as=1&w=494&rev=4972b766d9d246cdb101510361ba4e82&hash=C786E11C9B7DF75595C30FF8864D0C45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/fl_tampanorth_drhorton_pearson2.jpg?as=1&w=494&rev=017d1cd96c9f4d34979f0c00bd221af8&hash=6620A4BBF6F2AD6E585AA0C7BD7BE78F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/fl_tampanorth_drhorton_pearson3.jpg?as=1&w=494&rev=6376fc1182d442808b40e9a0b3f3ceed&hash=6A7410A3E0BD2D7082FFA1A35E692206",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/fl_tampanorth_drhorton_pearson4.jpg?as=1&w=494&rev=89208f21525747e3807c5a932cf9e170&hash=5F74D6E40A20540FC5F0E791F289F366",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/1fl_tampanorth_entrance1.jpg?as=1&w=494&rev=d58bfa4f6c2f43f48f236506c26cee82&hash=DA18FE095FFDA445792E7B1EA41A0A02",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/2fl_tampanorth_entrance2.jpg?as=1&w=494&rev=e0af65ffb1f244728980f04986bb07fb&hash=01CAAEC34192E6FE418A899827A05392",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/4fl_tampanorth_kitchen2.jpg?as=1&w=494&rev=e0a502f55e1d4013b4de24e25fe47727&hash=9CDBA32B40A49F91385AD87D98360746",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/5fl_tampanorth_kitchen3.jpg?as=1&w=494&rev=e5574ed67d124832b8d60f0bbd3ee2ca&hash=ABC90FD3F59E84021B23FDF10E1D768C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/6fl_tampanorth_kithchen4.jpg?as=1&w=494&rev=aff993434bd642609a57223564e0eefc&hash=407110D08124C1392C4EE694A83EA6C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/7fl_tampanorth_dining1.jpg?as=1&w=494&rev=9d288d9e0648431b99839d4a599c5e35&hash=C253BBB2CE1361498A188F968656E0B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/8fl_tampanorth_dining2.jpg?as=1&w=494&rev=dd487daf34d248b0a199a2a5cd79d0e2&hash=E87F9DD7D7F527E60D211C198AE14401",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/9fl_tampanorth_living1.jpg?as=1&w=494&rev=c18d3f65a17f4e66be15530faae505ed&hash=DD1DAA1A281380D94A6B4DA7E3422AB0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/10fl_tampanorth_living2.jpg?as=1&w=494&rev=9e01c6630d014254932b8ce2379665ea&hash=914072FF50972E804470B7BBD183406A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/11fl_tampanorth_1stflbath.jpg?as=1&w=494&rev=797f15dc5e984554bc22721a03c87dd2&hash=BEF20BF4D0BB5996E9172E4863EFFFDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/12fl_tampanorth_guestbed.jpg?as=1&w=494&rev=dac88eeac87a490fa5b3d5c98ddfe10b&hash=4FE1C36DD88582B265978DC987C4FC71",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/13fl_tampanorth_office.jpg?as=1&w=494&rev=036020d3314f4ea597e9d51709628072&hash=DD8A9433CF05C89284BF07F3C0626FA7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/14fl_tampanorth_upbath.jpg?as=1&w=494&rev=b9101487a02a43999d2da67e1af6064a&hash=B4EE4EBB5E64D1BFA67FAD064B45702B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/15fl_tampanorth_master.jpg?as=1&w=494&rev=ec49da41ab63415389563eb38fdd0ceb&hash=2507D1B6381B5DAB837DBA44E070DA9E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/16fl_tampanorth_master.jpg?as=1&w=494&rev=537707f40fdb47df91405ed7bd893162&hash=C6228E44397752320549B55CFF9E2EFC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/17fl_tampanorth_masterbath.jpg?as=1&w=494&rev=364067dbea3540ff827cf3ff0fb69f48&hash=320162B3155CBF6032F0C25EAE3892E1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/18fl_tampanorth_masterbath.jpg?as=1&w=494&rev=fb4374e1e6804bffb9515e12292222ff&hash=5F531945AC3B59058EDDD0765F1072E6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/fl_tampanorth_drhorton_pearson-blacklines_-_chelsea_court.jpg?rev=5846347097534569b30bb61163d9241f&hash=AA0B25B4FA722FBA9F22FA2C625859E9"
+      ],
+      "name": "3623 Copper Beech Dr",
+      "plan": "Pearson A",
+      "url": "https://www.drhorton.com/florida/tampa/land-o-lakes/westwood/qmis/3623-copper-beech-drive",
+      "id": "3623",
+      "address": "3623 Copper Beech Dr",
+      "price": "$354,990",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1463",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/784-tampa-north/39448-westwood/394480000-westwood/t20a/0037-3623-copper-beech-drive/fl_tampanorth_drhorton_pearson1.jpg?iar=1&sc=1&thn=1&w=425&rev=4972b766d9d246cdb101510361ba4e82&hash=973C8946B20998B1125930888F5A07B3",
+      "latitude": 28.21172,
+      "longitude": -82.52937,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Bexley Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Charles Rushe Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Sunlake High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-06-04T23:07:26.201939",
+  "name": "Roan Bridge",
+  "url": "https://www.drhorton.com/florida/osceola-county/saint-cloud/roan-bridge",
+  "status": null,
+  "price_from": "$0",
+  "address": "Old Hickory Tree Road,Saint Cloud, FL 34772",
+  "phone": "(877) 415-0030",
+  "description": "Find a new home in Saint Cloud, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Osceola County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38539-roan-bridge/385390000-roan-bridge-ths/allex_c_resizedweb.jpg"
+  ],
+  "location": {
+    "latitude": 28.23058,
+    "longitude": -81.25624,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz Counters",
+      "description": "Quartz Counters",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Plank Flooring",
+      "description": "Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Smart Home Technology",
+      "description": "Smart Home Technology",
+      "icon_url": null
+    },
+    {
+      "name": "Top",
+      "description": "Top-Rated Zoned Schools",
+      "icon_url": null
+    },
+    {
+      "name": "Grocery 2 Miles Away",
+      "description": "Grocery 2 Miles Away",
+      "icon_url": null
+    },
+    {
+      "name": "Close Beaches Attractions",
+      "description": "Close to Beaches and Attractions",
+      "icon_url": null
+    },
+    {
+      "name": "Lake Nona Medical City",
+      "description": "Lake Nona Medical City Just Minutes Away",
+      "icon_url": null
+    },
+    {
+      "name": "25 Mins Orlando International",
+      "description": "25 Mins to Orlando International Airport",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Hickory Tree Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "St. Cloud Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Harmony High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

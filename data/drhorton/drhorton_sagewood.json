@@ -1,0 +1,193 @@
+{
+  "timestamp": "2025-06-05T00:46:32.801224",
+  "name": "Sagewood",
+  "url": "https://www.drhorton.com/florida/orange-county/apopka/sagewood",
+  "status": null,
+  "price_from": "$0",
+  "address": "East Votaw Rd,,Apopka, FL 32703",
+  "phone": "(877) 415-0030",
+  "description": "Find a new home in Apopka, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Orange County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-votaw-reserve/385220000-votaw-reserve/1_cali_c_exterior_front.jpg"
+  ],
+  "location": {
+    "latitude": 28.68453,
+    "longitude": -81.48409,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": "From 1,828 Sq. Ft.",
+    "bed_range": "4 - 5",
+    "bath_range": "2 - 3.5",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Single",
+      "description": "Single-Family Homes",
+      "icon_url": null
+    },
+    {
+      "name": "Waterview Homesites",
+      "description": "Waterview Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Quartz Counters",
+      "description": "Quartz Counters",
+      "icon_url": null
+    },
+    {
+      "name": "Luxury Vinyl Plank Flooring",
+      "description": "Luxury Vinyl Plank Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/floor-plans/4ebb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/1-1-caliexterior-elevationc.jpg?as=1&w=425&rev=de2fa9c389db42fca08e1b3602c61524&hash=D3FC060EE92935B7B1B789E0AD50D0F8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ebb/cali_c_web.jpg?rev=6fbf342d9f484897962481f766e4d68e&hash=2AB1A9729EA0272DCDE903D141D519E0"
+        }
+      ]
+    },
+    {
+      "name": "Elle",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/floor-plans/4ejb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ejb/1-1-elleexterior.jpg?as=1&w=425&rev=f45ff871f99447fa80e323476e14bc2e&hash=EB65B2E9EBDFBD6E53DC9C8F77F38D58"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ejb/elle_floorplan.jpg?rev=0211bfb584dd485f902d73e9701f20cc&hash=E042A70BB83434922E9E79036672DBB0"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ejb/elle_g_web.jpg?rev=a9b924d44e724dc082cd31b6a18753e4&hash=DC9D1935CC473F13E07E0F2A52F22322"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/floor-plans/4ehb",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/1_1_haydenexterior_g_.jpg?as=1&w=425&rev=2a734a39940042f884f4855529b71521&hash=3598922E23D9B0AB94082C5FA3B7470C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/hayden_floorplan.jpg?rev=64ab2ae8002043b6b6c9ecf342811d90&hash=15AAE5A2DE83A392038AEEE0E574ECDA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/4ehb/hayden_g_web.jpg?rev=c0660cae4b3a4ed496f470d20093cbc4&hash=6F0D237646BB20CA4DF7D0F2DED9E9DC"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/orange-county/apopka/sagewood/floor-plans/e402",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/1-1-lakesideexterior-elevation.jpg?as=1&w=425&rev=a82b4ac3e5654dfab741085572fff339&hash=56D1E20AE1D3F04573ED8485CA0D2C67"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/380-orlando-south/38522-sagewood/385220000-sagewood/e402/lakeside_ele_g_cs_8.jpg?rev=d5f57c06e93c41d39c9a626bbf44dd7d&hash=C1D1383EAAF5241D741B57CA3B05D402"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Clay Springs Elementary School",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Piedmont Lakes Middle School",
+          "type_and_grades": "6-8th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Wekiva High School",
+          "type_and_grades": "9th-12th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

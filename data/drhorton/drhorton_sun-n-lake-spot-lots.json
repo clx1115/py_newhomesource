@@ -1,0 +1,406 @@
+{
+  "timestamp": "2025-06-05T02:40:06.152279",
+  "name": "Sun N Lake",
+  "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots",
+  "status": null,
+  "price_from": "$304,990",
+  "address": "5530 Savona Dr,Sebring, FL 33872",
+  "phone": "(866) 476-2601",
+  "description": "Find a new home in Sebring, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Polk County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/_0001_lakeside_ele_g_cs_8.jpg"
+  ],
+  "location": {
+    "latitude": 27.5489,
+    "longitude": -81.51562,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$304,990 - $321,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2 - 3",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Dog Park",
+      "description": "Dog Park",
+      "icon_url": null
+    },
+    {
+      "name": "Golf",
+      "description": "Golf",
+      "icon_url": null
+    },
+    {
+      "name": "Pickleball",
+      "description": "Pickleball",
+      "icon_url": null
+    },
+    {
+      "name": "Tennis",
+      "description": "Tennis",
+      "icon_url": null
+    },
+    {
+      "name": "Basketball Court",
+      "description": "Basketball Court",
+      "icon_url": null
+    },
+    {
+      "name": "Club House",
+      "description": "Club House",
+      "icon_url": null
+    },
+    {
+      "name": "Community Pools",
+      "description": "Community Pools",
+      "icon_url": null
+    },
+    {
+      "name": "Event Lawn",
+      "description": "Event Lawn",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Park",
+      "description": "Park",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Tot Lot",
+      "description": "Tot Lot",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/floor-plans/4eab",
+      "details": {
+        "price": "From $305s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/aria_c_front_cropped.jpg?as=1&w=425&rev=3fb689e4712e45369b84a6bdc1553092&hash=364C4748743D8D58E0C653250BECC58E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/aria_nwg_c_cropped.jpg?rev=43f84b129e1f46e28b0aa461fce94fbd&hash=45EBF516B868323F96A5CD0223F5381C"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/floor-plans/4ebb",
+      "details": {
+        "price": "From $315s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0006_cali_h_exterior.jpg?as=1&w=425&rev=e3a736ce7c704053ae7d3e684ae6adba&hash=8142D85D9AE1D9FFB9EDEC64394B421B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0000_cali-nwg_h.jpg?rev=34bcaf4453c141839ab029e83c7622ac&hash=F1A075FADA252B946B8E9EFC4571E74F"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/floor-plans/e402",
+      "details": {
+        "price": "From $345s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,077 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/e402/_0001_lakeside_ele_g_cs_8.jpg?as=1&w=425&rev=f34845e22df741188c1cb7dbdef683ca&hash=D001EFC216E3164F25E105E6EA7BE22E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/e402/_0001_lakeside_ele_g_cs_8.jpg?rev=f34845e22df741188c1cb7dbdef683ca&hash=1E049B6E6088B66C0C3C1F08200AE26F"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/cropped_0005_cali_h_exterior_front.jpg?as=1&w=494&rev=99bcdf48354d4608b4bd3c25052f7111&hash=2A8CD5206DB6450FCBD453C4842E7C44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/1_living_room.jpg?as=1&w=494&rev=2c78d351ad4846138b1631f8cd8b1c11&hash=1E02D4C77547DD7FDF5E63721FAFAA52",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/2_living_room.jpg?as=1&w=494&rev=f65e0f547eb745ba9cafdd8d3ed8e76a&hash=19B26BE9B16F376D9F177F6B9DB71EE2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/3_living_room.jpg?as=1&w=494&rev=c954c1ea27bc4b26b0cd832516912075&hash=AD3E03423C805672E18057BCF7A8F2DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/4_kitchen.jpg?as=1&w=494&rev=f6533c3051544e2dbb0b0b444e6ebe12&hash=0A86787AA5D8F43694DE5EB639FA43FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/5_kitchen.jpg?as=1&w=494&rev=8de3bddedae04f68a292cfefab486422&hash=EA34544504E75A06AC893F07F4C71F1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/6_kitchen.jpg?as=1&w=494&rev=9574fd30324341ec90a8f43e19432771&hash=F42522E067ECD0DFF3991A12CECC72C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/8_kitchen.jpg?as=1&w=494&rev=1272075a2c38415e8afda5daef4f79f6&hash=28B066A994589F01871DFE945581D83B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/9_kitcheb.jpg?as=1&w=494&rev=10f013eec1cc47c9ad311555c88660dc&hash=25ACBA1394C57BEA2EE9E3BC03949075",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/11_dining_room.jpg?as=1&w=494&rev=0342184b46e148dbafe5f7970f01b481&hash=B2C0F621257A3826FD072CE5A4362935",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/12_dining_room.jpg?as=1&w=494&rev=2eac152bd57949489d8de2c2e1e9ce14&hash=92CA3D40079B6F588AD9C90B14CA8348",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/13_primary_bedroom.jpg?as=1&w=494&rev=eefe83da95804af4b8f33e4cb715cee9&hash=224331F40B865796092D7B62082C32AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/14_primary_bedroom.jpg?as=1&w=494&rev=cdd1665ad4724704bd5e1b35119b1dbb&hash=AA3567BECF2765E2DDDAA66A7B2F4459",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/15_primary_bathroom.jpg?as=1&w=494&rev=a8da7f93a3854d499ab20b8a244f0e12&hash=CF596E9C9BAA25E6D6EC0901B73424F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/19_primary_closet.jpg?as=1&w=494&rev=16e58606794349dc924a79df6e9d1bab&hash=25678C8DAF7AA49D63BA093DE8A7A3E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/20_primary_closet.jpg?as=1&w=494&rev=0aa1c4fa62734f88a66fc54999b531c0&hash=96026AF4F5BC6FC1D92B5621BE1F8266",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/21_laundry.jpg?as=1&w=494&rev=323575d02d094afca070d73c37262366&hash=85956650FD38A9EE88BB541B0DAEBC9F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/21_primary_closet.jpg?as=1&w=494&rev=5fcb1bd4b77a4435a1200793ec4f64cf&hash=691473AD5ED4BBDB6B20A946ED875F55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/22_guest_bedroom.jpg?as=1&w=494&rev=a72c4eb56cc2420ca2756e5988d3f8e7&hash=5AF0813D4078ED266C9F3BCA8C47FD3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/23_guest_bedroom.jpg?as=1&w=494&rev=a8058d0ecfcf4400a96db79cc905a641&hash=AA3B2CDED5B8DDA0EC6F3C61316712C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/24_guest_bedroom.jpg?as=1&w=494&rev=26b4ae90ef2f49ee824d23978fbc60a5&hash=3251C4EC254A65A527CB3BB14071380B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/25_guest_bathroom.jpg?as=1&w=494&rev=05b6a570797f43f6b755d7e13f9dc64f&hash=2D7C18355876C6516828BA235F62D6A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/26_nursery.jpg?as=1&w=494&rev=572fffe1f2d9457d9085b585c904ad8e&hash=2A57D433CE6D822B1E71DFC4474559BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/27_nursery.jpg?as=1&w=494&rev=e56c013c1d0a47ef9e458fb52cdaa169&hash=62518D1E59048D3CC96662A043AFEA1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/28_office.jpg?as=1&w=494&rev=f6fe9d6df5bc47a28342db0ae2d91956&hash=76800D5AF514DBAD26E107529376022C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/29_office.jpg?as=1&w=494&rev=e7ddf47cfcc8441e8ce7c816f8b20c9c&hash=08C465342E60E9264E05B4793E521216",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/30_office.jpg?as=1&w=494&rev=bef6c6c3101e41af8b5ccd0f6f648eb4&hash=87F9611C5D65B036295B20156C7CA1D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0000_cali-nwg_h.jpg?rev=34bcaf4453c141839ab029e83c7622ac&hash=F1A075FADA252B946B8E9EFC4571E74F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0005_cali_3d_staged_floorplan.jpg?rev=189327ff0c5f4de4bb00b52c8b8e52b0&hash=30B66A5067672E519DA8F6A2AE136630",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0004_cali_floorplan_only.jpg?rev=b4ff82e513444e0a95000007c857803c&hash=EE322463951F066198D1E484F5ADD170"
+      ],
+      "name": "3911 Mendoza Avenue",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/qmis/3911-mendoza-avenue",
+      "id": "3911",
+      "address": "3911 Mendoza Avenue",
+      "price": "$319,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0003-3911-mendoza-avenue/cropped_0005_cali_h_exterior_front.jpg?iar=1&sc=1&thn=1&w=425&rev=99bcdf48354d4608b4bd3c25052f7111&hash=55451F7D430CE0624045305C3227DE71",
+      "latitude": 27.5489,
+      "longitude": -81.51562,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/cropped_0001_cali_c_exterior_front_4.jpg?as=1&w=494&rev=91c3e674895c4ea589446d9950994c41&hash=ED413CBC659A0FE51FEDFDCFC3E58266",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/1_living_room.jpg?as=1&w=494&rev=989f16124c50411d95448837793179fe&hash=7D122187D8A80DC72E34428A5463B208",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/2_living_room.jpg?as=1&w=494&rev=68c579c32fea41c9af6f70ef6d2e89ae&hash=E21C4F3801A5B687491EAD8DC2EF0F2E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/3_living_room.jpg?as=1&w=494&rev=7856aa1763ce474c866bdfdc0f05a500&hash=48804A853D05E96890E5542E185D40C4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/4_kitchen.jpg?as=1&w=494&rev=9795a2bba7e8478eb0285f49496b8b80&hash=657CAAD0E73681FF83D051B25D7B8768",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/5_kitchen.jpg?as=1&w=494&rev=f852a9721f654feab84720f4a301737e&hash=1D997F3C770207E581C2EA65562A7AD4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/6_kitchen.jpg?as=1&w=494&rev=1c177b9362604b02b36fe0b593bca63a&hash=34D67A47CB4267344E3EA1AAC0171EB2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/8_kitchen.jpg?as=1&w=494&rev=5a18abcdbfe445f99fbc6b57e7545a57&hash=CDD77385F38698672FC53EA9FE85AD97",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/9_kitcheb.jpg?as=1&w=494&rev=ffc0ae417d11416ead68879dfcdca775&hash=44FFB8B90A138013A5BDA26110F8F04B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/11_dining_room.jpg?as=1&w=494&rev=e097e2d8e1624279ba1dea894848f165&hash=7767AB6A330861B89CE3EE55CEA33B6C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/12_dining_room.jpg?as=1&w=494&rev=2afc84a8fe18437488f4eb5bcbe583ad&hash=A7CB3D09B28DA33DA3D38A8CEC6B049A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/13_primary_bedroom.jpg?as=1&w=494&rev=439c1cfc22b94239ae3f46777d9a1a69&hash=C3E75CBD7A38D11CEE9D0F1029B6AA06",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/14_primary_bedroom.jpg?as=1&w=494&rev=343c81af741d44adbdb6aae7bdc70644&hash=93D204333CC239942E26230F0B32D491",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/15_primary_bathroom.jpg?as=1&w=494&rev=7e2b0686e8394ef193eb6c368d69c382&hash=D3DE261D16B370BD84EC24BBC2C7FDAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/19_primary_closet.jpg?as=1&w=494&rev=b5edd7e8748a4e4db416d1688e12f12d&hash=8AE38562C5BD3B91278EF91713AF66F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/20_primary_closet.jpg?as=1&w=494&rev=ad889d35137e4919b4ea4e2122785ba6&hash=40AD5D6C96FF84D1D92C9D260A975EC8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/21_laundry.jpg?as=1&w=494&rev=c5c1f8b521c24b8cb49a27ce6d772ae4&hash=C49CABD646241BDA8BD26E2B0E1CEB77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/21_primary_closet.jpg?as=1&w=494&rev=d0eac0f42ef9448696c2208d5081a1d0&hash=84F634037647D797D23334B55BF0728C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/22_guest_bedroom.jpg?as=1&w=494&rev=cc0f213b50c2417db6873f8ed4361ff2&hash=FDEC81CF7A2DE15623EE8E60A919598C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/23_guest_bedroom.jpg?as=1&w=494&rev=f2365d4e7d264e9bb7ce57e929457adc&hash=CD9EC2188667F5611882567E875D7FDF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/24_guest_bedroom.jpg?as=1&w=494&rev=9af83f131cc44fe19929b69738b1f588&hash=59F7CD23894F949F0B82D3CF195F5F80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/25_guest_bathroom.jpg?as=1&w=494&rev=998fc365b6d4414690d3603e0b789536&hash=13D63A66F638A836E9D8133B987FD4F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/26_nursery.jpg?as=1&w=494&rev=02d0086cf3ad4017a6cdd01ffc9b982b&hash=005CEF018B589E4600F642891CFEA0A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/27_nursery.jpg?as=1&w=494&rev=3b05c8809c2841ddaf9dd9dceffb5cd9&hash=098F1506ED9AF08C53CB66D825753F05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/28_office.jpg?as=1&w=494&rev=c5ca83cea15f4b05a255c611171d4d2b&hash=74D2C161906FE55DD3BBAC8581341766",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/29_office.jpg?as=1&w=494&rev=c9ec589d34774c2e94106dace6504356&hash=F404F74A080B6621A07C91F91372E2BB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/30_office.jpg?as=1&w=494&rev=2a5517aefefc4a0f9c1028abefb835bd&hash=C026D401DD2DB4A3257F99AD5E75F6E9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0003_cali-nwg_c.jpg?rev=841bf9d8176b4f17868c21464d76ad5b&hash=300569D51B7E2AADB0152A17A5BBFB6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0005_cali_3d_staged_floorplan.jpg?rev=189327ff0c5f4de4bb00b52c8b8e52b0&hash=30B66A5067672E519DA8F6A2AE136630",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/cropped_0004_cali_floorplan_only.jpg?rev=b4ff82e513444e0a95000007c857803c&hash=EE322463951F066198D1E484F5ADD170"
+      ],
+      "name": "4408 Navarre Avenue",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/qmis/4408-navarre-avenue",
+      "id": "4408",
+      "address": "4408 Navarre Avenue",
+      "price": "$321,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4ebb/0001-4408-navarre-avenue/cropped_0001_cali_c_exterior_front_4.jpg?iar=1&sc=1&thn=1&w=425&rev=91c3e674895c4ea589446d9950994c41&hash=C56B219A83B621CE25F1F9DA16CB4168",
+      "latitude": 27.5489,
+      "longitude": -81.51562,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/aria_c_front_cropped.jpg?as=1&w=494&rev=9b82eb35a1874675bcf7b1b830b2445e&hash=19C6292037B1B6811C5345AF69D2F581",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/1_entry.jpg?as=1&w=494&rev=4446d28de6d2412cbb0bb84c5c7c4c4c&hash=C6D698254A2721B1E5827828F815FE78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/2_entry.jpg?as=1&w=494&rev=44c15cc11eea418ea1ade199e88e3e3c&hash=49225F8039399A1347B9141E11D3A125",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/3_entry.jpg?as=1&w=494&rev=f7b75f38203f4b9a93314b5253639e4e&hash=7102087F97A40E9AB91BB591096F1A48",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/4_entry.jpg?as=1&w=494&rev=7abb5440b9064196872ec12ebf5ac0b6&hash=AD79D336FEE9C9AD91D44E9082769906",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/5_entry.jpg?as=1&w=494&rev=0cef9383f61a45a7aaae46b79e71a7c2&hash=0CDE1EE7F64EE5063D1DB6FFFC78A86D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/6_laundry.jpg?as=1&w=494&rev=1543bc18837a43f996dae5f2f8d61cf2&hash=B7D54F091EA86723D30FCC88D21BCA3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/7_laundry.jpg?as=1&w=494&rev=035212c2c10541a3a14ba1fe32777ae3&hash=3720AA912349D6457116060C5171F985",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/8_hall.jpg?as=1&w=494&rev=fab3af10593c470cbe3e54cb7eff5422&hash=03B31AF22BB0D5DC51370F5CCA6649A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/9_kitchen.jpg?as=1&w=494&rev=e7294da23b20413980f2c2f074d5815f&hash=72989C75B7B2BB79624F2606FEAC6B72",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/10_kitchen.jpg?as=1&w=494&rev=f2393e793ad9407a9ce8bf4c4b476134&hash=939AF5C0B56DEBE3D9E2A13D903C8EE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/11_kitchen.jpg?as=1&w=494&rev=ddab2e44e9494edd976fc6eeaa41c6b9&hash=4DD2E8D0421B095443972C289F48667A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/12_kitchen.jpg?as=1&w=494&rev=a9f30373597247bd8ca09e5678943b3b&hash=C155B7070510BF02951FA749273B9EAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/13_dining.jpg?as=1&w=494&rev=ae0b1dba7d1c489f8ed1d3b426aeda10&hash=E6AE8268433248832454DC88FAC846AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/14_dining.jpg?as=1&w=494&rev=17008e62b9604c72821570724d157022&hash=6D4425AF7203BC1D20A5513A177E9AFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/15_dining.jpg?as=1&w=494&rev=c759fc63c281477090ae58823517d325&hash=C574567AB4D450FF1246A79D2A473440",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/16_dining.jpg?as=1&w=494&rev=3fac323d7d894a71a65c9cc8a06e0d12&hash=AB17C9922A4AFA923E6C1901639F994A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/17_dining.jpg?as=1&w=494&rev=946e7d6598be44e6b878b35a533ad439&hash=95244CE090FDFCDE590921C70029C3A1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/18_living.jpg?as=1&w=494&rev=96ee1ca0542341b8a84c41a9999ed48e&hash=9F3CEEBF6B50BF38F1D6BB7DC763D0FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/19_living.jpg?as=1&w=494&rev=ea0dd7b1874848b28276490d1472d511&hash=7BFB2471609F4956EF32707F0B3E3A12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/20_living.jpg?as=1&w=494&rev=33005ff7727f45589f84bd21208400a3&hash=A8FAC98CF16A6A79F3BEC18FB9829858",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/21_living.jpg?as=1&w=494&rev=283a097774d440e3ae51c8415432445a&hash=6008D4FC04D10A4765E41A73D8C9581D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/22_primary.jpg?as=1&w=494&rev=3befb810b8394619a1f7c13155c932d2&hash=7E6BB75F106913B94D2BD045C56536DD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/23_primary.jpg?as=1&w=494&rev=b6b3c10287c141cbb73199062f9a8a44&hash=F470453EECE420174A610D76EF231103",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/24_primary.jpg?as=1&w=494&rev=e593073a3acf448cbb27a43bea25928f&hash=AAB8F7F5C3E66D308E0DC2772C6C070C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/25_primary.jpg?as=1&w=494&rev=d2d3db9d0c5f4df08ad0c62efc254a69&hash=1BB060BE4848D7F1C75FA0184C310C88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/26_primary_bathroom.jpg?as=1&w=494&rev=ab79fd602d5c4eeeb744d181b11763aa&hash=C9B3F90D888AE285A119B57E8BECD70F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/27_primary_bathroom.jpg?as=1&w=494&rev=9a8ac469076a421da60152f749979561&hash=0891D72F8BE4684CEA70C005F0B6B027",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/28_primary_bathroom.jpg?as=1&w=494&rev=ada1ec6827af4c4e9673ae0e2cb0b567&hash=CA4787356732100DBA559BDF602A8170",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/29_primary_bathroom.jpg?as=1&w=494&rev=9f9778dd4ba842bebb737bbdd89da20e&hash=0039FB2959B255BFFA9514C0E7395679",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/30_guest_bedroom.jpg?as=1&w=494&rev=e7be67d201b1432b8589ba2860e33597&hash=74A78926CE83DAF2A3118CEFA7225276",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/31_guest_bedroom.jpg?as=1&w=494&rev=914af405dd9d4d93bdec8e569a614022&hash=62AC9CB788A99051B89890243FCE4900",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/32_guest_bedroom.jpg?as=1&w=494&rev=2c147028b8504a6ba3af917c82945f7a&hash=7450046C3EC92DA41A7DAF39465BC93B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/33_guest_bedroom2.jpg?as=1&w=494&rev=aec93ebe48fc48d18e9e040aa858ac3a&hash=AB5DA0D024DC3E538BECEB9E4F920E4B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/34_guest_bedroom2.jpg?as=1&w=494&rev=211d42d7e02f4e2db042b672d9fc465d&hash=68CBC5173A21090951EF0455BF66CA12",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/35_guest_bathroom.jpg?as=1&w=494&rev=0bb2398c7cc444eabdedc0c4f63337ee&hash=D2806E4764D24AF2B818EF5F4EB84078",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/36_patio.jpg?as=1&w=494&rev=fa377f5de0674ab4add4e13595d5d1fc&hash=EDDB3732F6F3105A543007435807A22C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/37_patio.jpg?as=1&w=494&rev=a3392814325940bc89463db6f40b81a6&hash=2D94AE44A0C4C5BB55F42A0D18482131",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/aria_nwg_c_cropped.jpg?rev=43f84b129e1f46e28b0aa461fce94fbd&hash=45EBF516B868323F96A5CD0223F5381C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/cropped_0004_aria_floorplan_ex.jpg?rev=60850ed936c048b48dc74eff224f2a5a&hash=E8081B6BC76B1AD161F60BCD8533665B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/aria_3d_floorplan.jpg?rev=df627f6d6b644813bc787cbe4103c690&hash=E7DA4BD3BD3AE922E5E47835CC1FDBDA"
+      ],
+      "name": "6824 Coconut Grove Drive",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/qmis/6824-coconut-grove-drive",
+      "id": "6824",
+      "address": "6824 Coconut Grove Drive",
+      "price": "$311,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0020-6824-coconut-grove-drive/aria_c_front_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=9b82eb35a1874675bcf7b1b830b2445e&hash=198F7CEBF7E88D71F4684DCEE00358D2",
+      "latitude": 27.5489,
+      "longitude": -81.51562,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/aria_c_cropped.jpg?as=1&w=494&rev=f6640fdee6574e36a7a80126680137b0&hash=50095181331D863A46645488055944E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/1_entry.jpg?as=1&w=494&rev=ec83210f55fa4199a2854ad1b2154dd9&hash=02ED08740D250DFD1742EBD88089374A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/2_entry.jpg?as=1&w=494&rev=091250a88e6b4b8390e7b4458341d85b&hash=ADBE68858E1D8DDB4A1FAA78C2296FBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/3_entry.jpg?as=1&w=494&rev=a7b555724c3a4c1089b3b39a938ea630&hash=919246151798867759344DB80450773C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/4_entry.jpg?as=1&w=494&rev=69e8eda86d8844dc901b16830f29358a&hash=8170EE193B0809C64CCC2DD8C87862D0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/5_entry.jpg?as=1&w=494&rev=aa891b4fcfbc47d59ba0d42aa9dc0faf&hash=22E26AD2AD5D23B519FF100C0F7ED094",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/6_laundry.jpg?as=1&w=494&rev=668a855cc54245ed8516264442fe1133&hash=26771691C6E68D4AA044D7B85D911FFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/7_laundry.jpg?as=1&w=494&rev=e2d91f625dc84fcdbc415b3abad92689&hash=B74E3FBC228D3C77E5BE586B4013861A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/8_hall.jpg?as=1&w=494&rev=3f8693e4e9b44c07bf2cf5a0239e278c&hash=75555F50B864FBF8B58AFE1496EC165E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/9_kitchen.jpg?as=1&w=494&rev=c34b29b19c4947f09de54dad29673330&hash=9B594BE6CD7EAAA37F596572A03FC727",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/10_kitchen.jpg?as=1&w=494&rev=9d8777cfe7b44193a450497e72d72212&hash=9AE1E115B9561453A678FA47749F8C25",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/11_kitchen.jpg?as=1&w=494&rev=a68d2410fedc42b6b0fcf9bd60ce854a&hash=0751ADF89333066A13186E3C9C5F622B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/12_kitchen.jpg?as=1&w=494&rev=a3dfc226319244dda5bfdc2007e357fe&hash=E2F2EF16469A2E05D9BC4343E5D7E2DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/13_dining.jpg?as=1&w=494&rev=966fc7460db64d8f9fbafe533aed3629&hash=F6F197E3D79A873B431BC3B72DE4A193",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/14_dining.jpg?as=1&w=494&rev=23bb48cbda5d4cd1ae7ce11998ecff8a&hash=278E535FC8CD6FD7710AC79878A4E9A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/15_dining.jpg?as=1&w=494&rev=7345a351ebcd4e5884ed4f3f76f74f22&hash=FECF5A9E72772F81253E4FC60966541A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/16_dining.jpg?as=1&w=494&rev=34ddd4c9a60f4d85b816331f8a45424b&hash=E432045A73A68871CB392E650CCB291C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/17_dining.jpg?as=1&w=494&rev=e9492d00d37b42f7b2bb1c02eda9cd79&hash=2745E9C2848726E13BE6B455DE601045",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/18_living.jpg?as=1&w=494&rev=57e0bb594ca74bceb5c7fc601f848c87&hash=025B71B3084C116500C29E6C1EC53D88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/19_living.jpg?as=1&w=494&rev=1765fe76ef2a476a86b66a24a6c20ffd&hash=FBB0F163FD18FBF476E222C23054BE41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/20_living.jpg?as=1&w=494&rev=bd6b001a77094003be3e5b169c96dd64&hash=CA115818246EC4077E1E65F05445284F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/21_living.jpg?as=1&w=494&rev=e451cb2d5c8e4d6e8a34a230f3b0d1a9&hash=4B15B943E3CD6DC2D725F9CDF2511D54",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/22_primary.jpg?as=1&w=494&rev=92d1c574214749d7b17d7fe9042a03d3&hash=2AE13EBC0E9E199E12B9DD36AF0E68AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/23_primary.jpg?as=1&w=494&rev=442a759c2c6f41a0b23a3c94db1149d7&hash=5CAA3C47692089C1FCECEA38C2D7B4DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/24_primary.jpg?as=1&w=494&rev=d1cd869a3ae1457486b21a6b82a8675b&hash=8D40DC79497A6469A8505A1E48B6D786",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/25_primary.jpg?as=1&w=494&rev=52f4ca153c3a49d5ab5557650fa967ea&hash=04C96766D3018DF0356D320469CD7321",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/26_primary_bathroom.jpg?as=1&w=494&rev=48e8a963563d473888323c3aeb2a8265&hash=2BAA3160077B075E41E14491F3517909",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/27_primary_bathroom.jpg?as=1&w=494&rev=12cba96c784e41ba81b7e3f7c43868df&hash=8936349D3BA183326FD7B48C7111E6A4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/28_primary_bathroom.jpg?as=1&w=494&rev=784dca77693c4cb2af04b27700f860d7&hash=2A6922F14A37F94125EB9D9643BF723F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/29_primary_bathroom.jpg?as=1&w=494&rev=55769a04525d4b678ec6b79015a8bd8c&hash=A9DD08F8D1F825FF433341B62ABB9476",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/30_guest_bedroom.jpg?as=1&w=494&rev=b7889020b6d741919212271e9de19fb8&hash=C64FC26BC1C42BA5399D21A8D4C9703F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/31_guest_bedroom.jpg?as=1&w=494&rev=8b1d6826666b470893fcd342c52d628d&hash=CD14D5F33699CB384D5395788815137E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/32_guest_bedroom.jpg?as=1&w=494&rev=204b7e4ac35a448587246d3849187fe5&hash=1812A23C9E26C44F127BEABD47BE803D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/33_guest_bedroom2.jpg?as=1&w=494&rev=81f77ebd669e40f0b352bbcbe7160df3&hash=EAF9D9353BA4A43F3A49DCFCE3678695",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/34_guest_bedroom2.jpg?as=1&w=494&rev=848b559b5f2d4016abd984039e287a0d&hash=7257B0CC72877F731B0BCD3AF80D3CF8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/35_guest_bathroom.jpg?as=1&w=494&rev=06539083b7d94c93b711c0a64c7bb20c&hash=B4DC1D45FE4E22C819ECB3669362F173",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/36_patio.jpg?as=1&w=494&rev=b0fe992430ff48cea6a875e5dceb96fc&hash=05F738E8B664015AFEF8057468BB0B0F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/37_patio.jpg?as=1&w=494&rev=8f2fa7b91b80412c82dd3b84cf1eb4d6&hash=9EA93996E85B750888685B3035962418",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/aria_nwg_c_cropped.jpg?rev=43f84b129e1f46e28b0aa461fce94fbd&hash=45EBF516B868323F96A5CD0223F5381C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/cropped_0004_aria_floorplan_ex.jpg?rev=60850ed936c048b48dc74eff224f2a5a&hash=E8081B6BC76B1AD161F60BCD8533665B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/aria_3d_floorplan.jpg?rev=df627f6d6b644813bc787cbe4103c690&hash=E7DA4BD3BD3AE922E5E47835CC1FDBDA"
+      ],
+      "name": "6840 Coconut Grove Drive",
+      "plan": "ARIA",
+      "url": "https://www.drhorton.com/florida/polk-county/sebring/sun-n-lake-spot-lots/qmis/6840-coconut-grove-drive",
+      "id": "6840",
+      "address": "6840 Coconut Grove Drive",
+      "price": "$311,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/388-polk/38810-sun-n-lake-spot-lots/388100000-sun-n-lake-spot-lots/4eab/0023-6840-coconut-grove-drive/aria_c_cropped.jpg?iar=1&sc=1&thn=1&w=425&rev=f6640fdee6574e36a7a80126680137b0&hash=314DD84596D8DE6257FED6F96533E32A",
+      "latitude": 27.5489,
+      "longitude": -81.51562,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Sun 'n Lake Elementary",
+          "type_and_grades": "K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Hill-Gustat Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Avon Park High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

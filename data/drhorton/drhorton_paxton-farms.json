@@ -1,0 +1,243 @@
+{
+  "timestamp": "2025-06-05T03:07:20.918408",
+  "name": "Paxton Farms",
+  "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms",
+  "status": null,
+  "price_from": "$286,900",
+  "address": "17952 Hens Avenue,Foley, AL 36535",
+  "phone": "(251) 501-4006",
+  "description": "Find a new home in Foley, Alabama! See all the home floor plans, houses under construction, & move-in ready homes available in the Baldwin County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/1shelby_9b5_front_exterior.jpg"
+  ],
+  "location": {
+    "latitude": 30.35324,
+    "longitude": -87.71758,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$286,900 - $297,372",
+    "sqft_range": "From 1,272 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [],
+  "homeplans": [
+    {
+      "name": "Aldridge",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms/floor-plans/aldr",
+      "details": {
+        "price": "From $287s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,272 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/aldridge_9a4.png?as=1&w=425&rev=8eedc07f93ae415ab776daa90114d028&hash=B5A6EC8E809D8B39439B031463863991"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/aldridge_brick_floorplan.jpg?rev=8288035431e1444b9dea5c09eb6ae402&hash=10A0AF8DE538E7B4B65AAA6E2663EF3E"
+        }
+      ]
+    },
+    {
+      "name": "Julia With 2 Car Garage",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms/floor-plans/jula",
+      "details": {
+        "price": "From $291s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,443 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/julia_s11_2_car_front_exterior.png?as=1&w=425&rev=c0f8448345dd4ea2962d66620b1151c2&hash=307C57A69A471AEFA89D9747818F1CC8"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/julia_9s4_5_and_11_floor_plan.jpg?rev=6151c28fefd345ed8fc251474dfac45f&hash=4D522E5499967301D759659ED4E9C301"
+        }
+      ]
+    },
+    {
+      "name": "Kelly",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms/floor-plans/kell",
+      "details": {
+        "price": "From $297s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,510 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/kell/kelly_p5_front_exterior.png?as=1&w=425&rev=86fd5184678547c799a196b3e126e0aa&hash=2AC4892C70BABA683336AD459C3A7D7B"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/kell/kelly_c_p_floorplan_websize.jpg?rev=2d8a9b04aa744b5f80ea24d22a02d94c&hash=1325B4049A60BB9260B511A8434F317E"
+        }
+      ]
+    },
+    {
+      "name": "Shelby",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms/floor-plans/shel",
+      "details": {
+        "price": "From $297s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,490 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/shel/shelby_c5_fe.jpg?as=1&w=425&rev=c7963dcc1f2c417c8397fb8e807a6839&hash=A4A1BF62F679C565701095D6C5FD7CE0"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/shel/shelby_a_b_c_floor_plan.png?rev=ce0d611df3944a99af882342cb5cfe40&hash=45C518A06ECC8A64715B0B6D71128623"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/aldridge_a4_fe.jpg?as=1&w=494&rev=594bb38622ed47a8aa92f63c4986f411&hash=7A8B0677815801EFDD883630C7A32F63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/1aldridge_foyer_entrance.jpg?as=1&w=494&rev=c3b61fbe426f43dea5b70ec45f85863d&hash=CE42159310C149E2571D809DF8102CA9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/2aldridge_primary_bedroom.jpg?as=1&w=494&rev=dbb6cfaac27d4fbb92cb6b536727a08c&hash=2EC8ED4195C1DCC8DC12A4915541832E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/3aldridge_primary_bathroom.jpg?as=1&w=494&rev=405e4d84f513451191bed05b06507701&hash=C07CA72CBB210E49834E40A6F5E7CA51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/4aldridge_primary_bathroom_2.jpg?as=1&w=494&rev=6e46ea0e15d549d096ce1a20335877d5&hash=2580F464622231E269EFB67C153BD4DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/5aldridge_primary_closet.png?as=1&w=494&rev=2bd59ec2558d45e5a0918ebd7182d662&hash=9053A0A259BFA25C9476A5DA5BD4C670",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/6aldridge_laundry.jpg?as=1&w=494&rev=bf07a064730541e6b4287656b06bf3bc&hash=6945494448AC18F8FD0B7A2CAF3F1681",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/7aldridge_kitchen_entry.jpg?as=1&w=494&rev=4fbba974af714aba866fb01bb0bfd719&hash=E1CC78548F177554484704E8DAE64DBC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/8aldridge_kitchen.jpg?as=1&w=494&rev=93ca8264a04a467399e9a2529d549a0f&hash=5C9D3E6A461E60705BDAF8CAAF98B850",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/9aldridge_dining_nook.jpg?as=1&w=494&rev=22911850d04b479b8a18a93f112f8ca3&hash=FD408AA4190E222BC92E4DACEE1E0F01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/10aldridge_living_room.jpg?as=1&w=494&rev=ed46f36baea64854bff7ec72a783321a&hash=1DAADC9EB095C69F679ED5C21A7BFCCF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/11aldridge_living_room_2.jpg?as=1&w=494&rev=18805f7ddd1a44088ddbe48a7df53753&hash=E42256A9BBB0EC801D9B2980E5830D46",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/12aldridge_living_room_3.jpg?as=1&w=494&rev=041b516ac9b74bd8a4fe50c8055c5653&hash=A260843872CA114164FF42A945CA4C89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/13aldridge_bedroom_2.jpg?as=1&w=494&rev=80979d08415646fda3cd927fbfe156f4&hash=26C2AC05C666433E5750904016F0ED1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/14aldridge_bathroom_2.jpg?as=1&w=494&rev=ef81c8317ce64b0893d5e4a189505247&hash=58BF81F4EEC390E43F1FB5B3D799675A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/15aldridge_bathroom_3.jpg?as=1&w=494&rev=946ae01e1d444d78ab3c6f1f24fdf982&hash=8F899D0396F13F9D79F073D657FA085C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/16aldridge_second_plan_foyer_entrance.jpg?as=1&w=494&rev=f4fc2876390744268593bb5bfaf2ca96&hash=3B4CA034255A34DE7D212AD8288A224A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/17aldridge_second_plan_primary_bedroom.jpg?as=1&w=494&rev=4957f833009a4b86a75f6590b7cd60f5&hash=3EC70A6E1A947BAC8E25AC9C7D47DD09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/18aldridge_second_plan_primary_bathroom.jpg?as=1&w=494&rev=6e23f56423864d2299ec5fc115ea8f68&hash=386D57860ED717587A1AB57BCCF7CBFF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/19aldridge_second_plan_primary_bathroom_2.jpg?as=1&w=494&rev=6f17dfbf52464429ba4884598ffd2dee&hash=A4B5535DA988109EDABD05A7FF4DC75B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/20aldridge_second_plan_great_room_entrance.jpg?as=1&w=494&rev=37e02a5d4b2f4353bed14887e63e9c90&hash=BC3F01F5BAB5357F79723A5F53121F3E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/21aldridge_second_plan_kitchen_entrance.jpg?as=1&w=494&rev=6e5aa187a6f6447eaaf353c759c4b895&hash=DB4E4B2F307CFD1267E7CD05802010C0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/22aldridge_second_plan_kitchen_entrance_2.jpg?as=1&w=494&rev=538dafc7c28d4725984d5829e36263d0&hash=5950149F1F76D3AF20FF5898B927F3DB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/23aldridge_second_plan_kitchen.jpg?as=1&w=494&rev=8097917ed4334b328127c470da44e0b6&hash=A04F10CC2BFABAD90DC993BF24221BDE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/24aldridge_second_plan_kitchen_2.jpg?as=1&w=494&rev=a461bbd090694834a41967763d80798a&hash=C00E8EC256D7C399B299D627754D292A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/25aldridge_second_plan_dining_nook.jpg?as=1&w=494&rev=ae998c70d7e945898c26569a3c0732ac&hash=1220855FBDEDF4A2A20CDA4DA4651D8E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/26aldridge_second_plan_living_room.jpg?as=1&w=494&rev=aca3326b997f41909afd4bff6b0dfe91&hash=9DE218E63288FC3221874E7E2A6E3C63",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/27aldridge_second_plan_living_room_2.jpg?as=1&w=494&rev=92dff23a67544828ae9e8b0fb5cbf844&hash=ACE100AC63C46C2B314FC0F9B1E1CB31",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/28aldridge_second_plan_second_bedroom.jpg?as=1&w=494&rev=936dcf844ec44347b6d24519cf31dcf5&hash=0C7C38172203C1F3CF448856423C8A11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/29aldridge_second_plan_second_bathroom.jpg?as=1&w=494&rev=3cd8732fcc7645349bb22054929ac58b&hash=B65EEB3996D8E4B62773D42B4125FF43",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/30aldridge_second_plan_third_bedroom.jpg?as=1&w=494&rev=019aa1a0c1be49c1ae5cc16fa2f557f7&hash=CC0475050A8755D94AE17C7DF78837A7"
+      ],
+      "name": "17806 HENS AVENUE",
+      "plan": "Aldridge",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms/qmis/17806-hens-avenue",
+      "id": "17806",
+      "address": "17806 HENS AVENUE",
+      "price": "$297,372",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1272",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/aldr/0046-17806-hens-avenue/aldridge_a4_fe.jpg?iar=1&sc=1&thn=1&w=425&rev=594bb38622ed47a8aa92f63c4986f411&hash=758BF4C532FAA6091E6031AA955512DE",
+      "latitude": 30.35324,
+      "longitude": -87.71758,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/julia_s11_9016_chabo_circle.png?as=1&w=494&rev=65ad55120f864796905d94b902cba44c&hash=4E875A1D3B795A0A2B97886297E51DE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/a1_06920.jpg?as=1&w=494&rev=85afcbae336147a7a306f690fd545159&hash=E37F63C24803881ECBC299365FEEE45C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/1julia_study.jpg?as=1&w=494&rev=139051ff3ce643a2a067a13bcb949869&hash=709F7DBF7CD5940C4BDDF661BD4266E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/a1_06900.jpg?as=1&w=494&rev=48390eab73b04c64809a4ef2a8c3ed5d&hash=F87EB8302158DE03590C7F6400E05612",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/2julia_study_2.jpg?as=1&w=494&rev=1183182c0c124ccdab5a523abd762b1f&hash=9B5929953A1CE151859A2C3F86708BAF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/3julia_laundry_room.jpg?as=1&w=494&rev=1e370b94681a4fd68bfbbf958797ee00&hash=B6536D2AFC3BA29F4E080D578D815A3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/4julia_living_room.jpg?as=1&w=494&rev=2032c9027200417ab57889c9b3445d37&hash=0DB9504E3810C0CE3BFCD515A1311FB9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/5julia_living_room_2.jpg?as=1&w=494&rev=8171d435af054318b5db1cf0e08e3ae4&hash=46793C82FBD570931D7B6C02BD9743F5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/6julia_living_room_3.jpg?as=1&w=494&rev=f5568a2fdf414ab4b60361d1782ea1f4&hash=FC1C2AD032BF7A9B2893B79687101270",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/7julia_kitchen.jpg?as=1&w=494&rev=3c758b6e54c6465ab5bf0250b3085203&hash=32370B72916FFE95F5381B42D3D7BEA6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/8julia_kitchen_3.jpg?as=1&w=494&rev=4bbdc33540494fb7a44c0f9f99029be2&hash=292B4BEBE2D7BB86BE41627CC07D8ED0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/9julia_kitchen_4.jpg?as=1&w=494&rev=10c80d50db604464a3f01b9e7ba9c881&hash=6C27099DA55046D6234EAD4506B77101",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/10julia_kitchen_2.jpg?as=1&w=494&rev=b18d7ec26fdc4b88af75b25e26a078a9&hash=C9678D074E857F5318EEE94F79D25DF3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/11julia_kitchen_5.jpg?as=1&w=494&rev=a6ca30a0e8304ad6a8e9111c4c59ccff&hash=E1B390416D232C1FC82DCF809B0D9B05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/12julia_kitchen_6.jpg?as=1&w=494&rev=7c19f6fc12954d738eb28cf5541847d0&hash=F05A30F52E511429FDFCF2736EB9BC8F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/13julia_dining_area.jpg?as=1&w=494&rev=96aeacc8ec5645e29f3f957afaf29fe9&hash=864309D0B99076E0F90FCC5B3F0164CC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/14julia_dining_area_2.jpg?as=1&w=494&rev=adcde2b417354e95acf0f3f4b382144b&hash=32030F62C43483BC9893F429EF5E3C5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/15julia_primary_bedroom.jpg?as=1&w=494&rev=b8d6047b47c049f39127016313003f3f&hash=0E2DF2FB434A78B0231C0F245C987FB8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/16julia_primary_bedroom_2.jpg?as=1&w=494&rev=674ce8ce467344ac8871a2f9980f81d8&hash=6DF43821B7B73E211CBB59CF92A2F989",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/17julia_primary_bedroom_3.jpg?as=1&w=494&rev=2e799a58704b4124a24abfe8d8a292f0&hash=6E4E540579573F05A9A7E5B2AA80C7F4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/18julia_primary_bathroom.jpg?as=1&w=494&rev=ecfaef19d29749df87ddc00c8d8567b5&hash=00FB835C17542CA6B2EDC74A64EC0C5E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/19julia_second_bedroom.jpg?as=1&w=494&rev=10e0b7029c7a437f8c3a0bb774e63f8a&hash=648800400CC552745909024E3A802B64",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/20julia_third_bedroom.jpg?as=1&w=494&rev=3cdca364cdf44355a107da90818d093b&hash=EE3F2FE0A44657A212DDF774A2F9AA7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/21julia_second_bathroom.jpg?as=1&w=494&rev=8857de4d1a734d70b9ecef800c016186&hash=4B09E395F02DCE5528E96D7C06C46FFD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/22julia_second_bathroom_2.jpg?as=1&w=494&rev=61a2f16779b647238714b24e20e79ac7&hash=4A6F5269EE9EFD6AE34A6EBEA21BFD78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/23julia_foyer.jpg?as=1&w=494&rev=c2d9a577e41e4fd3bda7d064f53fdbac&hash=B57C6F1816549BC6AC8611B67332D392",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/24julia_back_porch_2.jpg?as=1&w=494&rev=047308eea39f448486bdaa3226462134&hash=5F7A65FE8119BBE1C6CD4280AFB67D6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/25julia_back_porch.jpg?as=1&w=494&rev=faaeb2beb232498e85924ec110ab271e&hash=FAD92486FEA703EFEADB434B762FF869",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/26julia_back_porch_3.jpg?as=1&w=494&rev=cfab59de122449eab2d2414833104313&hash=7EB6881723C8AD62B4AA2673805A0D68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/9016_chabo_circle_paxton_farms_julia_s11_2_car.png?as=1&w=494&rev=b914795787894fdfadf97bbb35cffa1d&hash=F48DD918FFF651EDD18937BDBFEE6FCD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/julia_9s4_5_and_11_floor_plan.jpg?rev=6151c28fefd345ed8fc251474dfac45f&hash=4D522E5499967301D759659ED4E9C301"
+      ],
+      "name": "9016 CHABO CIRCLE",
+      "plan": "Julia With 2 Car Garage",
+      "url": "https://www.drhorton.com/alabama/baldwin-county/foley/paxton-farms/qmis/9016-chabo-circle",
+      "id": "9016",
+      "address": "9016 CHABO CIRCLE",
+      "price": "$291,976",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1443",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/224-baldwin/56891-paxton-farms/568910000-paxton-farms/jula/0025-9016-chabo-circle/julia_s11_9016_chabo_circle.png?iar=1&sc=1&thn=1&w=425&rev=65ad55120f864796905d94b902cba44c&hash=2A04C7BC7D3F670CE58ABCEA897DF82C",
+      "latitude": 30.35324,
+      "longitude": -87.71758,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Magnolia Elementary School",
+          "type_and_grades": "K-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Foley Middle School",
+          "type_and_grades": "7-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Foley High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

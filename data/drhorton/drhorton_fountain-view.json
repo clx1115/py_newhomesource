@@ -1,0 +1,623 @@
+{
+  "timestamp": "2025-06-05T12:49:38.817857",
+  "name": "Fountain View",
+  "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view",
+  "status": null,
+  "price_from": "$331,990",
+  "address": "1383 Fountain View St,Ormond Beach, FL 32174",
+  "phone": "(386) 465-2208",
+  "description": "Find a new home in Ormond Beach, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Volusia County area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-view/345520000-fountain-view-50s/1367-fountain-view-street--ormond-beach--fl-32174---01.jpg"
+  ],
+  "location": {
+    "latitude": 29.35577,
+    "longitude": -81.12415,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$331,990 - $434,990",
+    "sqft_range": "From 1,672 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated Community",
+      "description": "Gated Community",
+      "icon_url": null
+    },
+    {
+      "name": "Pool, Clubhouse Fitness",
+      "description": "Pool, Clubhouse and Fitness",
+      "icon_url": null
+    },
+    {
+      "name": "Oversized Homesites",
+      "description": "Oversized Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "Waterview Homesites",
+      "description": "Waterview Homesites",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "36\" Upper Cabinetry",
+      "description": "36\" Upper Cabinetry",
+      "icon_url": null
+    },
+    {
+      "name": "Ceramic Tile Flooring",
+      "description": "Ceramic Tile Flooring",
+      "icon_url": null
+    },
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home Technology",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Aria",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/floor-plans/4eab",
+      "details": {
+        "price": "From $332s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,672 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-oaks/345520000-fountain-oaks-50s/4eab/aria_c_web.jpg?as=1&w=425&rev=cf9a53d9163847bd8fdaa1c10987305c&hash=CCC2FF9A6D305283908177F3AC2D9013"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/aria_floorplan_no_logo.png?rev=c213934adac94ae39d76898ff19e545c&hash=307C6ED52F6D4AD3D3A75548352A3D1D"
+        }
+      ]
+    },
+    {
+      "name": "Cali",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/floor-plans/4ebb",
+      "details": {
+        "price": "From $347s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,828 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/cali_m_web.jpg?as=1&w=425&rev=9ba8c3628d494bc781bc987db6bd0d11&hash=68B93EF3A62DAA9CA56ADF63F5C20D9E"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/cali_floorplan_only.jpg?rev=523415d839944e7f8afce2266304c26e&hash=8B9022820CE73CDF7001E59CD6618B2F"
+        }
+      ]
+    },
+    {
+      "name": "Covington",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/floor-plans/e502",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e502/covington_ele_g_3car_cs10.jpg?as=1&w=425&rev=fd951e4a0f6046c3a98e2fae1b153d02&hash=AE630CB57DF5CB55CDECD584734AD9E6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e502/covington_ele_g_3car_cs10.jpg?rev=fd951e4a0f6046c3a98e2fae1b153d02&hash=11C824144C785F4AA415A7733A09D0BC"
+        }
+      ]
+    },
+    {
+      "name": "Denham",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/floor-plans/e501",
+      "details": {
+        "price": null,
+        "beds": null,
+        "baths": null,
+        "half_baths": null,
+        "sqft": null,
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/denham_ele_l_3car_cs10.jpg?as=1&w=425&rev=3996d95e5cb541809761cce86fa5ae4b&hash=2E0C8E3BC9F18B15F16024AF41BCE839"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/denham_ghl-3_unbranded.jpg?rev=3e423434b15c44b79979f45e11d4b980&hash=CBEA881D60C8F4FF780AF79A8F22E724"
+        }
+      ]
+    },
+    {
+      "name": "Hayden",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/floor-plans/4ehb",
+      "details": {
+        "price": "From $392s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,601 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/hayden_h_hires.jpg?as=1&w=425&rev=3fcdc1e645f24765b85aec27c2ffccaf&hash=063FA67D24A30482EC02165F16154619"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/hayden_floorplan.jpg?rev=4f6e3607b3a643a6b737d2e3bfca7302&hash=B8D6BFFFD1B59E13393CC1223CC33578"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-oaks/345520000-fountain-oaks-50s/4ehb/hayden_h_web.jpg?rev=e7b99d7e082d4980a8997d6d6352e2ac&hash=E4C2B5ED846A0976D2DFBAE02B66AEC8"
+        }
+      ]
+    },
+    {
+      "name": "Madison",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/floor-plans/5emb",
+      "details": {
+        "price": "From $387s",
+        "beds": "4 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,020 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/madison_ele_g_3car_cs4.jpg?as=1&w=425&rev=ae19146359ef40628ccb1894391c7f23&hash=2984F8B8D220820DC6A0E5AA78FB5472"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/madison_ghl_oeast-2.jpg?rev=2b3ebc707dfb4a2ea8fa0b8f3beb953d&hash=90A96781B459D8182BE804660CA52F9B"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/aria_front_exterior_c.jpg?as=1&w=494&rev=499440662a15475a8dbdd5fad6893ab5&hash=89B898A269A1C6549A7281F04712F498",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-002-004-living_room-1499x1000-72dpi.jpg?as=1&w=494&rev=967b9f973fc54abaae9f1b56f10f811b&hash=E6C3066192199FA027331128A308A651",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-003-002-living_room-1499x1000-72dpi.jpg?as=1&w=494&rev=3cbbf250557046a692ed13e153c1e53e&hash=EB60C9DDD4EF29FC7462ABA7F642FF22",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-004-003-dining_room-1499x1000-72dpi.jpg?as=1&w=494&rev=f33cd54467bf436a831f8d57fb3983d2&hash=2117F8157C76C186ACD2563E7A43F5C8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-005-005-kitchen-1499x1000-72dpi.jpg?as=1&w=494&rev=205884fd6b2e46fbbec26f4f46a61026&hash=DAF5B80EDE43E128C81A3D8F5101A6C9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-006-006-kitchen-1499x1000-72dpi.jpg?as=1&w=494&rev=e68ce44df1424c01a3e13b920b2f8359&hash=DB3AFC816E510FAAD580A5199EDF4135",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-007-007-master_bedroom-1499x1000-72dpi.jpg?as=1&w=494&rev=7da3718d0b6f4897a42e8a160ee777d0&hash=1E6BB8170495842EB43095AA4C806596",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-008-008-master_bathroom-1499x1000-72dpi.jpg?as=1&w=494&rev=6bd27c66aeba4824b9f669ee3d10bf32&hash=82FE461415E369CCE105FA665F185145",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-009-009-bedroom-1499x1000-72dpi.jpg?as=1&w=494&rev=292f37f00299433ea24c373054083fc4&hash=8057B0EF8D2C4F232D38161DB542F7CD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-010-010-bedroom-1499x1000-72dpi.jpg?as=1&w=494&rev=85b08cd549bc4b3398ac048c211ea545&hash=9ABFC584C52965B23C9B1F0E7E08908B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/3560_crimson_clover_dr_mount-large-011-011-exterior_rear-1499x1000-72dpi.jpg?as=1&w=494&rev=11e6be5e97b0454f9d269793cbe62cc2&hash=D31B03CF8F1677F64D54144ACCB9FF93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-view/345520000-fountain-view-50s/4eab/aria_c_hires.jpg?rev=9c3bd2085cee4889bc55008d2647cb5f&hash=68514F9398DB99E75C28E3BF2B0A63D4"
+      ],
+      "name": "1315 Lawndale Court",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1315-lawndale-court",
+      "id": "1315",
+      "address": "1315 Lawndale Court",
+      "price": "$353,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0125-1315-lawndale-court/aria_front_exterior_c.jpg?iar=1&sc=1&thn=1&w=425&rev=499440662a15475a8dbdd5fad6893ab5&hash=6BBDBBA4D7C43D8EC34F0D0B8514E024",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/aria_l__fountain_view.jpg?as=1&w=494&rev=c575f4eacd594920afdb7b7a3cd04ef8&hash=ABFEDBC0126C6276328376E2FDAB8446",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---11.jpg?as=1&w=494&rev=e14bc8c0572f4642aab501b63ea1d4e3&hash=C189CDA03770A788E39B123F84A33DE8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---13.jpg?as=1&w=494&rev=96dc6056579446f4b7f567aa399b6134&hash=A1E7959D361C8165F94E657E3B0A514D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---16.jpg?as=1&w=494&rev=743c8fa4865a4c0b91b38a39528332e3&hash=DEF134FD811219673591BA650DC21905",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---18.jpg?as=1&w=494&rev=de32aa5553fb4abc8aca85341f937103&hash=232285AA8B9341C55833D9ED6F40DF11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---20.jpg?as=1&w=494&rev=4726a2dc450a46e986cc15073a006f30&hash=E20E8F81902409057A63E3C08576946F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---04.jpg?as=1&w=494&rev=4797fbc15dc64e1182de974aae0861fe&hash=1516E88E01FF540928BEBC2E9C40982B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---22.jpg?as=1&w=494&rev=e855660c85db44ca988db979fd7844bd&hash=F520DBEA63BC2C284FFFAE628F0ECEF2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/courtland-park-aria-spec-drh--1024-august-sky-drive--deltona--fl-32168---24.jpg?as=1&w=494&rev=7530604cec9748fa8d2db2b3973eba0e&hash=DBCA40D0DD4B8D3F87328FD4E394B97C"
+      ],
+      "name": "1259 Big Bass Drive",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1259-big-bass-drive",
+      "id": "1259",
+      "address": "1259 Big Bass Drive",
+      "price": "$364,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0060-1259-big-bass-drive/aria_l__fountain_view.jpg?iar=1&sc=1&thn=1&w=425&rev=c575f4eacd594920afdb7b7a3cd04ef8&hash=B4284D608067DB43ABA79FE7F5E8AF54",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/aria_l.jpg?as=1&w=494&rev=8cfd79b3a6244e779f6b38a535ea543e&hash=CFE254DC711C47586CECF43ACD5326A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-002-004-living_room-1499x1000-72dpi.jpg?as=1&w=494&rev=edb986e0e85f49cdae79c3cf159b7a37&hash=FA8ABFE728BF5E8E078C20ABD8DA0580",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-003-002-living_room-1499x1000-72dpi.jpg?as=1&w=494&rev=120ce019a14e4a8fa6ad5ea78f05d079&hash=B3663C6750FF7F7F86025413DDE71B39",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-004-003-dining_room-1499x1000-72dpi.jpg?as=1&w=494&rev=1cbfd6836f4746b4b24173726c915247&hash=2470DA7B0DF758B60DB6D71AC9A3642F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-005-005-kitchen-1499x1000-72dpi.jpg?as=1&w=494&rev=3a6fcfd039ba4a539131635c74b9ac94&hash=C856083979E4354B0AF0A3F8C13BAE88",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-006-006-kitchen-1499x1000-72dpi.jpg?as=1&w=494&rev=f5443588052b470196d93666bdc706ef&hash=1B66AD5F3C2BF3E8EBA79AF76EFD4918",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-007-007-master_bedroom-1499x1000-72dpi.jpg?as=1&w=494&rev=74d3a413bcc74c6da027dd68d0f6c87c&hash=DC87314EE1A9A76273D5937112ED8CFC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-008-008-master_bathroom-1499x1000-72dpi.jpg?as=1&w=494&rev=55e55f0518e04049aa2e67c03ef00283&hash=5980481E61831816A6B9FA5F4C183BAA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-009-009-bedroom-1499x1000-72dpi.jpg?as=1&w=494&rev=1150dda9fee149fbb813e2788f4d70cc&hash=2F3B51180D1AA7AE776CBAAD9BA2526A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-010-010-bedroom-1499x1000-72dpi.jpg?as=1&w=494&rev=3714fc1f5daf4c9eb7749fa619e8f679&hash=F009549C4C3168A6B7A7C96553D66B09",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/3560_crimson_clover_dr_mount-large-011-011-exterior_rear-1499x1000-72dpi.jpg?as=1&w=494&rev=3e307d4a7872419d8c125961a03dfe50&hash=6F8D0206E0835D98655C8BF666B48337",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-oaks/345520000-fountain-oaks-50s/4eab/aria_l_web.jpg?rev=6d2d3d8835604bf59b6efa7aef58d3c6&hash=36627C5F8171F98A58C6CECB00D3B107"
+      ],
+      "name": "1327 Lawndale Court",
+      "plan": "Aria",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1327-lawndale-court",
+      "id": "1327",
+      "address": "1327 Lawndale Court",
+      "price": "$364,990",
+      "beds": "3",
+      "baths": "2",
+      "sqft": "1672",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4eab/0128-1327-lawndale-court/aria_l.jpg?iar=1&sc=1&thn=1&w=425&rev=8cfd79b3a6244e779f6b38a535ea543e&hash=33AAB9A43F3E25AEBC5AE7A740D9859F",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---01.jpg?as=1&w=494&rev=e86f61e9d63448ca9ac7d560354451e1&hash=94E69FAC16E9545305CFDDC09A11F4EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---04.jpg?as=1&w=494&rev=7e5ab741c42043bdb249b1e75f1d4e4d&hash=572CC9D385089A30EA22CBDFF9A69E2A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---06.jpg?as=1&w=494&rev=94006c113b4b405690df067c014de49b&hash=BDB9E227DB8DDAD14E6615B78AB74054",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---07.jpg?as=1&w=494&rev=752be839b8bb4c3eb7c9eeb4381dbebf&hash=67AFB097D1FE68D10B4AFFA04002E8FC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---08.jpg?as=1&w=494&rev=84b91a7cc89b4f2e82dc57e15d80c853&hash=E181F67FA2C64F3BDF43D62FD320E49B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---09.jpg?as=1&w=494&rev=7814f8a242854cfda62221292979e502&hash=83F9F844867F82D8B48441F3D7F93A42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---10.jpg?as=1&w=494&rev=c1cb8e966e0a4351b0decdd8ceb8eccf&hash=69449E69F69B0711394F6848FCF29617",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---12.jpg?as=1&w=494&rev=071577db58ed4f32a68d2e0af3630730&hash=AF50E14FE36BB2B1B9675CD4879EE9F9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---13.jpg?as=1&w=494&rev=f2155217313e43ccb6e94dd9362cac22&hash=44A3F3BD4EF0D030D1387FAD2DAC9EC1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---14.jpg?as=1&w=494&rev=fc709e07590c409ab98898b782ea1aa9&hash=BCB34EFDCDF29C04E98466B3B2652D15",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---15.jpg?as=1&w=494&rev=363b3aea070444eaaab77ef9e18055c7&hash=AD3DFBFB61B499195BDA0B433F03B926",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---16.jpg?as=1&w=494&rev=996755795f6046cdbf74281b726045ca&hash=5A95AF05A3C5FB57B8744D18AC18C18B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---17.jpg?as=1&w=494&rev=04be4b81594d4b69a42533640ca2f489&hash=FD884C1759D6E19CF37A9F7F9B75F87C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---18.jpg?as=1&w=494&rev=48f6789fe4364808a631ceb1c150a7e4&hash=F4A9A9D3381F8BFF954DCCEFD501B260",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---19.jpg?as=1&w=494&rev=1a813a27e1c84e8680a109459f12c8e6&hash=130CD6BBD5CC3312862CC8921B8707A0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---20.jpg?as=1&w=494&rev=72b851095afc405eb09b851f42d79ac9&hash=3D44B440295E8B13A3CA2581F693F7CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---21.jpg?as=1&w=494&rev=30dc61f72c5d4bb98a6fb1e0f85bcf66&hash=6314B5CE56FD513B9BC0524EF6C9AC34",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---22.jpg?as=1&w=494&rev=a84032674946419d984e3102163d22ef&hash=A9341FD442193602247925B0DC95DF80",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---23.jpg?as=1&w=494&rev=74f30d3cf9ad4f0f9d25b71500823585&hash=94E2A01A792EE228AF2CDAD1832E4429",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---24.jpg?as=1&w=494&rev=2dd882cff82a4b95bd565cccf92c538c&hash=8F22A11BDC5035C8916FA4ADA85F2145",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---25.jpg?as=1&w=494&rev=59d9e04d1ffe4dc09a7148a8c3245a9f&hash=F2D5D59859A17F031BA09E9397B804EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---26.jpg?as=1&w=494&rev=1ea7ccb0096e4c2b80c9d124dbd82ce9&hash=5BD1A46A50681BAA51BEBB2DC2B63AF7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---27.jpg?as=1&w=494&rev=27942bd357f748e295d43a941edce389&hash=C78CE619A2D232BCDF1A2F1E90E9E762",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---28.jpg?as=1&w=494&rev=b7a1696d70e5455598dd82855ebba28c&hash=7DB6EB833F28BA6EB58A9508B48D13D8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---29.jpg?as=1&w=494&rev=6206b662a32742cbbbb3e636b69d06aa&hash=2EC3CD78F7F694D17B57E139F44E77EC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---30.jpg?as=1&w=494&rev=fa03ff687bf94536b89e85596ad4dc40&hash=2B1528AD9E218B7440A1C0E2F9D11CC5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---31.jpg?as=1&w=494&rev=b471bb46dc4d4a0bb319e0666a269f2c&hash=502172AE0582D1B1B6B688C959A224FD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---32.jpg?as=1&w=494&rev=2b945e10f4ea424a8015c8fa0f5c7c1e&hash=B59FEB9F6B4CC9E75AE1749729E18F0D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---33.jpg?as=1&w=494&rev=78c096e29df34d64924e7bc610b94f5e&hash=0B3B8FB3B85E2F2277CB11E1439B4D89",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---34.jpg?as=1&w=494&rev=fdb4f05bcd174a55a5c0daa0f929d83f&hash=D63B3493AA0949DF76DEC835BF06C4FE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---35.jpg?as=1&w=494&rev=0a53b51db6f649b0a5a9c5c912bed386&hash=8ADD2722FF69077C0E688291BAEB49AE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---36.jpg?as=1&w=494&rev=da3ec2c532dc4d12acfec4852f1951a1&hash=E8A51F34B3E8AC298BDE4B2ECCDA7680",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---38.jpg?as=1&w=494&rev=ada3a6901bfe4f9dbc2de00d15a1ca95&hash=B3E1B354C55254EFFBFAA646107EED05",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---39.jpg?as=1&w=494&rev=b3aa224f66b745659d51cf4a5744b4de&hash=1815789BDEF32687873C8ACF667EC239",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-oaks/345520000-fountain-oaks-50s/4ebb/cali_m_web.jpg?rev=dc43fcd47e3e49748c4f125f7fb056e1&hash=2150A1CB37DBE910232A1506E8B7DDB4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1247 Big Bass Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1247-big-bass-drive",
+      "id": "1247",
+      "address": "1247 Big Bass Drive",
+      "price": "$377,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0057-1247-big-bass-drive/1379-fountain-view-drive--ormond-beach--fl-32174---01.jpg?iar=1&sc=1&thn=1&w=425&rev=e86f61e9d63448ca9ac7d560354451e1&hash=785660B818AFA7B157E30D92A659F74A",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/1-1-caliexterior-elevationm.jpg?as=1&w=494&rev=409aafd04b234e34a8456c9f0afb1866&hash=FA54B377366C7770358387C6B2B6068C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---03.jpg?as=1&w=494&rev=aff28105208e403695ae22c5853f5ead&hash=97B87DD8A121704F88C3B5C90380EB3F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---07.jpg?as=1&w=494&rev=0cece43e570249ea82479eece84ead0f&hash=82FE4F8BEE8EC6BFD319BE2FD6088020",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---10.jpg?as=1&w=494&rev=91c249d217b44ff4b0b09380240552c8&hash=FDAC645C930AD902C598DD96B8668F3D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---14.jpg?as=1&w=494&rev=0e8cdea450a44d829d037b8de4ad5e96&hash=EBFD051A7497A91724C37E3545425333",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---16.jpg?as=1&w=494&rev=e78c54c7b66b49109d9e42589f2ef027&hash=5FA8970B84778479F2E4B72561DDF7B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---18.jpg?as=1&w=494&rev=6125293120c34076a76a5bb08678096e&hash=B2EB853769275D63F79B0D6F20D8B265",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---21.jpg?as=1&w=494&rev=5e681ba70f6f41728d2f8e159b843370&hash=41DF7AECC9390A4E585D2484CA8FFF20",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---26.jpg?as=1&w=494&rev=6fe2b65f0dbb4e9ba26d77413b748c31&hash=F0EAEDC2D527478DE69CC7F433D20D84",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---30.jpg?as=1&w=494&rev=45a068186a7d4f7bac4bfb183a94a5cd&hash=D9E5BD66EF7C03D1C7B67FB28C5128EF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---34.jpg?as=1&w=494&rev=31351c1201014737ad2473dcaabf450d&hash=9270EB223578C468FB922C5EE481E30D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---35.jpg?as=1&w=494&rev=6ed897426d7a4d74adcea2c39a1fb0ee&hash=5C2C77F52B9385E530753F7CC0478B1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/5277-hayloft-drive--apopka--fl-32712---38.jpg?as=1&w=494&rev=8a64037ca06a407db5fb0bd80bb9cd19&hash=061B05257E469E48C4DB2F1E361FBF92",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-oaks/345520000-fountain-oaks-50s/4ebb/cali_m_web.jpg?rev=dc43fcd47e3e49748c4f125f7fb056e1&hash=2150A1CB37DBE910232A1506E8B7DDB4",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1244 Big Bass Drive",
+      "plan": "Cali",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1244-big-bass-drive",
+      "id": "1244",
+      "address": "1244 Big Bass Drive",
+      "price": "$384,990",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1828",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ebb/0040-1244-big-bass-drive/1-1-caliexterior-elevationm.jpg?iar=1&sc=1&thn=1&w=425&rev=409aafd04b234e34a8456c9f0afb1866&hash=7AD6AE2A9C468DFE8B6F57F54C4FD388",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0001-1360-morning-walk-drive/madison_ele_h_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=a1f4d35bf44243c5ab840447380bfeff&hash=3244B5F67E6113679E4BC5D2A18D4173"
+      ],
+      "name": "1360 Morning Walk Drive",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1360-morning-walk-drive",
+      "id": "1360",
+      "address": "1360 Morning Walk Drive",
+      "price": "$401,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0001-1360-morning-walk-drive/madison_ele_h_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=a1f4d35bf44243c5ab840447380bfeff&hash=3244B5F67E6113679E4BC5D2A18D4173",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0034-1351-morning-walk-drive/madison_ele_g_3car_cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=342d78589b3c4d79b85f621ee86b2f2d&hash=F78D8A47BE978239633A55E13D8E9D20"
+      ],
+      "name": "1351 Morning Walk Drive",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1351-morning-walk-drive",
+      "id": "1351",
+      "address": "1351 Morning Walk Drive",
+      "price": "$409,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0034-1351-morning-walk-drive/madison_ele_g_3car_cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=342d78589b3c4d79b85f621ee86b2f2d&hash=F78D8A47BE978239633A55E13D8E9D20",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/hayden_g.jpg?as=1&w=494&rev=284210238da24d96a50c1f067bbe3a9f&hash=026537B2FABC5340717D7EC15FA397B2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---04.jpg?as=1&w=494&rev=d73718b6ee9b4bad864450fecb8c29fd&hash=67BB4CB846A257D4243D6FE4B8FF02AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---05.jpg?as=1&w=494&rev=defd96397d9e4bb99245a536692e3b46&hash=2CA4CC7067148BD07BF8D2248F56F415",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---06.jpg?as=1&w=494&rev=81a0a66577f14996b66bbe7acaaae62c&hash=ED44D445C049BC26901443334BDF2DCF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---07.jpg?as=1&w=494&rev=986f89184e29402bb4e884cb5bed5251&hash=1C36187CFF7B2CC90210A48CD931728E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---08.jpg?as=1&w=494&rev=89e5d83ad7f14579840e29e099291fc4&hash=326EC424B3ADFCD1DE19A35F219DDD93",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---09.jpg?as=1&w=494&rev=ea6c1ca141e340a3a1d6fd41fcd91ebd&hash=F03CA2AB060F2B5A46C9E9EC7982746B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---10.jpg?as=1&w=494&rev=64ae16034ed045a5892efa2cada1959d&hash=544165DB8359C0DB6D00B1B6DD5FAC55",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---11.jpg?as=1&w=494&rev=c4d724e910a744b284e30f101d022487&hash=53F366322292DA1456901EB924DF1432",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---13.jpg?as=1&w=494&rev=86aed97d8abe43748cd69293d285f7b5&hash=8F93250A431A09FDACA559F2AEFA1714",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---15.jpg?as=1&w=494&rev=1c379eb33f8b4b5e9c7320871bf25373&hash=68C6718CB9829319FBD6E7D6A7F3275E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---16.jpg?as=1&w=494&rev=f25f6aba12bc4bea8cc507fe6d810fb4&hash=72A1F981947962A19D1045AF9988D37E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---17.jpg?as=1&w=494&rev=5c9c0f93d95a42afa910eb5d26a3b997&hash=7A95FB13B447C0A665ADF3264A9E14C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---18.jpg?as=1&w=494&rev=8a7b7d2b5c454fb4b15a6a70b3361c6a&hash=DBCB9F54C5AAF5E5FF77D2730083BAA0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---19.jpg?as=1&w=494&rev=84453c7c5cde4a81b2bb94136839ee43&hash=0455C3C93222744AFDE550014BDE9FD2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---20.jpg?as=1&w=494&rev=bf1eabf2fd064208b1f72c89f2600d5e&hash=30DBF4EE48AEC450DB4306B149FC34A9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---21.jpg?as=1&w=494&rev=3648fa38ba07428fb1ad96de85834360&hash=C0EB2EE191A8A17A838B44A9274B91D4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---25.jpg?as=1&w=494&rev=0d86580fdaa94f4089cdbfac9ddf8758&hash=ACEB3D47020F2C487A75840C53F89311",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---27.jpg?as=1&w=494&rev=6f607b762b404a43a99d34dc933d839e&hash=96897968C75491C50BBB9FE3883EA1A6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---28.jpg?as=1&w=494&rev=c387ba78b02a4f03a3301989d6ebc58a&hash=FF203A4DDB68EA80BBB82E4D355325F7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---29.jpg?as=1&w=494&rev=89dd990297c34e6babba89b61e94fadf&hash=769B0219E679A95AF3BB33C11F286ECA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---30.jpg?as=1&w=494&rev=5aa2ca6e43534141b80cc5cd06c44e4e&hash=8ABE9CBC0FAF5DB84EAA9B87A53C48F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---31.jpg?as=1&w=494&rev=a73d095f7107416794b9eb6a909dfba7&hash=ECD96B3CD5C176A27F28BC6C896D8505",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---33.jpg?as=1&w=494&rev=910747ea25eb415997c3c92982ac58c4&hash=61E4006042ACE83244625B37E54E9C2D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---34.jpg?as=1&w=494&rev=782b813b98a94fb7a1d1827b0c687212&hash=A83916868D82851AA5C3128104546144",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---35.jpg?as=1&w=494&rev=c4482735b0b540d88b54f263269a24c3&hash=F940A0FFB5454B50095DE3D6F6BA5F91",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---36.jpg?as=1&w=494&rev=c6a9a3302d0c4116869df97b37cc72b2&hash=F480884C074EEB456215279D53A66650",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---37.jpg?as=1&w=494&rev=f5109b0911194e5a921384af67efb970&hash=07A81A20250D7575D0A27C9A8CD7E755",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/1375-fountain-view-street--ormond-beach--fl-32174---39.jpg?as=1&w=494&rev=ef84cde04e2c408b9ae19d647a023bdb&hash=66B70D7CD506342C0EDD4E10217E4A48",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1319 Lawndale Court",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1319-lawndale-court",
+      "id": "1319",
+      "address": "1319 Lawndale Court",
+      "price": "$416,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2601",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0126-1319-lawndale-court/hayden_g.jpg?iar=1&sc=1&thn=1&w=425&rev=284210238da24d96a50c1f067bbe3a9f&hash=D4035F03B1508C5BE974F505137FE70E",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0031-1363-morning-walk-drive/denham_ele_h_3car_cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=c5e2f844385e416db6820513347d814b&hash=7BF46F1FB6B286B8389453C91F7B63AA"
+      ],
+      "name": "1363 Morning Walk Drive",
+      "plan": "Denham",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1363-morning-walk-drive",
+      "id": "1363",
+      "address": "1363 Morning Walk Drive",
+      "price": "$421,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0031-1363-morning-walk-drive/denham_ele_h_3car_cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=c5e2f844385e416db6820513347d814b&hash=7BF46F1FB6B286B8389453C91F7B63AA",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0432-1487-fountain-view-street/madison_ele_l_with_stone_cs4.jpg?as=1&w=1280&rev=c262dd05ce344361a6ec9f8c6d9ff210&hash=FBF8030C55E1B51EFB172E474152FF8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/madison_ele_l_cs11.jpg?as=1&w=1280&rev=276336694f304837b2a7bf34e3179a11&hash=FC24D36B7F8F7026B231475B87EC51E6"
+      ],
+      "name": "1487 Fountain View Street",
+      "plan": "Madison",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1487-fountain-view-street",
+      "id": "1487",
+      "address": "1487 Fountain View Street",
+      "price": "$426,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2020",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/5emb/0432-1487-fountain-view-street/madison_ele_l_with_stone_cs4.jpg?iar=1&sc=1&thn=1&w=425&rev=c262dd05ce344361a6ec9f8c6d9ff210&hash=5C679BECAF91E10353E88B40B0345E24",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---01.jpg?as=1&w=494&rev=95c0be5f1dfd422193333616f7337988&hash=8B75C8C7F8BE194CF1229CD24B35ECC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---04.jpg?as=1&w=494&rev=e85439bd2a6d448e96d6b0fabcde3e9d&hash=3563E838770A9C26C5E5E5F278AB72AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---05.jpg?as=1&w=494&rev=d2401ffc386a4823853684e6c79a6efe&hash=A5518A1D05DA24D3686DE143CFC47F35",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---06.jpg?as=1&w=494&rev=6397e00e702541b6877d2ce1ef45bb81&hash=923F4BFA20AEC5AC4DA190D82EB4C8AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---07.jpg?as=1&w=494&rev=8b973e13c64e49d6ac2c65bb39957503&hash=734724F0E39C5025D8EA6C94F783C7AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---08.jpg?as=1&w=494&rev=81db3e08491f48cfa0c6db9c632ddb99&hash=C61D19288182D1383E61EA5D0481B2FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---09.jpg?as=1&w=494&rev=329d2ec8392348949647e8b99b503b74&hash=A0876D569FC3B65496E041D5CC64070D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---10.jpg?as=1&w=494&rev=db7f229a416f418d921a95c2bbd8058f&hash=5BDA17C0790214D18632CE08A85F1A6A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---11.jpg?as=1&w=494&rev=c7e0fd8cae4c479780dd3a81c92ec5cb&hash=66C7BD087C4026C4AC5A6EC95253D14C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---13.jpg?as=1&w=494&rev=9382cee0df0747c182f217d64fea7e3b&hash=766506E4F2DCC8577CCEC1B7FD3B7A7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---15.jpg?as=1&w=494&rev=61ca4e231bca474bbe74661303ade818&hash=ED4E1DCF2F3E67E6929F5DD37E15FCD5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---16.jpg?as=1&w=494&rev=f54bb3fb8fb94dd4a3dbe4f8b1b12c09&hash=94F5B356ED326493ACBCA9F52B150FD8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---17.jpg?as=1&w=494&rev=d6b8b645913045239d998790b545487f&hash=04E4140C1EBB394072E5B0DA4657DCBF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---18.jpg?as=1&w=494&rev=9b811ee75c02430eaaeb77104df16852&hash=CD9C2184C64A56DCAE00F912F1DE9B50",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---19.jpg?as=1&w=494&rev=c8029036c05d446a9ae31ae246ddf786&hash=C64B2CCAF6951BFE63693C5D30E51E7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---20.jpg?as=1&w=494&rev=d3f49becef9f41daa6ecada5459f86c0&hash=9EAA37CDAFA254523BFFE8B5FDF62F8D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---22.jpg?as=1&w=494&rev=a32eb7dc381242ef9ec6c67e13638886&hash=767CADD0F8616CBEFBD158C06DE258F8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---23.jpg?as=1&w=494&rev=f56094d660bd488eba4837fc18479f7c&hash=4A8F93D1976B78CED93E96D7804B453C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---24.jpg?as=1&w=494&rev=610e719465ef451cad6c5d395eb1ad74&hash=3A225D02C13DAE496FB3431A6E05EA2F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---25.jpg?as=1&w=494&rev=3f87b3c0b31748beb8fb486a1632bbfe&hash=969A6F004F87B3FC21E8987FF15BEDB7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---26.jpg?as=1&w=494&rev=140b6b544a614fcb99415c08dc2ceeb7&hash=F59F0939517D94CABF05A3D922F73796",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---27.jpg?as=1&w=494&rev=14300c4f2ffa44c8952b47c95c4a9012&hash=25EBE0A2260CE99EFC75765B4D37D563",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---28.jpg?as=1&w=494&rev=7dd9ed1d0e3e4839ae7ed02531e1439e&hash=40210AD0300652F5AE197D272D3AC396",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---29.jpg?as=1&w=494&rev=4b6bd61981f944f68915130ac655179d&hash=87AEB2EAA913AD167E9524B7DF746873",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---30.jpg?as=1&w=494&rev=ec2c5d4cae7b465a80d2987178bcdd91&hash=35859BB7F446E18DBB14FAE60C401C1E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---31.jpg?as=1&w=494&rev=b1a8fd857370461ca9c49fd595762d24&hash=0A45886F3E0A05EC53DAEB8DB075DE40",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---33.jpg?as=1&w=494&rev=d148ecc5bdb44410bd4f79b385ec458d&hash=5181A0DDFD10B5502B2931F01B6AC096",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---34.jpg?as=1&w=494&rev=1e712ad8ece04d6cad0577b3756f95c6&hash=6C26F6D980705695234EBB975927C6B9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---35.jpg?as=1&w=494&rev=148f3f3a21604f49936d6f5ed04897ab&hash=3D70F4239A0F1FA87EF6349903B10350",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---36.jpg?as=1&w=494&rev=15bb6cdac379461d9b2d9882683df9ac&hash=EDC498DC71098B6354A4AA744E51779E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---37.jpg?as=1&w=494&rev=842cac963a1640349e8aa3470a5e1ee0&hash=D93228E8EC672EC88CB3D52E85D55F11",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---39.jpg?as=1&w=494&rev=1881fc6484c9442da652cb99448c0d85&hash=F441B4D7DB17B204A977EAB786ECE92A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/hayden_floorplan.jpg?rev=4f6e3607b3a643a6b737d2e3bfca7302&hash=B8D6BFFFD1B59E13393CC1223CC33578",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-north-central-florida/34552-fountain-oaks/345520000-fountain-oaks-50s/4ehb/hayden_h_web.jpg?rev=e7b99d7e082d4980a8997d6d6352e2ac&hash=E4C2B5ED846A0976D2DFBAE02B66AEC8",
+        "https://www.drhorton.com/-/media/Files/Galleries/VideoDefaultImage.jpg"
+      ],
+      "name": "1495 Fountain View Street",
+      "plan": "Hayden",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1495-fountain-view-street",
+      "id": "1495",
+      "address": "1495 Fountain View Street",
+      "price": "$427,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2601",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345520000-fountain-view-50s/4ehb/0282-1495-fountain-view-street/1375-fountain-view-street--ormond-beach--fl-32174---01.jpg?iar=1&sc=1&thn=1&w=425&rev=95c0be5f1dfd422193333616f7337988&hash=DE7E24CF65A229753B63B7CE14FD3B50",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0002-1364-morning-walk-drive/denham_ele_l_3car_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=44d712c16bc94f928830b3ee4f26f75f&hash=8C25656EE1C226F17A469CEA6DE3D400"
+      ],
+      "name": "1364 Morning Walk Drive",
+      "plan": "Denham",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1364-morning-walk-drive",
+      "id": "1364",
+      "address": "1364 Morning Walk Drive",
+      "price": "$431,990",
+      "beds": "4",
+      "baths": "3",
+      "sqft": "2336",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e501/0002-1364-morning-walk-drive/denham_ele_l_3car_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=44d712c16bc94f928830b3ee4f26f75f&hash=8C25656EE1C226F17A469CEA6DE3D400",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e502/0032-1359-morning-walk-drive/covington_ele_g_3car_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=d5aadd5095784c628cbe8871ea18a9fd&hash=D11D4563A5521F186D91E7FCB4176B2E"
+      ],
+      "name": "1359 Morning Walk Drive",
+      "plan": "Covington",
+      "url": "https://www.drhorton.com/florida/volusia-county/ormond-beach/fountain-view/qmis/1359-morning-walk-drive",
+      "id": "1359",
+      "address": "1359 Morning Walk Drive",
+      "price": "$434,990",
+      "beds": "5",
+      "baths": "3",
+      "sqft": "2490",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/346-orlando-north/34552-fountain-view/345560000-fountain-view-60s/e502/0032-1359-morning-walk-drive/covington_ele_g_3car_cs10.jpg?iar=1&sc=1&thn=1&w=425&rev=d5aadd5095784c628cbe8871ea18a9fd&hash=D11D4563A5521F186D91E7FCB4176B2E",
+      "latitude": 29.35577,
+      "longitude": -81.12415,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Pine Trail Elementary School",
+          "type_and_grades": "Pre-K-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Ormond Beach Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Seabreeze High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

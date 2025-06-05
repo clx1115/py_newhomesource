@@ -1,0 +1,125 @@
+{
+  "timestamp": "2025-06-05T04:06:30.946175",
+  "name": "The Trails",
+  "url": "https://www.drhorton.com/florida/north-florida/palm-coast/the-trails",
+  "status": null,
+  "price_from": "$261,990",
+  "address": "128 Redbud Road,Palm Coast, FL 32137",
+  "phone": "(904) 467-7595",
+  "description": "Find a new home in Palm Coast, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the North Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33799-the-trails/337990000-the-trails/01_harper_main.jpg"
+  ],
+  "location": {
+    "latitude": 29.58994,
+    "longitude": -81.26196,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$261,990",
+    "sqft_range": "From 1,722 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Gated",
+      "description": "Gated",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Harper",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/the-trails/floor-plans/1722",
+      "details": {
+        "price": "From $262s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,722 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/335-north-florida/33799-the-trails/337990000-the-trails/1722/01_harper_main.jpg?as=1&w=425&rev=fa7d21d51e534cd7a7155fdf88b49a0c&hash=135D44D79FCEA35155BBBD35F66BF2C6"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33799-the-trails/337990000-the-trails/1722/1722harperfeb2025.jpg?rev=aa3ad0fd0c294d299945f34d49769d91&hash=1E6DF1AF05727FD2F6C2813A1AC20E58"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33799-the-trails/337990000-the-trails/1722/1722harperfeb2025.jpg?rev=aa3ad0fd0c294d299945f34d49769d91&hash=1E6DF1AF05727FD2F6C2813A1AC20E58"
+        }
+      ]
+    },
+    {
+      "name": "Keaton",
+      "url": "https://www.drhorton.com/florida/north-florida/palm-coast/the-trails/floor-plans/1795",
+      "details": {
+        "price": "From $281s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,795 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33799-the-trails/337990000-the-trails/04_keaton_main.jpg?as=1&w=425&rev=417f45c60dbd447ca227c6088a2c777a&hash=1EB2615A3A666D4869196CCEDE04CBA2"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33799-the-trails/337990000-the-trails/1795keaton_rev_apr2022.jpg?rev=e0e0ffe4baf24e2b87894fc6074e87ae&hash=C279EA724F5EA7999A0067D05834FFA6"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/340-jacksonville-south/33799-the-trails/337990000-the-trails/1795keaton_rev_apr2022.jpg?rev=e0e0ffe4baf24e2b87894fc6074e87ae&hash=C279EA724F5EA7999A0067D05834FFA6"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Belle Terre Elementary School",
+          "type_and_grades": "PK-6",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Indian Trails Middle School",
+          "type_and_grades": "7-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Matanzas High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

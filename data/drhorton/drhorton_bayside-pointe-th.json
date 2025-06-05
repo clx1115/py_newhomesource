@@ -1,0 +1,439 @@
+{
+  "timestamp": "2025-06-05T13:16:49.284238",
+  "name": "Bayside Pointe",
+  "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th",
+  "status": null,
+  "price_from": "$397,000",
+  "address": "802 Flash Drive,Clearwater, FL 33764",
+  "phone": "(941) 260-1991",
+  "description": "Find a new home in Clearwater, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Manatee Sarasota area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/12.jpg"
+  ],
+  "location": {
+    "latitude": 27.9567,
+    "longitude": -82.73547,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$397,000 - $434,340",
+    "sqft_range": "From 1,673 Sq. Ft.",
+    "bed_range": "3",
+    "bath_range": "2.5",
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "Nearby Grocery Stores &",
+      "description": "Nearby Grocery Stores & Shops",
+      "icon_url": null
+    },
+    {
+      "name": "Stainless Steel Appliances",
+      "description": "Stainless Steel Appliances",
+      "icon_url": null
+    },
+    {
+      "name": "All Concrete Block Construction",
+      "description": "All Concrete Block Construction on Both the First and Second Floor",
+      "icon_url": null
+    },
+    {
+      "name": "Minutes from Local Area",
+      "description": "Minutes from Local Area Attractions",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/floor-plans/1674",
+      "details": {
+        "price": "From $402s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,673 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/9.jpg?as=1&w=425&rev=486ca15a6f2c4656b4654b9ded6e9e7b&hash=80EDE7B1A997E6877484108575EA253F"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=cf76f1e04df142f189033b507a062801&hash=3E86E5070BB821A3F61FA098B1F44227"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/fl_west_florida_dr_horton_express_multifamily_glen_block.jpg?rev=cf76f1e04df142f189033b507a062801&hash=3E86E5070BB821A3F61FA098B1F44227"
+        }
+      ]
+    },
+    {
+      "name": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/floor-plans/1759",
+      "details": {
+        "price": "From $425s",
+        "beds": "3 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,758 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/9.jpg?as=1&w=425&rev=4ba033e0fb6a484c95b8d4c46fac97e0&hash=17629102AB4CEF84B5859BFDD36CAA33"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=1d8cf4211be74624aa45d53ec39aeec3&hash=81D2BE12B3958D3836A49C81CD5E5AEA"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-tampa-south/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/fl_west-florida_dr_horton_express_multifamily_vale_block.jpg?rev=1d8cf4211be74624aa45d53ec39aeec3&hash=81D2BE12B3958D3836A49C81CD5E5AEA"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/6.jpg?as=1&w=494&rev=343158e8644f47f9933dc9a5f3c2fd6a&hash=B80A6B5CC43C571740C51B14A65E2661",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/7.jpg?as=1&w=494&rev=f192c286f3784a4b99f19aba8f2f7a1d&hash=AB54DEE4A7BCF1113510EEF94EA02E6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/8.jpg?as=1&w=494&rev=e1dfad2fe6c944f39777e56631542c39&hash=FEB703136694AD0193634EF6A136452E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/9.jpg?as=1&w=494&rev=b5c685047ad84f6bb51a90731d88ebbe&hash=EFA89393E2747B155840306A97E405EB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/2.jpg?as=1&w=494&rev=fe3b7e49e11a4a01b1bf4e6aa97d662c&hash=619B243B1219393B92484C3CF73056E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/3.jpg?as=1&w=494&rev=744e4bc740b8406e826c54a2776fe2ba&hash=018D50F733ACFF3F1AF4544A272FDB86",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/4.jpg?as=1&w=494&rev=e1a26a8f58d94ec2b60ab3d7f02ce817&hash=A0D51A5924A5457E3E54D05F0B3CA4E3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/5.jpg?as=1&w=494&rev=80a83c7a19da4a40b06e1d47d93061a0&hash=EC554902DA51DA1DF5ECF3FA4BCE4364",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/10.jpg?as=1&w=494&rev=d5db82518c1b47e6930869a3eb9d78b5&hash=B76C8AF4DC74D4758FD96B980723841C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/11.jpg?as=1&w=494&rev=8a8eaa6c7c8942c8a62caccbaff03fd8&hash=1E417AA145C6239C281756131EDDE5B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/12.jpg?as=1&w=494&rev=32eeb8d9f77b4357a007c3330aeb7441&hash=A656E04ACC7C25A28828009E01CDED47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/13.jpg?as=1&w=494&rev=f3c39e05ce484efe9ae5269e5f7c42ef&hash=65B61F452DB5B5684ADE5BFFE874720C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/14.jpg?as=1&w=494&rev=ef1c10dd55304eb0b9fa607c6a831bde&hash=CBE7A670FE7D0F0574AAAD1434DAF004",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/15.jpg?as=1&w=494&rev=db2bc49fde324e74b677b9bea22cc03d&hash=80D7A160507E8DCDF72EE2924C1D63A7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/16.jpg?as=1&w=494&rev=4b233b4504974838b788b6949f35f980&hash=5727DAEB85E47E0D84C64DC1A9ED4761",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/17.jpg?as=1&w=494&rev=9a03afad6ab148ca8ebce4e1323f511a&hash=89D52F3090C265FDEC88053EEAD51F99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/18.jpg?as=1&w=494&rev=a072636f915444cd8bff6ef3dbe27d84&hash=8DA1C6617CD7D6DF9D78250CF9B5C314",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/19.jpg?as=1&w=494&rev=625b9ce4abec4aedb3ca4802df62b658&hash=FB1C5DCAA54D48D033BC0BE29C27F63E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/01.jpg?as=1&w=494&rev=77d29525317346889d10d1614e5ac40a&hash=D8121A2C472559B9B1144767761C53A5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/00.jpg?as=1&w=494&rev=1090a5e2791b483998f092df917027a5&hash=5C29B1D5C0102D568874F5F9001AE7D7"
+      ],
+      "name": "2457 MELLOW LANE",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2457-mellow-lane",
+      "id": "2457",
+      "address": "2457 MELLOW LANE",
+      "price": "$434,340",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0012-2457-mellow-lane/6.jpg?iar=1&sc=1&thn=1&w=425&rev=343158e8644f47f9933dc9a5f3c2fd6a&hash=6620D3C0D8BB853501727CCA752D2CE4",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/6.jpg?as=1&w=494&rev=5394031db6de4fecba2d36e53f9287f5&hash=4A7E5CFB517AFED095C01F480189E4B7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/7.jpg?as=1&w=494&rev=82f3ddacfc3f4aaf8f44bf0d7d1fbf7b&hash=B636A9817363266D44495EE59116D785",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/8.jpg?as=1&w=494&rev=15d6e5cd825244d2a4b51e621ee027f5&hash=63C4677DB547F8DAAA39E53ED5A2F419",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/2.jpg?as=1&w=494&rev=e4e5c3e06abb4c19a7da3b0da95788df&hash=7BB63E6B47016A68DAB3084C6079F3F1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/3.jpg?as=1&w=494&rev=2ccd386936634536aee4ee408dd08979&hash=9AB81FEF570EAB802DE73BE152F22C42",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/4.jpg?as=1&w=494&rev=328bb2ac1c214030a55596df8c96f850&hash=87B9069A992B621D4C9DCCCA3813B99E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/5.jpg?as=1&w=494&rev=565f99a25fab459f99144d05a8ccf2b9&hash=658F038C6668376ACE9908086C0A29D5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/9.jpg?as=1&w=494&rev=d7f6d6045d1349a1890385cb8a02ee60&hash=30FECF1F6DB3A0F9120A3222E813D58E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/10livingkitchen.jpg?as=1&w=494&rev=d76db64b399c424bb5d6f79ef8d9e9c1&hash=77641E88566EA7D6C757CDBEF05DDF45",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/13.jpg?as=1&w=494&rev=bec32b6f27bc4747bfecc1427e312aed&hash=D3274448AB24342705ECE944A325CA47",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/14.jpg?as=1&w=494&rev=2019dfd1481240b3bb0339b187b3318f&hash=D3F54DC8AE3AA8EAA8A4D9D7542968FB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/12.jpg?as=1&w=494&rev=39b7625c49c8413fbaa9883cf6e2160a&hash=AEA71ED5AC631AB1632647B571138DA5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/11.jpg?as=1&w=494&rev=8b211b74803e4cbbb06dbbc64f9db60e&hash=CAB6703F7E789AF075A437558B7421C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/15.jpg?as=1&w=494&rev=77227a10665042dfa912e71c9b4f4a20&hash=983A69978C13722787A2BB68CFA4EDFE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/16.jpg?as=1&w=494&rev=ce440ca547634b16b963ac4a3abe032b&hash=22F06861AD737964297BB3F94308AABF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/17.jpg?as=1&w=494&rev=b3b8d576473844698de5fa09bc2dc80f&hash=7475C0CC87DC6DFE94F1CCFF6720760A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/18.jpg?as=1&w=494&rev=f6fae5ad6bdd4ca3b120ce8707ae0e21&hash=E6BFB12575142B110B37511DB2486A3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/00.jpg?as=1&w=494&rev=54e86ee9bde341d79a22ce68fc9774a2&hash=2FA64B733B2F41E07FA6822E9007952B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/01.jpg?as=1&w=494&rev=9d1e260d05484fa0a4fec7b947303eaa&hash=E5704648AB4C0BC7379BE6440FAADC13"
+      ],
+      "name": "2461 MELLOW LANE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2461-mellow-lane",
+      "id": "2461",
+      "address": "2461 MELLOW LANE",
+      "price": "$408,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0013-2461-mellow-lane/6.jpg?iar=1&sc=1&thn=1&w=425&rev=5394031db6de4fecba2d36e53f9287f5&hash=16269EBE31979D767F08126953ADC854",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/9.jpg?as=1&w=494&rev=326f7366371445ab827879630c0c7d9f&hash=757BC7E849D6EC8E92769B6CE9093E27",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/10livingkitchen.jpg?as=1&w=494&rev=029e194d3d5b4dfbbca89922e463d0d3&hash=4C37DEAA7B5E0D769974A470D772DD1D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/2.jpg?as=1&w=494&rev=95ed5044eaa84c509458175631c243a8&hash=60AC91FE386C55F48B881CEDF4B10688",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/3.jpg?as=1&w=494&rev=256f2ab769bb4ab0b710c6b335443964&hash=3536D0B8EAB8F1A7AD9C944D565F7610",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/4.jpg?as=1&w=494&rev=16ce2ae9cb2a40598d5b227a01897571&hash=641386588C592CFCF7A51A0B729D5B1B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/5.jpg?as=1&w=494&rev=ae97f571da60421baa47cc7a2c401ae9&hash=86160ED6BF9D9437C0CC0F8EC40FF49C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/6.jpg?as=1&w=494&rev=7dbf28b1b760480abc6add66a240f512&hash=994239615AFD94D6C1BB7F393BCA300E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/7.jpg?as=1&w=494&rev=6042330e60534bf990eadd15cd2b6549&hash=C53DAF051A80561031B4D0B85FD5944E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/8.jpg?as=1&w=494&rev=743c7b6aaade436eb9e6da44779a8a3c&hash=6BCE032ABD93CE8360E38D315994BCB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/13.jpg?as=1&w=494&rev=78fdbb1302aa4849ad269527a66fa797&hash=AE8B197FA20EA0FDE4C67534C3846F1C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/14.jpg?as=1&w=494&rev=8261345f98c14812a8d41a6adebc5acc&hash=2ED8FB4A570439923991176DB9FF8DBD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/12.jpg?as=1&w=494&rev=4c4a1bfa2f2d495788992078fb25bc49&hash=482ECC9676DD0C5084389207F87C174D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/11.jpg?as=1&w=494&rev=d280a339f4e6456dbbe32c2951f97ac3&hash=12BCE13296E644B3534547A1AEA78812",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/16.jpg?as=1&w=494&rev=6eafd48f38b14b0c942c6de037e194c3&hash=B60E2FC266CBB6C0F947295CF8929929",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/15.jpg?as=1&w=494&rev=7461ff83561447e0928f7b2e89e92d92&hash=2D94D2B9AF4BB2F05DA7357FBA9168DC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/17.jpg?as=1&w=494&rev=b1f994a0dd68432393414c87f913e189&hash=2F34D2D638996D00CD4EEB7950CDBEC4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/18.jpg?as=1&w=494&rev=ccbd9ba5a95946099f9a8acf861e8dbf&hash=F348C8A0DEE24B5E0CA2A8724C07F698",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/02.jpg?as=1&w=494&rev=9c1445082295495e9645662ecdf0cc29&hash=ABECEDA3F624D2B53760281C3E3796AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/01.jpg?as=1&w=494&rev=9d663e54aa434992a16cec4aad97ad24&hash=C7E868B1238172FB56CAA7B9E3940BCA"
+      ],
+      "name": "2465 MELLOW LANE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2465-mellow-lane",
+      "id": "2465",
+      "address": "2465 MELLOW LANE",
+      "price": "$408,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0014-2465-mellow-lane/9.jpg?iar=1&sc=1&thn=1&w=425&rev=326f7366371445ab827879630c0c7d9f&hash=75C5CDCE4983BB0403E65F6D7245BEC1",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/9.jpg?as=1&w=494&rev=8b4336505fe649b0928b71d0e8f540a3&hash=A63A4839F7DEF1EA2C830D9FF4EB73AF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/10livingkitchen.jpg?as=1&w=494&rev=c1416710326e4810ac2b674022ffe5ed&hash=114ADB49D33FE58293776FC5662E0B57",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/2.jpg?as=1&w=494&rev=36912789a3a24c86a8bf156c74ed8b8f&hash=11342C328A99952E271FA16FDC2D2FAC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/3.jpg?as=1&w=494&rev=ab084db8de27448a97424c54d3da5dd5&hash=0A4AD6AF3ABC6D9FA26D7E600A236EC6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/4.jpg?as=1&w=494&rev=c0890f9b6f404750bb4f164add2524f7&hash=23D8D9FE131F99ADDFB285B1622C49D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/5.jpg?as=1&w=494&rev=9c1a85cf2dda4ddfaafeeef7a4682afa&hash=014E732409491C537FB07917FA4E69E2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/6.jpg?as=1&w=494&rev=c9f8858168f1461e82eb589d01255c8e&hash=F7236260D5DE1E61F3B6D401138973C1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/7.jpg?as=1&w=494&rev=2a6388fc7898448ba8d074072e546ed7&hash=275063030C5B191167582D16DB5F8B6E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/8.jpg?as=1&w=494&rev=e8736ed404b648219daae4be281df306&hash=4053B990FB0ECCC30B2AB356DC0DE07A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/13.jpg?as=1&w=494&rev=389561426c03405ab304a11e69eedb1e&hash=F7CA1B60DD4A268E239F3CD6B2701F61",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/14.jpg?as=1&w=494&rev=d4e8a329329e4cccac7f916aff20dfb1&hash=31AFF6E178D02458CFC07855A1E7E175",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/12.jpg?as=1&w=494&rev=ccd5e87b609c4d8685a1f9ae75647513&hash=6656635B25AC5FD9BC0593411D6BB97E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/11.jpg?as=1&w=494&rev=85a3e3c7ba0248a0bce0cdf0f4cceb03&hash=CACA76D630D9865142577ED80E691435",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/15.jpg?as=1&w=494&rev=09f42fa91b9d48deae0a6f303c7cbf8f&hash=B483D0467F3ABC3E94FE7F7EA0975946",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/16.jpg?as=1&w=494&rev=d6492f8330e44b43986bdc6fb9b83f81&hash=F7AF0B4D56457FEA62BDACDD0A887B38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/17.jpg?as=1&w=494&rev=2a27179147c7473c843ecd5352f7be61&hash=29BBEC121D0C1A64E9A44FE59268C011",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/18.jpg?as=1&w=494&rev=f0f63ba83e2c45d5af206a3135105249&hash=514E5E94B3B5E09DEE7923F588F16BD6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/02.jpg?as=1&w=494&rev=391861b819704404811ea1684563a427&hash=F48984CED9CA255A289E121B5C29C512",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/00.jpg?as=1&w=494&rev=582edded134746979cb447df746b7f23&hash=992A5D30BE33D907894BDFEE5EC8E4E3"
+      ],
+      "name": "2469 MELLOW LANE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2469-mellow-lane",
+      "id": "2469",
+      "address": "2469 MELLOW LANE",
+      "price": "$408,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0015-2469-mellow-lane/9.jpg?iar=1&sc=1&thn=1&w=425&rev=8b4336505fe649b0928b71d0e8f540a3&hash=29E04619DCA3B840D656AC35FAF164BE",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/10livingkitchen.jpg?as=1&w=494&rev=8f53fe53f54e4389aa3b4739b784b56e&hash=D553ED004FB86D7B7CE7682FF4E8D8A8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/9.jpg?as=1&w=494&rev=b328187e857246cea6f7dbd16e48410e&hash=3248B95806A9CF44A3E5EB8469ECA7AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/2.jpg?as=1&w=494&rev=32092244e1b84083ba28306d9bf4ba80&hash=5BB699752D89F86F3F00261CC6BBA64B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/3.jpg?as=1&w=494&rev=c4d63b920dd74dfe944bc708c3ba3544&hash=1AC2260E3C38398255FEFCF2C56B38C2",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/4.jpg?as=1&w=494&rev=5ef22c458edf4182bf1a3b30d182d04d&hash=0981D099593214F0AFB656BF32158571",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/5.jpg?as=1&w=494&rev=f32adb122e4c4ec3929c8450df527792&hash=B7A909357FE92E11C8D3DDE81ECC65CE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/6.jpg?as=1&w=494&rev=fbe5a598b28746c798d300fe162a3761&hash=3C604AE5228D4F64B0EF8283737EEBF6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/7.jpg?as=1&w=494&rev=9578c0f395344d4f94beb475c3fcb446&hash=9A1629D397B323FA6D359495833B6566",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/8.jpg?as=1&w=494&rev=4834dc1edbd94e629cb11483dd5f734f&hash=9875B4DBA53DBB4322816B5A98021D37",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/13.jpg?as=1&w=494&rev=f3e603f2242846b39eb321841252b327&hash=F662367E7328C3179230A785943C4637",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/14.jpg?as=1&w=494&rev=02e7c71dec1e4315b9141e112164835d&hash=22D63AFA9DDB2716190F205E31034290",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/12.jpg?as=1&w=494&rev=d5b0fc9625d44b949cac00dd85fd3e8b&hash=B6435BD02FC554EFD6997FF0C48FD534",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/11.jpg?as=1&w=494&rev=17ac096cc16c462fa19595ad6076f0d6&hash=DAA489040DC32E2567EF0CFA0C938320",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/15.jpg?as=1&w=494&rev=6d90cae99831457b89582f3b8920a585&hash=4BECF267B5765312E76587A0412AB21E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/16.jpg?as=1&w=494&rev=9f7f18a47e514b6d90c9d76a48a68f75&hash=6ACABA4D364158823E0BA9CD6088A43E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/17.jpg?as=1&w=494&rev=d5e6ee83b26846f59b832aa17e6f7971&hash=69AA6E11858E3F2A164A2ECE14F414AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/18.jpg?as=1&w=494&rev=541e13a2fce9478eb785192288471cab&hash=65209A2361C65CE4A14EE37AAEF89C5C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/00.jpg?as=1&w=494&rev=869861dd147c48198e4e6db7cb1ec5e1&hash=19E23E63AAD5E5A56662524B92C14520",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/01.jpg?as=1&w=494&rev=706202a12bb04b6db8cfb25ac30131f8&hash=20D9B9AEF7DF824D4132A7E4036E4DAC"
+      ],
+      "name": "2472 MELLOW LANE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2472-mellow-lane",
+      "id": "2472",
+      "address": "2472 MELLOW LANE",
+      "price": "$397,000",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0032-2472-mellow-lane/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=8f53fe53f54e4389aa3b4739b784b56e&hash=1EA6D49E7B34DCDA66848062217D25F7",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/8.jpg?as=1&w=494&rev=3aaf5293febc4d77b7854ecc89c00ec7&hash=9FBA01AF2A2ACB30B7A0FEE02AB71011",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/7.jpg?as=1&w=494&rev=4e5ef396d1b941c8865e4f0a2746c668&hash=FF2BE3A76E4CE3CB420726E428147FA4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/6.jpg?as=1&w=494&rev=82e1e7a18dc3429db258d5528c21baf8&hash=AAD605279FAEE5D36A17DDA1350E6D41",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/2.jpg?as=1&w=494&rev=444458bd4e3040ebbee6e995033dbf62&hash=81BD20D1FDFB9300BB78C1880D572F8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/3.jpg?as=1&w=494&rev=36aba27c90e74766abfc04b79a8afe53&hash=99303A794DC2FC2F4B555677A4DC4DB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/4.jpg?as=1&w=494&rev=81264a0a1f5a47f3bd85049aa22a7355&hash=406B1E1596E35746F09FCD4848E90107",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/5.jpg?as=1&w=494&rev=09812fe07fad4bbebda01ed0ef59d29e&hash=328623B2DC5811604FBECCB9F24F8E4C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/9.jpg?as=1&w=494&rev=1a1fed3a52ca4d06995010352f137534&hash=5F34779E2F92C03F3DF2B824F0FD9099",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/10livingkitchen.jpg?as=1&w=494&rev=f4640094ffab4f1098f3b0d1cf99862f&hash=DEB9F9DD8A0EE0150E8E6DCEFA267812",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/13.jpg?as=1&w=494&rev=0acf3edd170d44f19fb1240af3a2d886&hash=3BA0A8E408B4577FC66B696326280D76",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/14.jpg?as=1&w=494&rev=71b55254ea1146f6a58c0eea482548a8&hash=6A50185623B99648F7867175C4F3412B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/12.jpg?as=1&w=494&rev=6d561ffc3a3443a289a3d595b4be75dc&hash=1269C1CBF30EF993B4F6A776511DAB85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/11.jpg?as=1&w=494&rev=fb36c89fee974162b4dc985a76565566&hash=E0EA5A042FC2383B6DF1C60FBE2644B4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/15.jpg?as=1&w=494&rev=beaacd9a9153419eb4c3ac4ffd45c815&hash=C91214A429B049832F5B8DAC4983BB44",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/16.jpg?as=1&w=494&rev=6c409eebaf934669b67a4ed409fc0c04&hash=B800892D4D33E2B6D0FEDE2C8590F48D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/17.jpg?as=1&w=494&rev=ecb6562af57142b7ae1b1e695e67ad81&hash=43820DC341BE933643E02D1F229ABA0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/18.jpg?as=1&w=494&rev=6eec05cd424c4ab4a74ae836945f0b3a&hash=8E213DC8AFDB55B416021146BEF0282C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/02.jpg?as=1&w=494&rev=12a8fdc3be6f4cf7acb55f700e2e16b7&hash=D2E45B39B5B99FD6A6E8BF8BC197DCF1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/01.jpg?as=1&w=494&rev=fc64fa7028d64300a143b63f1043aa35&hash=CC74C1BD088346A0E78B0CFFD7F7EBAE"
+      ],
+      "name": "2473 MELLOW LANE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2473-mellow-lane",
+      "id": "2473",
+      "address": "2473 MELLOW LANE",
+      "price": "$408,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0016-2473-mellow-lane/8.jpg?iar=1&sc=1&thn=1&w=425&rev=3aaf5293febc4d77b7854ecc89c00ec7&hash=6509301EA2591935DBF0291AFC0B27E7",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/10livingkitchen.jpg?as=1&w=494&rev=83ff58ea53e64de2a72a88083d8f8ba2&hash=DC3E548201B7A7CE132357995140AD3B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/9.jpg?as=1&w=494&rev=fa55beb9b87e4487b068709a4ae5cd2e&hash=6565AE9D819F2903A29D84BB55EBB783",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/2.jpg?as=1&w=494&rev=9043446671b443e284a8fd1d968f360d&hash=F4806F9D461D478D38C09D5027B2BA99",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/3.jpg?as=1&w=494&rev=f51a24d47ddc4c0cbd4c35f176345afc&hash=B9F2D77EBEB7BA2E41C6B668178DE854",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/4.jpg?as=1&w=494&rev=fa22490c260f498aa70652ee56eacc39&hash=474E0C35B9CC597B9F8BED1C878E787F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/5.jpg?as=1&w=494&rev=fd5642b3da534d20a909d649859b13ac&hash=9E661912BC79042425D25813D3BA0FB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/6.jpg?as=1&w=494&rev=5efa7d3a543a4d41a31dce42911c8fb0&hash=B70061FDA3E3FA8A3319BF06BE31FDE9",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/7.jpg?as=1&w=494&rev=ddd6f93e50ce4c3ca1165daefc36aca1&hash=C527DB042888661B1C857FB630DBF6E4",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/8.jpg?as=1&w=494&rev=f9dacf1c572f41a39ed92caf9ecc2722&hash=4FD958046F24B4BF96099C7496BAE9B8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/13.jpg?as=1&w=494&rev=43bd3626e0f64feda8dafa9478563dae&hash=9F1F3AA2911DEF6320AEE7620FE2245C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/14.jpg?as=1&w=494&rev=43d2c6de016f4b28844c3d48b2e1ecd8&hash=1B5CCF53CE6EE8854BF8299A973AD06E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/12.jpg?as=1&w=494&rev=eda56fc8bdb04ec1a512a5e574ba433a&hash=15FE47DC835CFCB92FACB745D9EA71C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/11.jpg?as=1&w=494&rev=cd75bb6031c543af9157172d1b4d4045&hash=A90B7C0BE1D874CBA9FC473F8AAEEF85",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/15.jpg?as=1&w=494&rev=a2141d6a26924ca2aa4170afbbb288cd&hash=6A51A421C88183ECDA254CC630B37BC0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/16.jpg?as=1&w=494&rev=6cfcb42adabf4392984e9d9ac0487738&hash=5B534FDB9A1A651BF430FE367D38E28C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/17.jpg?as=1&w=494&rev=9d09807777b347d99748cc3e16692ff4&hash=5EE445D20BFF2CDDD4AE519DBE5F5DB3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/18.jpg?as=1&w=494&rev=eb1593f5c2e54fc2a414e98682d98922&hash=45D2484131ED3E937426024CEFC33CF0",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/02.jpg?as=1&w=494&rev=b909368c2d464806a1e58c252305bece&hash=4A1EF87C64896FE1DBFAD044AAC9EB7B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/00.jpg?as=1&w=494&rev=e8803330c0a847a986cef1b88584c475&hash=B588F557AFE2E66BEAE40CD524F2A158"
+      ],
+      "name": "2477 MELLOW LANE",
+      "plan": "Glen",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2477-mellow-lane",
+      "id": "2477",
+      "address": "2477 MELLOW LANE",
+      "price": "$408,880",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1673",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1674/0017-2477-mellow-lane/10livingkitchen.jpg?iar=1&sc=1&thn=1&w=425&rev=83ff58ea53e64de2a72a88083d8f8ba2&hash=6E9A79E4299D68580A85A2DF1B2083A6",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/10.jpg?as=1&w=494&rev=850748d8543b406a8ca6cb279a4c94fd&hash=B9FDB46ACF25FDA0E595EC71ECD5C4EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/11.jpg?as=1&w=494&rev=0b138992a5ea45678fba25ecb679d6f6&hash=B97F3D604E94DA5B066435FC6A4DEB8C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/12.jpg?as=1&w=494&rev=82db19f9a025435092353a4194f6ff85&hash=510B67866C49BB96E10A3B7565FE56AD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/2.jpg?as=1&w=494&rev=3d9bb10de1be4186b0e4041f91d4058c&hash=ED8F4B04015E107CB3D2B056A4D7D9DE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/3.jpg?as=1&w=494&rev=cada992d05104cad98f70aa324e56948&hash=35C0FC985D00F0008B5EE8C499C9330A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/4.jpg?as=1&w=494&rev=f21eae9e43d84c51a65294117938a022&hash=3C6B4D81DD233B3DA2DB5B68C983912A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/5.jpg?as=1&w=494&rev=a4ec2dcfad8443f981a17396bd93042e&hash=15DC41418101B8C13CCB623D9B4057AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/6.jpg?as=1&w=494&rev=be8a0256a76f47d18fb83bbd9c2ea463&hash=0F0DDBEE21FE2119FC1BF7D8446ACD38",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/7.jpg?as=1&w=494&rev=6fdf2132bf9f49e68872eb441e120c17&hash=E64B42A875F14FDEF8577766E13B0F0A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/8.jpg?as=1&w=494&rev=82723be4802b4ed6bbc9b5b0b92beaed&hash=2E4473D68B7A5E89133877020994D9E7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/9.jpg?as=1&w=494&rev=cbbc0bd9257a40019c04417f63a01732&hash=BB61D37E4288F2E113780C3E3116CB7F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/13.jpg?as=1&w=494&rev=cee42978fbd84350a1456262fb958dfb&hash=9E720987E347D2E5714CE641222F1D5B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/14.jpg?as=1&w=494&rev=f495dd94c6ff4b7fadac4fbe2322e9e5&hash=DC48193DC55C9DBE0FBAC9FDE0639C96",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/15.jpg?as=1&w=494&rev=50fe7873a9c84324b926452e46e0edc1&hash=0BFE815B12C804B67B186A8FC068424F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/16.jpg?as=1&w=494&rev=a8fdd6dd337a40c2ae0958c522c1436a&hash=DFC73C68B2EEA593D4639AA6195BFED7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/17.jpg?as=1&w=494&rev=60ed16cfda9842f59225d7a401d947ca&hash=E4E6DC6CDC9E41B3C282677EF89DE1BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/18.jpg?as=1&w=494&rev=913ba28fc80049ed915d91f54f22cde0&hash=BB5E5A0F83713ABD0A31626F6A3B992B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/19.jpg?as=1&w=494&rev=15c6132195b54cd0aa60b1df42412cb7&hash=BC687F040919F298AB72448E156EF7AA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/02.jpg?as=1&w=494&rev=ff54cdd54ebf4e73bc0603e6dffca766&hash=F3DE972F2E1E1ED1A07948C5ED2CE62F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/00.jpg?as=1&w=494&rev=249d49a80e074113aa8958be275577f5&hash=F163F4CCF3FA7A0038DFAC98F7657CC9"
+      ],
+      "name": "2481 MELLOW LANE",
+      "plan": "Vale",
+      "url": "https://www.drhorton.com/florida/manatee-sarasota/clearwater/bayside-pointe-th/qmis/2481-mellow-lane",
+      "id": "2481",
+      "address": "2481 MELLOW LANE",
+      "price": "$434,340",
+      "beds": "3",
+      "baths": "2.5",
+      "sqft": "1758",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/397-sarasota/39361-bayside-pointe-th/393610000-bayside-pointe-th/1759/0018-2481-mellow-lane/10.jpg?iar=1&sc=1&thn=1&w=425&rev=850748d8543b406a8ca6cb279a4c94fd&hash=7ADB35693910374789FA69821A5236B9",
+      "latitude": 27.9567,
+      "longitude": -82.73547,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Belcher Elementary School",
+          "type_and_grades": "PK-5",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Oak Grove Middle School",
+          "type_and_grades": "6-8",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Clearwater High School",
+          "type_and_grades": "9-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}

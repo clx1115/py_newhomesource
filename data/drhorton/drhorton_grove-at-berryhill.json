@@ -1,0 +1,48 @@
+{
+  "timestamp": "2025-06-05T11:21:05.740426",
+  "name": "Grove at Berryhill",
+  "url": "https://www.drhorton.com/florida/northwest-florida/milton/grove-at-berryhill",
+  "status": null,
+  "price_from": "$0",
+  "address": "Berryhill Rd,Milton, FL 32570",
+  "phone": "(850) 903-4589",
+  "description": "Find a new home in Milton, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Northwest Florida area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/244-pensacola-west/22828-grove-at-berryhill/228280000-grove-at-berryhill/groveatberryhill-comingsoon.jpg"
+  ],
+  "location": {
+    "latitude": 30.64005,
+    "longitude": -87.09003,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$0",
+    "sqft_range": null,
+    "bed_range": null,
+    "bath_range": null,
+    "stories_range": "2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}

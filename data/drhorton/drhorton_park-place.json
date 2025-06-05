@@ -1,0 +1,184 @@
+{
+  "timestamp": "2025-06-05T14:07:07.059914",
+  "name": "Park Place",
+  "url": "https://www.drhorton.com/florida/panama-city/panama-city/park-place",
+  "status": null,
+  "price_from": "$289,900",
+  "address": "8395 Park Place Drive,Panama City, FL 32404",
+  "phone": "(850) 600-2580",
+  "description": "Find a new home in Panama City, Florida! See all the home floor plans, houses under construction, & move-in ready homes available in the Panama City area. global",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/1-8395_pk_pl_dr-1.jpg"
+  ],
+  "location": {
+    "latitude": 30.15145,
+    "longitude": -85.54501,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$289,900",
+    "sqft_range": "From 1,427 Sq. Ft.",
+    "bed_range": "3 - 5",
+    "bath_range": "2 - 3",
+    "stories_range": "1 - 2",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Community Grilling Area",
+      "description": "Community Grilling Area",
+      "icon_url": null
+    },
+    {
+      "name": "Fire Pits",
+      "description": "Fire Pits",
+      "icon_url": null
+    },
+    {
+      "name": "Pavillions",
+      "description": "Pavillions",
+      "icon_url": null
+    },
+    {
+      "name": "Playground",
+      "description": "Playground",
+      "icon_url": null
+    },
+    {
+      "name": "Pool",
+      "description": "Pool",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    },
+    {
+      "name": "Community Mailboxes",
+      "description": "Community Mailboxes",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Aisle",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/park-place/floor-plans/3edf",
+      "details": {
+        "price": "From $325s",
+        "beds": "4 bd",
+        "baths": "2.5 ba",
+        "half_baths": null,
+        "sqft": "1,960 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/3edf/2-4436_riparian_ln-2.jpg?as=1&w=425&rev=1cd1d029da144293b4dfbd21eba32758&hash=AD703217BDE105E4DAFF3E13D36DE664"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/3edf/aisle_a_b_floor_plan_1920x1080.jpg?rev=ccfa6418ec294b7ba9430481057cb5c1&hash=A1A16A174ED5FF7ABD4BA388522CFE61"
+        },
+        {
+          "name": "2nd Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/3edf/aisle_a_b_floor_plan_1920x1080.jpg?rev=ccfa6418ec294b7ba9430481057cb5c1&hash=A1A16A174ED5FF7ABD4BA388522CFE61"
+        }
+      ]
+    },
+    {
+      "name": "The Cali",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/park-place/floor-plans/4ebf",
+      "details": {
+        "price": "From $310s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/4ebf/44-web-or-mls-park-place.jpg?as=1&w=425&rev=61e4843486f041eebbac0a031bb917ff&hash=2741C08D342548069A2975E9AC21C9A1"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/4ebf/cali_floor_plan_1920x1080.jpg?rev=0e5b3b74637e4aa3af49639eb7febd56&hash=F190036B3EA308FD882D50CEBFCDE91F"
+        }
+      ]
+    },
+    {
+      "name": "The Celeste",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/park-place/floor-plans/cele",
+      "details": {
+        "price": "From $290s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,427 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/cele/celeste_c_rendering_1920_x_1080.jpg?as=1&w=425&rev=520e4353ed324d0d9a9476bd6d4e5c7e&hash=C9F16727B8A152E91843C652A065E0D7"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/cele/celeste_c_floor_plan_jpeg_resized.jpg?rev=b5983ba6d90849038ef38c58c6db592b&hash=C0827E3C1F357062E5BD4AF72D5432D9"
+        }
+      ]
+    },
+    {
+      "name": "The Lakeside",
+      "url": "https://www.drhorton.com/florida/panama-city/panama-city/park-place/floor-plans/lake",
+      "details": {
+        "price": "From $351s",
+        "beds": "5 bd",
+        "baths": "3 ba",
+        "half_baths": null,
+        "sqft": "2,043 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/lake/2-web-or-mls-242-lawton-br-wy.jpg?as=1&w=425&rev=8782d0db7fe04e9ca59513bdb46fee6c&hash=334F3F806CC77826A6B5B20CE3672B89"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/652-panama-city-east/29902-park-place/299020000-park-place/lake/lakeside_c_floor_plan.jpg?rev=77c3b027692a4afbae118a163fba453f&hash=0ED2D7EA1072E37DAC384A2E7D7F826D"
+        }
+      ]
+    }
+  ],
+  "homesites": [],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": [
+        {
+          "name": "Callaway Elementary",
+          "type_and_grades": "Pre-K-5th",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rutherford High School",
+          "type_and_grades": "6-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        },
+        {
+          "name": "Rutherford High School",
+          "type_and_grades": "6-12",
+          "district": "Wake County Public Schools",
+          "grade": null,
+          "ranking": null,
+          "niche_link": null
+        }
+      ]
+    }
+  ]
+}
