@@ -10,6 +10,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+def should_delete_file(data):
+    """检查文件是否应该被删除（homeplans和homesites都为空）"""
+    homeplans_empty = not data.get('homeplans', [])
+    homesites_empty = not data.get('homesites', [])
+    return homeplans_empty and homesites_empty
+
 def get_beds_from_homeplans(homeplans):
     """从homeplans中提取beds值"""
     beds_values = []
@@ -29,6 +35,12 @@ def process_json_file(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
+            
+        # 检查是否应该删除文件
+        if should_delete_file(data):
+            os.remove(file_path)
+            logger.info(f"删除空数据文件: {file_path}")
+            return
             
         # 检查必要的字段是否存在
         if 'details' not in data:
@@ -60,9 +72,9 @@ def process_json_file(file_path):
         
         # 更新bed_range
         if min_beds == max_beds:
-            data['details']['bed_range'] = f"{max_beds}"
+            data['details']['bed_range'] = f"{max_beds} bd"
         else:
-            data['details']['bed_range'] = f"{min_beds} - {max_beds}"
+            data['details']['bed_range'] = f"{min_beds} - {max_beds} bd"
             
         # 保存更新后的文件
         with open(file_path, 'w', encoding='utf-8') as f:
@@ -92,12 +104,22 @@ def main():
             logger.warning(f"在 {data_dir} 中没有找到需要处理的JSON文件")
             return
             
+        # 记录初始文件数
+        initial_file_count = len(json_files)
+        
         # 处理每个文件
         for json_file in json_files:
             file_path = os.path.join(data_dir, json_file)
             process_json_file(file_path)
             
-        logger.info(f"成功处理了 {len(json_files)} 个文件")
+        # 重新计算剩余文件数
+        remaining_files = len([f for f in os.listdir(data_dir) if f.endswith('.json') 
+                             and f not in ['everbe.json', 'florida_links.json']])
+        
+        logger.info(f"处理完成：")
+        logger.info(f"- 初始文件数: {initial_file_count}")
+        logger.info(f"- 删除空文件数: {initial_file_count - remaining_files}")
+        logger.info(f"- 剩余文件数: {remaining_files}")
         
     except Exception as e:
         logger.error(f"处理过程中出错: {str(e)}")
