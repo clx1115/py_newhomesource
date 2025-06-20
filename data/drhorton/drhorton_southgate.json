@@ -1,0 +1,222 @@
+{
+  "timestamp": "2025-06-20T13:31:10.600182",
+  "name": "Southgate",
+  "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate",
+  "status": null,
+  "price_from": "$206,900",
+  "address": "324 Michaels Way,Bainbridge, GA 39819",
+  "phone": "(850) 808-8240",
+  "description": "Welcome to Southgate, an inviting new home community nestled in the charming town of Bainbridge, GA.",
+  "images": [
+    "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/ghs-1_s.jpg"
+  ],
+  "location": {
+    "latitude": 30.8784,
+    "longitude": -84.56829,
+    "address": {
+      "city": null,
+      "state": null,
+      "market": null
+    }
+  },
+  "details": {
+    "price_range": "$206,900 - $269,900",
+    "sqft_range": "From 1,204 Sq. Ft.",
+    "bed_range": "3 - 4",
+    "bath_range": "2",
+    "stories_range": "1",
+    "community_count": 1
+  },
+  "amenities": [
+    {
+      "name": "Home is Connected Smart",
+      "description": "Home is Connected Smart Home System",
+      "icon_url": null
+    },
+    {
+      "name": "HOA",
+      "description": "HOA",
+      "icon_url": null
+    }
+  ],
+  "homeplans": [
+    {
+      "name": "The Cali",
+      "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/floor-plans/4ebf",
+      "details": {
+        "price": "From $268s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,799 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/165_wynn.jpg?as=1&w=425&rev=9cba8a6874b34b788ca047e5562dac13&hash=05B23F34EC4B4F5A193D1FE452EEC91C"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/cali_b_linen_option.jpg?rev=b5e736c0c589489d9a6752ec721d90bf&hash=3ABB3B27B4382D7BDE3774AF9E70805A"
+        }
+      ]
+    },
+    {
+      "name": "The Callaway",
+      "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/floor-plans/3lcf",
+      "details": {
+        "price": "From $207s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,204 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/3lcf/ghs-1.jpg?as=1&w=425&rev=426791694ccd4804964e53012117d774&hash=3E379BA3DA42C5B24537C94F7F4814A5"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/3lcf/callaway_floorplan.png?rev=afde806ff50e437c94d0c36080926afa&hash=E931D7C93470B78683E89075571F26F0"
+        }
+      ]
+    },
+    {
+      "name": "The Lismore",
+      "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/floor-plans/4elf",
+      "details": {
+        "price": "From $235s",
+        "beds": "3 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,580 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4elf/lot_220.jpg?as=1&w=425&rev=9e88bace08c04e49a64467ee2ac0d68f&hash=7465D18F8BA2B494ED0426A811F7447D"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4elf/lismore_a-h_floorplan.jpg?rev=98bc6d72428e49acb6a3447557cfa198&hash=26F5CACD80B121A8E004602B1C2941C0"
+        }
+      ]
+    },
+    {
+      "name": "The Sullivan",
+      "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/floor-plans/sull",
+      "details": {
+        "price": "From $217s",
+        "beds": "4 bd",
+        "baths": "2 ba",
+        "half_baths": null,
+        "sqft": "1,425 ft²",
+        "status": "Actively selling",
+        "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/sull/ghs-1_s.jpg?as=1&w=425&rev=86834b644f2b488cb45a36815182c6b1&hash=1D0DAFA47AE50E7635E334543E0B13AC"
+      },
+      "floorplan_images": [
+        {
+          "name": "1st Floor Floorplan",
+          "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/sull/sullivan_floorplan.png?rev=8307a978db994921a834dff8c0f02f3a&hash=8244A9D46B0FAC20A2F5E589705DEFC3"
+        }
+      ]
+    }
+  ],
+  "homesites": [
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/lot_420.jpg?as=1&w=494&rev=31b1a192463a436ea71ec440aa7a6215&hash=327A6B97BC0DB8FD4C484212DAB59B5D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0023_ghs-18.jpg?as=1&w=494&rev=b4e5b0689fa44814a1195752efdaed2c&hash=0F001E1D6C47AE56D4AFDF4672E05E81",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0021_ghs-20.jpg?as=1&w=494&rev=a491c0b11fa9414c9a051aa170f6f701&hash=EC7D7E9FC955D3105DC72026A440C74B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0022_ghs-19.jpg?as=1&w=494&rev=d73c12bc4d6f4f688d29cf089d6eb140&hash=6F9D3546FAC6718C37C68C4605BA65CB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0019_ghs-22.jpg?as=1&w=494&rev=9cfec5222d054bca8b9fd87f1995b07b&hash=47B08944995266AB8FB7E28A666FD759",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0018_ghs-23.jpg?as=1&w=494&rev=16325924f3ee48368b42bfb04e40d3f2&hash=D51F11F7F9C3C80649AFB2FFD3B2588B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0017_ghs-24.jpg?as=1&w=494&rev=a6240e7ab9c2422f85020ba54fae5eaa&hash=2B48CFF77436653B0F816D2BFFD3B1C7",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0024_ghs-17.jpg?as=1&w=494&rev=aba50b0b8bdc4b7bae5e0e52579518a4&hash=E6004C464944C940614E2A4264330D51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0025_ghs-16.jpg?as=1&w=494&rev=1aadfd12eda544fc93960d3d1680728f&hash=A80BE551CA0FD3443E1A5235E38A940F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0026_ghs-15.jpg?as=1&w=494&rev=2dee1460b7ef4d4e8464f13ef9b70d3f&hash=CB9D914E867702DD22914FE486F8F180",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0006_ghs-35.jpg?as=1&w=494&rev=83d5ec394e4b48e3bd23772a8fad2e6e&hash=296284EB2566477DC30AD2E483CDCD77",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/f6010f2f-fd38-4ffd-8d98-00edc45cbb63.jpg?as=1&w=494&rev=bbfce81f95be4bb3b358866719bd3d0c&hash=C01F8227943DD60FC8A1773C4086D741",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/e7842dd5-d05a-42a4-bd04-66e852408520.jpg?as=1&w=494&rev=c397784ada754c5fa8a7353369181680&hash=D329F6ED0ED78C39FEFD3A96B8F3480E",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0007_ghs-34.jpg?as=1&w=494&rev=dfac0c8a06c44357812232b70eee9f25&hash=82DF06B5431651DA262D4C2AE691456B",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0012_ghs-29.jpg?as=1&w=494&rev=bbc30292ed47495fadedaf920c615973&hash=876E16BBC9E924AEBA34B70B1052414A",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0013_ghs-28.jpg?as=1&w=494&rev=a37d0fa1bfd244c58cca2528aa913bf7&hash=D8C6650FCE147617039C385C3D10F39C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0014_ghs-27.jpg?as=1&w=494&rev=233e7cc6f0f34144a961ca213e78f6a5&hash=8C55A0875EE8679931812BAC6C32A097",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0015_ghs-26.jpg?as=1&w=494&rev=19a6f74f9a6d458a953299493e461182&hash=2DCAD378E9103461E2AC174243014CEC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0016_ghs-25.jpg?as=1&w=494&rev=2def8ae1f563429f9ccdf678d4e6be50&hash=2BAC40039BEC76958AF86ABB2EAB4D36",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0032_ghs-9.jpg?as=1&w=494&rev=ad47659277e74ed0b68089095e18393e&hash=F9959A6FB1D6C3696887B1DBEB4E9714",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0027_ghs-14.jpg?as=1&w=494&rev=2511e8e9f5e4418a9e744ab461022596&hash=88ED3CC25A7BFF1EFE8CE8F5DA74B1DF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0028_ghs-13.jpg?as=1&w=494&rev=72372990ee1f442ebadb93a5f9b5c29e&hash=3B8F5D4B893A8D10A4F05EA7744099B3",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0029_ghs-12.jpg?as=1&w=494&rev=0d4170b6f0f24f42b4b5f6b60b40e861&hash=F8AB3F2A179DC2445B92E59526AE9A6D",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0030_ghs-11.jpg?as=1&w=494&rev=7b60800557b04497b72fa71a1c6f0363&hash=877706F8406C34E7C1147286E4B1E394",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0031_ghs-10.jpg?as=1&w=494&rev=8612ecfed111476f9f7b6fb370efd04b&hash=01C8021B8FDF07A5D028B0CB83012694",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0033_ghs-8.jpg?as=1&w=494&rev=3f187e5c8a3a4942aaa2e07ec934dbef&hash=6D8E80C9D3F6921CAC6BEB809206DC51",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0034_ghs-7.jpg?as=1&w=494&rev=8d686b6c72db45faabd259b03daee01c&hash=8850CE9843C6BFA7E1AEB04E4E9AAEA8",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0035_ghs-6.jpg?as=1&w=494&rev=a9f4d564de29467cad51cdc41713c391&hash=EDB844285F9C87031419286771CF3834",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/66137b2e-59a7-4062-a33f-e788dfce197f.jpg?as=1&w=494&rev=22d9fa831d514fbaaf87ec572c62ba7f&hash=D1067093AF3B7B2FBAFEDDB26F6B52C6",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/cropped_0036_ghs-5.jpg?as=1&w=494&rev=595806c51fed4ee486c602b0cf53fbfe&hash=AB915832BAF67B3B39CEADB2D1EEA56F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/cali_b_linen_option.jpg?rev=b5e736c0c589489d9a6752ec721d90bf&hash=3ABB3B27B4382D7BDE3774AF9E70805A"
+      ],
+      "name": "177 WYNN CT",
+      "plan": "The Cali",
+      "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/qmis/177-wynn-ct",
+      "id": "177",
+      "address": "177 WYNN CT",
+      "price": "$263,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1799",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0420-177-wynn-ct/lot_420.jpg?iar=1&sc=1&thn=1&w=425&rev=31b1a192463a436ea71ec440aa7a6215&hash=00EF95ED56BE012DA3D10CB5A26E836C",
+      "latitude": 30.8784,
+      "longitude": -84.56829,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    },
+    {
+      "images": [
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/lot_422.jpg?as=1&w=494&rev=03d0032cb0a447a1904e46031e979abf&hash=CF8B654C8159F79EC42C52265A7B0369",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-14.jpg?as=1&w=494&rev=e425cb4d81a84dcaaaf13a574918f7e2&hash=FB4F9AC8429D838C8EADE96244380CB5",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-15.jpg?as=1&w=494&rev=250ff541d76c42e8adf78f37458a3ea2&hash=A3F7878388A3B1DC57F96AB21503C3BC",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-16.jpg?as=1&w=494&rev=cabb6705cb2640919978b3f2c3a4c8a2&hash=EF83A535E738341FC693082FB5CBC3EA",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-18.jpg?as=1&w=494&rev=a80aaf1268fa4fb0b5b569b34580a250&hash=BD9592F66F1CEACDE45BC453C413FE3C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-17.jpg?as=1&w=494&rev=06c57a750d95436a9a07b498935bbe87&hash=4FA473FC0DF656C529647DEE19469818",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-19.jpg?as=1&w=494&rev=dad845eecee346829e8b9285c96b3a38&hash=79245DC06F9C1A55EC5E1801CE3090FF",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-20.jpg?as=1&w=494&rev=9ba2d7add12f46a6af6e7dcecf5ed043&hash=BE89480C1EF4C51A57751E31E085E03C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-21.jpg?as=1&w=494&rev=7d0cc4cfcd3341b383603ac7c91077f4&hash=8CCF28899F8A3FB96B7D7DA70C771149",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-22.jpg?as=1&w=494&rev=ea18113a9f0a4ed7bb45a23fb87d9659&hash=0354F661BC1CFEC4DB4CB9B33D8D3C78",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-23.jpg?as=1&w=494&rev=4cb29ebe5abf4c029d0091daa7ef72d9&hash=91379D57CE151532CA13A09426BDCF6F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-24.jpg?as=1&w=494&rev=a3e3d7ce17a54c35af713638c8d8f117&hash=07CCF6DE92D88CA230EAF1E6329BE70C",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-25.jpg?as=1&w=494&rev=84d78678438a4feb8e317c3ab56e35ef&hash=ECC924714AA38C419D4E5B7C963F3A01",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-11.jpg?as=1&w=494&rev=438e2a96c67f451798a4a3ac49d2f97c&hash=BD60A4486F0214D2E0405FB782BABD68",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-12.jpg?as=1&w=494&rev=cb90027862cc49a0b6eb3e92c0a8bd6e&hash=B07E54A54746725024C9C8CB6B8F49BD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-26.jpg?as=1&w=494&rev=094b9081e12a4804bcd94536e59b49cc&hash=2BD5C0DC4B39EABAF663A6F5CE9B2CDD",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-27.jpg?as=1&w=494&rev=ef199bb04b5b43fb8e765b5438854ac4&hash=E0B5F80D3942EBE0EA4185586F0463EE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-13.jpg?as=1&w=494&rev=e454c983eb5d40078c83d54ede7aad03&hash=403ADCDB978661D803A4AADDEB90C9BE",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-10.jpg?as=1&w=494&rev=a3a4afacd68142bab7178f6bf3cac94a&hash=49F5A9E59FF32BC88D7C60531A92C9AB",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-9.jpg?as=1&w=494&rev=2b41dc0b6c38404fa637c9ef652d09ce&hash=AFF47A0B623ED33094C9B97FFE8FCE1F",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-28.jpg?as=1&w=494&rev=0bb11d246b5d4adca8ad31358cdac324&hash=072B03449DF82A7345AA95CA647416D1",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-30.jpg?as=1&w=494&rev=6ad4c8d910fa455084771ede3cf70ad0&hash=CC10D75D0E2F55A90E0778AEE99FAD58",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/20_brighton_dr_-31.jpg?as=1&w=494&rev=c741741fde174eda86ffa33413062616&hash=49BA139775FF98C9A550271BF5A57F32",
+        "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/cali_b_linen_option.jpg?rev=b5e736c0c589489d9a6752ec721d90bf&hash=3ABB3B27B4382D7BDE3774AF9E70805A"
+      ],
+      "name": "185 WYNN CT",
+      "plan": "The Cali",
+      "url": "https://www.drhorton.com/georgia/southern-georgia/bainbridge/southgate/qmis/185-wynn-ct",
+      "id": "185",
+      "address": "185 WYNN CT",
+      "price": "$269,900",
+      "beds": "4",
+      "baths": "2",
+      "sqft": "1799",
+      "status": "Available",
+      "image_url": "https://www.drhorton.com/-/media/drhorton/productcatalog/686-tallahassee/68622-southgate/686220000-southgate/4ebf/0422-185-wynn-ct/lot_422.jpg?iar=1&sc=1&thn=1&w=425&rev=03d0032cb0a447a1904e46031e979abf&hash=0B0403C0B280C78CBA1D723688C6CB9B",
+      "latitude": 30.8784,
+      "longitude": -84.56829,
+      "overview": "This beautiful new construction home features an open concept floor plan with modern finishes throughout."
+    }
+  ],
+  "nearbyplaces": [],
+  "collections": [
+    {
+      "name": "Main Collection",
+      "id": "0",
+      "isActive": true,
+      "nearbySchools": []
+    }
+  ]
+}
