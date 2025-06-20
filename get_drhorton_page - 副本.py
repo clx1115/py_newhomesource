@@ -133,45 +133,18 @@ def extract_description(soup):
     """提取社区描述信息"""
     description = None
     try:
-        # 首先尝试从 community-main-details_about 类获取描述
-        about_section = soup.find('div', class_='community-main-details_about')
-        if about_section:
-            # 获取文本内容并清理
-            description = about_section.get_text(strip=True)
-            
-            # 如果内容太长，截取前200个字符，并在最后一个句号处截断
-            if len(description) > 200:
-                # 找到200字符内的最后一个句号
-                short_desc = description[:200]
-                last_period = short_desc.rfind('.')
-                if last_period > 0:
-                    description = description[:last_period + 1]
-                else:
-                    # 如果没有找到句号，就在最近的空格处截断
-                    last_space = short_desc.rfind(' ')
-                    if last_space > 0:
-                        description = description[:last_space] + '...'
-                    else:
-                        description = short_desc + '...'
-            
-            logger.info(f"从community-main-details_about提取的描述: {description}")
+        # 尝试从meta标签获取描述
+        meta_desc = soup.find('meta', {'name': 'description'})
+        if meta_desc:
+            description = meta_desc.get('content')
         
-        # 如果上面没有找到描述，尝试从meta标签获取
+        # 如果meta标签没有描述，尝试从页面内容获取
         if not description:
-            meta_desc = soup.find('meta', {'name': 'description'})
-            if meta_desc:
-                description = meta_desc.get('content')
-                logger.info(f"从meta标签提取的描述: {description}")
-        
-        # 如果还是没有描述，尝试其他可能的类名
-        if not description:
-            desc_div = soup.find('div', class_=lambda x: x and any(keyword in str(x).lower() for keyword in ['community-description', 'about-community', 'community-overview']))
+            desc_div = soup.find('div', class_=lambda x: x and 'community-description' in x.lower())
             if desc_div:
                 description = desc_div.text.strip()
-                logger.info(f"从其他标签提取的描述: {description}")
     except Exception as e:
         logger.error(f"提取描述信息时出错: {str(e)}")
-    
     return description
 
 def extract_images(soup):
